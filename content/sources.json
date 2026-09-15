@@ -1,0 +1,21 @@
+{
+  "$comment": "Allowlist for `npm run import:pyq`. Only add sources that publish question sets under a licence that permits reuse. Each source is fetched as JSON and mapped with the named adapter.",
+  "sources": [
+    {
+      "id": "example-open-bank",
+      "enabled": false,
+      "url": "https://example.org/open-pyq/ts-eamcet-physics.json",
+      "adapter": "generic-v1",
+      "subjectId": "physics",
+      "attribution": {
+        "name": "Example Open Question Bank",
+        "url": "https://example.org/open-pyq",
+        "license": "CC BY-SA 4.0"
+      },
+      "chapterMap": {
+        "kinematics": "physics-motion-in-a-straight-line",
+        "newton-laws": "physics-laws-of-motion"
+      }
+    }
+  ]
+}

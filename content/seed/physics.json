@@ -1,0 +1,314 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "phy-msl-001",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 2 m s^-2. The distance covered in the first 5 s is",
+      "options": ["10 m", "25 m", "50 m", "100 m"],
+      "answerIndex": 1,
+      "explanation": "s = ut + (1/2)at^2 = 0 + (1/2)(2)(25) = 25 m.",
+      "pyq": { "appearCount": 4, "years": [2018, 2020, 2022, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-msl-002",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The area under a velocity-time graph gives",
+      "options": ["Acceleration", "Displacement", "Jerk", "Average speed"],
+      "answerIndex": 1,
+      "explanation": "Integrating velocity with respect to time gives displacement.",
+      "pyq": { "appearCount": 3, "years": [2017, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-msl-003",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A ball is thrown vertically upwards with 20 m s^-1. Taking g = 10 m s^-2, the maximum height reached is",
+      "options": ["10 m", "20 m", "40 m", "5 m"],
+      "answerIndex": 1,
+      "explanation": "h = u^2 / 2g = 400 / 20 = 20 m.",
+      "pyq": { "appearCount": 5, "years": [2016, 2019, 2021, 2022, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "phy-msl-004",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "Which of the following is a scalar quantity?",
+      "options": ["Displacement", "Velocity", "Distance", "Acceleration"],
+      "answerIndex": 2,
+      "explanation": "Distance has magnitude only; the rest are vectors.",
+      "pyq": { "appearCount": 2, "years": [2018, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-msl-005",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A car covers the first half of a distance at 30 km h^-1 and the second half at 60 km h^-1. Its average speed for the whole journey is",
+      "options": ["36 km h^-1", "40 km h^-1", "45 km h^-1", "50 km h^-1"],
+      "answerIndex": 1,
+      "explanation": "For equal distances, average speed = 2v1v2/(v1+v2) = 2(30)(60)/90 = 40 km h^-1.",
+      "pyq": { "appearCount": 4, "years": [2015, 2019, 2022, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "phy-msl-006",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "For a body moving with constant velocity, the displacement-time graph is",
+      "options": [
+        "A straight line inclined to the time axis",
+        "A parabola",
+        "A straight line parallel to the time axis",
+        "An exponential curve"
+      ],
+      "answerIndex": 0,
+      "explanation": "Constant velocity means displacement changes uniformly with time, giving a sloped straight line.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-lom-001",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Newton's second law of motion is best expressed as",
+      "options": ["F = mv", "F = dp/dt", "F = m/a", "F = p/t^2"],
+      "answerIndex": 1,
+      "explanation": "Force equals the rate of change of linear momentum.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-lom-002",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A force of 10 N acts on a body of mass 2 kg. The acceleration produced is",
+      "options": ["2 m s^-2", "5 m s^-2", "10 m s^-2", "20 m s^-2"],
+      "answerIndex": 1,
+      "explanation": "a = F/m = 10/2 = 5 m s^-2.",
+      "pyq": { "appearCount": 3, "years": [2018, 2020, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-lom-003",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Impulse of a force is equal to the change in",
+      "options": ["Kinetic energy", "Momentum", "Power", "Acceleration"],
+      "answerIndex": 1,
+      "explanation": "Impulse = F.dt = change in momentum.",
+      "pyq": { "appearCount": 3, "years": [2017, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-lom-004",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Rocket propulsion is based on the principle of conservation of",
+      "options": ["Energy", "Linear momentum", "Angular momentum", "Mass"],
+      "answerIndex": 1,
+      "explanation": "Exhaust gases carry momentum backwards, so the rocket gains equal forward momentum.",
+      "pyq": { "appearCount": 2, "years": [2019, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-lom-005",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A 5 kg block rests on a rough horizontal surface with coefficient of friction 0.2 (g = 10 m s^-2). The limiting friction is",
+      "options": ["1 N", "5 N", "10 N", "25 N"],
+      "answerIndex": 2,
+      "explanation": "f = mu.N = 0.2 x 5 x 10 = 10 N.",
+      "pyq": { "appearCount": 4, "years": [2016, 2018, 2021, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "phy-lom-006",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Action and reaction forces described by Newton's third law",
+      "options": [
+        "Act on the same body",
+        "Act on different bodies",
+        "Always cancel each other's effect",
+        "Act only during collisions"
+      ],
+      "answerIndex": 1,
+      "explanation": "They act on two different bodies, so they never cancel on a single body.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2022], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-wep-001",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The work done by the centripetal force on a body in uniform circular motion is",
+      "options": ["Maximum", "Zero", "Negative", "Equal to kinetic energy"],
+      "answerIndex": 1,
+      "explanation": "The force is perpendicular to displacement at every instant, so W = 0.",
+      "pyq": { "appearCount": 5, "years": [2015, 2018, 2020, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-wep-002",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 2 kg body moving with 3 m s^-1 is",
+      "options": ["3 J", "6 J", "9 J", "18 J"],
+      "answerIndex": 2,
+      "explanation": "KE = (1/2)mv^2 = 0.5 x 2 x 9 = 9 J.",
+      "pyq": { "appearCount": 3, "years": [2017, 2021, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-wep-003",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "According to the work-energy theorem, the net work done on a body equals the change in its",
+      "options": ["Potential energy", "Kinetic energy", "Momentum", "Power"],
+      "answerIndex": 1,
+      "explanation": "W_net = KE_final - KE_initial.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2022, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "phy-wep-004",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "One watt is equal to",
+      "options": ["1 J s", "1 J s^-1", "1 N m^-1", "1 N s"],
+      "answerIndex": 1,
+      "explanation": "Power is work per unit time, so 1 W = 1 J s^-1.",
+      "pyq": { "appearCount": 2, "years": [2018, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-wep-005",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 1 kg is raised through a height of 10 m (g = 10 m s^-2). The gain in potential energy is",
+      "options": ["1 J", "10 J", "100 J", "1000 J"],
+      "answerIndex": 2,
+      "explanation": "PE = mgh = 1 x 10 x 10 = 100 J.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-wep-006",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "In a perfectly inelastic collision, which quantity is always conserved?",
+      "options": [
+        "Kinetic energy only",
+        "Linear momentum only",
+        "Both kinetic energy and momentum",
+        "Neither of them"
+      ],
+      "answerIndex": 1,
+      "explanation": "Momentum is conserved in all collisions; kinetic energy is lost in inelastic ones.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-ce-001",
+      "chapterId": "physics-current-electricity",
+      "stem": "The SI unit of electrical resistivity is",
+      "options": ["ohm", "ohm metre", "ohm per metre", "siemens"],
+      "answerIndex": 1,
+      "explanation": "rho = RA/l, so the unit is ohm metre.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-ce-002",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 4 ohm each are connected in parallel. The equivalent resistance is",
+      "options": ["1 ohm", "2 ohm", "4 ohm", "8 ohm"],
+      "answerIndex": 1,
+      "explanation": "1/R = 1/4 + 1/4 = 1/2, so R = 2 ohm.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-ce-003",
+      "chapterId": "physics-current-electricity",
+      "stem": "The relation between current and drift velocity is",
+      "options": ["I = neAv_d", "I = nev_d/A", "I = neA/v_d", "I = n/(eAv_d)"],
+      "answerIndex": 0,
+      "explanation": "Current equals charge density times electron charge times area times drift velocity.",
+      "pyq": { "appearCount": 3, "years": [2018, 2020, 2023], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "phy-ce-004",
+      "chapterId": "physics-current-electricity",
+      "stem": "Kirchhoff's junction rule is a consequence of conservation of",
+      "options": ["Energy", "Charge", "Momentum", "Mass"],
+      "answerIndex": 1,
+      "explanation": "Total charge entering a junction equals the charge leaving it.",
+      "pyq": { "appearCount": 3, "years": [2016, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-ce-005",
+      "chapterId": "physics-current-electricity",
+      "stem": "A wire of resistance R is stretched to double its length keeping the volume constant. Its new resistance is",
+      "options": ["R/2", "2R", "4R", "R/4"],
+      "answerIndex": 2,
+      "explanation": "Length doubles and area halves, so R' = rho(2l)/(A/2) = 4R.",
+      "pyq": { "appearCount": 5, "years": [2015, 2018, 2020, 2022, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "phy-ce-006",
+      "chapterId": "physics-current-electricity",
+      "stem": "A potentiometer measures the emf of a cell accurately because at the balance point",
+      "options": [
+        "Maximum current flows through the cell",
+        "No current is drawn from the cell",
+        "The cell is short circuited",
+        "The galvanometer resistance becomes zero"
+      ],
+      "answerIndex": 1,
+      "explanation": "At null deflection no current flows, so there is no internal resistance drop.",
+      "pyq": { "appearCount": 3, "years": [2017, 2021, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-ro-001",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "The focal length of a plane mirror is",
+      "options": ["Zero", "Infinity", "Equal to object distance", "Equal to half the object distance"],
+      "answerIndex": 1,
+      "explanation": "A plane mirror has an infinite radius of curvature, so f = R/2 is infinite.",
+      "pyq": { "appearCount": 2, "years": [2019, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-ro-002",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "For a medium of refractive index 1.5, the critical angle with respect to air is approximately",
+      "options": ["30 degrees", "41.8 degrees", "48.6 degrees", "60 degrees"],
+      "answerIndex": 1,
+      "explanation": "sin C = 1/n = 0.667, so C is about 41.8 degrees.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-ro-003",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "The power of a convex lens of focal length 20 cm is",
+      "options": ["0.2 D", "2 D", "5 D", "20 D"],
+      "answerIndex": 2,
+      "explanation": "P = 1/f (in metres) = 1/0.2 = 5 D.",
+      "pyq": { "appearCount": 4, "years": [2017, 2020, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-ro-004",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "Total internal reflection can occur when light travels from",
+      "options": [
+        "A rarer to a denser medium",
+        "A denser to a rarer medium",
+        "Any medium to vacuum only",
+        "One medium to another of equal refractive index"
+      ],
+      "answerIndex": 1,
+      "explanation": "It requires the angle of incidence in the denser medium to exceed the critical angle.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "phy-ro-005",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "The image formed by a convex mirror of a real object is always",
+      "options": [
+        "Real, inverted and magnified",
+        "Virtual, erect and diminished",
+        "Real, erect and diminished",
+        "Virtual, inverted and magnified"
+      ],
+      "answerIndex": 1,
+      "explanation": "A convex mirror always forms a virtual, erect and smaller image.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "phy-ro-006",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "The lens maker's formula shows that the focal length of a lens depends on",
+      "options": [
+        "Only the radii of curvature",
+        "Only the refractive index",
+        "Both the refractive index and the radii of curvature",
+        "The size of the object"
+      ],
+      "answerIndex": 2,
+      "explanation": "1/f = (n - 1)(1/R1 - 1/R2).",
+      "pyq": { "appearCount": 3, "years": [2016, 2021, 2023], "exams": ["TS EAMCET"] }
+    }
+  ]
+}

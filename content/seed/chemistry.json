@@ -1,0 +1,304 @@
+{
+  "subjectId": "chemistry",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "che-as-001",
+      "chapterId": "chemistry-atomic-structure",
+      "stem": "The maximum number of electrons that can be accommodated in the shell with n = 3 is",
+      "options": ["8", "16", "18", "32"],
+      "answerIndex": 2,
+      "explanation": "Maximum electrons = 2n^2 = 2(9) = 18.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-as-002",
+      "chapterId": "chemistry-atomic-structure",
+      "stem": "The quantum number that determines the shape of an orbital is",
+      "options": ["Principal", "Azimuthal", "Magnetic", "Spin"],
+      "answerIndex": 1,
+      "explanation": "The azimuthal quantum number l fixes the sub-shell and hence the shape.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-as-003",
+      "chapterId": "chemistry-atomic-structure",
+      "stem": "Heisenberg's uncertainty principle is expressed as",
+      "options": [
+        "dx.dp >= h/4pi",
+        "dx.dp = h",
+        "dx.dp <= h/2pi",
+        "dx/dp = h/4pi"
+      ],
+      "answerIndex": 0,
+      "explanation": "The product of uncertainties in position and momentum is at least h/4pi.",
+      "pyq": { "appearCount": 3, "years": [2016, 2020, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "che-as-004",
+      "chapterId": "chemistry-atomic-structure",
+      "stem": "The number of unpaired electrons in Fe3+ (Z = 26) is",
+      "options": ["3", "4", "5", "6"],
+      "answerIndex": 2,
+      "explanation": "Fe3+ has the configuration 3d5, giving five unpaired electrons.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-as-005",
+      "chapterId": "chemistry-atomic-structure",
+      "stem": "Which series of the hydrogen spectrum lies in the visible region?",
+      "options": ["Lyman", "Balmer", "Paschen", "Brackett"],
+      "answerIndex": 1,
+      "explanation": "Balmer series transitions end at n = 2 and fall in the visible region.",
+      "pyq": { "appearCount": 5, "years": [2015, 2018, 2020, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-as-006",
+      "chapterId": "chemistry-atomic-structure",
+      "stem": "Isotopes of an element differ in the number of",
+      "options": ["Protons", "Electrons", "Neutrons", "Valence electrons"],
+      "answerIndex": 2,
+      "explanation": "Isotopes have the same atomic number but different mass numbers.",
+      "pyq": { "appearCount": 2, "years": [2019, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-cb-001",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "stem": "The shape of the ammonia molecule is",
+      "options": ["Trigonal planar", "Pyramidal", "Tetrahedral", "Linear"],
+      "answerIndex": 1,
+      "explanation": "The lone pair on nitrogen makes NH3 pyramidal rather than trigonal planar.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-cb-002",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "stem": "The hybridisation of sulphur in SF6 is",
+      "options": ["sp3", "dsp2", "sp3d", "sp3d2"],
+      "answerIndex": 3,
+      "explanation": "Six bond pairs around sulphur require sp3d2 hybridisation.",
+      "pyq": { "appearCount": 4, "years": [2017, 2020, 2022, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "che-cb-003",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "stem": "The bond order of the oxygen molecule according to molecular orbital theory is",
+      "options": ["1", "1.5", "2", "3"],
+      "answerIndex": 2,
+      "explanation": "O2 has bond order (10 - 6)/2 = 2 with two unpaired electrons.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "che-cb-004",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "stem": "Which of the following molecules has zero dipole moment?",
+      "options": ["H2O", "NH3", "CO2", "SO2"],
+      "answerIndex": 2,
+      "explanation": "CO2 is linear and symmetrical, so its bond dipoles cancel.",
+      "pyq": { "appearCount": 5, "years": [2015, 2018, 2021, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-cb-005",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "stem": "The number of sigma bonds present in an ethene molecule is",
+      "options": ["4", "5", "6", "3"],
+      "answerIndex": 1,
+      "explanation": "Four C-H sigma bonds plus one C-C sigma bond gives five.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-cb-006",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "stem": "Among the following, the shortest carbon-carbon bond is present in",
+      "options": ["Ethane", "Ethene", "Ethyne", "Benzene"],
+      "answerIndex": 2,
+      "explanation": "A triple bond is the shortest and strongest carbon-carbon bond.",
+      "pyq": { "appearCount": 3, "years": [2016, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-st-001",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The number of moles present in 22 g of carbon dioxide is",
+      "options": ["0.25", "0.5", "1.0", "2.0"],
+      "answerIndex": 1,
+      "explanation": "Molar mass of CO2 is 44 g, so 22/44 = 0.5 mol.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-st-002",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "Molarity of a solution is defined as",
+      "options": [
+        "Moles of solute per kilogram of solvent",
+        "Moles of solute per litre of solution",
+        "Grams of solute per litre of solvent",
+        "Moles of solvent per litre of solution"
+      ],
+      "answerIndex": 1,
+      "explanation": "Molarity uses the volume of the solution, molality uses the mass of solvent.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-st-003",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The volume occupied by one mole of an ideal gas at STP is",
+      "options": ["11.2 L", "22.4 L", "24.4 L", "44.8 L"],
+      "answerIndex": 1,
+      "explanation": "At 273 K and 1 atm, one mole of an ideal gas occupies 22.4 L.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-st-004",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The number of molecules present in one mole of any substance is",
+      "options": ["6.022 x 10^22", "6.022 x 10^23", "3.011 x 10^23", "1.602 x 10^19"],
+      "answerIndex": 1,
+      "explanation": "This is Avogadro's number.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-st-005",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "In a chemical reaction, the limiting reagent is the one that",
+      "options": [
+        "Is present in the largest amount",
+        "Is completely consumed first",
+        "Never reacts",
+        "Decides the rate of reaction"
+      ],
+      "answerIndex": 1,
+      "explanation": "The limiting reagent is used up first and therefore fixes the amount of product.",
+      "pyq": { "appearCount": 3, "years": [2018, 2022, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "che-st-006",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of one mole of water is",
+      "options": ["16 g", "18 g", "20 g", "22 g"],
+      "answerIndex": 1,
+      "explanation": "H2O has a molar mass of 2(1) + 16 = 18 g.",
+      "pyq": { "appearCount": 2, "years": [2019, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-so-001",
+      "chapterId": "chemistry-solutions",
+      "stem": "Which of the following is a colligative property?",
+      "options": ["Viscosity", "Osmotic pressure", "Surface tension", "Refractive index"],
+      "answerIndex": 1,
+      "explanation": "Colligative properties depend on the number of solute particles, not their nature.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-so-002",
+      "chapterId": "chemistry-solutions",
+      "stem": "Raoult's law states that the partial vapour pressure of a component is proportional to its",
+      "options": ["Mass fraction", "Mole fraction", "Molality", "Normality"],
+      "answerIndex": 1,
+      "explanation": "p = p0 x mole fraction of that component in the solution.",
+      "pyq": { "appearCount": 4, "years": [2016, 2020, 2022, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "che-so-003",
+      "chapterId": "chemistry-solutions",
+      "stem": "The van't Hoff factor for completely dissociated NaCl in water is",
+      "options": ["0.5", "1", "2", "3"],
+      "answerIndex": 2,
+      "explanation": "NaCl gives two ions per formula unit, so i = 2.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-so-004",
+      "chapterId": "chemistry-solutions",
+      "stem": "Elevation of boiling point of a dilute solution is given by",
+      "options": ["dTb = Kb x molarity", "dTb = Kb x molality", "dTb = Kf x molality", "dTb = Kb / molality"],
+      "answerIndex": 1,
+      "explanation": "The ebullioscopic constant multiplies molality, not molarity.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-so-005",
+      "chapterId": "chemistry-solutions",
+      "stem": "According to Henry's law, the solubility of a gas in a liquid at constant temperature is",
+      "options": [
+        "Independent of pressure",
+        "Directly proportional to the partial pressure of the gas",
+        "Inversely proportional to pressure",
+        "Proportional to the square of pressure"
+      ],
+      "answerIndex": 1,
+      "explanation": "p = KH x mole fraction of the dissolved gas.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-so-006",
+      "chapterId": "chemistry-solutions",
+      "stem": "An azeotropic mixture is one that",
+      "options": [
+        "Can be separated completely by fractional distillation",
+        "Boils at a constant temperature with unchanged composition",
+        "Always shows ideal behaviour",
+        "Has zero vapour pressure"
+      ],
+      "answerIndex": 1,
+      "explanation": "Azeotropes distil without any change in composition.",
+      "pyq": { "appearCount": 2, "years": [2020, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-ek-001",
+      "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+      "stem": "The unit of the rate constant of a first order reaction is",
+      "options": ["mol L^-1 s^-1", "s^-1", "L mol^-1 s^-1", "L^2 mol^-2 s^-1"],
+      "answerIndex": 1,
+      "explanation": "For first order kinetics, k has units of reciprocal time.",
+      "pyq": { "appearCount": 5, "years": [2015, 2018, 2021, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-ek-002",
+      "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+      "stem": "The value of the Faraday constant is approximately",
+      "options": ["9650 C mol^-1", "96500 C mol^-1", "6500 C mol^-1", "965000 C mol^-1"],
+      "answerIndex": 1,
+      "explanation": "One faraday is the charge on one mole of electrons, about 96500 C.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2023], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "che-ek-003",
+      "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+      "stem": "The half life of a first order reaction with rate constant k is",
+      "options": ["k / 0.693", "0.693 / k", "1 / k", "2 / k"],
+      "answerIndex": 1,
+      "explanation": "t(1/2) = ln2 / k = 0.693 / k and is independent of initial concentration.",
+      "pyq": { "appearCount": 5, "years": [2016, 2018, 2021, 2023, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-ek-004",
+      "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+      "stem": "In a galvanic cell, oxidation takes place at the",
+      "options": ["Cathode", "Anode", "Salt bridge", "Electrolyte"],
+      "answerIndex": 1,
+      "explanation": "The anode is the negative electrode of a galvanic cell where oxidation occurs.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "che-ek-005",
+      "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+      "stem": "The Arrhenius equation relating rate constant and temperature is",
+      "options": ["k = A e^(Ea/RT)", "k = A e^(-Ea/RT)", "k = Ea e^(-A/RT)", "k = A / (Ea RT)"],
+      "answerIndex": 1,
+      "explanation": "The exponential factor carries a negative activation energy term.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2024], "exams": ["TS EAMCET", "JEE Main"] }
+    },
+    {
+      "id": "che-ek-006",
+      "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+      "stem": "On dilution of an electrolytic solution, the molar conductivity",
+      "options": ["Decreases", "Increases", "Remains constant", "Becomes zero"],
+      "answerIndex": 1,
+      "explanation": "Molar conductivity rises with dilution due to greater ionic mobility and dissociation.",
+      "pyq": { "appearCount": 3, "years": [2016, 2020, 2023], "exams": ["TS EAMCET"] }
+    }
+  ]
+}

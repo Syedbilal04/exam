@@ -1,0 +1,240 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "zoo-da-001",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "The enzyme present in human saliva is",
+      "options": ["Pepsin", "Trypsin", "Salivary amylase", "Lipase"],
+      "answerIndex": 2,
+      "explanation": "Salivary amylase (ptyalin) begins starch digestion in the mouth.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-da-002",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Bile juice is produced by the",
+      "options": ["Gall bladder", "Pancreas", "Liver", "Duodenum"],
+      "answerIndex": 2,
+      "explanation": "The liver secretes bile, which is stored in the gall bladder.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-da-003",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Digestion of proteins begins in the",
+      "options": ["Mouth", "Stomach", "Duodenum", "Ileum"],
+      "answerIndex": 1,
+      "explanation": "Pepsin in the stomach starts protein digestion.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-da-004",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Maximum absorption of digested food takes place in the",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Oesophagus"],
+      "answerIndex": 1,
+      "explanation": "Villi of the small intestine provide a very large absorptive surface.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-da-005",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Pepsinogen is converted to active pepsin by",
+      "options": ["Bile salts", "Hydrochloric acid", "Trypsin", "Mucus"],
+      "answerIndex": 1,
+      "explanation": "HCl in gastric juice activates pepsinogen.",
+      "pyq": { "appearCount": 3, "years": [2018, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-da-006",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Which group of vitamins is absorbed along with fats?",
+      "options": ["B complex", "C", "A, D, E and K", "Only vitamin C"],
+      "answerIndex": 2,
+      "explanation": "These are the fat soluble vitamins.",
+      "pyq": { "appearCount": 3, "years": [2016, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-bf-001",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The pacemaker of the human heart is the",
+      "options": ["AV node", "SA node", "Bundle of His", "Purkinje fibres"],
+      "answerIndex": 1,
+      "explanation": "The sino atrial node initiates each heart beat.",
+      "pyq": { "appearCount": 5, "years": [2015, 2018, 2020, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-bf-002",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Persons with blood group O are called universal donors because their red cells lack",
+      "options": ["Antibodies", "Antigens A and B", "Rh factor", "Plasma proteins"],
+      "answerIndex": 1,
+      "explanation": "No A or B surface antigens means no agglutination in recipients.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-bf-003",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The normal resting heart rate in a healthy adult human is about",
+      "options": ["42 per minute", "72 per minute", "100 per minute", "120 per minute"],
+      "answerIndex": 1,
+      "explanation": "Around 70 to 75 beats per minute is normal at rest.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-bf-004",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Mature mammalian red blood cells are characterised by the absence of",
+      "options": ["Haemoglobin", "Nucleus", "Cell membrane", "Cytoplasm"],
+      "answerIndex": 1,
+      "explanation": "Enucleated RBCs carry more haemoglobin and are flexible.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-bf-005",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The plasma protein directly involved in blood clotting is",
+      "options": ["Albumin", "Globulin", "Fibrinogen", "Haemoglobin"],
+      "answerIndex": 2,
+      "explanation": "Fibrinogen is converted to fibrin threads during clotting.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-bf-006",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Double circulation in humans means that blood",
+      "options": [
+        "Passes through the heart twice in one complete cycle",
+        "Flows in two directions in the same vessel",
+        "Is pumped only by the left ventricle",
+        "Never mixes with lymph"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pulmonary and systemic circuits each route blood through the heart.",
+      "pyq": { "appearCount": 3, "years": [2018, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-hr-001",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Fertilisation in humans normally takes place in the",
+      "options": ["Uterus", "Cervix", "Ampulla of the fallopian tube", "Ovary"],
+      "answerIndex": 2,
+      "explanation": "The sperm meets the ovum at the ampullary isthmic junction.",
+      "pyq": { "appearCount": 5, "years": [2015, 2018, 2021, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-hr-002",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The hormone chiefly responsible for maintaining pregnancy is",
+      "options": ["Oestrogen", "Progesterone", "Prolactin", "Oxytocin"],
+      "answerIndex": 1,
+      "explanation": "Progesterone maintains the endometrium throughout pregnancy.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-hr-003",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Spermatogenesis takes place in the",
+      "options": ["Epididymis", "Seminiferous tubules", "Vas deferens", "Prostate gland"],
+      "answerIndex": 1,
+      "explanation": "Sperms are produced in the seminiferous tubules of the testis.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-hr-004",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The average gestation period in humans is about",
+      "options": ["180 days", "220 days", "280 days", "365 days"],
+      "answerIndex": 2,
+      "explanation": "Roughly nine months, that is about 280 days.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-hr-005",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Implantation of the blastocyst occurs in the",
+      "options": ["Endometrium of the uterus", "Fallopian tube", "Cervix", "Vagina"],
+      "answerIndex": 0,
+      "explanation": "The blastocyst embeds itself in the uterine endometrium.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-hr-006",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Human chorionic gonadotropin (hCG) is secreted by the",
+      "options": ["Pituitary", "Ovary", "Placenta", "Hypothalamus"],
+      "answerIndex": 2,
+      "explanation": "hCG from the placenta sustains the corpus luteum in early pregnancy.",
+      "pyq": { "appearCount": 3, "years": [2018, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-gn-001",
+      "chapterId": "zoology-genetics",
+      "stem": "Mendel carried out his classical experiments on",
+      "options": ["Maize", "Garden pea", "Drosophila", "Snapdragon"],
+      "answerIndex": 1,
+      "explanation": "Mendel used Pisum sativum for his hybridisation experiments.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-gn-002",
+      "chapterId": "zoology-genetics",
+      "stem": "The law of segregation states that",
+      "options": [
+        "Alleles of a gene separate during gamete formation",
+        "Genes on different chromosomes assort independently",
+        "Dominant alleles always mask recessive ones",
+        "Crossing over occurs during meiosis"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each gamete receives only one allele of a pair.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-gn-003",
+      "chapterId": "zoology-genetics",
+      "stem": "The phenotypic ratio of a monohybrid cross in the F2 generation is",
+      "options": ["1:1", "3:1", "9:3:3:1", "1:2:1"],
+      "answerIndex": 1,
+      "explanation": "Three dominant to one recessive phenotype.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-gn-004",
+      "chapterId": "zoology-genetics",
+      "stem": "Colour blindness in humans is inherited as",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X linked recessive",
+        "Y linked"
+      ],
+      "answerIndex": 2,
+      "explanation": "The gene lies on the X chromosome and is recessive, so males are affected more often.",
+      "pyq": { "appearCount": 4, "years": [2017, 2020, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-gn-005",
+      "chapterId": "zoology-genetics",
+      "stem": "Down syndrome is caused by trisomy of chromosome number",
+      "options": ["13", "18", "21", "23"],
+      "answerIndex": 2,
+      "explanation": "An extra copy of chromosome 21 causes Down syndrome.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "zoo-gn-006",
+      "chapterId": "zoology-genetics",
+      "stem": "The F2 phenotypic ratio of a typical dihybrid cross is",
+      "options": ["3:1", "1:2:1", "9:3:3:1", "1:1:1:1"],
+      "answerIndex": 2,
+      "explanation": "Independent assortment of two gene pairs gives 9:3:3:1.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    }
+  ]
+}

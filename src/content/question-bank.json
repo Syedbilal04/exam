@@ -1,0 +1,4286 @@
+[
+  {
+    "id": "bot-cl-001",
+    "chapterId": "botany-cell-the-unit-of-life",
+    "subjectId": "botany",
+    "stem": "The organelle known as the powerhouse of the cell is",
+    "options": [
+      "Ribosome",
+      "Mitochondrion",
+      "Lysosome",
+      "Golgi body"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mitochondria carry out aerobic respiration and produce ATP.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-cl-002",
+    "chapterId": "botany-cell-the-unit-of-life",
+    "subjectId": "botany",
+    "stem": "Cell theory was proposed by",
+    "options": [
+      "Watson and Crick",
+      "Schleiden and Schwann",
+      "Robert Hooke and Leeuwenhoek",
+      "Darwin and Wallace"
+    ],
+    "answerIndex": 1,
+    "explanation": "Schleiden studied plants and Schwann animals, jointly proposing the cell theory.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-cl-003",
+    "chapterId": "botany-cell-the-unit-of-life",
+    "subjectId": "botany",
+    "stem": "The ribosomes found in prokaryotic cells are of the type",
+    "options": [
+      "70S",
+      "80S",
+      "60S",
+      "40S"
+    ],
+    "answerIndex": 0,
+    "explanation": "Prokaryotes have 70S ribosomes made of 50S and 30S subunits.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-cl-004",
+    "chapterId": "botany-cell-the-unit-of-life",
+    "subjectId": "botany",
+    "stem": "The plant cell wall is composed mainly of",
+    "options": [
+      "Chitin",
+      "Cellulose",
+      "Peptidoglycan",
+      "Protein"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cellulose microfibrils form the primary structural material of plant cell walls.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-cl-005",
+    "chapterId": "botany-cell-the-unit-of-life",
+    "subjectId": "botany",
+    "stem": "The site of photosynthesis in a plant cell is the",
+    "options": [
+      "Chloroplast",
+      "Mitochondrion",
+      "Vacuole",
+      "Nucleus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-cl-006",
+    "chapterId": "botany-cell-the-unit-of-life",
+    "subjectId": "botany",
+    "stem": "The main function of the Golgi apparatus is",
+    "options": [
+      "Protein synthesis",
+      "Packaging and secretion of materials",
+      "Intracellular digestion",
+      "Energy production"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Golgi complex modifies, packages and dispatches cell products.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-lw-001",
+    "chapterId": "botany-the-living-world",
+    "subjectId": "botany",
+    "stem": "The system of binomial nomenclature was introduced by",
+    "options": [
+      "Carolus Linnaeus",
+      "Charles Darwin",
+      "Robert Hooke",
+      "Gregor Mendel"
+    ],
+    "answerIndex": 0,
+    "explanation": "Linnaeus gave each organism a two part scientific name.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-lw-002",
+    "chapterId": "botany-the-living-world",
+    "subjectId": "botany",
+    "stem": "The basic unit of biological classification is",
+    "options": [
+      "Genus",
+      "Family",
+      "Species",
+      "Order"
+    ],
+    "answerIndex": 2,
+    "explanation": "Species is the lowest and basic taxonomic category.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-lw-003",
+    "chapterId": "botany-the-living-world",
+    "subjectId": "botany",
+    "stem": "The correct sequence of taxonomic categories in descending order is",
+    "options": [
+      "Class, Order, Family, Genus",
+      "Order, Class, Genus, Family",
+      "Family, Order, Class, Genus",
+      "Genus, Family, Order, Class"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hierarchy runs Kingdom, Division, Class, Order, Family, Genus, Species.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2020,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-lw-004",
+    "chapterId": "botany-the-living-world",
+    "subjectId": "botany",
+    "stem": "A herbarium is a collection of",
+    "options": [
+      "Living plants grown for study",
+      "Dried, pressed and preserved plant specimens",
+      "Preserved animal specimens",
+      "Plant seeds only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Herbarium sheets carry dried specimens with label data.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-lw-005",
+    "chapterId": "botany-the-living-world",
+    "subjectId": "botany",
+    "stem": "ICBN stands for",
+    "options": [
+      "Indian Code of Biological Nomenclature",
+      "International Code of Botanical Nomenclature",
+      "International Council of Biological Naming",
+      "Indian Council of Botanical Names"
+    ],
+    "answerIndex": 1,
+    "explanation": "It lays down the rules for naming plants.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2019,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-lw-006",
+    "chapterId": "botany-the-living-world",
+    "subjectId": "botany",
+    "stem": "Living plant collections maintained for reference and study are kept in a",
+    "options": [
+      "Museum",
+      "Herbarium",
+      "Botanical garden",
+      "Key"
+    ],
+    "answerIndex": 2,
+    "explanation": "Botanical gardens maintain living plants with scientific labels.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2018,
+        2022
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-mb-001",
+    "chapterId": "botany-molecular-basis-of-inheritance",
+    "subjectId": "botany",
+    "stem": "The double helix model of DNA was proposed by",
+    "options": [
+      "Watson and Crick",
+      "Griffith",
+      "Hershey and Chase",
+      "Meselson and Stahl"
+    ],
+    "answerIndex": 0,
+    "explanation": "Watson and Crick proposed the model in 1953 using Franklin's X-ray data.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-mb-002",
+    "chapterId": "botany-molecular-basis-of-inheritance",
+    "subjectId": "botany",
+    "stem": "In a DNA molecule, adenine pairs with",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answerIndex": 2,
+    "explanation": "A pairs with T through two hydrogen bonds in DNA.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-mb-003",
+    "chapterId": "botany-molecular-basis-of-inheritance",
+    "subjectId": "botany",
+    "stem": "The enzyme that joins Okazaki fragments during replication is",
+    "options": [
+      "DNA polymerase",
+      "DNA ligase",
+      "Helicase",
+      "Primase"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ligase seals the nicks between adjacent fragments on the lagging strand.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-mb-004",
+    "chapterId": "botany-molecular-basis-of-inheritance",
+    "subjectId": "botany",
+    "stem": "The central dogma of molecular biology is",
+    "options": [
+      "Protein to RNA to DNA",
+      "DNA to RNA to protein",
+      "RNA to DNA to protein",
+      "DNA to protein to RNA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Genetic information flows from DNA through RNA to protein.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-mb-005",
+    "chapterId": "botany-molecular-basis-of-inheritance",
+    "subjectId": "botany",
+    "stem": "Transcription in prokaryotes is carried out by",
+    "options": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "Reverse transcriptase",
+      "Ligase"
+    ],
+    "answerIndex": 1,
+    "explanation": "A single RNA polymerase makes all classes of RNA in bacteria.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-mb-006",
+    "chapterId": "botany-molecular-basis-of-inheritance",
+    "subjectId": "botany",
+    "stem": "The number of nucleotides that make up one codon is",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 2,
+    "explanation": "The genetic code is a triplet code.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-ph-001",
+    "chapterId": "botany-photosynthesis-in-higher-plants",
+    "subjectId": "botany",
+    "stem": "The light reaction of photosynthesis takes place in the",
+    "options": [
+      "Stroma",
+      "Thylakoid membranes",
+      "Cytoplasm",
+      "Mitochondrial matrix"
+    ],
+    "answerIndex": 1,
+    "explanation": "Photosystems are embedded in the thylakoid membranes.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-ph-002",
+    "chapterId": "botany-photosynthesis-in-higher-plants",
+    "subjectId": "botany",
+    "stem": "The first stable product formed in C4 plants is",
+    "options": [
+      "3-phosphoglyceric acid",
+      "Oxaloacetic acid",
+      "Pyruvic acid",
+      "Ribulose bisphosphate"
+    ],
+    "answerIndex": 1,
+    "explanation": "C4 fixation produces the four carbon oxaloacetic acid first.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-ph-003",
+    "chapterId": "botany-photosynthesis-in-higher-plants",
+    "subjectId": "botany",
+    "stem": "The Calvin cycle occurs in the",
+    "options": [
+      "Thylakoid lumen",
+      "Stroma of the chloroplast",
+      "Cytosol",
+      "Nucleus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Carbon fixation enzymes are dissolved in the stroma.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-ph-004",
+    "chapterId": "botany-photosynthesis-in-higher-plants",
+    "subjectId": "botany",
+    "stem": "The primary acceptor of carbon dioxide in C3 plants is",
+    "options": [
+      "PEP",
+      "RuBP",
+      "OAA",
+      "PGA"
+    ],
+    "answerIndex": 1,
+    "explanation": "RuBisCO adds CO2 to ribulose 1,5 bisphosphate.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-ph-005",
+    "chapterId": "botany-photosynthesis-in-higher-plants",
+    "subjectId": "botany",
+    "stem": "Oxygen released during photosynthesis comes from",
+    "options": [
+      "Carbon dioxide",
+      "Water",
+      "Glucose",
+      "Chlorophyll"
+    ],
+    "answerIndex": 1,
+    "explanation": "Photolysis of water in photosystem II releases oxygen.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "bot-ph-006",
+    "chapterId": "botany-photosynthesis-in-higher-plants",
+    "subjectId": "botany",
+    "stem": "Chlorophyll a shows maximum absorption in which regions of the spectrum?",
+    "options": [
+      "Green and yellow",
+      "Blue and red",
+      "Orange and green",
+      "Only ultraviolet"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chlorophyll a absorbs strongly in the blue violet and red regions.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-as-001",
+    "chapterId": "chemistry-atomic-structure",
+    "subjectId": "chemistry",
+    "stem": "The maximum number of electrons that can be accommodated in the shell with n = 3 is",
+    "options": [
+      "8",
+      "16",
+      "18",
+      "32"
+    ],
+    "answerIndex": 2,
+    "explanation": "Maximum electrons = 2n^2 = 2(9) = 18.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-as-002",
+    "chapterId": "chemistry-atomic-structure",
+    "subjectId": "chemistry",
+    "stem": "The quantum number that determines the shape of an orbital is",
+    "options": [
+      "Principal",
+      "Azimuthal",
+      "Magnetic",
+      "Spin"
+    ],
+    "answerIndex": 1,
+    "explanation": "The azimuthal quantum number l fixes the sub-shell and hence the shape.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-as-003",
+    "chapterId": "chemistry-atomic-structure",
+    "subjectId": "chemistry",
+    "stem": "Heisenberg's uncertainty principle is expressed as",
+    "options": [
+      "dx.dp >= h/4pi",
+      "dx.dp = h",
+      "dx.dp <= h/2pi",
+      "dx/dp = h/4pi"
+    ],
+    "answerIndex": 0,
+    "explanation": "The product of uncertainties in position and momentum is at least h/4pi.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2020,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-as-004",
+    "chapterId": "chemistry-atomic-structure",
+    "subjectId": "chemistry",
+    "stem": "The number of unpaired electrons in Fe3+ (Z = 26) is",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fe3+ has the configuration 3d5, giving five unpaired electrons.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-as-005",
+    "chapterId": "chemistry-atomic-structure",
+    "subjectId": "chemistry",
+    "stem": "Which series of the hydrogen spectrum lies in the visible region?",
+    "options": [
+      "Lyman",
+      "Balmer",
+      "Paschen",
+      "Brackett"
+    ],
+    "answerIndex": 1,
+    "explanation": "Balmer series transitions end at n = 2 and fall in the visible region.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-as-006",
+    "chapterId": "chemistry-atomic-structure",
+    "subjectId": "chemistry",
+    "stem": "Isotopes of an element differ in the number of",
+    "options": [
+      "Protons",
+      "Electrons",
+      "Neutrons",
+      "Valence electrons"
+    ],
+    "answerIndex": 2,
+    "explanation": "Isotopes have the same atomic number but different mass numbers.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2019,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-cb-001",
+    "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+    "subjectId": "chemistry",
+    "stem": "The shape of the ammonia molecule is",
+    "options": [
+      "Trigonal planar",
+      "Pyramidal",
+      "Tetrahedral",
+      "Linear"
+    ],
+    "answerIndex": 1,
+    "explanation": "The lone pair on nitrogen makes NH3 pyramidal rather than trigonal planar.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-cb-002",
+    "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+    "subjectId": "chemistry",
+    "stem": "The hybridisation of sulphur in SF6 is",
+    "options": [
+      "sp3",
+      "dsp2",
+      "sp3d",
+      "sp3d2"
+    ],
+    "answerIndex": 3,
+    "explanation": "Six bond pairs around sulphur require sp3d2 hybridisation.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-cb-003",
+    "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+    "subjectId": "chemistry",
+    "stem": "The bond order of the oxygen molecule according to molecular orbital theory is",
+    "options": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "answerIndex": 2,
+    "explanation": "O2 has bond order (10 - 6)/2 = 2 with two unpaired electrons.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-cb-004",
+    "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+    "subjectId": "chemistry",
+    "stem": "Which of the following molecules has zero dipole moment?",
+    "options": [
+      "H2O",
+      "NH3",
+      "CO2",
+      "SO2"
+    ],
+    "answerIndex": 2,
+    "explanation": "CO2 is linear and symmetrical, so its bond dipoles cancel.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2021,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-cb-005",
+    "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+    "subjectId": "chemistry",
+    "stem": "The number of sigma bonds present in an ethene molecule is",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answerIndex": 1,
+    "explanation": "Four C-H sigma bonds plus one C-C sigma bond gives five.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-cb-006",
+    "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+    "subjectId": "chemistry",
+    "stem": "Among the following, the shortest carbon-carbon bond is present in",
+    "options": [
+      "Ethane",
+      "Ethene",
+      "Ethyne",
+      "Benzene"
+    ],
+    "answerIndex": 2,
+    "explanation": "A triple bond is the shortest and strongest carbon-carbon bond.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-ek-001",
+    "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+    "subjectId": "chemistry",
+    "stem": "The unit of the rate constant of a first order reaction is",
+    "options": [
+      "mol L^-1 s^-1",
+      "s^-1",
+      "L mol^-1 s^-1",
+      "L^2 mol^-2 s^-1"
+    ],
+    "answerIndex": 1,
+    "explanation": "For first order kinetics, k has units of reciprocal time.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2021,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-ek-002",
+    "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+    "subjectId": "chemistry",
+    "stem": "The value of the Faraday constant is approximately",
+    "options": [
+      "9650 C mol^-1",
+      "96500 C mol^-1",
+      "6500 C mol^-1",
+      "965000 C mol^-1"
+    ],
+    "answerIndex": 1,
+    "explanation": "One faraday is the charge on one mole of electrons, about 96500 C.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-ek-003",
+    "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+    "subjectId": "chemistry",
+    "stem": "The half life of a first order reaction with rate constant k is",
+    "options": [
+      "k / 0.693",
+      "0.693 / k",
+      "1 / k",
+      "2 / k"
+    ],
+    "answerIndex": 1,
+    "explanation": "t(1/2) = ln2 / k = 0.693 / k and is independent of initial concentration.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2016,
+        2018,
+        2021,
+        2023,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-ek-004",
+    "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+    "subjectId": "chemistry",
+    "stem": "In a galvanic cell, oxidation takes place at the",
+    "options": [
+      "Cathode",
+      "Anode",
+      "Salt bridge",
+      "Electrolyte"
+    ],
+    "answerIndex": 1,
+    "explanation": "The anode is the negative electrode of a galvanic cell where oxidation occurs.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-ek-005",
+    "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+    "subjectId": "chemistry",
+    "stem": "The Arrhenius equation relating rate constant and temperature is",
+    "options": [
+      "k = A e^(Ea/RT)",
+      "k = A e^(-Ea/RT)",
+      "k = Ea e^(-A/RT)",
+      "k = A / (Ea RT)"
+    ],
+    "answerIndex": 1,
+    "explanation": "The exponential factor carries a negative activation energy term.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-ek-006",
+    "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+    "subjectId": "chemistry",
+    "stem": "On dilution of an electrolytic solution, the molar conductivity",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains constant",
+      "Becomes zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "Molar conductivity rises with dilution due to greater ionic mobility and dissociation.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-so-001",
+    "chapterId": "chemistry-solutions",
+    "subjectId": "chemistry",
+    "stem": "Which of the following is a colligative property?",
+    "options": [
+      "Viscosity",
+      "Osmotic pressure",
+      "Surface tension",
+      "Refractive index"
+    ],
+    "answerIndex": 1,
+    "explanation": "Colligative properties depend on the number of solute particles, not their nature.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-so-002",
+    "chapterId": "chemistry-solutions",
+    "subjectId": "chemistry",
+    "stem": "Raoult's law states that the partial vapour pressure of a component is proportional to its",
+    "options": [
+      "Mass fraction",
+      "Mole fraction",
+      "Molality",
+      "Normality"
+    ],
+    "answerIndex": 1,
+    "explanation": "p = p0 x mole fraction of that component in the solution.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-so-003",
+    "chapterId": "chemistry-solutions",
+    "subjectId": "chemistry",
+    "stem": "The van't Hoff factor for completely dissociated NaCl in water is",
+    "options": [
+      "0.5",
+      "1",
+      "2",
+      "3"
+    ],
+    "answerIndex": 2,
+    "explanation": "NaCl gives two ions per formula unit, so i = 2.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-so-004",
+    "chapterId": "chemistry-solutions",
+    "subjectId": "chemistry",
+    "stem": "Elevation of boiling point of a dilute solution is given by",
+    "options": [
+      "dTb = Kb x molarity",
+      "dTb = Kb x molality",
+      "dTb = Kf x molality",
+      "dTb = Kb / molality"
+    ],
+    "answerIndex": 1,
+    "explanation": "The ebullioscopic constant multiplies molality, not molarity.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-so-005",
+    "chapterId": "chemistry-solutions",
+    "subjectId": "chemistry",
+    "stem": "According to Henry's law, the solubility of a gas in a liquid at constant temperature is",
+    "options": [
+      "Independent of pressure",
+      "Directly proportional to the partial pressure of the gas",
+      "Inversely proportional to pressure",
+      "Proportional to the square of pressure"
+    ],
+    "answerIndex": 1,
+    "explanation": "p = KH x mole fraction of the dissolved gas.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-so-006",
+    "chapterId": "chemistry-solutions",
+    "subjectId": "chemistry",
+    "stem": "An azeotropic mixture is one that",
+    "options": [
+      "Can be separated completely by fractional distillation",
+      "Boils at a constant temperature with unchanged composition",
+      "Always shows ideal behaviour",
+      "Has zero vapour pressure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Azeotropes distil without any change in composition.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-st-001",
+    "chapterId": "chemistry-stoichiometry",
+    "subjectId": "chemistry",
+    "stem": "The number of moles present in 22 g of carbon dioxide is",
+    "options": [
+      "0.25",
+      "0.5",
+      "1.0",
+      "2.0"
+    ],
+    "answerIndex": 1,
+    "explanation": "Molar mass of CO2 is 44 g, so 22/44 = 0.5 mol.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-st-002",
+    "chapterId": "chemistry-stoichiometry",
+    "subjectId": "chemistry",
+    "stem": "Molarity of a solution is defined as",
+    "options": [
+      "Moles of solute per kilogram of solvent",
+      "Moles of solute per litre of solution",
+      "Grams of solute per litre of solvent",
+      "Moles of solvent per litre of solution"
+    ],
+    "answerIndex": 1,
+    "explanation": "Molarity uses the volume of the solution, molality uses the mass of solvent.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-st-003",
+    "chapterId": "chemistry-stoichiometry",
+    "subjectId": "chemistry",
+    "stem": "The volume occupied by one mole of an ideal gas at STP is",
+    "options": [
+      "11.2 L",
+      "22.4 L",
+      "24.4 L",
+      "44.8 L"
+    ],
+    "answerIndex": 1,
+    "explanation": "At 273 K and 1 atm, one mole of an ideal gas occupies 22.4 L.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-st-004",
+    "chapterId": "chemistry-stoichiometry",
+    "subjectId": "chemistry",
+    "stem": "The number of molecules present in one mole of any substance is",
+    "options": [
+      "6.022 x 10^22",
+      "6.022 x 10^23",
+      "3.011 x 10^23",
+      "1.602 x 10^19"
+    ],
+    "answerIndex": 1,
+    "explanation": "This is Avogadro's number.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-st-005",
+    "chapterId": "chemistry-stoichiometry",
+    "subjectId": "chemistry",
+    "stem": "In a chemical reaction, the limiting reagent is the one that",
+    "options": [
+      "Is present in the largest amount",
+      "Is completely consumed first",
+      "Never reacts",
+      "Decides the rate of reaction"
+    ],
+    "answerIndex": 1,
+    "explanation": "The limiting reagent is used up first and therefore fixes the amount of product.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "che-st-006",
+    "chapterId": "chemistry-stoichiometry",
+    "subjectId": "chemistry",
+    "stem": "The mass of one mole of water is",
+    "options": [
+      "16 g",
+      "18 g",
+      "20 g",
+      "22 g"
+    ],
+    "answerIndex": 1,
+    "explanation": "H2O has a molar mass of 2(1) + 16 = 18 g.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2019,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-cn-001",
+    "chapterId": "maths-complex-numbers",
+    "subjectId": "maths",
+    "stem": "The value of i^13 is",
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "answerIndex": 2,
+    "explanation": "i^13 = i^(12) x i = 1 x i = i.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-cn-002",
+    "chapterId": "maths-complex-numbers",
+    "subjectId": "maths",
+    "stem": "The modulus of the complex number 3 + 4i is",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "explanation": "|z| = root(9 + 16) = 5.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-cn-003",
+    "chapterId": "maths-complex-numbers",
+    "subjectId": "maths",
+    "stem": "The conjugate of 2 - 5i is",
+    "options": [
+      "-2 + 5i",
+      "2 + 5i",
+      "-2 - 5i",
+      "5 - 2i"
+    ],
+    "answerIndex": 1,
+    "explanation": "Conjugation changes the sign of the imaginary part only.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2018,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-cn-004",
+    "chapterId": "maths-complex-numbers",
+    "subjectId": "maths",
+    "stem": "The argument of the complex number i is",
+    "options": [
+      "0",
+      "pi/4",
+      "pi/2",
+      "pi"
+    ],
+    "answerIndex": 2,
+    "explanation": "i lies on the positive imaginary axis.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-cn-005",
+    "chapterId": "maths-complex-numbers",
+    "subjectId": "maths",
+    "stem": "The value of (1 + i)^2 is",
+    "options": [
+      "2",
+      "2i",
+      "-2i",
+      "1 + 2i"
+    ],
+    "answerIndex": 1,
+    "explanation": "(1 + i)^2 = 1 + 2i + i^2 = 2i.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-df-001",
+    "chapterId": "maths-differentiation",
+    "subjectId": "maths",
+    "stem": "The derivative of x^n with respect to x is",
+    "options": [
+      "n x^n",
+      "n x^(n-1)",
+      "x^(n-1)",
+      "(n-1) x^n"
+    ],
+    "answerIndex": 1,
+    "explanation": "Power rule of differentiation.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2019,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-df-002",
+    "chapterId": "maths-differentiation",
+    "subjectId": "maths",
+    "stem": "The derivative of sin x with respect to x is",
+    "options": [
+      "cos x",
+      "-cos x",
+      "sin x",
+      "-sin x"
+    ],
+    "answerIndex": 0,
+    "explanation": "d(sin x)/dx = cos x.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2018,
+        2022
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-df-003",
+    "chapterId": "maths-differentiation",
+    "subjectId": "maths",
+    "stem": "The derivative of log x (natural logarithm) with respect to x is",
+    "options": [
+      "x",
+      "1/x",
+      "log x",
+      "-1/x^2"
+    ],
+    "answerIndex": 1,
+    "explanation": "d(ln x)/dx = 1/x for x greater than 0.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-df-004",
+    "chapterId": "maths-differentiation",
+    "subjectId": "maths",
+    "stem": "The derivative of e^(2x) with respect to x is",
+    "options": [
+      "e^(2x)",
+      "2 e^(2x)",
+      "e^(2x)/2",
+      "2x e^(2x-1)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chain rule gives 2 e^(2x).",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-df-005",
+    "chapterId": "maths-differentiation",
+    "subjectId": "maths",
+    "stem": "The chain rule for differentiating f(g(x)) gives",
+    "options": [
+      "f'(x) g'(x)",
+      "f'(g(x)) g'(x)",
+      "f(g'(x))",
+      "f'(g'(x))"
+    ],
+    "answerIndex": 1,
+    "explanation": "Differentiate the outer function at the inner value and multiply by the inner derivative.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-lc-001",
+    "chapterId": "maths-limits-and-continuity",
+    "subjectId": "maths",
+    "stem": "The value of the limit of (sin x)/x as x tends to 0 is",
+    "options": [
+      "0",
+      "1",
+      "Infinity",
+      "Does not exist"
+    ],
+    "answerIndex": 1,
+    "explanation": "This is the standard trigonometric limit.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-lc-002",
+    "chapterId": "maths-limits-and-continuity",
+    "subjectId": "maths",
+    "stem": "The limit of (e^x - 1)/x as x tends to 0 is",
+    "options": [
+      "0",
+      "1",
+      "e",
+      "Infinity"
+    ],
+    "answerIndex": 1,
+    "explanation": "Expanding e^x = 1 + x + x^2/2! + ... gives the limit 1.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-lc-003",
+    "chapterId": "maths-limits-and-continuity",
+    "subjectId": "maths",
+    "stem": "The function f(x) = |x| at x = 0 is",
+    "options": [
+      "Continuous and differentiable",
+      "Continuous but not differentiable",
+      "Differentiable but not continuous",
+      "Neither continuous nor differentiable"
+    ],
+    "answerIndex": 1,
+    "explanation": "Left and right derivatives are -1 and 1, so the derivative does not exist at 0.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-lc-004",
+    "chapterId": "maths-limits-and-continuity",
+    "subjectId": "maths",
+    "stem": "The limit of (1 + 1/x)^x as x tends to infinity is",
+    "options": [
+      "1",
+      "0",
+      "e",
+      "Infinity"
+    ],
+    "answerIndex": 2,
+    "explanation": "This is the classical definition of the number e.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-lc-005",
+    "chapterId": "maths-limits-and-continuity",
+    "subjectId": "maths",
+    "stem": "The limit of (1 - cos x)/x^2 as x tends to 0 is",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "answerIndex": 1,
+    "explanation": "Using 1 - cos x = 2 sin^2(x/2), the limit is 1/2.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-mx-001",
+    "chapterId": "maths-matrices",
+    "subjectId": "maths",
+    "stem": "If A is a square matrix of order 3 with det(A) = 2, then det(2A) is",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "12"
+    ],
+    "answerIndex": 2,
+    "explanation": "det(kA) = k^n det(A) = 2^3 x 2 = 16.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-mx-002",
+    "chapterId": "maths-matrices",
+    "subjectId": "maths",
+    "stem": "A square matrix A is symmetric if",
+    "options": [
+      "A' = -A",
+      "A' = A",
+      "A^2 = A",
+      "A' = A^-1"
+    ],
+    "answerIndex": 1,
+    "explanation": "A symmetric matrix equals its own transpose.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-mx-003",
+    "chapterId": "maths-matrices",
+    "subjectId": "maths",
+    "stem": "The determinant of the identity matrix of order 3 is",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "9"
+    ],
+    "answerIndex": 1,
+    "explanation": "det(I) = 1 for every order.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2019,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-mx-004",
+    "chapterId": "maths-matrices",
+    "subjectId": "maths",
+    "stem": "If A is invertible, then A multiplied by its inverse gives",
+    "options": [
+      "The zero matrix",
+      "The identity matrix",
+      "A itself",
+      "The transpose of A"
+    ],
+    "answerIndex": 1,
+    "explanation": "By definition A.A^-1 = I.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-mx-005",
+    "chapterId": "maths-matrices",
+    "subjectId": "maths",
+    "stem": "If A is of order 2 x 3 and B is of order 3 x 4, the order of AB is",
+    "options": [
+      "2 x 4",
+      "3 x 3",
+      "4 x 2",
+      "Product not defined"
+    ],
+    "answerIndex": 0,
+    "explanation": "The product has the rows of A and the columns of B.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-pb-001",
+    "chapterId": "maths-probability",
+    "subjectId": "maths",
+    "stem": "For any two events A and B, P(A union B) equals",
+    "options": [
+      "P(A) + P(B)",
+      "P(A) + P(B) - P(A intersection B)",
+      "P(A) P(B)",
+      "P(A) - P(B)"
+    ],
+    "answerIndex": 1,
+    "explanation": "The addition theorem removes the double counted intersection.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-pb-002",
+    "chapterId": "maths-probability",
+    "subjectId": "maths",
+    "stem": "A fair coin is tossed once. The probability of getting a head is",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "answerIndex": 2,
+    "explanation": "Two equally likely outcomes give probability 1/2.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2018,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-pb-003",
+    "chapterId": "maths-probability",
+    "subjectId": "maths",
+    "stem": "Two dice are thrown together. The probability that the sum of the numbers is 7 is",
+    "options": [
+      "1/12",
+      "1/9",
+      "1/6",
+      "5/36"
+    ],
+    "answerIndex": 2,
+    "explanation": "Six favourable outcomes out of 36 gives 1/6.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-pb-004",
+    "chapterId": "maths-probability",
+    "subjectId": "maths",
+    "stem": "If A and B are independent events, then P(A intersection B) equals",
+    "options": [
+      "P(A) + P(B)",
+      "P(A) P(B)",
+      "P(A)/P(B)",
+      "0"
+    ],
+    "answerIndex": 1,
+    "explanation": "Independence means the joint probability is the product of the individual probabilities.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-pb-005",
+    "chapterId": "maths-probability",
+    "subjectId": "maths",
+    "stem": "One card is drawn at random from a well shuffled pack of 52 cards. The probability that it is a king is",
+    "options": [
+      "1/52",
+      "1/26",
+      "1/13",
+      "4/13"
+    ],
+    "answerIndex": 2,
+    "explanation": "There are 4 kings, so the probability is 4/52 = 1/13.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-tr-001",
+    "chapterId": "maths-trigonometric-ratios-upto-transformations",
+    "subjectId": "maths",
+    "stem": "The value of sin^2 A + cos^2 A is",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Depends on A"
+    ],
+    "answerIndex": 1,
+    "explanation": "This is the fundamental Pythagorean identity.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2018,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-tr-002",
+    "chapterId": "maths-trigonometric-ratios-upto-transformations",
+    "subjectId": "maths",
+    "stem": "The value of sin 15 degrees is",
+    "options": [
+      "(root6 - root2)/4",
+      "(root6 + root2)/4",
+      "(root3 - 1)/2",
+      "(root3 + 1)/2"
+    ],
+    "answerIndex": 0,
+    "explanation": "sin(45 - 30) = sin45 cos30 - cos45 sin30 = (root6 - root2)/4.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-tr-003",
+    "chapterId": "maths-trigonometric-ratios-upto-transformations",
+    "subjectId": "maths",
+    "stem": "In terms of tan A, cos 2A equals",
+    "options": [
+      "(1 - tan^2 A)/(1 + tan^2 A)",
+      "(1 + tan^2 A)/(1 - tan^2 A)",
+      "2 tan A/(1 + tan^2 A)",
+      "2 tan A/(1 - tan^2 A)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Standard double angle identity for cosine in terms of tangent.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-tr-004",
+    "chapterId": "maths-trigonometric-ratios-upto-transformations",
+    "subjectId": "maths",
+    "stem": "The period of the function tan x is",
+    "options": [
+      "pi/2",
+      "pi",
+      "2pi",
+      "4pi"
+    ],
+    "answerIndex": 1,
+    "explanation": "tan(x + pi) = tan x.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2020,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "mat-tr-005",
+    "chapterId": "maths-trigonometric-ratios-upto-transformations",
+    "subjectId": "maths",
+    "stem": "The maximum value of 3 sin x + 4 cos x is",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "explanation": "Maximum of a sin x + b cos x is root(a^2 + b^2) = 5.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2021,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ce-001",
+    "chapterId": "physics-current-electricity",
+    "subjectId": "physics",
+    "stem": "The SI unit of electrical resistivity is",
+    "options": [
+      "ohm",
+      "ohm metre",
+      "ohm per metre",
+      "siemens"
+    ],
+    "answerIndex": 1,
+    "explanation": "rho = RA/l, so the unit is ohm metre.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ce-002",
+    "chapterId": "physics-current-electricity",
+    "subjectId": "physics",
+    "stem": "Two resistors of 4 ohm each are connected in parallel. The equivalent resistance is",
+    "options": [
+      "1 ohm",
+      "2 ohm",
+      "4 ohm",
+      "8 ohm"
+    ],
+    "answerIndex": 1,
+    "explanation": "1/R = 1/4 + 1/4 = 1/2, so R = 2 ohm.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ce-003",
+    "chapterId": "physics-current-electricity",
+    "subjectId": "physics",
+    "stem": "The relation between current and drift velocity is",
+    "options": [
+      "I = neAv_d",
+      "I = nev_d/A",
+      "I = neA/v_d",
+      "I = n/(eAv_d)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Current equals charge density times electron charge times area times drift velocity.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ce-004",
+    "chapterId": "physics-current-electricity",
+    "subjectId": "physics",
+    "stem": "Kirchhoff's junction rule is a consequence of conservation of",
+    "options": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
+    ],
+    "answerIndex": 1,
+    "explanation": "Total charge entering a junction equals the charge leaving it.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ce-005",
+    "chapterId": "physics-current-electricity",
+    "subjectId": "physics",
+    "stem": "A wire of resistance R is stretched to double its length keeping the volume constant. Its new resistance is",
+    "options": [
+      "R/2",
+      "2R",
+      "4R",
+      "R/4"
+    ],
+    "answerIndex": 2,
+    "explanation": "Length doubles and area halves, so R' = rho(2l)/(A/2) = 4R.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ce-006",
+    "chapterId": "physics-current-electricity",
+    "subjectId": "physics",
+    "stem": "A potentiometer measures the emf of a cell accurately because at the balance point",
+    "options": [
+      "Maximum current flows through the cell",
+      "No current is drawn from the cell",
+      "The cell is short circuited",
+      "The galvanometer resistance becomes zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "At null deflection no current flows, so there is no internal resistance drop.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-lom-001",
+    "chapterId": "physics-laws-of-motion",
+    "subjectId": "physics",
+    "stem": "Newton's second law of motion is best expressed as",
+    "options": [
+      "F = mv",
+      "F = dp/dt",
+      "F = m/a",
+      "F = p/t^2"
+    ],
+    "answerIndex": 1,
+    "explanation": "Force equals the rate of change of linear momentum.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-lom-002",
+    "chapterId": "physics-laws-of-motion",
+    "subjectId": "physics",
+    "stem": "A force of 10 N acts on a body of mass 2 kg. The acceleration produced is",
+    "options": [
+      "2 m s^-2",
+      "5 m s^-2",
+      "10 m s^-2",
+      "20 m s^-2"
+    ],
+    "answerIndex": 1,
+    "explanation": "a = F/m = 10/2 = 5 m s^-2.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-lom-003",
+    "chapterId": "physics-laws-of-motion",
+    "subjectId": "physics",
+    "stem": "Impulse of a force is equal to the change in",
+    "options": [
+      "Kinetic energy",
+      "Momentum",
+      "Power",
+      "Acceleration"
+    ],
+    "answerIndex": 1,
+    "explanation": "Impulse = F.dt = change in momentum.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-lom-004",
+    "chapterId": "physics-laws-of-motion",
+    "subjectId": "physics",
+    "stem": "Rocket propulsion is based on the principle of conservation of",
+    "options": [
+      "Energy",
+      "Linear momentum",
+      "Angular momentum",
+      "Mass"
+    ],
+    "answerIndex": 1,
+    "explanation": "Exhaust gases carry momentum backwards, so the rocket gains equal forward momentum.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2019,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-lom-005",
+    "chapterId": "physics-laws-of-motion",
+    "subjectId": "physics",
+    "stem": "A 5 kg block rests on a rough horizontal surface with coefficient of friction 0.2 (g = 10 m s^-2). The limiting friction is",
+    "options": [
+      "1 N",
+      "5 N",
+      "10 N",
+      "25 N"
+    ],
+    "answerIndex": 2,
+    "explanation": "f = mu.N = 0.2 x 5 x 10 = 10 N.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2018,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-lom-006",
+    "chapterId": "physics-laws-of-motion",
+    "subjectId": "physics",
+    "stem": "Action and reaction forces described by Newton's third law",
+    "options": [
+      "Act on the same body",
+      "Act on different bodies",
+      "Always cancel each other's effect",
+      "Act only during collisions"
+    ],
+    "answerIndex": 1,
+    "explanation": "They act on two different bodies, so they never cancel on a single body.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2022
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-msl-001",
+    "chapterId": "physics-motion-in-a-straight-line",
+    "subjectId": "physics",
+    "stem": "A body starts from rest and moves with a uniform acceleration of 2 m s^-2. The distance covered in the first 5 s is",
+    "options": [
+      "10 m",
+      "25 m",
+      "50 m",
+      "100 m"
+    ],
+    "answerIndex": 1,
+    "explanation": "s = ut + (1/2)at^2 = 0 + (1/2)(2)(25) = 25 m.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-msl-002",
+    "chapterId": "physics-motion-in-a-straight-line",
+    "subjectId": "physics",
+    "stem": "The area under a velocity-time graph gives",
+    "options": [
+      "Acceleration",
+      "Displacement",
+      "Jerk",
+      "Average speed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Integrating velocity with respect to time gives displacement.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-msl-003",
+    "chapterId": "physics-motion-in-a-straight-line",
+    "subjectId": "physics",
+    "stem": "A ball is thrown vertically upwards with 20 m s^-1. Taking g = 10 m s^-2, the maximum height reached is",
+    "options": [
+      "10 m",
+      "20 m",
+      "40 m",
+      "5 m"
+    ],
+    "answerIndex": 1,
+    "explanation": "h = u^2 / 2g = 400 / 20 = 20 m.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-msl-004",
+    "chapterId": "physics-motion-in-a-straight-line",
+    "subjectId": "physics",
+    "stem": "Which of the following is a scalar quantity?",
+    "options": [
+      "Displacement",
+      "Velocity",
+      "Distance",
+      "Acceleration"
+    ],
+    "answerIndex": 2,
+    "explanation": "Distance has magnitude only; the rest are vectors.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2018,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-msl-005",
+    "chapterId": "physics-motion-in-a-straight-line",
+    "subjectId": "physics",
+    "stem": "A car covers the first half of a distance at 30 km h^-1 and the second half at 60 km h^-1. Its average speed for the whole journey is",
+    "options": [
+      "36 km h^-1",
+      "40 km h^-1",
+      "45 km h^-1",
+      "50 km h^-1"
+    ],
+    "answerIndex": 1,
+    "explanation": "For equal distances, average speed = 2v1v2/(v1+v2) = 2(30)(60)/90 = 40 km h^-1.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2015,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-msl-006",
+    "chapterId": "physics-motion-in-a-straight-line",
+    "subjectId": "physics",
+    "stem": "For a body moving with constant velocity, the displacement-time graph is",
+    "options": [
+      "A straight line inclined to the time axis",
+      "A parabola",
+      "A straight line parallel to the time axis",
+      "An exponential curve"
+    ],
+    "answerIndex": 0,
+    "explanation": "Constant velocity means displacement changes uniformly with time, giving a sloped straight line.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ro-001",
+    "chapterId": "physics-ray-optics-and-optical-instruments",
+    "subjectId": "physics",
+    "stem": "The focal length of a plane mirror is",
+    "options": [
+      "Zero",
+      "Infinity",
+      "Equal to object distance",
+      "Equal to half the object distance"
+    ],
+    "answerIndex": 1,
+    "explanation": "A plane mirror has an infinite radius of curvature, so f = R/2 is infinite.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2019,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ro-002",
+    "chapterId": "physics-ray-optics-and-optical-instruments",
+    "subjectId": "physics",
+    "stem": "For a medium of refractive index 1.5, the critical angle with respect to air is approximately",
+    "options": [
+      "30 degrees",
+      "41.8 degrees",
+      "48.6 degrees",
+      "60 degrees"
+    ],
+    "answerIndex": 1,
+    "explanation": "sin C = 1/n = 0.667, so C is about 41.8 degrees.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ro-003",
+    "chapterId": "physics-ray-optics-and-optical-instruments",
+    "subjectId": "physics",
+    "stem": "The power of a convex lens of focal length 20 cm is",
+    "options": [
+      "0.2 D",
+      "2 D",
+      "5 D",
+      "20 D"
+    ],
+    "answerIndex": 2,
+    "explanation": "P = 1/f (in metres) = 1/0.2 = 5 D.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ro-004",
+    "chapterId": "physics-ray-optics-and-optical-instruments",
+    "subjectId": "physics",
+    "stem": "Total internal reflection can occur when light travels from",
+    "options": [
+      "A rarer to a denser medium",
+      "A denser to a rarer medium",
+      "Any medium to vacuum only",
+      "One medium to another of equal refractive index"
+    ],
+    "answerIndex": 1,
+    "explanation": "It requires the angle of incidence in the denser medium to exceed the critical angle.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ro-005",
+    "chapterId": "physics-ray-optics-and-optical-instruments",
+    "subjectId": "physics",
+    "stem": "The image formed by a convex mirror of a real object is always",
+    "options": [
+      "Real, inverted and magnified",
+      "Virtual, erect and diminished",
+      "Real, erect and diminished",
+      "Virtual, inverted and magnified"
+    ],
+    "answerIndex": 1,
+    "explanation": "A convex mirror always forms a virtual, erect and smaller image.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-ro-006",
+    "chapterId": "physics-ray-optics-and-optical-instruments",
+    "subjectId": "physics",
+    "stem": "The lens maker's formula shows that the focal length of a lens depends on",
+    "options": [
+      "Only the radii of curvature",
+      "Only the refractive index",
+      "Both the refractive index and the radii of curvature",
+      "The size of the object"
+    ],
+    "answerIndex": 2,
+    "explanation": "1/f = (n - 1)(1/R1 - 1/R2).",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-wep-001",
+    "chapterId": "physics-work-energy-and-power",
+    "subjectId": "physics",
+    "stem": "The work done by the centripetal force on a body in uniform circular motion is",
+    "options": [
+      "Maximum",
+      "Zero",
+      "Negative",
+      "Equal to kinetic energy"
+    ],
+    "answerIndex": 1,
+    "explanation": "The force is perpendicular to displacement at every instant, so W = 0.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-wep-002",
+    "chapterId": "physics-work-energy-and-power",
+    "subjectId": "physics",
+    "stem": "The kinetic energy of a 2 kg body moving with 3 m s^-1 is",
+    "options": [
+      "3 J",
+      "6 J",
+      "9 J",
+      "18 J"
+    ],
+    "answerIndex": 2,
+    "explanation": "KE = (1/2)mv^2 = 0.5 x 2 x 9 = 9 J.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-wep-003",
+    "chapterId": "physics-work-energy-and-power",
+    "subjectId": "physics",
+    "stem": "According to the work-energy theorem, the net work done on a body equals the change in its",
+    "options": [
+      "Potential energy",
+      "Kinetic energy",
+      "Momentum",
+      "Power"
+    ],
+    "answerIndex": 1,
+    "explanation": "W_net = KE_final - KE_initial.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "JEE Main"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-wep-004",
+    "chapterId": "physics-work-energy-and-power",
+    "subjectId": "physics",
+    "stem": "One watt is equal to",
+    "options": [
+      "1 J s",
+      "1 J s^-1",
+      "1 N m^-1",
+      "1 N s"
+    ],
+    "answerIndex": 1,
+    "explanation": "Power is work per unit time, so 1 W = 1 J s^-1.",
+    "pyq": {
+      "appearCount": 2,
+      "years": [
+        2018,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-wep-005",
+    "chapterId": "physics-work-energy-and-power",
+    "subjectId": "physics",
+    "stem": "A body of mass 1 kg is raised through a height of 10 m (g = 10 m s^-2). The gain in potential energy is",
+    "options": [
+      "1 J",
+      "10 J",
+      "100 J",
+      "1000 J"
+    ],
+    "answerIndex": 2,
+    "explanation": "PE = mgh = 1 x 10 x 10 = 100 J.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "phy-wep-006",
+    "chapterId": "physics-work-energy-and-power",
+    "subjectId": "physics",
+    "stem": "In a perfectly inelastic collision, which quantity is always conserved?",
+    "options": [
+      "Kinetic energy only",
+      "Linear momentum only",
+      "Both kinetic energy and momentum",
+      "Neither of them"
+    ],
+    "answerIndex": 1,
+    "explanation": "Momentum is conserved in all collisions; kinetic energy is lost in inelastic ones.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-bf-001",
+    "chapterId": "zoology-body-fluids-and-circulation",
+    "subjectId": "zoology",
+    "stem": "The pacemaker of the human heart is the",
+    "options": [
+      "AV node",
+      "SA node",
+      "Bundle of His",
+      "Purkinje fibres"
+    ],
+    "answerIndex": 1,
+    "explanation": "The sino atrial node initiates each heart beat.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-bf-002",
+    "chapterId": "zoology-body-fluids-and-circulation",
+    "subjectId": "zoology",
+    "stem": "Persons with blood group O are called universal donors because their red cells lack",
+    "options": [
+      "Antibodies",
+      "Antigens A and B",
+      "Rh factor",
+      "Plasma proteins"
+    ],
+    "answerIndex": 1,
+    "explanation": "No A or B surface antigens means no agglutination in recipients.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-bf-003",
+    "chapterId": "zoology-body-fluids-and-circulation",
+    "subjectId": "zoology",
+    "stem": "The normal resting heart rate in a healthy adult human is about",
+    "options": [
+      "42 per minute",
+      "72 per minute",
+      "100 per minute",
+      "120 per minute"
+    ],
+    "answerIndex": 1,
+    "explanation": "Around 70 to 75 beats per minute is normal at rest.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-bf-004",
+    "chapterId": "zoology-body-fluids-and-circulation",
+    "subjectId": "zoology",
+    "stem": "Mature mammalian red blood cells are characterised by the absence of",
+    "options": [
+      "Haemoglobin",
+      "Nucleus",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "answerIndex": 1,
+    "explanation": "Enucleated RBCs carry more haemoglobin and are flexible.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-bf-005",
+    "chapterId": "zoology-body-fluids-and-circulation",
+    "subjectId": "zoology",
+    "stem": "The plasma protein directly involved in blood clotting is",
+    "options": [
+      "Albumin",
+      "Globulin",
+      "Fibrinogen",
+      "Haemoglobin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fibrinogen is converted to fibrin threads during clotting.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-bf-006",
+    "chapterId": "zoology-body-fluids-and-circulation",
+    "subjectId": "zoology",
+    "stem": "Double circulation in humans means that blood",
+    "options": [
+      "Passes through the heart twice in one complete cycle",
+      "Flows in two directions in the same vessel",
+      "Is pumped only by the left ventricle",
+      "Never mixes with lymph"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pulmonary and systemic circuits each route blood through the heart.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-da-001",
+    "chapterId": "zoology-digestion-and-absorption",
+    "subjectId": "zoology",
+    "stem": "The enzyme present in human saliva is",
+    "options": [
+      "Pepsin",
+      "Trypsin",
+      "Salivary amylase",
+      "Lipase"
+    ],
+    "answerIndex": 2,
+    "explanation": "Salivary amylase (ptyalin) begins starch digestion in the mouth.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-da-002",
+    "chapterId": "zoology-digestion-and-absorption",
+    "subjectId": "zoology",
+    "stem": "Bile juice is produced by the",
+    "options": [
+      "Gall bladder",
+      "Pancreas",
+      "Liver",
+      "Duodenum"
+    ],
+    "answerIndex": 2,
+    "explanation": "The liver secretes bile, which is stored in the gall bladder.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-da-003",
+    "chapterId": "zoology-digestion-and-absorption",
+    "subjectId": "zoology",
+    "stem": "Digestion of proteins begins in the",
+    "options": [
+      "Mouth",
+      "Stomach",
+      "Duodenum",
+      "Ileum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pepsin in the stomach starts protein digestion.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-da-004",
+    "chapterId": "zoology-digestion-and-absorption",
+    "subjectId": "zoology",
+    "stem": "Maximum absorption of digested food takes place in the",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Oesophagus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Villi of the small intestine provide a very large absorptive surface.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-da-005",
+    "chapterId": "zoology-digestion-and-absorption",
+    "subjectId": "zoology",
+    "stem": "Pepsinogen is converted to active pepsin by",
+    "options": [
+      "Bile salts",
+      "Hydrochloric acid",
+      "Trypsin",
+      "Mucus"
+    ],
+    "answerIndex": 1,
+    "explanation": "HCl in gastric juice activates pepsinogen.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-da-006",
+    "chapterId": "zoology-digestion-and-absorption",
+    "subjectId": "zoology",
+    "stem": "Which group of vitamins is absorbed along with fats?",
+    "options": [
+      "B complex",
+      "C",
+      "A, D, E and K",
+      "Only vitamin C"
+    ],
+    "answerIndex": 2,
+    "explanation": "These are the fat soluble vitamins.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2016,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-gn-001",
+    "chapterId": "zoology-genetics",
+    "subjectId": "zoology",
+    "stem": "Mendel carried out his classical experiments on",
+    "options": [
+      "Maize",
+      "Garden pea",
+      "Drosophila",
+      "Snapdragon"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mendel used Pisum sativum for his hybridisation experiments.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-gn-002",
+    "chapterId": "zoology-genetics",
+    "subjectId": "zoology",
+    "stem": "The law of segregation states that",
+    "options": [
+      "Alleles of a gene separate during gamete formation",
+      "Genes on different chromosomes assort independently",
+      "Dominant alleles always mask recessive ones",
+      "Crossing over occurs during meiosis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each gamete receives only one allele of a pair.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-gn-003",
+    "chapterId": "zoology-genetics",
+    "subjectId": "zoology",
+    "stem": "The phenotypic ratio of a monohybrid cross in the F2 generation is",
+    "options": [
+      "1:1",
+      "3:1",
+      "9:3:3:1",
+      "1:2:1"
+    ],
+    "answerIndex": 1,
+    "explanation": "Three dominant to one recessive phenotype.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-gn-004",
+    "chapterId": "zoology-genetics",
+    "subjectId": "zoology",
+    "stem": "Colour blindness in humans is inherited as",
+    "options": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X linked recessive",
+      "Y linked"
+    ],
+    "answerIndex": 2,
+    "explanation": "The gene lies on the X chromosome and is recessive, so males are affected more often.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2020,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-gn-005",
+    "chapterId": "zoology-genetics",
+    "subjectId": "zoology",
+    "stem": "Down syndrome is caused by trisomy of chromosome number",
+    "options": [
+      "13",
+      "18",
+      "21",
+      "23"
+    ],
+    "answerIndex": 2,
+    "explanation": "An extra copy of chromosome 21 causes Down syndrome.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-gn-006",
+    "chapterId": "zoology-genetics",
+    "subjectId": "zoology",
+    "stem": "The F2 phenotypic ratio of a typical dihybrid cross is",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "9:3:3:1",
+      "1:1:1:1"
+    ],
+    "answerIndex": 2,
+    "explanation": "Independent assortment of two gene pairs gives 9:3:3:1.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-hr-001",
+    "chapterId": "zoology-human-reproduction",
+    "subjectId": "zoology",
+    "stem": "Fertilisation in humans normally takes place in the",
+    "options": [
+      "Uterus",
+      "Cervix",
+      "Ampulla of the fallopian tube",
+      "Ovary"
+    ],
+    "answerIndex": 2,
+    "explanation": "The sperm meets the ovum at the ampullary isthmic junction.",
+    "pyq": {
+      "appearCount": 5,
+      "years": [
+        2015,
+        2018,
+        2021,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-hr-002",
+    "chapterId": "zoology-human-reproduction",
+    "subjectId": "zoology",
+    "stem": "The hormone chiefly responsible for maintaining pregnancy is",
+    "options": [
+      "Oestrogen",
+      "Progesterone",
+      "Prolactin",
+      "Oxytocin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Progesterone maintains the endometrium throughout pregnancy.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2017,
+        2019,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-hr-003",
+    "chapterId": "zoology-human-reproduction",
+    "subjectId": "zoology",
+    "stem": "Spermatogenesis takes place in the",
+    "options": [
+      "Epididymis",
+      "Seminiferous tubules",
+      "Vas deferens",
+      "Prostate gland"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sperms are produced in the seminiferous tubules of the testis.",
+    "pyq": {
+      "appearCount": 4,
+      "years": [
+        2016,
+        2019,
+        2021,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-hr-004",
+    "chapterId": "zoology-human-reproduction",
+    "subjectId": "zoology",
+    "stem": "The average gestation period in humans is about",
+    "options": [
+      "180 days",
+      "220 days",
+      "280 days",
+      "365 days"
+    ],
+    "answerIndex": 2,
+    "explanation": "Roughly nine months, that is about 280 days.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2021,
+        2023
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-hr-005",
+    "chapterId": "zoology-human-reproduction",
+    "subjectId": "zoology",
+    "stem": "Implantation of the blastocyst occurs in the",
+    "options": [
+      "Endometrium of the uterus",
+      "Fallopian tube",
+      "Cervix",
+      "Vagina"
+    ],
+    "answerIndex": 0,
+    "explanation": "The blastocyst embeds itself in the uterine endometrium.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2017,
+        2020,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  },
+  {
+    "id": "zoo-hr-006",
+    "chapterId": "zoology-human-reproduction",
+    "subjectId": "zoology",
+    "stem": "Human chorionic gonadotropin (hCG) is secreted by the",
+    "options": [
+      "Pituitary",
+      "Ovary",
+      "Placenta",
+      "Hypothalamus"
+    ],
+    "answerIndex": 2,
+    "explanation": "hCG from the placenta sustains the corpus luteum in early pregnancy.",
+    "pyq": {
+      "appearCount": 3,
+      "years": [
+        2018,
+        2022,
+        2024
+      ],
+      "exams": [
+        "TS EAMCET",
+        "NEET"
+      ],
+      "verified": false
+    },
+    "source": {
+      "name": "ASTRA seed set",
+      "license": "Original syllabus-based practice questions"
+    }
+  }
+]

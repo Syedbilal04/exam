@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+/*
+  Two surfaces share one palette:
+  - the landing page runs on deep space ink with aurora light
+  - study and test screens run on a pale daylight wash for long reading
+*/
+@theme {
+  --color-ink-900: #04070f;
+  --color-ink-800: #080d1c;
+  --color-ink-700: #101a33;
+  --color-ink-500: #24365e;
+
+  --color-aurora-400: #4ff2d0;
+  --color-aurora-500: #16d8b4;
+  --color-aurora-600: #0aa78d;
+
+  --color-ember-400: #ffc36b;
+  --color-ember-500: #ff9f2e;
+
+  --color-mist-50: #f4f7fb;
+  --color-mist-100: #e8eef7;
+  --color-mist-200: #d5e0ee;
+  --color-mist-400: #94a6c0;
+  --color-mist-600: #4c5f7d;
+
+  --font-display: var(--font-sora), ui-sans-serif, sans-serif;
+  --font-sans: var(--font-manrope), ui-sans-serif, sans-serif;
+
+  --shadow-lift: 0 18px 48px -24px rgb(9 22 48 / 0.45);
+  --shadow-glow: 0 0 60px -12px rgb(22 216 180 / 0.55);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink-800);
+  background-color: var(--color-mist-50);
+}
+
+/* Daylight wash used behind the wizard, cockpit, result and history screens. */
+.surface-day {
+  background:
+    radial-gradient(120% 90% at 8% -10%, #ffffff 0%, rgb(255 255 255 / 0) 55%),
+    radial-gradient(90% 70% at 100% 0%, rgb(79 242 208 / 0.22) 0%, rgb(255 255 255 / 0) 60%),
+    linear-gradient(180deg, var(--color-mist-50) 0%, var(--color-mist-100) 100%);
+}
+
+.surface-night {
+  background:
+    radial-gradient(120% 80% at 50% -20%, rgb(22 216 180 / 0.28) 0%, rgb(4 7 15 / 0) 60%),
+    radial-gradient(80% 60% at 85% 15%, rgb(255 159 46 / 0.18) 0%, rgb(4 7 15 / 0) 55%),
+    linear-gradient(180deg, var(--color-ink-900) 0%, var(--color-ink-800) 100%);
+}
+
+.glass {
+  background: rgb(255 255 255 / 0.72);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgb(213 224 238 / 0.9);
+  box-shadow: var(--shadow-lift);
+}
+
+.hairline-grid {
+  background-image:
+    linear-gradient(rgb(76 95 125 / 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(76 95 125 / 0.07) 1px, transparent 1px);
+  background-size: 72px 72px;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 18px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.rise {
+  animation: rise 0.7s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes pulse-ring {
+  0%,
+  100% {
+    opacity: 0.55;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.pulse-ring {
+  animation: pulse-ring 2.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise,
+  .pulse-ring {
+    animation: none;
+  }
+}

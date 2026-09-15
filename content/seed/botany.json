@@ -1,0 +1,255 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "bot-lw-001",
+      "chapterId": "botany-the-living-world",
+      "stem": "The system of binomial nomenclature was introduced by",
+      "options": ["Carolus Linnaeus", "Charles Darwin", "Robert Hooke", "Gregor Mendel"],
+      "answerIndex": 0,
+      "explanation": "Linnaeus gave each organism a two part scientific name.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-lw-002",
+      "chapterId": "botany-the-living-world",
+      "stem": "The basic unit of biological classification is",
+      "options": ["Genus", "Family", "Species", "Order"],
+      "answerIndex": 2,
+      "explanation": "Species is the lowest and basic taxonomic category.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-lw-003",
+      "chapterId": "botany-the-living-world",
+      "stem": "The correct sequence of taxonomic categories in descending order is",
+      "options": [
+        "Class, Order, Family, Genus",
+        "Order, Class, Genus, Family",
+        "Family, Order, Class, Genus",
+        "Genus, Family, Order, Class"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hierarchy runs Kingdom, Division, Class, Order, Family, Genus, Species.",
+      "pyq": { "appearCount": 3, "years": [2016, 2020, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "bot-lw-004",
+      "chapterId": "botany-the-living-world",
+      "stem": "A herbarium is a collection of",
+      "options": [
+        "Living plants grown for study",
+        "Dried, pressed and preserved plant specimens",
+        "Preserved animal specimens",
+        "Plant seeds only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Herbarium sheets carry dried specimens with label data.",
+      "pyq": { "appearCount": 3, "years": [2017, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-lw-005",
+      "chapterId": "botany-the-living-world",
+      "stem": "ICBN stands for",
+      "options": [
+        "Indian Code of Biological Nomenclature",
+        "International Code of Botanical Nomenclature",
+        "International Council of Biological Naming",
+        "Indian Council of Botanical Names"
+      ],
+      "answerIndex": 1,
+      "explanation": "It lays down the rules for naming plants.",
+      "pyq": { "appearCount": 2, "years": [2019, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "bot-lw-006",
+      "chapterId": "botany-the-living-world",
+      "stem": "Living plant collections maintained for reference and study are kept in a",
+      "options": ["Museum", "Herbarium", "Botanical garden", "Key"],
+      "answerIndex": 2,
+      "explanation": "Botanical gardens maintain living plants with scientific labels.",
+      "pyq": { "appearCount": 2, "years": [2018, 2022], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "bot-cl-001",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The organelle known as the powerhouse of the cell is",
+      "options": ["Ribosome", "Mitochondrion", "Lysosome", "Golgi body"],
+      "answerIndex": 1,
+      "explanation": "Mitochondria carry out aerobic respiration and produce ATP.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-cl-002",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Cell theory was proposed by",
+      "options": [
+        "Watson and Crick",
+        "Schleiden and Schwann",
+        "Robert Hooke and Leeuwenhoek",
+        "Darwin and Wallace"
+      ],
+      "answerIndex": 1,
+      "explanation": "Schleiden studied plants and Schwann animals, jointly proposing the cell theory.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-cl-003",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The ribosomes found in prokaryotic cells are of the type",
+      "options": ["70S", "80S", "60S", "40S"],
+      "answerIndex": 0,
+      "explanation": "Prokaryotes have 70S ribosomes made of 50S and 30S subunits.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-cl-004",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The plant cell wall is composed mainly of",
+      "options": ["Chitin", "Cellulose", "Peptidoglycan", "Protein"],
+      "answerIndex": 1,
+      "explanation": "Cellulose microfibrils form the primary structural material of plant cell walls.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-cl-005",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The site of photosynthesis in a plant cell is the",
+      "options": ["Chloroplast", "Mitochondrion", "Vacuole", "Nucleus"],
+      "answerIndex": 0,
+      "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+      "pyq": { "appearCount": 3, "years": [2018, 2022, 2024], "exams": ["TS EAMCET"] }
+    },
+    {
+      "id": "bot-cl-006",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The main function of the Golgi apparatus is",
+      "options": [
+        "Protein synthesis",
+        "Packaging and secretion of materials",
+        "Intracellular digestion",
+        "Energy production"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Golgi complex modifies, packages and dispatches cell products.",
+      "pyq": { "appearCount": 3, "years": [2016, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-ph-001",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The light reaction of photosynthesis takes place in the",
+      "options": ["Stroma", "Thylakoid membranes", "Cytoplasm", "Mitochondrial matrix"],
+      "answerIndex": 1,
+      "explanation": "Photosystems are embedded in the thylakoid membranes.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-ph-002",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The first stable product formed in C4 plants is",
+      "options": ["3-phosphoglyceric acid", "Oxaloacetic acid", "Pyruvic acid", "Ribulose bisphosphate"],
+      "answerIndex": 1,
+      "explanation": "C4 fixation produces the four carbon oxaloacetic acid first.",
+      "pyq": { "appearCount": 5, "years": [2015, 2018, 2020, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-ph-003",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The Calvin cycle occurs in the",
+      "options": ["Thylakoid lumen", "Stroma of the chloroplast", "Cytosol", "Nucleus"],
+      "answerIndex": 1,
+      "explanation": "Carbon fixation enzymes are dissolved in the stroma.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-ph-004",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The primary acceptor of carbon dioxide in C3 plants is",
+      "options": ["PEP", "RuBP", "OAA", "PGA"],
+      "answerIndex": 1,
+      "explanation": "RuBisCO adds CO2 to ribulose 1,5 bisphosphate.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-ph-005",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Oxygen released during photosynthesis comes from",
+      "options": ["Carbon dioxide", "Water", "Glucose", "Chlorophyll"],
+      "answerIndex": 1,
+      "explanation": "Photolysis of water in photosystem II releases oxygen.",
+      "pyq": { "appearCount": 4, "years": [2017, 2020, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-ph-006",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Chlorophyll a shows maximum absorption in which regions of the spectrum?",
+      "options": ["Green and yellow", "Blue and red", "Orange and green", "Only ultraviolet"],
+      "answerIndex": 1,
+      "explanation": "Chlorophyll a absorbs strongly in the blue violet and red regions.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-mb-001",
+      "chapterId": "botany-molecular-basis-of-inheritance",
+      "stem": "The double helix model of DNA was proposed by",
+      "options": ["Watson and Crick", "Griffith", "Hershey and Chase", "Meselson and Stahl"],
+      "answerIndex": 0,
+      "explanation": "Watson and Crick proposed the model in 1953 using Franklin's X-ray data.",
+      "pyq": { "appearCount": 4, "years": [2017, 2019, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-mb-002",
+      "chapterId": "botany-molecular-basis-of-inheritance",
+      "stem": "In a DNA molecule, adenine pairs with",
+      "options": ["Guanine", "Cytosine", "Thymine", "Uracil"],
+      "answerIndex": 2,
+      "explanation": "A pairs with T through two hydrogen bonds in DNA.",
+      "pyq": { "appearCount": 3, "years": [2018, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-mb-003",
+      "chapterId": "botany-molecular-basis-of-inheritance",
+      "stem": "The enzyme that joins Okazaki fragments during replication is",
+      "options": ["DNA polymerase", "DNA ligase", "Helicase", "Primase"],
+      "answerIndex": 1,
+      "explanation": "Ligase seals the nicks between adjacent fragments on the lagging strand.",
+      "pyq": { "appearCount": 4, "years": [2016, 2019, 2021, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-mb-004",
+      "chapterId": "botany-molecular-basis-of-inheritance",
+      "stem": "The central dogma of molecular biology is",
+      "options": [
+        "Protein to RNA to DNA",
+        "DNA to RNA to protein",
+        "RNA to DNA to protein",
+        "DNA to protein to RNA"
+      ],
+      "answerIndex": 1,
+      "explanation": "Genetic information flows from DNA through RNA to protein.",
+      "pyq": { "appearCount": 3, "years": [2017, 2020, 2023], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-mb-005",
+      "chapterId": "botany-molecular-basis-of-inheritance",
+      "stem": "Transcription in prokaryotes is carried out by",
+      "options": ["DNA polymerase", "RNA polymerase", "Reverse transcriptase", "Ligase"],
+      "answerIndex": 1,
+      "explanation": "A single RNA polymerase makes all classes of RNA in bacteria.",
+      "pyq": { "appearCount": 3, "years": [2018, 2022, 2024], "exams": ["TS EAMCET", "NEET"] }
+    },
+    {
+      "id": "bot-mb-006",
+      "chapterId": "botany-molecular-basis-of-inheritance",
+      "stem": "The number of nucleotides that make up one codon is",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 2,
+      "explanation": "The genetic code is a triplet code.",
+      "pyq": { "appearCount": 3, "years": [2016, 2021, 2023], "exams": ["TS EAMCET", "NEET"] }
+    }
+  ]
+}
