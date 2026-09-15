@@ -1,21 +1,96 @@
 {
-  "$comment": "Allowlist for `npm run import:pyq`. Only add sources that publish question sets under a licence that permits reuse. Each source is fetched as JSON and mapped with the named adapter.",
+  "$comment": "Allowlist for `npm run import:pyq`. A source may only be enabled if its licence permits reuse; the importer refuses anything without a declared licence. Questions are mapped onto TSBIE chapters with content/chapter-keywords.json, and anything that cannot be mapped confidently is skipped.",
   "sources": [
     {
-      "id": "example-open-bank",
-      "enabled": false,
-      "url": "https://example.org/open-pyq/ts-eamcet-physics.json",
-      "adapter": "generic-v1",
-      "subjectId": "physics",
-      "attribution": {
-        "name": "Example Open Question Bank",
-        "url": "https://example.org/open-pyq",
-        "license": "CC BY-SA 4.0"
+      "id": "mmlu-physics",
+      "enabled": true,
+      "adapter": "mmlu-v1",
+      "subjects": ["physics"],
+      "hf": {
+        "dataset": "cais/mmlu",
+        "configs": ["high_school_physics", "conceptual_physics", "college_physics"],
+        "splits": ["test", "validation", "dev"]
       },
-      "chapterMap": {
-        "kinematics": "physics-motion-in-a-straight-line",
-        "newton-laws": "physics-laws-of-motion"
+      "attribution": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
       }
+    },
+    {
+      "id": "mmlu-chemistry",
+      "enabled": true,
+      "adapter": "mmlu-v1",
+      "subjects": ["chemistry"],
+      "hf": {
+        "dataset": "cais/mmlu",
+        "configs": ["high_school_chemistry", "college_chemistry"],
+        "splits": ["test", "validation", "dev"]
+      },
+      "attribution": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths",
+      "enabled": true,
+      "adapter": "mmlu-v1",
+      "subjects": ["maths"],
+      "hf": {
+        "dataset": "cais/mmlu",
+        "configs": ["high_school_mathematics", "college_mathematics"],
+        "splits": ["test", "validation", "dev"]
+      },
+      "attribution": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-biology",
+      "enabled": true,
+      "adapter": "mmlu-v1",
+      "subjects": ["botany", "zoology"],
+      "hf": {
+        "dataset": "cais/mmlu",
+        "configs": ["high_school_biology", "college_biology", "anatomy", "medical_genetics"],
+        "splits": ["test", "validation", "dev"]
+      },
+      "attribution": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "sciq",
+      "enabled": false,
+      "$note": "CC BY-NC 3.0: free for a non-commercial portal, but blocks paid plans later. Enable only if this app will stay non-commercial.",
+      "adapter": "sciq-v1",
+      "subjects": ["physics", "chemistry", "botany", "zoology"],
+      "hf": {
+        "dataset": "allenai/sciq",
+        "configs": ["default"],
+        "splits": ["train", "validation", "test"]
+      },
+      "attribution": {
+        "name": "SciQ (Allen Institute for AI)",
+        "url": "https://huggingface.co/datasets/allenai/sciq",
+        "license": "CC BY-NC 3.0"
+      }
+    }
+  ],
+  "$rejected": [
+    {
+      "source": "soughed/jee-main-questions, eQOURSE/jee-advanced-questions",
+      "reason": "Real JEE papers with topic labels, but the datasets declare no licence and the underlying papers are NTA/IIT copyright. Not usable without written permission."
+    },
+    {
+      "source": "abhay557/indian-exams-rawdata (Kaggle)",
+      "reason": "Tagged CC BY 4.0 by the uploader, but the card states the questions remain the property of the conducting bodies and were collected under a fair-use claim. The uploader cannot relicense them."
     }
   ]
 }

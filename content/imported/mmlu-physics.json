@@ -1,0 +1,5911 @@
+{
+  "source": {
+    "name": "MMLU (Center for AI Safety)",
+    "url": "https://huggingface.co/datasets/cais/mmlu",
+    "license": "MIT"
+  },
+  "questions": [
+    {
+      "id": "mmlu-physics-9608cca2edd8",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "The plates of a capacitor are charged to a potential difference of 5 V. If the capacitance is 2 mF, what is the charge on the positive plate?",
+      "options": [
+        "0.005 C",
+        "0.01 C",
+        "0.02 C",
+        "0.5 C"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-4c0a9d9f87ed",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "Which of these quantities decreases as the inverse square of distance for distances far from the objects producing the fields?",
+      "options": [
+        "the electric field produced by a finite-length charged rod",
+        "the electric field produced by an infinitely long charged cylinder",
+        "the electric field produced by an infinite plane of charge",
+        "the magnetic field produced by an infinitely long, straight current-carrying wire"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-28b7e55a2da8",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "subjectId": "physics",
+      "stem": "A solid, metal object is isolated from other charges and has charge distributed on its surface. The charge distribution is not uniform. It may be correctly concluded that the",
+      "options": [
+        "electric field outside the object is zero",
+        "the electric field outside the object is equal to the electric field inside the object",
+        "the electric field outside the object is directly proportional to the distance away from the center of mass of the object",
+        "the electric field outside the object, but very close to the surface, is equal to the surface charge density at any location divided by the permittivity of free space"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-6791a92ae534",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "Standing waves are produced by a 100-Hz generator in a string of fixed length. The tension in the string is increased until a new set of standing waves is produced. Will the wavelength of the new standing waves be greater than or less than the wavelength of the original standing waves?",
+      "options": [
+        "Less, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength.",
+        "Greater, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength.",
+        "Greater, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength.",
+        "Less, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5d0df48a542c",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "Two identical capacitors are hooked in parallel to an external circuit. Which of the following quantities must be the same for both capacitors? I. the charge stored on the capacitor II.  the voltage across the capacitor III. the capacitance of the capacitor",
+      "options": [
+        "I only",
+        "II only",
+        "II and III only",
+        "(E) I, II, and III"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-51419447f60d",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "A 1-kg object is released from rest at the top of a rough-surfaced incline. The object slides without rotating to the bottom of the incline. The object’s kinetic energy at the bottom must be",
+      "options": [
+        "Equal to the block’s gravitational potential energy when it was released, because total mechanical energy must be conserved.",
+        "Equal to the block’s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline.",
+        "Less than the block’s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy.",
+        "Less than the block’s gravitational potential energy when it was released, because the work done by the friction force must be greater than the block’s gain in kinetic energy."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e871d1b55dc5",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "How much work is required to charge a 10 µF capacitor to a potential difference of 100 V ?",
+      "options": [
+        "0.005 J",
+        "0.01 J",
+        "0.05 J",
+        "0.1 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-58153d3169c1",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "A soccer ball, at rest on the ground, is kicked with an initial velocity of 10 m/s at a launch angle of 30°. Calculate its total flight time, assuming that air resistance is negligible.",
+      "options": [
+        "0.5 s",
+        "1 s",
+        "2 s",
+        "4 s"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-6da4913d0c8b",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "Two identical containers are filled with different gases. Container 1 is filled with hydrogen and container 2 is filled with nitrogen. Each container is set on a lab table and allowed to come to thermal equilibrium with the room. Which of the following correctly compares the properties of the two gases?",
+      "options": [
+        "The average kinetic energy of the hydrogen gas is greater than the nitrogen gas.",
+        "The average force exerted on the container by the hydrogen gas is greater than the nitrogen gas.",
+        "The density of the hydrogen gas is less than the nitrogen gas.",
+        "The pressures of the gases cannot be compared without knowing the number of molecules in each container."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-63d444bfd229",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "When hot water is poured into a beaker containing cold alcohol, the temperature of the mixture will eventually reach the same temperature. Considering the scale of the size of the molecules of the fluids, which of the following is the primary reason for this phenomenon?",
+      "options": [
+        "The high temperature water will rise to the top of the container until it has cooled and then mixes with the alcohol.",
+        "The molecules of the water continue to have a higher kinetic energy than the molecules of the alcohol, but the two liquids mix until the energy is spread evenly throughout the container.",
+        "The hot water produces thermal radiation that is absorbed by the cold alcohol until the kinetic energy of all the molecules is the same.",
+        "The water molecules collide with the alcohol molecules, transferring energy until the average kinetic energy of both the water and alcohol molecules are the same."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5e4a5101ab04",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "The radius of Mars is about half that of Earth; the mass of Mars is about one-tenth that of Earth. Which of the following is closest to the gravitational field at the surface of Mars?",
+      "options": [
+        "10 N/kg",
+        "4 N/kg",
+        "2 N/kg",
+        "0.5 N/kg"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ed3f6fd9f164",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "Above an infinitely large plane carrying charge density σ, the electric field points up and is equal to σ/2εo. What is the magnitude and direction of the electric field below the plane?",
+      "options": [
+        "σ/2εo, down",
+        "σ/2εo, up",
+        "σ/εo, down",
+        "σ/εo, up"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f6422caaa0c9",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "A beam of electrons has speed 10^7 m/s. It is desired to use the magnetic field of the Earth, 5 × 10−5 T, to bend the electron beam into a circle. What will be the radius of this circle?",
+      "options": [
+        "1 nm",
+        "1 μm",
+        "1 mm",
+        "1 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-63c924849562",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "A horse is attached to a cart that is at rest behind it. Which force, or combination of forces, explains how the horse-cart system can accelerate from rest?",
+      "options": [
+        "The forward static friction force of the ground on the horse is greater than any friction forces acting backward on the cart, providing a forward acceleration.",
+        "The forward force of the horse on the cart is greater than the backward force of the cart on the horse, providing a forward acceleration.",
+        "The force of the horse’s muscles on the rest of the horse-cart system provides the necessary acceleration.",
+        "The upward normal force of the ground on the horse is greater than the horse’s weight, providing an upward acceleration."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ffdb224a0ba0",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "In a certain region, the electric field varies with the radius away from origin by the equation Er = –6r^2 + 4r + 3, where r is given in meters and E in N/C. The potential difference between the origin and the point (3, 4) is",
+      "options": [
+        "–165 V",
+        "–120 V",
+        "64 V",
+        "185 V"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-de5af851300c",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "An ideal battery of constant voltage V supplies current to a circuit that has total resistance R. If R is doubled, what will happen to the total power dissipated by the circuit?",
+      "options": [
+        "It will double.",
+        "It will quadruple.",
+        "It will be halved.",
+        "It will remain the same."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-18f27afa575f",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Ultraviolet light has a wavelength of about 6 × 10^-8 m. What is the frequency of this light?",
+      "options": [
+        "5 × 10^15 Hz",
+        "0.5 Hz",
+        "2 Hz",
+        "20 Hz"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-fe336a1d45e4",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "Each of the following ionized isotopes is projected with the same speed into a uniform magnetic field B such that the isotope's initial velocity is perpendicular to B. Which combination of mass and charge would result in a circular path with the largest radius?",
+      "options": [
+        "m = 16 u, q = –5 e",
+        "m = 17 u, q = –4 e",
+        "m = 18 u, q = –3 e",
+        "m = 20 u, q = –1 e"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-34237e225cc8",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "An electric dipole consists of a pair of equal but opposite point charges of magnitude 4.0 nC separated by a distance of 2.0 cm. What is the electric field strength at the point midway between the charges?",
+      "options": [
+        "0",
+        "9.0 × 10^4 N/C",
+        "1.8 × 10^5 N/C",
+        "7.2 × 10^5 N/C"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-80f6b4611c5b",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "A very slow-moving positron interacts with a stationary electron. Which of the following statements correctly describes a possible outcome of this reaction and why it would occur?",
+      "options": [
+        "Conservation of mass indicates that if a single new particle were created in the reaction, it must have a total mass equal to the combined masses of the electron and positron.",
+        "Conservation of charge indicates that all new particles created in the reaction would have no electric charge.",
+        "Conservation of momentum indicates that two identical gamma rays moving off in opposite directions could be created.",
+        "Conservation of energy indicates that the antimatter positron could annihilate into energy, leaving the stationary electron behind."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-25b47cff3b69",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "A box sits on an inclined plane without sliding. As the angle of the plane (measured from the horizontal) increases, the normal force",
+      "options": [
+        "increases linearly",
+        "decreases linearly",
+        "does not change",
+        "decreases nonlinearly"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b5223fd2ca41",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "A small cart of mass m is initially at rest. It collides elastically with a large cart of mass 4m and velocity v. The large cart loses half its kinetic energy to the little cart. The little cart now has a velocity of",
+      "options": [
+        "1.41v",
+        "v",
+        "2v",
+        "4v"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-2f680e9106c8",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "A whiffle ball is tossed straight up, reaches a highest point, and falls back down. Air resistance is not negligible. Which of the following statements are true?\nI. The ball’s speed is zero at the highest point.\nII. The ball’s acceleration is zero at the highest point.\nIII. The ball takes a longer time to travel up to the highest point than to fall back down.",
+      "options": [
+        "I only",
+        "II only",
+        "I & II only",
+        "I & III only"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ade1f7aed656",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "Traveling at an initial speed of 1.5 × 10^6 m/s, a proton enters a region of constant magnetic field of magnitude 1.5 T. If the proton's initial velocity vector makes an angle of 30° with the magnetic field, compute the proton's speed 4 s after entering the magnetic field.",
+      "options": [
+        "5.0 × 10^6 m/s",
+        "7.5 × 10^6 m/s",
+        "1.5 × 10^6 m/s",
+        "3.0 × 10^6 m/s"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7c8f5f3f6aac",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "subjectId": "physics",
+      "stem": "During an isothermal expansion, a confined ideal gas does 150 J of work against its surroundings. Which of the following describes the heat transfer during this process?",
+      "options": [
+        "150 J of heat was added to the gas.",
+        "150 J of heat was removed from the gas.",
+        "300 J of heat was added to the gas.",
+        "300 J of heat was removed from the gas."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f354f16a9909",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "A guitar string creates a sound wave of known frequency. Which of the following describes a correct and practical method of measuring the wavelength of the sound wave with a meterstick?",
+      "options": [
+        "Lightly touch the guitar string in the middle such that a single node is created. Measure the length of the string; this is the wavelength.",
+        "Measure the length of the guitar string; this is half the wavelength.",
+        "Adjust the length of a pipe placed near the string so that resonances are heard. Measure the difference between the pipe lengths for consecutive resonances; this is half the wavelength.",
+        "Measure the peak-to-peak distance of the wave as it passes; this is the wavelength."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-42523f9e6760",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "subjectId": "physics",
+      "stem": "Which of the following statements about images is true?",
+      "options": [
+        "Images produced by concave lenses are always real.",
+        "Images produced by concave mirros are always real.",
+        "Images produced by convex lenses can be both real and virtual.",
+        "Images produced by convex mirrors can be both real and virtual."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e3fd44a9e62f",
+      "chapterId": "physics-oscillations",
+      "subjectId": "physics",
+      "stem": "A horizontal spring-block oscillator is in motion when a second block of equal mass falls on top of the oscillating block. If the two blocks stick together, what effect will this have on the amplitude of the oscillations?",
+      "options": [
+        "It will increase the amplitude.",
+        "It will decrease the amplitude.",
+        "It will have no effect.",
+        "It would depend on where the original block was in its cycle when the second block fell."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-a11865a07962",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "A person standing on a horizontal floor is acted upon by two forces: the downward pull of gravity and the upward normal force of the floor. These two forces",
+      "options": [
+        "have equal magnitudes and form an action-reaction pair",
+        "have equal magnitudes and do not form an action-reaction pair",
+        "have unequal magnitudes and form an action-reaction pair",
+        "have unequal magnitudes and do not form an action-reaction pair"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-43eae68dbc59",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "A particle of mass m and charge Q and velocity V is directed toward a uniform electric field of strength E and travels a distance d. How far does the particle travel if the original velocity is doubled and the mass is cut in half?",
+      "options": [
+        "4d",
+        "2d",
+        "d",
+        "1/2d"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-010eb0ca000e",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "An object of mass m1 experiences a linear, elastic collision with a stationary object of unknown mass. In addition to m1, what is the minimum necessary information that would allow you to determine the mass of the second object?",
+      "options": [
+        "The final speed of object 1",
+        "The initial speed of object 1",
+        "The final speed of object 2",
+        "Any 2 of the above values"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-20dcb249f68b",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "A wooden block experiences a frictional force, f, as it slides across a table. If a block of the same material with half the height and twice the length were to slide across the table, what would be the frictional force it experienced?",
+      "options": [
+        "(1/2)f",
+        "f",
+        "2f",
+        "4f"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-d0a0f7a6929d",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "subjectId": "physics",
+      "stem": "An object is placed 10 cm in front of a diverging mirror. What is the focal length of the mirror if the image appears 2 cm behind the mirror?",
+      "options": [
+        "-3/5 cm",
+        "-5/3 cm",
+        "-2/5 cm",
+        "-5/2 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e23538852e3f",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "subjectId": "physics",
+      "stem": "A fluid of density ρ flows through a horizontal pipe with negligible viscosity. The flow is streamlined with constant flow rate. The diameter of the pipe at Point 1 is d and the flow speed is V. If the diameter of the pipe at Point 2 is d/3, then the pressure at Point 2 is",
+      "options": [
+        "less than the pressure at Point 1 by 4 ρv^2",
+        "less than the pressure at Point 1 by 40 ρv^2",
+        "more than the pressure at Point 1 by 4 ρv^2",
+        "more than the pressure at Point 1 by 40 ρv^2"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-c2ae260b3bc2",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "Which of the following correctly describes the motion of a real object in free fall? Assume that the object experiences drag force proportional to speed and that it strikes the ground before reaching terminal sped.",
+      "options": [
+        "It will fall with increasing speed and increasing acceleration.",
+        "It will fall with increasing speed and decreasing acceleration.",
+        "It will fall with decreasing speed and increasing acceleration.",
+        "It will fall with decreasing speed and decreasing acceleration."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-8799626393fd",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "subjectId": "physics",
+      "stem": "A bi-convex lens has a radius of curvature of magnitude 20 cm. Which of the following best describes the image formed of an object of height 2 cm placed 30 cm from the lens?",
+      "options": [
+        "Real, inverted, height = 1 cm",
+        "Virtual, upright, height = 0.25 cm",
+        "Real, upright, height = 1 cm",
+        "Virtual, inverted, height = 0.25 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-793a5ef98771",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "Traveling at an initial speed of 1.5 × 10^6 m/s, a proton enters a region of constant magnetic field, B, of magnitude 1.0 T. If the proton's initial velocity vector makes an angle of 30° with the direction of B, compute the proton's speed 4 s after entering the magnetic field.",
+      "options": [
+        "5.0 × 10^5 m/s",
+        "7.5 × 10^5 m/s",
+        "1.5 × 10^6 m/s",
+        "3.0 × 10^6 m/s"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-228d90e9c5ef",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "Which of the following changes to a circuit will always bring about an increase in the current?",
+      "options": [
+        "Increased voltage and increased resistance",
+        "Decreased voltage and decreased resistance",
+        "Increased voltage and decreased resistance",
+        "Decreased voltage and increased resistance"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-58585505da03",
+      "chapterId": "physics-motion-in-a-plane",
+      "subjectId": "physics",
+      "stem": "Which of the following concerning uniform circular motion is true?",
+      "options": [
+        "The centrifugal force is the action-reaction pair of the centripetal force.",
+        "The centripetal acceleration and velocity point in the same direction.",
+        "The velocity of the object in motion changes whereas the acceleration of the object is constant.",
+        "A satellite undergoing uniform circular motion is falling toward the center in a circular path."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-0f8feeabc645",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "It is known that a lab cart is moving east at 25 cm/s at time t1 = 0.10 s, and then moving east at 15 cm/s at t2 = 0.20 s. Is this enough information to determine the direction of the net force acting on the cart between t1 and t2?",
+      "options": [
+        "Yes, since we know the cart is slowing down, its momentum change is opposite the direction of movement, and the net force is in the direction of momentum change.",
+        "No, because we don’t know whether forces such as friction or air resistance might be acting on the cart.",
+        "No, because we don’t know the mass of the cart.",
+        "Yes, since we know the cart keeps moving to the east, the net force must be in the direction of motion."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-9f4e83a31ce0",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "A sound wave with frequency f travels through air at speed v. With what speed will a sound wave with frequency 4f travel through the air?",
+      "options": [
+        "v/4",
+        "v",
+        "2v",
+        "4v"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e1a6ae43fb97",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "Under what conditions is the net electric flux through a closed surface proportional to the enclosed charge?",
+      "options": [
+        "under any conditions",
+        "only when the enclosed charge is symmetrically distributed",
+        "only when all nearby charges are symmetrically distributed",
+        "only when there are no charges outside the surface"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-fe09f1af75bb",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "A beam of monochromatic light entering a glass window pane from the air will experience a change in",
+      "options": [
+        "frequency and wavelength",
+        "speed and wavelength",
+        "speed only",
+        "wavelength only"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-51876ccc871c",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "A car starts from rest and uniformly accelerates to a final speed of 20.0 m/s in a time of 15.0 s. How far does the car travel during this time?",
+      "options": [
+        "150 m",
+        "300 m",
+        "450 m",
+        "600 m"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-657028501d03",
+      "chapterId": "physics-motion-in-a-plane",
+      "subjectId": "physics",
+      "stem": "At what angle to the horizontal should an ideal projectile be launched so that its horizontal displacement (the range) is equal to its maximum vertical displacement?",
+      "options": [
+        "sin–1 (1/g)",
+        "cos–1 (1/g)",
+        "45°",
+        "tan–1 4"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-9d1cac275fbe",
+      "chapterId": "physics-motion-in-a-plane",
+      "subjectId": "physics",
+      "stem": "Which one of the following statements is true concerning the motion of an ideal projectile launched at an angle of 45° to the horizontal?",
+      "options": [
+        "The acceleration vector points opposite to the velocity vector on the way up and in the same direction as the velocity vector on the way down.",
+        "The speed at the top of the trajectory is zero.",
+        "The object's total speed remains constant during the entire flight.",
+        "The vertical speed decreases on the way up and increases on the way down."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-4d1e28e4a4ab",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "A moving 1.5-kg cart collides with and sticks to a 0.5-kg cart which was initially at rest. Immediately after the collision, the carts each have the same ______ as each other.",
+      "options": [
+        "Velocity",
+        "Kinetic energy",
+        "Mass",
+        "Linear momentum"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-349977b33b9e",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "A car moving with speed v reaches the foot of an incline of angle θ. The car coasts up the incline without using the engine. Neglecting friction and air resistance, which of the following is correct about the magnitude of the car’s horizontal acceleration ax and vertical acceleration ay?",
+      "options": [
+        "ax = 0; ay < g",
+        "ax = 0; ay = g",
+        "ax < g; ay < g",
+        "ax < g; ay = g"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-385af2489ca3",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "Which of the following would increase the capacitance of a parallel-plate capacitor?",
+      "options": [
+        "Using smaller plates",
+        "Replacing the dielectric material between the plates with one that has a smaller dielectric constant",
+        "Decreasing the voltage between the plates",
+        "Moving the plates closer together"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1e65b1730791",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "subjectId": "physics",
+      "stem": "A man stands with his hands to his sides on a frictionless platform that is rotating. Which of the following could change the angular momentum of the man-platform system?",
+      "options": [
+        "The man catches a baseball thrown to him by a friend.",
+        "The man thrusts his arms out away from his body",
+        "The man thrusts his arms out away from his body, and then quickly brings his arms back to his side again.",
+        "The man jumps straight up in the air and lands back on the platform."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-c7cab1ce3837",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Which of the following types of electromagnetic radiation has the longest wavelength?",
+      "options": [
+        "Gamma rays",
+        "Ultraviolet",
+        "Blue light",
+        "Orange light"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-664f6c5b6853",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "subjectId": "physics",
+      "stem": "A convex lens of focal length f = 0.2 m is used to examine a small coin lying on a table. During the examination, the lens is held a distance 0.3 m above the coin and is moved slowly to a distance of 0.1 m above the coin. During this process, what happens to the image of the coin?",
+      "options": [
+        "The image continually increases in size.",
+        "The image continually decreases in size.",
+        "The image gets smaller at first and then bigger in size.",
+        "The image flips over."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7b6f6a398bf9",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "A 30 mF capacitor has 6 millicoulombs of charge on each plate. The energy stored in the capacitor is most nearly",
+      "options": [
+        "5.4 × 10–10 J",
+        "9.0 × 10–8 J",
+        "0.6 J",
+        "12.5 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-6bdd4b02c8ea",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "Two objects, a sphere and a block of the same mass, are released from rest at the top of an inclined plane. The sphere rolls down the inclined plane without slipping. The block slides down the plane without friction. Which object reaches the bottom of the ramp first?",
+      "options": [
+        "The sphere, because it gains rotational kinetic energy, but the block does not",
+        "The sphere, because it gains mechanical energy due to the torque exerted on it, but the block does not",
+        "The block, because it does not lose mechanical energy due to friction, but the sphere does",
+        "The block, because it does not gain rotational kinetic energy, but the sphere does"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b63f60a34cc5",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Which of the following changes to a double-slit interference experiment would increase the widths of the fringes in the interference pattern that appears on the screen?",
+      "options": [
+        "Use light of a shorter wavelength.",
+        "Move the screen closer to the slits.",
+        "Move the slits closer together.",
+        "Use light with a lower wave speed."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-67c5962f06e9",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "A particle is subjected to a conservative force whose potential energy function is U(x) = (x – 2)3 – 12x where U is given in joules when x is measured in meters. Which of the following represents a position of stable equilibrium?",
+      "options": [
+        "x = –4",
+        "x = –2",
+        "x = 0",
+        "x = 4"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ca7629a70e16",
+      "chapterId": "physics-motion-in-a-plane",
+      "subjectId": "physics",
+      "stem": "An electron (mass = m, charge = -E) is rotated with speed V upwards, in the plane of the page, into a region containing a uniform magnetic field B, that is directed into the plane of the page. Describe the electron's subsequent circular motion.",
+      "options": [
+        "Clockwise rotation; radius of path = mv/(eB)",
+        "Counterclockwise rotation; radius of path = mv/(eB)",
+        "Clockwise rotation; radius of path = eB/(mv)",
+        "Counterclockwise rotation; radius of path = eB/(mv)"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-d1c5d7504cdd",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "subjectId": "physics",
+      "stem": "What happens to the image formed by a concave mirror as the object is moved from far away to near the focal point?",
+      "options": [
+        "The image moves away from the mirror and gets shorter.",
+        "The image moves away from the mirror and gets taller.",
+        "The image moves toward the mirror and gets shorter.",
+        "The image moves toward the mirror and gets taller."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-a06d83c92d67",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "A stone is thrown horizontally with an initial speed of 10 m/s from a bridge. Assuming that air resistance is negligible, how long would it take the stone to strike the water 80 m below the bridge?",
+      "options": [
+        "1 s",
+        "2 s",
+        "4 s",
+        "8 s"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-19088bd46585",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "Which of the following statements about electric and magnetic fields is FALSE:",
+      "options": [
+        "A charge moving along the direction of an electric field will experience a force, but a charge moving along the direction of a magnetic field will not experience a force.",
+        "All charges experience a force in an electric field, but only moving charges can experience a force in a magnetic field.",
+        "A positive charge moves in the direction of an electric field; a positive charge moves perpendicular to a magnetic field.",
+        "All moving charges experience a force parallel to an electric field and perpendicular to a magnetic field."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7603c436f2ba",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "A confined ideal gas undergoes a cyclical process in three steps—an isobaric step, followed by an isochoric step, followed by an isothermal step. Which of the following must be true?",
+      "options": [
+        "The change in internal energy of the gas is equal to the work done during the isobaric step.",
+        "The change in internal energy of the gas is equal to the work done during the isobaric step minus the work done during the isothermal step.",
+        "The total work done during the cycle is positive.",
+        "The total work done during the cycle is equal but opposite to the net amount of heat transferred."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-30299618a675",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "A sphere starts from rest atop a hill with a constant angle of inclination and is allowed to roll without slipping down the hill. What force provides the torque that causes the sphere to rotate?",
+      "options": [
+        "Static friction",
+        "Kinetic friction",
+        "The normal force of the hill on the sphere",
+        "Gravity"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-cec6ae9cf1c9",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "A block is dragged along a table and experiences a frictional force, f, that opposes its movement. The force exerted on the block by the table is",
+      "options": [
+        "zero",
+        "parallel to the table",
+        "perpendicular to the table",
+        "neither parallel nor perpendicular to the table"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f525a8f783f4",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "A table supports a wooden block placed on the tabletop. Which fundamental force of nature is responsible for this interaction, and why?",
+      "options": [
+        "The electric force, because the protons in the nuclei of the top atomic layer of the table repel the nuclei in the bottom atomic layer of the wood.",
+        "The gravitational force, because by F = GMm/r^2, the force of the table on the wood at that close range is sufficient to balance the force of the Earth on the wood.",
+        "The electric force, because the outer electrons in the top atomic layer of the table repel the outer electrons in the bottom atomic layer of the wood.",
+        "The strong nuclear force, because the protons in the nuclei of the top atomic layer of the table repel the nuclei in the bottom atomic layer of the wood."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-d176f5d67f9c",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "Two ice skaters are moving on frictionless ice and are about to collide. The 50-kg skater is moving directly west at 4 m/s. The 75-kg skater is moving directly north at 2 m/s. After the collision they stick together. For this scenario, which of the following is true?",
+      "options": [
+        "The linear momentum of the system is conserved because the net force on the system is nonzero during the collision.",
+        "Only the kinetic energy of the system is conserved because it is an inelastic collision.",
+        "Only the kinetic energy of the system is conserved because it is an elastic collision.",
+        "The linear momentum of the system is conserved because the net force on the system is zero."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-dbf8096cc413",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "The mass of the Earth is 5.97 × 10^24 kg. The Moon, whose center is 3.84 × 10^8 m from the Earth’s center, has mass 7.35 × 10^22 kg. Which of the following is the best estimate of the gravitational force of the Earth on the Moon?",
+      "options": [
+        "10^39 N",
+        "10^29 N",
+        "10^19 N",
+        "10^9 N"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-8dfa64d78127",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "A man stands in an elevator as it begins to ascend. Does the normal force from the floor do work on the man?",
+      "options": [
+        "Yes, and the work done will be positive.",
+        "Yes, and the work done will be negative.",
+        "Yes, but the sign can’t be determined.",
+        "No."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-eef0a2943bac",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "Experimenter A uses a very small test charge qo, and experimenter B uses a test charge 2qo to measure an electric field produced by two parallel plates. A finds a field that is",
+      "options": [
+        "greater than the field found by B",
+        "the same as the field found by B",
+        "less than the field found by B",
+        "either greater or less than the field found by B, depending on the accelerations of the test charges"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b91216b8266f",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "A 2 μF capacitor is connected directly to a battery. When the capacitor is fully charged, it stores 600 μC of charge. An experimenter replaces the 2 μF capacitor with three 18 μF capacitors in series connected to the same battery. Once the capacitors are fully charged, what charge is stored on each capacitor?",
+      "options": [
+        "100 μC",
+        "200 μC",
+        "600 μC",
+        "1800 μC"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f80a0da9f495",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "A particle's kinetic energy is changing at a rate of –6.0 J/s when its speed is 3.0 m/s. What is the magnitude of the force on the particle at this moment?",
+      "options": [
+        "0.5 N",
+        "2.0 N",
+        "4.5 N",
+        "9.0 N"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e4178c43b312",
+      "chapterId": "physics-motion-in-a-plane",
+      "subjectId": "physics",
+      "stem": "A car rounds a banked curve of uniform radius. Three forces act on the car: a friction force between the tires and the road, the normal force from the road, and the weight of the car. Which provides the centripetal force which keeps the car in circular motion?",
+      "options": [
+        "the friction force alone",
+        "the normal force alone",
+        "the weight alone",
+        "a combination of the normal force and the friction force"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-4ec54f60d97c",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "A stone is thrown horizontally with an initial speed of 30 m/s from a bridge. Find the stone's total speed when it enters the water 4 seconds later, assuming that air resistance is negligible.",
+      "options": [
+        "30 m/s",
+        "40 m/s",
+        "50 m/s",
+        "60 m/s"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-bdbb3537cde4",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "A rigid, solid container of constant volume holds an ideal gas of volume v1 and temperature T1 and pressure P1. The temperature is increased in an isochoric process. Which of the following is NOT true?",
+      "options": [
+        "The average speed of the molecules increases.",
+        "The pressure increases.",
+        "The kinetic energy of the system increases.",
+        "The volume increases."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-530d95749d30",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "A string of fixed tension and linear mass density is attached to a vibrating speaker. It is observed that a speaker frequency of 60 Hz does not produce standing waves in the string. Which explanation for this phenomenon is correct?",
+      "options": [
+        "The string length is not a multiple of half the wavelength of the wave.",
+        "The wave speed on the string is fixed.",
+        "60 Hz is in the lowest range of audible sound.",
+        "The wavelength of the wave produced by the speaker is equal to the speed of waves on the string divided by 60 Hz."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b8a7ade3d041",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "A spherical charge distribution varies with the radius r by the equation ρ = ar, where ρ is the volume charge density and a is a positive constant. The distribution goes out to a radius R. Which of the following is true of the electric field strength due to this charge distribution at a distance r from the center?",
+      "options": [
+        "It increases as r approaches infinity.",
+        "It decreases linearly for r > R.",
+        "It increases linearly for r > R.",
+        "It increases non-linearly for r < R."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-8c4c528e216c",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "A nonconducting sphere is given a nonzero net electric charge, +Q, and then brought close to a neutral conducting sphere of the same radius. Which of the following will be true?",
+      "options": [
+        "An electric field will be induced within the conducting sphere.",
+        "The conducting sphere will develop a net electric charge of –Q.",
+        "The spheres will experience an electrostatic attraction.",
+        "The spheres will experience an electrostatic repulsion."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e692d3468d98",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "A charged particle moves through a magnetic field and experiences a force f. New particles are sent into the same magnetic field. If the new particles have twice the charge, twice the mass, and twice the velocity, the new force would be",
+      "options": [
+        "4F",
+        "2F",
+        "F",
+        "1/2 F"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-68712c84d41c",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "Physics students are checking the constant acceleration equations of kinematics by measuring the velocity of a tennis ball that is dropped and falls 6 meters and then passes through a photogate. The predicted velocity is 20% above the velocity measured by the photogate. Which of the following best describes the cause of the large percent difference?",
+      "options": [
+        "The ball changes its shape while falling.",
+        "The acceleration of gravity varies as the ball is falling.",
+        "Air resistance increases the acceleration of the ball.",
+        "The acceleration of the balls varies with the velocity."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e7282130c3fb",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "An artificial satellite orbits Earth just above the atmosphere in a circle with constant speed. A small meteor collides with the satellite at point P in its orbit, increasing its speed by 1%, but not changing the instantaneous direction of the satellite’s velocity. Which of the following describes the satellite’s new orbit?",
+      "options": [
+        "The satellite now orbits in an ellipse, with P as the farthest approach to Earth.",
+        "The satellite now orbits in an ellipse, with P as the closest approach to Earth.",
+        "The satellite now orbits in a circle of larger radius.",
+        "The satellite now orbits in a circle of smaller radius."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-43a1f7e7e2da",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "You have a wire of length L, radius Q, and resistance Q. You need to obtain half that resistance using the same material and changing only one factor. You could",
+      "options": [
+        "use half the length",
+        "use twice the length",
+        "use half the radius",
+        "use twice the radius"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f57a7566ce37",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "subjectId": "physics",
+      "stem": "A spherical balloon filled with helium is floating in air. If the balloon is inflated until its radius is doubled, how will the buoyant force on the balloon be affected?",
+      "options": [
+        "It will decrease by a factor of 4.",
+        "It will increase by a factor of 4.",
+        "It will increase by a factor of 8.",
+        "It will not be affected."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-8b8c8c7a8c61",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "An equal number of hydrogen and carbon dioxide molecules are placed in a sealed container. The gases are initially at a temperature of 300 K when the container is placed in an oven and brought to a new equilibrium temperature of 600 K. Which of the following best describes what is happening to the molecular speeds and kinetic energies of the gases’ molecules as they move from 300 K to 600 K?",
+      "options": [
+        "The molecules of both gases, on average, end with the speed and the same average kinetic energy.",
+        "The molecules of hydrogen, on average, end with a higher speed, but the molecules of both gases end with the same average kinetic energy.",
+        "The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",
+        "As heat flows into the container, the entropy rises, and it is not possible to determine the average velocity and average kinetic energy of the gases."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-85b7c90f8d45",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "A uniform bar is lying on a flat table. Besides the gravitational and normal forces (which cancel), the bar is acted upon by two other forces, F1 and F2, which are parallel to the surface of the table. If the net force on the rod is zero, then which one of the following is true?",
+      "options": [
+        "The net torque on the bar must also be zero.",
+        "The bar can accelerate translationally if F1 and F2 are not applied at the same point.",
+        "The net torque will be zero if F1 and F2 are applied at the same point.",
+        "The bar cannot accelerate translationally or rotationally."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-6eaedacc2566",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "An arrow is aimed horizontally, directly at the center of a target 20 m away. The arrow hits 0.050 m below the center of the target. Neglecting air resistance, what was the initial speed of the arrow?",
+      "options": [
+        "20 m/s",
+        "40 m/s",
+        "100 m/s",
+        "200 m/s"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e51ed0ef8ed0",
+      "chapterId": "physics-motion-in-a-plane",
+      "subjectId": "physics",
+      "stem": "A projectile is launched on level ground in a parabolic path so that its range would normally be 500 m. When the projectile is at the peak of its flight, the projectile breaks into two pieces of equal mass. One of these pieces falls straight down, with no further horizontal motion. How far away from the launch point does the other piece land?",
+      "options": [
+        "250 m",
+        "375 m",
+        "500 m",
+        "750 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b1b28d47e750",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "In the laboratory, a cart experiences a single horizontal force as it moves horizontally in a straight line. Of the following data collected about this experiment, which is sufficient to determine the work done on the cart by the horizontal force?",
+      "options": [
+        "The magnitude of the force, the cart’s initial speed, and the cart’s final speed",
+        "The mass of the cart and the distance the cart moved",
+        "The mass of the cart, the cart’s initial speed, and the cart’s final speed",
+        "The mass of the cart and the magnitude of the force"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-bd92957cf042",
+      "chapterId": "physics-electromagnetic-waves",
+      "subjectId": "physics",
+      "stem": "It is observed that sounds can be heard around a corner but that light cannot be seen around a corner. What is a reasonable explanation for this observation?",
+      "options": [
+        "Light travels at 3 × 10^8 m/s, which is too fast to change direction around a corner.",
+        "Sound has a longer wavelength, which increases the diffraction.",
+        "Light is an electromagnetic wave that is behaving as a particle.",
+        "Sound is a mechanical wave that can change direction in its propagation media."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-9c74334fdc6a",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "Given that the Earth’s mass is m, its tangential speed as it revolves around the Sun is v, and the distance from the Sun to the Earth is R, which of the following correctly describes the work done by the centripetal force, Wc, in one year’s time?",
+      "options": [
+        "Wc > 2R(mv^2/R)",
+        "Wc = 2R(mv^2/R)",
+        "Wc < 2R(mv^2/R)",
+        "Cannot be determined"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1ec57ee0aff0",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "subjectId": "physics",
+      "stem": "Which of the following conditions will ensure that angular momentum is conserved? I. Conservation of linear momentum II. Zero net external force III. Zero net external torque",
+      "options": [
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "III only"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-538430197183",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "A pipe full of air is closed at one end. A standing wave is produced in the pipe, causing the pipe to sound a note. Which of the following is a correct statement about the wave’s properties at the closed end of the pipe?",
+      "options": [
+        "The pressure is at a node, but the particle displacement is at an antinode.",
+        "The pressure is at an antinode, but the particle displacement is at a node.",
+        "The pressure and the particle displacement are both at nodes.",
+        "The pressure and the particle displacement are both at antinodes."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f52251f647e8",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "subjectId": "physics",
+      "stem": "A photocell of work function ϕ = 2eV is connected to a resistor in series. Light of frequency f = 1 × 10^15 Hz hits a metal plate of the photocell. If the power of the light is P = 100 W, what is the current through the resistor?",
+      "options": [
+        "2:00 AM",
+        "6:00 AM",
+        "12:00 AM",
+        "24 A"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f59ff8942345",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 µC, from the point (0, 4 meters) to the point (3 meters, 0)?",
+      "options": [
+        "3.5 J",
+        "6.0 J",
+        "22.5 J",
+        "40 J"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b5fb596f40be",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "A voltage will be induced in a wire loop when the magnetic field within that loop",
+      "options": [
+        "changes",
+        "aligns with the electric field",
+        "is at right angles to the electric field",
+        "converts to magnetic energy"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5bbab77c3bf7",
+      "chapterId": "physics-electromagnetic-induction",
+      "subjectId": "physics",
+      "stem": "A step-up transformer in an electric circuit can step up",
+      "options": [
+        "voltage",
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-dff459bd8429",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is",
+      "options": [
+        "2mg",
+        "mg",
+        "mg/2",
+        "mg/4"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-042f46c2b966",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased",
+      "options": [
+        "speed",
+        "frequency",
+        "wavelength",
+        "All of these"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-dc514761e531",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Polarization is a property of",
+      "options": [
+        "transverse waves",
+        "longitudinal waves",
+        "all waves",
+        "None of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1ff4c18aa26a",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "subjectId": "physics",
+      "stem": "In a vacuum, an object has no",
+      "options": [
+        "buoyant force",
+        "mass",
+        "weight",
+        "All of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-80c3ab94d036",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "Temperature is generally proportional to a substance’s",
+      "options": [
+        "thermal energy.",
+        "vibrational kinetic energy.",
+        "average translational kinetic energy.",
+        "rotational kinetic energy."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-76c9a58cc193",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "subjectId": "physics",
+      "stem": "When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum",
+      "options": [
+        "decreases",
+        "increases",
+        "remains unchanged",
+        "may increase or decrease"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-3f1a4935908b",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "When an increase in speed doubles the kinetic energy of a moving body its momentum",
+      "options": [
+        "increases but less than doubles",
+        "doubles",
+        "more than doubles",
+        "depends on factors not stated"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7aee2cb5eacb",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the",
+      "options": [
+        "force due to gravity is the same on each.",
+        "air resistance is always zero in free fall.",
+        "inertia of both rocks is the same.",
+        "ratio of force to mass is the same."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b474fd79e28b",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "When an increase in speed doubles the momentum of a moving body its kinetic energy",
+      "options": [
+        "increases but less than doubles",
+        "doubles",
+        "more than doubles",
+        "depends on factors not stated"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-92a99c1eca4f",
+      "chapterId": "physics-nuclei",
+      "subjectId": "physics",
+      "stem": "When an element ejects an alpha particle, the atomic number of the resulting element",
+      "options": [
+        "reduces by 2",
+        "reduces by 4",
+        "increases by 2",
+        "increases by 4"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-aede83bdb4fd",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "The energy of an emitted photon is related to its",
+      "options": [
+        "amplitude",
+        "polarization",
+        "momentum",
+        "frequency"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-231d0118e2eb",
+      "chapterId": "physics-thermodynamics",
+      "subjectId": "physics",
+      "stem": "The second law of thermodynamics tells us that heat doesn’t flow from",
+      "options": [
+        "hot to cold ever",
+        "cold to hot ever",
+        "hot to cold without external energy",
+        "cold to hot without external energy"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1e9086a2bd9e",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of",
+      "options": [
+        "hydrogen.",
+        "oxygen.",
+        "nitrogen.",
+        "But all have the same speed on average."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-455b2a85d6ff",
+      "chapterId": "physics-electromagnetic-induction",
+      "subjectId": "physics",
+      "stem": "Compared with the power input, the power output of an ideal transformer is",
+      "options": [
+        "greater",
+        "less",
+        "the same",
+        "Any of these"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-74489acb7dc5",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The vibrations in a longitudinal wave move in a direction",
+      "options": [
+        "along and parallel to the wave",
+        "perpendicular to the wave",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e04ead12c7cf",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "The potential energy of a compressed spring and the potential energy of a charged object both depend on",
+      "options": [
+        "the work done on them",
+        "motion",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-9ef337a264b4",
+      "chapterId": "physics-electromagnetic-induction",
+      "subjectId": "physics",
+      "stem": "A step-up transformer in an electrical circuit can step up",
+      "options": [
+        "voltage",
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-45926da0ef0d",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Noise-canceling devices make use of sound",
+      "options": [
+        "destruction",
+        "interference",
+        "resonance",
+        "amplification"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-9a0d4d570186",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Which of these changes when light refracts in passing from one medium to another?",
+      "options": [
+        "Speed only",
+        "Wavelength only",
+        "Both speed and wavelength",
+        "Neither of these"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-768363fdfca3",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be",
+      "options": [
+        "2 Hz",
+        "4 Hz",
+        "8 Hz",
+        "16 Hz"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e8d336cb3f3f",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The loudness of a sound is most closely related to its",
+      "options": [
+        "frequency",
+        "period",
+        "wavelength",
+        "amplitude"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e3c8b7c8105d",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "The electric field inside the dome of a Van de Graaff generator is zero when the dome is",
+      "options": [
+        "charged",
+        "uncharged",
+        "Either of these",
+        "Neither of these"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-79ac07a8c92b",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "The redness of a sunrise or sunset is due mostly to light that hasn’t been",
+      "options": [
+        "absorbed",
+        "transmitted",
+        "scattered",
+        "polarized"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-594487d2762d",
+      "chapterId": "physics-nuclei",
+      "subjectId": "physics",
+      "stem": "When a nucleus of uranium-238 emits an alpha particle, left behind is",
+      "options": [
+        "thorium-242",
+        "thorium-238",
+        "thorium-234",
+        "radium-214"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5cfc2dab9bbf",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The Doppler effect occurs when a source of sound moves",
+      "options": [
+        "toward you",
+        "away from you",
+        "Both of these",
+        "None of these"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-74909b1636e3",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "The red glow in the neon tube of an advertising sign is a result of",
+      "options": [
+        "fluorescence.",
+        "coherence.",
+        "polarization.",
+        "de-excitation."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f3722e5765f0",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The speed of sound in air depends on",
+      "options": [
+        "frequency.",
+        "wavelength.",
+        "air temperature.",
+        "All of these."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b544c4dac67a",
+      "chapterId": "physics-electromagnetic-waves",
+      "subjectId": "physics",
+      "stem": "All of the following are electromagnetic waves EXCEPT",
+      "options": [
+        "microwaves",
+        "light waves",
+        "X-rays",
+        "None is outside the family; all are electromagnetic waves"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e6474cf44eed",
+      "chapterId": "physics-nuclei",
+      "subjectId": "physics",
+      "stem": "Any atom that emits an alpha particle or beta particle",
+      "options": [
+        "becomes an atom of a different element always.",
+        "may become an atom of a different element.",
+        "becomes a different isotope of the same element.",
+        "increases its mass."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-abbc83065ce6",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "subjectId": "physics",
+      "stem": "Regelation occurs due to water’s",
+      "options": [
+        "high specific heat",
+        "open-structured ice crystals",
+        "high rate of expansion",
+        "slight tendency to freeze when its temperature is lowered"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1c98377a534f",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "A capacitor can store",
+      "options": [
+        "charge",
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-3988c7ac92e9",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "The electric field between a pair of oppositely charged parallel plates",
+      "options": [
+        "gets weaker with distance inside the plates",
+        "follows the inverse-square law",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-621639a9491c",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "subjectId": "physics",
+      "stem": "The flight of a blimp best illustrates",
+      "options": [
+        "Archimedes’ principle",
+        "Pascal’s principle",
+        "Bernoulli’s principle",
+        "Boyle’s law"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ec75df0b21a1",
+      "chapterId": "physics-thermodynamics",
+      "subjectId": "physics",
+      "stem": "Heat engines, such as a jet engine, are more efficient when run at",
+      "options": [
+        "high temperatures",
+        "constant temperatures",
+        "low temperatures",
+        "a constant rate"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-9b10e95e79e8",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The phenomenon of interference occurs for",
+      "options": [
+        "sound waves",
+        "light waves",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b112f085c12c",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "When a uranium nucleus undergoes fission the energy released is primarily in the form of",
+      "options": [
+        "gamma radiation.",
+        "kinetic energy of fission fragments.",
+        "kinetic energy of ejected neutrons.",
+        "All of these about equally."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7e4c80cc1738",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension",
+      "options": [
+        "is mg",
+        "is greater than mg always",
+        "is less than mg always",
+        "may be greater or less than mg depending on the speed of the ball"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f7c8cedd8014",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "subjectId": "physics",
+      "stem": "Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is",
+      "options": [
+        "lower",
+        "higher",
+        "about the same",
+        "Can’t say"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ebf451a933f3",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of",
+      "options": [
+        "hydrogen",
+        "oxygen",
+        "nitrogen",
+        "All have same average speed"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-45751ce90409",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "The mutual induction of electric and magnetic fields can produce",
+      "options": [
+        "light",
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-168f9c5a1ca1",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "When a model car speeds up to three times its original speed, its kinetic energy is",
+      "options": [
+        "the same",
+        "twice as great",
+        "three times greater",
+        "None of these"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-b02e20508e04",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "A diffraction grating relies on light",
+      "options": [
+        "interference",
+        "amplitudes",
+        "variations in brightness",
+        "being composed of photons"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-195747d72c8b",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "A satellite in Earth orbit is above Earth’s",
+      "options": [
+        "atmosphere",
+        "gravitational field",
+        "Both",
+        "Neither"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-139b561779b9",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "The factors, both of which will increase the magnetic field strength of an electromagnet, are",
+      "options": [
+        "increased electrical current and fewer coils of wire",
+        "increased diameter of coil and an increase in the number of coils",
+        "an increase in the electrical current and using a strong ferromagnetic material like iron",
+        "using an air core instead of iron and increasing the diameter of the coil"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-db1c9206e9ac",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is",
+      "options": [
+        "1 km/h",
+        "2 km/h",
+        "4 km/h",
+        "greater than 4 km/h"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-fccd617989b2",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of",
+      "options": [
+        "gamma radiation.",
+        "kinetic energy of the alpha particle.",
+        "kinetic energy of the neutron.",
+        "All of these about equally."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-d77793e05ec6",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "The phenomenon of beats results from sound",
+      "options": [
+        "reflection.",
+        "refraction.",
+        "interference.",
+        "All of these."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-94e5b0d6414e",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "When you tap a piece of wood, it will produce a characteristic sound related to its",
+      "options": [
+        "wavelength",
+        "amplitude",
+        "period",
+        "natural frequency"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5f77bb04aec7",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "A galvanometer can be calibrated to read electric",
+      "options": [
+        "current",
+        "voltage",
+        "Either of these",
+        "Neither of these"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-348981985fb3",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The vibrations in a transverse wave move in a direction",
+      "options": [
+        "along the wave",
+        "perpendicular to the wave",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-0972c042fcf2",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "When light undergoes interference, it can sometimes",
+      "options": [
+        "build up to more than the sum of amplitudes",
+        "cancel completely",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1ec6f2e3a036",
+      "chapterId": "physics-electromagnetic-waves",
+      "subjectId": "physics",
+      "stem": "Which of these does NOT belong in the family of electromagnetic waves?",
+      "options": [
+        "Light",
+        "Sound",
+        "Radio waves",
+        "X-rays"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e5571a0b5863",
+      "chapterId": "physics-electromagnetic-induction",
+      "subjectId": "physics",
+      "stem": "A motor and a generator are",
+      "options": [
+        "similar devices",
+        "very different devices",
+        "forms of transformers",
+        "energy sources"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-0a97808375df",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball",
+      "options": [
+        "is mg",
+        "is greater than mg always",
+        "may be greater or less than mg",
+        "is less than mg always"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-8d6a1726e1d0",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The phenomenon of beats is the result of sound",
+      "options": [
+        "destruction",
+        "interference",
+        "resonance",
+        "amplification"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-c1cdafae7aa7",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Interference is characteristic of",
+      "options": [
+        "sound waves",
+        "light waves",
+        "water waves",
+        "All of these"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7002688f3651",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "In either a fission event or a fusion event, a quantity that remains unchanged is the",
+      "options": [
+        "kinetic energy",
+        "mass",
+        "number of nucleons",
+        "binding of nucleons"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7327e0aa7165",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "subjectId": "physics",
+      "stem": "A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?",
+      "options": [
+        "3 N",
+        "5 N",
+        "8 N",
+        "None of these"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e5be9ccf225b",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is",
+      "options": [
+        "200 J",
+        "500 J",
+        "800 J",
+        "2000 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-9f9b53b7a6e3",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?",
+      "options": [
+        "4q.",
+        "8q.",
+        "16q.",
+        "32q."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ca9c763a03ae",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "The definition of magnetic inclination is the angle between",
+      "options": [
+        "magnetic north and geographic north",
+        "magnetic north and geographic south",
+        "the earth’s magnetic field at any point and the vertical",
+        "the earth’s magnetic field at any point and the horizontal"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-0ab0eb79e114",
+      "chapterId": "physics-nuclei",
+      "subjectId": "physics",
+      "stem": "When an element ejects an alpha particle, the mass number of the resulting element",
+      "options": [
+        "reduces by 2",
+        "reduces by 4",
+        "increases by 2",
+        "increases by 4"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-cce49b6cb88e",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "An electron can be speeded up by",
+      "options": [
+        "an electric field",
+        "a magnetic field",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-23899a58f4e9",
+      "chapterId": "physics-nuclei",
+      "subjectId": "physics",
+      "stem": "A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by",
+      "options": [
+        "zero",
+        "minus 1",
+        "minus 2",
+        "plus 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5af16bd87518",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "When an object is set vibrating by a wave that has a matching frequency, what occurs is",
+      "options": [
+        "forced vibration",
+        "resonance",
+        "refraction",
+        "amplitude reduction"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-335e5eb73c35",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "When a wave moves from shallow water to deep water, the",
+      "options": [
+        "frequency decreases, the wavelength increases, and the speed increases",
+        "frequency does not change, the wavelength increases, and the speed increases",
+        "frequency does not change, the wavelength decreases, and the speed decreases",
+        "frequency does not change, the wavelength increases, and the speed decreases"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-c271a7b6ab88",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is",
+      "options": [
+        "9.8 m/s2",
+        "more than 9.8 m/s2",
+        "less than 9.8 m/s2",
+        "Cannot say unless the speed of throw is given."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-d019bccbf680",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "Chain reactions in a fission reactor are caused by",
+      "options": [
+        "kinetic energy",
+        "energy conversion",
+        "mass conversion",
+        "ejected neutrons"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-bbd54066f1d8",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is",
+      "options": [
+        "zero",
+        "practically zero",
+        "appreciably weaker than at Earth’s surface",
+        "without a component of force along their circular path"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-6beb15391b4a",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "To receive an electric shock there must be a",
+      "options": [
+        "current in one direction.",
+        "presence of moisture.",
+        "high voltage and low body resistance.",
+        "voltage difference across part or all of your body."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-57c3d07398f7",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Find the speed of a wave by multiplying its frequency by its",
+      "options": [
+        "period",
+        "wavelength",
+        "amplitude",
+        "None of these"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ae4a078066c9",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "The magnitude of the gravitational force on a satellite is constant if the orbit is",
+      "options": [
+        "parabolic",
+        "circular",
+        "elliptical",
+        "All of these"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-3cacd256466f",
+      "chapterId": "physics-nuclei",
+      "subjectId": "physics",
+      "stem": "A common nuclear fission reactor",
+      "options": [
+        "heats water",
+        "generates electricity directly",
+        "gets energy from nothing",
+        "is a major polluter of the atmosphere"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-48db1fe82fcc",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)",
+      "options": [
+        "current",
+        "voltage",
+        "electric field",
+        "All of these"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-2e199260c494",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "subjectId": "physics",
+      "stem": "The model of light most supported by the photoelectric effect is the",
+      "options": [
+        "wave model",
+        "particle model",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-acae15c0bb5d",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be",
+      "options": [
+        "48.0 m",
+        "24.0 m",
+        "6.00 m",
+        "3.00 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e1f386ac1f4c",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Astrophysicists are able to identify the elements in the outer layers of a star by studying its",
+      "options": [
+        "Doppler effect.",
+        "molecular structure.",
+        "temperature.",
+        "spectrum."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-888b00bedd95",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Light reflecting from a smooth surface undergoes a change in",
+      "options": [
+        "frequency.",
+        "wavelength.",
+        "All of these.",
+        "None of these."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-c70fd45d1ca4",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "The fact that the acceleration of free fall is the same for all masses is explained by Newton’s",
+      "options": [
+        "first law",
+        "second law",
+        "third law",
+        "law of action–reaction"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-4aaf49642938",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Compared with radiation from the Sun, terrestrial radiation has a lower",
+      "options": [
+        "wavelength",
+        "frequency",
+        "Both",
+        "Neither"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-c9e9b16736d5",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "The magnetic field lines about a current-carrying wire form",
+      "options": [
+        "circles",
+        "radial lines",
+        "eddy currents",
+        "energy loops"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-9f5de49a3fc3",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "subjectId": "physics",
+      "stem": "An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it",
+      "options": [
+        "increases.",
+        "decreases.",
+        "remains largely unchanged.",
+        "Need more information."
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-16515d2e80aa",
+      "chapterId": "physics-nuclei",
+      "subjectId": "physics",
+      "stem": "A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?",
+      "options": [
+        "0.50 g",
+        "0.25 g",
+        "0.125 g",
+        "0.0625 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f1da9b8581b3",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "A simple and correct way to comprehend satellites orbiting Earth is to view them as",
+      "options": [
+        "balanced between gravitational and centripetal forces.",
+        "beyond the main pull of Earth gravity.",
+        "in mechanical equilibrium with a net force of zero.",
+        "having sufficient tangential velocities to fall around rather than into Earth."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-01f020e1e187",
+      "chapterId": "physics-laws-of-motion",
+      "subjectId": "physics",
+      "stem": "Consider a ball rolling down an inclined plane. The normal force on the ball (the force perpendicular to the plane).",
+      "options": [
+        "is mg",
+        "is greater than mg always",
+        "may be greater or less than mg",
+        "is less than mg always"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-c788e75782c1",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "A high-temperature source radiates relatively",
+      "options": [
+        "short wavelengths",
+        "long wavelengths",
+        "low frequencies of radiation",
+        "None of these"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-f5a9be4d68b4",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "A magnetic force can act on an electron even when it",
+      "options": [
+        "is at rest",
+        "moves parallel to magnetic field lines",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-8b9ac17d0dd8",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The sound waves that most humans cannot hear are",
+      "options": [
+        "infrasonic",
+        "ultrasonic",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e2a5c202f5f7",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Planck’s constant can be found by dividing the energy of a photon by its",
+      "options": [
+        "wavelength",
+        "frequency",
+        "amplitude",
+        "None of these"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1388acd0c1c1",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Standing waves are the result of",
+      "options": [
+        "interference",
+        "waves overlapping in phase and out of phase",
+        "waves reflecting upon themselves",
+        "All of these"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-06d0e275fb05",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "A hologram best illustrates",
+      "options": [
+        "polarization",
+        "diffraction",
+        "superposition",
+        "electron interference"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-da9d962df3d2",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "Colors in a soap bubble result from light",
+      "options": [
+        "converted to a different frequency",
+        "deflection",
+        "interference",
+        "polarization"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-824a453eed79",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is",
+      "options": [
+        "500 nm",
+        "550 nm",
+        "600 nm",
+        "650 nm"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-69bd21e7d866",
+      "chapterId": "physics-atoms",
+      "subjectId": "physics",
+      "stem": "Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?",
+      "options": [
+        "The Heisenberg uncertainty principle",
+        "The Pauli exclusion principle",
+        "The Bohr model of the atom",
+        "Nuclear hyperfine coupling"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-aabcb9154b22",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?",
+      "options": [
+        "V_0/5",
+        "V_0/3",
+        "V_0/2",
+        "2V_0/3"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-3540b6f052d6",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "subjectId": "physics",
+      "stem": "De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the following constants?",
+      "options": [
+        "Planck’s constant",
+        "Boltzmann’s constant",
+        "The Rydberg constant",
+        "The speed of light"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-3a2f08627af3",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "subjectId": "physics",
+      "stem": "The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?",
+      "options": [
+        "Specific heat",
+        "Thermal conductivity",
+        "Electrical resistivity",
+        "Hall coefficient"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e7182a5adf1d",
+      "chapterId": "physics-atoms",
+      "subjectId": "physics",
+      "stem": "The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times the mass difference between",
+      "options": [
+        "two hydrogen atoms and one helium atom",
+        "four hydrogen atoms and one helium atom",
+        "six hydrogen atoms and two helium atoms",
+        "three helium atoms and one carbon atom"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-92bb4f07ddca",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements regarding radiation spectra is NOT correct?",
+      "options": [
+        "Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample.",
+        "The wavelengths identified in an absorption spectrum of an element are among those in its emission spectrum.",
+        "Absorption spectra can be used to determine which elements are present in distant stars.",
+        "Spectral analysis can be used to identify the composition of galactic dust."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5d833b305e87",
+      "chapterId": "physics-semiconductor-electronics",
+      "subjectId": "physics",
+      "stem": "Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor?",
+      "options": [
+        "As",
+        "P",
+        "Sb",
+        "B"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-76075b97531b",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then passes through a region with a uniform electric field E in the +x-direction and a uniform magnetic field B in the +y-direction, but the proton’s trajectory is not affected. If the experiment were repeated using a potential difference of 2V, the proton would then be",
+      "options": [
+        "deflected in the +x-direction",
+        "deflected in the -x-direction",
+        "deflected in the +y-direction",
+        "deflected in the -y-direction"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1eca9e035267",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magnetic field is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is",
+      "options": [
+        "0.04 V",
+        "0.1 V",
+        "2.5 V",
+        "10 V"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-2d58d43b79f0",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "subjectId": "physics",
+      "stem": "Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric effect predicts that the",
+      "options": [
+        "work function of the metal is proportional to the frequency",
+        "work function of the metal is proportional to the wavelength",
+        "current in the tube is a linear function of the wavelength",
+        "potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-623e039c9dba",
+      "chapterId": "physics-electric-charges-and-fields",
+      "subjectId": "physics",
+      "stem": "By definition, the electric displacement current through a surface S is proportional to the",
+      "options": [
+        "magnetic flux through S",
+        "rate of change of the magnetic flux through S",
+        "time integral of the magnetic flux through S",
+        "rate of change of the electric flux through S"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-a78ccd247c19",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is",
+      "options": [
+        "1.2 x 10^9 m/s",
+        "3.0 x 10^8 m/s",
+        "1.5 x 10^8 m/s",
+        "1.0 x 10^8 m/s"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-75b2eaaa4283",
+      "chapterId": "physics-electromagnetic-waves",
+      "subjectId": "physics",
+      "stem": "The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the cavity is increased by a factor of two, the mass of ice that can be melted in a fixed amount of time is increased by a factor of",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-8d7b2da3325b",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)",
+      "options": [
+        "0.1 eV",
+        "1 eV",
+        "10 eV",
+        "100 eV"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-70d0804a3269",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction of the disk’s total kinetic energy is rotational kinetic energy?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-abde134a1831",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed near normal incidence. Assuming that the index of refraction of the oil is 1.2 and that of the glass is 1.6, what is the minimum thickness of the oil film (other than zero) ?",
+      "options": [
+        "150 nm",
+        "200 nm",
+        "300 nm",
+        "400 nm"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7fd4f63e1144",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?",
+      "options": [
+        "2",
+        "250",
+        "5,000",
+        "10,000"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-0c46b6985770",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply that which of the following must be true just outside the surface of the superconductor?",
+      "options": [
+        "B = 0",
+        "B is perpendicular to the surface.",
+        "B is tangential to the surface.",
+        "B is time independent."
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-1aabee8587f4",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The two pendulums oscillate in equal gravitational fields. If the period of pendulum B is twice the period of pendulum A, which of the following is true of the lengths of the two pendulums?",
+      "options": [
+        "L_B = 4L_A",
+        "L_B = 2L_A",
+        "L_B = L_A",
+        "L_B = 1/2 L_A"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-cb2577eaae68",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to",
+      "options": [
+        "the weak nuclear force",
+        "the strong nuclear force",
+        "vacuum polarization",
+        "interactions with the ionic lattice"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-686b5e4c120a",
+      "chapterId": "physics-atoms",
+      "subjectId": "physics",
+      "stem": "The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are three times as long as those observed in the light from hydrogen atoms at rest in a laboratory on Earth. If it is assumed that the shift is entirely due to the relative motion of 3C9 and Earth, the relative speed of the quasar is",
+      "options": [
+        "2c",
+        "c",
+        "0.8c",
+        "0.5c"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-489421a6d4c4",
+      "chapterId": "physics-kinetic-theory",
+      "subjectId": "physics",
+      "stem": "The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because",
+      "options": [
+        "electrons have many more degrees of freedom than atoms do",
+        "the electrons and the lattice are not in thermal equilibrium",
+        "the electrons form a degenerate Fermi gas",
+        "electrons in metals are highly relativistic"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5438edbe2cf4",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maximum near 500 nm. For a body with a surface temperature close to 300 K, at what wavelength would the thermal spectrum reach a maximum?",
+      "options": [
+        "10:00 PM",
+        "100 Pm",
+        "10 mm",
+        "100 mm"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-d5df1a156b1e",
+      "chapterId": "physics-atoms",
+      "subjectId": "physics",
+      "stem": "The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in which all the wavelengths are",
+      "options": [
+        "decreased by a factor of 9",
+        "decreased by a factor of 49",
+        "decreased by a factor of 81",
+        "increased by a factor of 9"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-4088a939efef",
+      "chapterId": "physics-wave-optics",
+      "subjectId": "physics",
+      "stem": "Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with each other. The transmitted light intensity through both polarizers is what percentage of the incident intensity?",
+      "options": [
+        "100%",
+        "75%",
+        "50%",
+        "25%"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-591b5659ef22",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m across. At about what frequency will the sound first disappear at an angle of 45q from the normal to the speaker face?",
+      "options": [
+        "500 Hz",
+        "1,750 Hz",
+        "2,750 Hz",
+        "3,500 Hz"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-71b68b2a3f39",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is applied across this combination, the total energy stored in the two capacitors is",
+      "options": [
+        "0.09 J",
+        "0.18 J",
+        "0.27 J",
+        "0.41 J"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-fdd4135723d2",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "subjectId": "physics",
+      "stem": "Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Which of the following gives the ratio of the angular momentum of A to the angular momentum of B?",
+      "options": [
+        "4",
+        "2",
+        "sqrt(2)",
+        "1/sqrt(2)"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-ed936929f419",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it hits the ground 2.0 s later, from what height was it thrown? (Neglect air resistance and assume the ground is level.)",
+      "options": [
+        "4.9 m",
+        "9.8 m",
+        "10.0 m",
+        "19.6 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-a75676408777",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If the particles stick together after the collision, what fraction of the initial kinetic energy is lost in the collision?",
+      "options": [
+        "0",
+        "1/4",
+        "1/3",
+        "1/2"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-5e6764716f47",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "subjectId": "physics",
+      "stem": "A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has a strength of π/4 tesla and is perpendicular to the velocity of the particle. What is the particle’s mass if it has a cyclotron frequency of 1,600 hertz?",
+      "options": [
+        "2.5 * 10^-23 kg",
+        "1.2 * 10^-22 kg",
+        "3.3 * 10^-22 kg",
+        "5.0 * 10^-21 kg"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-85e79e912ff6",
+      "chapterId": "physics-current-electricity",
+      "subjectId": "physics",
+      "stem": "An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air resistance is neglected, what is the velocity of the payload relative to the plane 4.0 s after it is released?",
+      "options": [
+        "0",
+        "40 m/s down",
+        "80 m/s down",
+        "100 m/s north and 40 m/s down"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-d4b8ef5fb0bc",
+      "chapterId": "physics-atoms",
+      "subjectId": "physics",
+      "stem": "Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the positron replacing the proton. If a positronium atom makes a transition from the state with n=3 to a state with n=1, the energy of the photon emitted in this transition is closest to",
+      "options": [
+        "6.0 e",
+        "6.8 eV",
+        "12.2 eV",
+        "13.6 eV"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-df81cf792160",
+      "chapterId": "physics-gravitation",
+      "subjectId": "physics",
+      "stem": "A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is",
+      "options": [
+        "independent of M",
+        "proportional to m^(1/2)",
+        "linear in R",
+        "proportional to R^(3/2)"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-3a699c358f5c",
+      "chapterId": "physics-thermodynamics",
+      "subjectId": "physics",
+      "stem": "For which of the following thermodynamic processes is the increase in the internal energy of an ideal gas equal to the heat added to the gas?",
+      "options": [
+        "Constant temperature",
+        "Constant volume",
+        "Constant pressure",
+        "Adiabatic"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-e547262baeed",
+      "chapterId": "physics-work-energy-and-power",
+      "subjectId": "physics",
+      "stem": "An ideal monatomic gas expands quasi-statically to twice its volume. If the process is isothermal, the work done by the gas is Wi. If the process is adiabatic, the work done by the gas is Wa. Which of the following is true?",
+      "options": [
+        "Wi = Wa",
+        "0 = Wi  < Wa",
+        "0 < Wi < Wa",
+        "0<Wa <Wi"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-0f362097f8dc",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "subjectId": "physics",
+      "stem": "Which of the following statements is (are) true for a Maxwell-Boltzmann description of an ideal gas of atoms in equilibrium at temperature T?\r\nI. The average velocity of the atoms is zero.\r\nII. The distribution of the speeds of the atoms has a maximum at v = 0.\r\nIII. The probability of finding an atom with zero kinetic energy is zero.",
+      "options": [
+        "I only",
+        "II only",
+        "I and II",
+        "I and III"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-7e24cb645b84",
+      "chapterId": "physics-waves",
+      "subjectId": "physics",
+      "stem": "During a hurricane, a 1,200 Hz warning siren on the town hall sounds. The wind is blowing at 55 m/s in a direction from the siren toward a person 1 km away. With what frequency does the sound wave reach the person? (The speed of sound in air is 330 m/s.)",
+      "options": [
+        "1,000 Hz",
+        "1,030 Hz",
+        "1,200 Hz",
+        "1,400 Hz"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-fc0d5f19808d",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "subjectId": "physics",
+      "stem": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "20"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-physics-533c789abe34",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "subjectId": "physics",
+      "stem": "One end of a Nichrome wire of length 2L and cross-sectional area A is attached to an end of another Nichrome wire of length L and cross- sectional area 2A. If the free end of the longer wire is at an electric potential of 8.0 volts, and the free end of the shorter wire is at an electric potential of 1.0 volt, the potential at the junction of the two wires is most nearly equal to",
+      "options": [
+        "2.4 V",
+        "3.3 V",
+        "4.5 V",
+        "5.7 V"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    }
+  ]
+}

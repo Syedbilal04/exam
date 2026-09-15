@@ -19,9 +19,11 @@ const SUBJECT_IDS = ["physics", "chemistry", "maths", "botany", "zoology"];
  * carry a shared `subjectId` and `source`, so individual questions stay short.
  */
 function normalizeFile(file, raw) {
-  const { subjectId, source, questions } = raw;
-  if (!SUBJECT_IDS.includes(subjectId)) {
-    throw new Error(`${file}: unknown subjectId "${subjectId}"`);
+  const { source, questions } = raw;
+  // Imported files span several subjects, so each question may carry its own.
+  const fileSubjectId = raw.subjectId;
+  if (fileSubjectId && !SUBJECT_IDS.includes(fileSubjectId)) {
+    throw new Error(`${file}: unknown subjectId "${fileSubjectId}"`);
   }
   if (!source?.name || !source?.license) {
     throw new Error(`${file}: source needs a name and a license`);
@@ -29,6 +31,10 @@ function normalizeFile(file, raw) {
 
   return questions.map((question, index) => {
     const where = `${file}#${question.id ?? index}`;
+    const subjectId = question.subjectId ?? fileSubjectId;
+    if (!SUBJECT_IDS.includes(subjectId)) {
+      throw new Error(`${where}: unknown subjectId "${subjectId}"`);
+    }
     if (!question.id) throw new Error(`${where}: missing id`);
     if (!question.chapterId?.startsWith(`${subjectId}-`)) {
       throw new Error(`${where}: chapterId must start with "${subjectId}-"`);
@@ -53,6 +59,17 @@ function normalizeFile(file, raw) {
       options: question.options,
       answerIndex: question.answerIndex,
       explanation: question.explanation ?? "",
+      images: (question.images ?? []).map((image) => {
+        if (!image.url || !image.width || !image.height) {
+          throw new Error(`${where}: image needs url, width and height`);
+        }
+        return {
+          url: image.url,
+          alt: image.alt ?? "Question diagram",
+          width: image.width,
+          height: image.height,
+        };
+      }),
       pyq: {
         appearCount: pyq.appearCount ?? 0,
         years: [...(pyq.years ?? [])].sort((a, b) => a - b),

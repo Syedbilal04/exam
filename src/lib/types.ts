@@ -63,6 +63,14 @@ export type QuestionSource = {
   license: string;
 };
 
+/** Diagrams shipped with a question, stored under public/questions/. */
+export type QuestionImage = {
+  url: string;
+  alt: string;
+  width: number;
+  height: number;
+};
+
 export type Question = {
   id: string;
   chapterId: string;
@@ -71,6 +79,7 @@ export type Question = {
   options: string[];
   answerIndex: number;
   explanation?: string;
+  images: QuestionImage[];
   pyq: PyqMeta;
   source: QuestionSource;
 };
@@ -84,6 +93,7 @@ export type ClientQuestion = {
   chapterName: string;
   stem: string;
   options: string[];
+  images: QuestionImage[];
   pyq: PyqMeta;
 };
 

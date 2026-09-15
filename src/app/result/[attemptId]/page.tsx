@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound, redirect } from "next/navigation";
 import { AppShell } from "@/components/app-shell";
+import { MathText } from "@/components/math-text";
+import { QuestionFigures } from "@/components/question-figures";
 import { loadReview } from "@/lib/attempts/service";
 import { getOwner, getSessionUser } from "@/lib/auth/session";
 import { formatDate } from "@/lib/format";
@@ -120,7 +122,11 @@ export default async function ResultPage({
                     </span>
                   </div>
 
-                  <p className="mt-3 text-ink-800">{question.stem}</p>
+                  <p className="mt-3 text-ink-800">
+                    <MathText>{question.stem}</MathText>
+                  </p>
+
+                  <QuestionFigures images={question.images} />
 
                   <ul className="mt-4 space-y-2">
                     {question.options.map((option, optionIndex) => {
@@ -140,7 +146,7 @@ export default async function ResultPage({
                           <span className="mr-2 font-semibold">
                             {String.fromCharCode(65 + optionIndex)}
                           </span>
-                          {option}
+                          <MathText>{option}</MathText>
                         </li>
                       );
                     })}
@@ -148,7 +154,7 @@ export default async function ResultPage({
 
                   {question.explanation && (
                     <p className="mt-4 text-sm text-mist-600">
-                      {question.explanation}
+                      <MathText>{question.explanation}</MathText>
                     </p>
                   )}
 

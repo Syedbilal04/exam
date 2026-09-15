@@ -57,6 +57,8 @@ create table if not exists question_bank (
   options jsonb not null,
   answer_index integer not null check (answer_index >= 0),
   explanation text,
+  -- Diagrams served from public/questions/, as [{url, alt, width, height}].
+  images jsonb not null default '[]',
   source jsonb not null,
   created_at timestamptz not null default now()
 );
@@ -83,6 +85,7 @@ select
   q.options,
   q.answer_index,
   q.explanation,
+  q.images,
   q.source,
   jsonb_build_object(
     'appearCount', coalesce(m.appear_count, 0),

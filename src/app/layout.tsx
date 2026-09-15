@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Manrope, Sora } from "next/font/google";
 import { brand } from "@/content/brand";
+import "katex/dist/katex.min.css";
 import "./globals.css";
 
 const sora = Sora({

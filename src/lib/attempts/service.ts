@@ -97,6 +97,7 @@ function toClientQuestion(question: Question): ClientQuestion {
     chapterName: getChapter(question.chapterId)?.name ?? "",
     stem: question.stem,
     options: question.options,
+    images: question.images ?? [],
     pyq: question.pyq,
   };
 }

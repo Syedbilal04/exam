@@ -60,21 +60,48 @@ what lets guest sessions work before an account exists.
 | `src/content/catalog.ts` | Exams, streams, subjects and TSBIE chapter lists |
 | `content/seed/*.json` | Hand-authored starter questions |
 | `content/sources.json` | Allowlist of licensed question sources |
+| `content/chapter-keywords.json` | Keyword signatures that map imported questions onto chapters |
 | `content/imported/*.json` | Output of the import run |
 | `src/content/question-bank.json` | Generated bank the app reads |
 
 ```bash
 npm run import:pyq   # fetch allowlisted sources, then rebuild the bank
 npm run bank:build   # rebuild the bank without fetching
+npm run check:bank   # fail loudly if any question would show raw TeX
+npm run check:paper  # paper generation rules: quotas, freshness, silent recycle
 ```
 
 Only sources whose licence permits reuse belong in `content/sources.json`; the
-importer refuses anything that is not declared there with a licence.
+importer refuses anything that is not declared there with a licence. The
+rejected candidates and the reason each was turned down are recorded in the
+same file — most Indian previous-paper dumps circulating online carry no usable
+licence, because the papers remain the property of NTA and the IITs.
 
-The bundled seed questions ship with **sample** previous-year metadata so the
-feature is visible from the first run. Imported questions carry
-`pyq.verified: true` when the source supplies real years, and the review screen
-labels anything still unverified.
+The importer maps every incoming question onto a TSBIE chapter by keyword, and
+drops anything it cannot place confidently, anything that depends on a figure,
+anything outside the Intermediate syllabus, and anything containing unrendered
+TeX. Expect roughly half of a source to be discarded; that is the filter doing
+its job.
+
+### Maths and diagrams
+
+Question text may contain TeX between `$...$`, rendered with KaTeX at render
+time. Sources routinely delimit math in the stem but leave options as bare
+`\frac{1}{12}`; the importer wraps a field that is pure TeX and rejects a field
+that mixes prose with undelimited TeX, so nothing reaches a student as raw
+backslash markup. `npm run check:bank` guards this.
+
+A question may also carry diagrams. They are stored as
+`{ url, alt, width, height }` and served from `public/questions/<source>/`; the
+importer downloads and measures each file rather than hotlinking it, and drops
+a figure-based question whose image could not be fetched. None of the currently
+enabled sources ship diagrams, so this path is exercised by hand-authored
+content until a source with figures is licensed.
+
+Previous-year metadata: the hand-authored seed questions ship with **sample**
+appearance data so the feature is visible from the first run, and imported
+questions carry none, so no appearance line is shown for them. Real years only
+appear once a source supplies them, which sets `pyq.verified: true`.
 
 ## Project layout
 

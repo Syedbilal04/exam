@@ -26,6 +26,7 @@ type QuestionRow = {
   options: string[];
   answer_index: number;
   explanation: string | null;
+  images: Question["images"] | null;
   pyq: Question["pyq"];
   source: Question["source"];
 };
@@ -57,6 +58,7 @@ function toQuestion(row: QuestionRow): Question {
     options: row.options,
     answerIndex: row.answer_index,
     explanation: row.explanation ?? undefined,
+    images: row.images ?? [],
     pyq: row.pyq,
     source: row.source,
   };

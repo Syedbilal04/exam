@@ -1,0 +1,1985 @@
+{
+  "source": {
+    "name": "MMLU (Center for AI Safety)",
+    "url": "https://huggingface.co/datasets/cais/mmlu",
+    "license": "MIT"
+  },
+  "questions": [
+    {
+      "id": "mmlu-maths-550de2325ec6",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "At breakfast, lunch, and dinner, Joe randomly chooses with equal probabilities either an apple, an orange, or a banana to eat. On a given day, what is the probability that Joe will eat at least two different kinds of fruit?",
+      "options": [
+        "$\\frac{7}{9}$",
+        "$\\frac{8}{9}$",
+        "$\\frac{5}{9}$",
+        "$\\frac{9}{11}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-036d38381126",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "A meteorologist reports that there is a 30% probability of rain and no sun. If there is a 40% probability of no rain, then the probability of both rain and sun is",
+      "options": [
+        "0.16",
+        "0.24",
+        "0.3",
+        "0.5"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-2e90953eeacd",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "We roll a fair 6-sided die 5 times. What is the probability that we get a 6 in at most 2 of the rolls?",
+      "options": [
+        "$\\frac{125}{648}$",
+        "$\\frac{25}{648}$",
+        "$\\frac{625}{648}$",
+        "$\\frac{1}{648}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-d0f424579c85",
+      "chapterId": "maths-functions",
+      "subjectId": "maths",
+      "stem": "What is the range of the function $f(x) = \\frac{1}{1-x}$? Express your answer in interval notation.",
+      "options": [
+        "$(-\\infty,-1)\\cup (1,\\infty)$",
+        "$(-\\infty,0)\\cup (0,\\infty)$",
+        "[-1,1]",
+        "(-1,1)"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-753df0b9ef55",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "How many ways are there to put 4 distinguishable balls into 2 indistinguishable boxes?",
+      "options": [
+        "7",
+        "11",
+        "16",
+        "8"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-8912b0f19454",
+      "chapterId": "maths-functions",
+      "subjectId": "maths",
+      "stem": "What is the domain of the function $f(x)=\\frac{x+6}{\\sqrt{x^2-3x-4}}$?",
+      "options": [
+        "(-4,4)",
+        "[0,4]",
+        "(-inf, -1) U (4, inf)",
+        "(-inf, -1) U (-1, 4) U (4, inf)"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-9f59c6485e1e",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "A relative maximum value of the function y = (ln x)/x is",
+      "options": [
+        "1",
+        "e",
+        "2/e",
+        "1/e"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-3e0db9a80b0f",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "How many ways are there to choose 3 cards from a standard deck of 52 cards, if all three cards must be of different suits? (Assume that the order of the cards does not matter.)",
+      "options": [
+        "8788",
+        "2",
+        "2197",
+        "21"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-8b36df7d1c00",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "A box contains 4 white balls and 4 black balls. I draw them out of the box, one at a time. What is the probability that all of my draws alternate colors?",
+      "options": [
+        "$\\frac{1}{8}$",
+        "$\\frac{1}{7}$",
+        "$\\frac{1}{40}$",
+        "$\\frac{1}{35}$"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-82ff27ad3223",
+      "chapterId": "maths-functions",
+      "subjectId": "maths",
+      "stem": "The domain of the function $h(x) = \\sqrt{25-x^2}+\\sqrt{-(x-2)}$ is an interval of what width?",
+      "options": [
+        "7",
+        "5",
+        "2",
+        "25"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-7ba14a255db6",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Mr. Patrick is preparing a five-question true-false quiz for his class. He flips a coin before writing the first question. If it is heads, he writes a true statement and if it is tails, he writes a false statement. He continues this until all five statements are written. What is the probability that the correct sequence of answers is TFTFT ? Express your answer as a common fraction.",
+      "options": [
+        "$\\frac{1}{6}$",
+        "$\\frac{1}{64}$",
+        "$\\frac{1}{32}$",
+        "$\\frac{1}{2}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-6bbfee34a677",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "A point $(x,y)$ is randomly picked from inside the rectangle with vertices $(0,0)$, $(3,0)$, $(3,2)$, and $(0,2)$. What is the probability that $x < y$?",
+      "options": [
+        "$\\frac{1}{12}$",
+        "$\\frac{1}{6}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{3}$"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-ef81442d34a6",
+      "chapterId": "maths-limits-and-continuity",
+      "subjectId": "maths",
+      "stem": "Which statement is true?",
+      "options": [
+        "If f(x) is continuous at x = c, then f′(c) exists.",
+        "If f′(c) = 0, then f has a local maximum or minimum at (c, f (c)).",
+        "If f′′(c) = 0, then the graph of f has an inflection point at (c, f (c)).",
+        "If f is differentiable at x = c, then f is continuous at x = c."
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-bddd3b9361b8",
+      "chapterId": "maths-properties-of-triangles",
+      "subjectId": "maths",
+      "stem": "An equilateral triangle has sides of 12 inches. What is the approximate area of the triangle?",
+      "options": [
+        "62",
+        "72",
+        "84",
+        "112"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-ae178e53444d",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Given that $a$ and $b$ are real numbers such that $-3\\leq a\\leq1$ and $-2\\leq b\\leq 4$, and values for $a$ and $b$ are chosen at random, what is the probability that the product $a\\cdot b$ is positive? Express your answer as a common fraction.",
+      "options": [
+        "$\\frac{5}{12}$",
+        "$\\frac{5}{11}$",
+        "$\\frac{7}{12}$",
+        "$\\frac{5}{17}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-daa2d31161c4",
+      "chapterId": "maths-the-straight-line",
+      "subjectId": "maths",
+      "stem": "What is the slope of the line that passes through the points (5, 4) and (–2, 3)?",
+      "options": [
+        "0.14",
+        "0.2",
+        "0.33",
+        "5"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-4d8839689752",
+      "chapterId": "maths-properties-of-triangles",
+      "subjectId": "maths",
+      "stem": "The hypotenuse of a right triangle measures 10 inches and one angle is $45^{\\circ}$. What is the number of square inches in the area of the triangle?",
+      "options": [
+        "10",
+        "45",
+        "125",
+        "25"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-d7bb30c78815",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "Suppose 5 different integers are randomly chosen from between 20 and 69, inclusive. What is the probability that they each have a different tens digit?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1000}{52969}$",
+        "$\\frac{2500}{52969}$"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-11605c294678",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "A point in space $(x,y,z)$ is randomly selected so that $-1\\le x \\le 1$,$-1\\le y \\le 1$,$-1\\le z \\le 1$. What is the probability that $x^2+y^2+z^2\\le 1$?",
+      "options": [
+        "$\\frac{\\pi}{24}$",
+        "$\\frac{\\pi}{12}$",
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{3}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-0d05f3e49b5e",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Juan rolls a fair regular octahedral die marked with the numbers 1 through 8. Then Amal rolls a fair six-sided die. What is the probability that the product of the two rolls is a multiple of 3?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{144}$",
+        "$\\frac{1}{288}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-80abf648cff5",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "3 cards are chosen at random from a standard 52-card deck. What is the probability that they form a pair? (A 3-card hand is a 'pair' if two of the cards match in rank but the third card is different. For example, 668 is a pair, but 999 is not.)",
+      "options": [
+        "$\\frac{1}{8}$",
+        "$\\frac{1}{36}$",
+        "$\\frac{1}{78}$",
+        "$\\frac{72}{425}$"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-4789dcd949f7",
+      "chapterId": "maths-functions",
+      "subjectId": "maths",
+      "stem": "If we take sin x and change it to 3 sin 2x, what will happen to the domain and range of the function?",
+      "options": [
+        "Domain and range remain the same",
+        "Domain is double; range remains the same",
+        "Domain is tripled; range is doubled",
+        "Domain is the same; range is tripled"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-d135369ba479",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "What is the greatest possible quotient of any two distinct members of the set $\\{\\frac{2}{5}, \\frac{1}{2},5,10\\}$? Specifically, we wish to maximize $\\frac{x}{y}$, where $x$ and $y$ are chosen from the previous set.",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "25"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-9cb67cc5dc9d",
+      "chapterId": "maths-definite-integrals",
+      "subjectId": "maths",
+      "stem": "The area bounded by the parabola y = x^2 and the lines y = 1 and y = 9 equals",
+      "options": [
+        "8",
+        "84/3",
+        "$64\\sqrt{2}/3$",
+        "104/3"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-b4f96206ef86",
+      "chapterId": "maths-circle",
+      "subjectId": "maths",
+      "stem": "Three points are chosen randomly and independently on a circle. What is the probability that all three pairwise distances between the points are less than the radius of the circle?",
+      "options": [
+        "$\\frac{1}{20}$",
+        "$\\frac{1}{32}$",
+        "$\\frac{1}{12}$",
+        "$\\frac{1}{16}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-1353572ed55a",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "How many different possible committees of 5 people can be chosen from a group of 15 people?",
+      "options": [
+        "75",
+        "120",
+        "225",
+        "3,003"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-ed05dcc7c5eb",
+      "chapterId": "maths-definite-integrals",
+      "subjectId": "maths",
+      "stem": "Find the area bounded by the spiral r = ln θ on the interval π <= θ <= 2π.",
+      "options": [
+        "2.405",
+        "2.931",
+        "3.743",
+        "4.81"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-af8034386202",
+      "chapterId": "maths-complex-numbers",
+      "subjectId": "maths",
+      "stem": "Ramanujan and Hardy played a game where they both picked a complex number. If the product of their numbers was $32-8i$, and Hardy picked $5+3i$, what number did Ramanujan pick?",
+      "options": [
+        "32-8i",
+        "5+3i",
+        "4-i",
+        "4-4i"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-8e4a7885a25b",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "If Wayne considers the letter “Y” to be a vowel but Kristen does not, thinking that there are only 5 vowels, by what percent is the probability that a randomly selected letter out of the 26 letter alphabet will be a vowel greater in Wayne’s opinion than in Kristen’s opinion?",
+      "options": [
+        "5%",
+        "6%",
+        "20%",
+        "30%"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-19ad6c847dea",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "What is the probability that a randomly selected integer in the set $$\\{1,2,3,\\ldots,100\\}$$ is divisible by 2 and not divisible by 3? Express your answer as a common fraction.",
+      "options": [
+        "$\\frac{31}{66}$",
+        "$\\frac{17}{66}$",
+        "$\\frac{17}{31}$",
+        "$\\frac{17}{50}$"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-77ead1c7672b",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "If I roll 5 standard 6-sided dice and multiply the number on the face of each die, what is the probability that the result is a composite number?",
+      "options": [
+        "$\\frac{485}{486}$",
+        "$\\frac{16}{7776}$",
+        "$\\frac{4}{7776}$",
+        "$\\frac{2}{7776}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-20b8ac53919f",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Six 6-sided dice are rolled. What is the probability that three of the dice show prime numbers and the rest show composite numbers?",
+      "options": [
+        "$\\frac{125}{2916}$",
+        "$\\frac{5}{16}$",
+        "$\\frac{5}{54}$",
+        "$\\frac{5}{55}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-aad22ec669f0",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Ben rolls four fair 20-sided dice, and each of the dice has faces numbered from 1 to 20. What is the probability that exactly two of the dice show an even number?",
+      "options": [
+        "$\\frac{5}{24}$",
+        "$\\frac{5}{16}$",
+        "$\\frac{3}{8}$",
+        "$\\frac{5}{8}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-62c8d0307991",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "When three standard dice are tossed, the numbers $a,b,c$ are obtained. Find the probability that $abc = 180$.",
+      "options": [
+        "$\\frac{1}{30}$",
+        "$\\frac{1}{72}$",
+        "$\\frac{1}{71}$",
+        "$\\frac{1}{70}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-54a982c98688",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "A bag has 4 red and 6 blue marbles. A marble is selected and not replaced, then a second is selected. What is the probability that both are the same color?",
+      "options": [
+        "$\\frac{1}{8}$",
+        "$\\frac{8}{15}$",
+        "$\\frac{1}{15}$",
+        "$\\frac{7}{15}$"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-94ed7a91b78c",
+      "chapterId": "maths-complex-numbers",
+      "subjectId": "maths",
+      "stem": "For the complex number z = a + bi, it is known that a and b are positive integers, and that z^3 + z^2 + z is a real number. Find the smallest possible value for b.",
+      "options": [
+        "10",
+        "1",
+        "6",
+        "11"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-d4b6e253c6b4",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "In how many ways can 5 students be selected from a group of 6 students?",
+      "options": [
+        "12",
+        "3",
+        "5",
+        "6"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-3e741d8f0dec",
+      "chapterId": "maths-functions",
+      "subjectId": "maths",
+      "stem": "What is the range of the function y = 5 + 3 * sin(pi – x)?",
+      "options": [
+        "–3 ≤ y ≤ 3",
+        "–2 ≤ y ≤ 8",
+        "0 ≤ y ≤ 6",
+        "2 ≤ y ≤ 8"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-453712c9416a",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "Write an equation for the line tangent to the curve defined by F(t) = (t^2 + 1, 2^t) at the point where y = 4.",
+      "options": [
+        "y – 4 = ln 2(x – 2)",
+        "y – 4 = 4 ln 2(x – 2)",
+        "y – 4 = 4(x – 5)",
+        "y – 4 = ln 2(x – 5)"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-46c2d51b70e4",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "John has five children. What is the probability that at least half of them are girls? (We can assume a boy is equally likely to be born as is a girl, and vice-versa.)",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{8}$",
+        "$\\frac{3}{5}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-a1ac8c13e6fd",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "At how many points on the interval [0,π] does f(x) = 2 sin x + sin 4x satisfy the Mean Value Theorem?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-24ab3ada6149",
+      "chapterId": "maths-random-variables-and-probability-distributions",
+      "subjectId": "maths",
+      "stem": "Ben rolls two fair six-sided dice. What is the expected value of the larger of the two numbers rolled? Express your answer as a fraction. (If the two numbers are the same, we take that number to be the \"larger\" number.)",
+      "options": [
+        "$\\frac{161}{6}$",
+        "$\\frac{161}{36}$",
+        "161",
+        "$\\frac{161}{3}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-9997fd305fd4",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "John has 12 marbles of different colors, including one red, one green, and one blue marble. In how many ways can he choose 4 marbles, if exactly one of the chosen marbles is red, green, or blue?",
+      "options": [
+        "252",
+        "276",
+        "441",
+        "84"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-3b27efb27f28",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "The maximum value of the function f (x) = xe^{–x} is",
+      "options": [
+        "1/e",
+        "e",
+        "1",
+        "-1"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-d69f041335f0",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Four packages are delivered to four houses, one to each house. If these packages are randomly delivered, what is the probability that exactly two of them are delivered to the correct houses? Express your answer as a common fraction.",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{27}{128}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{9}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-4d55e7c79191",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Suppose that we roll two fair 6-sided dice. What is the probability that the two numbers rolled sum to 4?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{12}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{9}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-d4fb9e408bea",
+      "chapterId": "maths-properties-of-triangles",
+      "subjectId": "maths",
+      "stem": "Compute the area of the triangle whose altitudes have lengths 10, 12, and 15.",
+      "options": [
+        "$56\\sqrt{15}$",
+        "$240\\sqrt{7}$",
+        "$60\\sqrt{7}$",
+        "$240\\sqrt{7}/7$"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-a0847891eda5",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "A theater group has eight members, of which four are females. How many ways are there to assign the roles of a play that involve one female lead, one male lead, and three different objects that can be played by either gender?",
+      "options": [
+        "640",
+        "720",
+        "8",
+        "1920"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-2051658e8758",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "What is the maximum value of $4(x + 7)(2 - x)$, over all real numbers $x$?",
+      "options": [
+        "-2.5",
+        "4",
+        "81",
+        "56"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-9b62cde191f5",
+      "chapterId": "maths-functions",
+      "subjectId": "maths",
+      "stem": "Let $f(x) = (x+2)^2-5$. If the domain of $f$ is all real numbers, then $f$ does not have an inverse function, but if we restrict the domain of $f$ to an interval $[c,\\infty)$, then $f$ may have an inverse function. What is the smallest value of $c$ we can use here, so that $f$ does have an inverse function?",
+      "options": [
+        "-2",
+        "-5",
+        "3",
+        "-8"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-5cd2312ed95b",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "What is the minimum value of $a^2+6a-7$?",
+      "options": [
+        "-30",
+        "-12",
+        "-7",
+        "-16"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-b2ab9e837424",
+      "chapterId": "maths-complex-numbers",
+      "subjectId": "maths",
+      "stem": "Simplify $\\frac{2+2i}{-3+4i}$. Express your answer as a complex number in the form $a+bi$, where $a$ and $b$ are real numbers.",
+      "options": [
+        "2-14i",
+        "$\\frac{2}{25} + \\frac{-14}{25}i$",
+        "1+0i",
+        "0-1i"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-70debfb4399b",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Joe's batting average is .323. (That is, he averages 0.323 hits per at bat.) What is the probability that he will get three hits in three at-bats? Express your answer as a decimal to the nearest hundredth.",
+      "options": [
+        "0.03",
+        "0.01",
+        "0.3",
+        "0.1"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-7139466b68d2",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "There are 25 suitcases, 5 of which are damaged. Three suitcases are selected at random. What is the probability that exactly 2 are damaged?",
+      "options": [
+        "2/69",
+        "1/30",
+        "2/23",
+        "12/125"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-5c9f675e26a9",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Consider a segment of length 10. Points A and B are chosen randomly such that A and B divide the segment into three smaller segments. What is the probability that the three smaller segments could form the sides of a triangle?",
+      "options": [
+        "0",
+        "10%",
+        "25%",
+        "50%"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-daaa77c4f272",
+      "chapterId": "maths-random-variables-and-probability-distributions",
+      "subjectId": "maths",
+      "stem": "Suppose X is a discrete random variable on the set of positive integers such that for each positive integer n, the probability that X = n is 1/2^n. If Y is a random variable with the same probability distribution and X and Y are independent, what is the probability that the value of at least one of the variables X and Y is greater than 3 ?",
+      "options": [
+        "1/64",
+        "15/64",
+        "1/4",
+        "3/8"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-8ce8bca3076f",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "Sofia and Tess will each randomly choose one of the 10 integers from 1 to 10. What is the probability that neither integer chosen will be the square of the other?",
+      "options": [
+        "0.64",
+        "0.72",
+        "0.81",
+        "0.95"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-a5c146079922",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "A six-sided die (whose faces are numbered 1 through 6, as usual) is known to be counterfeit: The probability of rolling any even number is twice the probability of rolling any odd number. What is the probability that if this die is thrown twice, the first roll will be a 5 and the second roll will be a 6?",
+      "options": [
+        "2/81",
+        "1/18",
+        "2/27",
+        "1/9"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-c56b014b2a3d",
+      "chapterId": "maths-complex-numbers",
+      "subjectId": "maths",
+      "stem": "Statement 1 | Suppose {s_n} and {t_n} are sequences of complex numbers such that lim_n→∞ s_n = s and lim_n→∞ tn = t. lim_n→∞ s_nt_n = st. Statement 2 | There exists a bounded sequence of real numbers with no convergent subsequence.",
+      "options": [
+        "True, True",
+        "True, False",
+        "False, True",
+        "False, False"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-e7d5612d7f20",
+      "chapterId": "maths-permutations-and-combinations",
+      "subjectId": "maths",
+      "stem": "What is the largest order of an element in the group of permutations of 5 objects?",
+      "options": [
+        "5",
+        "6",
+        "12",
+        "15"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-dac6fed52d53",
+      "chapterId": "maths-the-straight-line",
+      "subjectId": "maths",
+      "stem": "Which of the following is an equation of the line tangent to the graph of y = x + e^x at x = 0 ?",
+      "options": [
+        "y = 2x + 1",
+        "y = 2x",
+        "y = x + 2",
+        "y = x + 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-c5831889313f",
+      "chapterId": "maths-complex-numbers",
+      "subjectId": "maths",
+      "stem": "Which of the following are true:",
+      "options": [
+        "It is possible to place an linear order relation ≤ on the complex numbers C such that (C, +, ×, ≤) is not an ordered field.",
+        "It is possible to place a linear order relation on the complex numbers C which make (C, +, ×, ≤) an ordered field.",
+        "Neither (a) nor (b)",
+        "Both (a) and (b)."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-2b2e1e8d0955",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "In a game two players take turns tossing a fair coin; the winner is the first one to toss a head. The probability that the player who makes the first toss wins the game is",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-45afe3c0d253",
+      "chapterId": "maths-complex-numbers",
+      "subjectId": "maths",
+      "stem": "Which of the following is NOT a group?",
+      "options": [
+        "The integers under addition",
+        "The nonzero integers under multiplication",
+        "The nonzero real numbers under multiplication",
+        "The complex numbers under addition"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-819445394a31",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "What is the minimum value of the expression x + 4z as a function defined on R^3, subject to the constraint x^2 + y^2 + z^2 <= 2?",
+      "options": [
+        "0",
+        "-2",
+        "-sqrt(34)",
+        "-sqrt(35)"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-744aea601108",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "If c > 0 and f(x) = e^x - cx for all real numbers x, then the minimum value of f is",
+      "options": [
+        "f(c)",
+        "f(e^c)",
+        "f(1/c)",
+        "f(log c)"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-cf2a020050ef",
+      "chapterId": "maths-differential-equations",
+      "subjectId": "maths",
+      "stem": "Let y = f(x) be a solution of the differential equation x dy + (y - xe^x) dx = 0 such that y = 0 when x = 1. What is the value of f(2)?",
+      "options": [
+        "1/(2e)",
+        "1/e",
+        "e^2/2",
+        "2e"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-77e0d7eb7a0f",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "A fair coin is to be tossed 100 times, with each toss resulting in a head or a tail. If H is the total number of heads and T is the total number of tails, which of the following events has the greatest probability?",
+      "options": [
+        "H = 50",
+        "T >= 60",
+        "51 <= H <= 55",
+        "H >= 48 and T >= 48"
+      ],
+      "answerIndex": 3,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-cd8e614c32cf",
+      "chapterId": "maths-matrices",
+      "subjectId": "maths",
+      "stem": "Let M be a 5 x 5 real matrix. Exactly four of the following five conditions on M are equivalent to each other. Which of the five conditions is equivalent to NONE of the other four?",
+      "options": [
+        "For any two distinct column vectors u and v of M, the set {u, v} is linearly independent.",
+        "The homogeneous system Mx = 0 has only the trivial solution.",
+        "The system of equations Mx = b has a unique solution for each real 5 x 1 column vector b.",
+        "The determinant of M is nonzero."
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-daa20207f07c",
+      "chapterId": "maths-complex-numbers",
+      "subjectId": "maths",
+      "stem": "For which of the following rings is it possible for the product of two nonzero elements to be zero?",
+      "options": [
+        "The ring of complex numbers",
+        "The ring of integers modulo 11",
+        "The ring of continuous real-valued functions on [0, 1]",
+        "The ring {a + b * sqrt(2) : a and b are rational numbers}"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-f4183d045327",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "If a real number x is chosen at random in the interval [0, 3] and a real number y is chosen at random in the interval [0, 4], what is the probability that x < y?",
+      "options": [
+        "1/2",
+        "7/12",
+        "5/8",
+        "2/3"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-b5ac5fb57dae",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "The probability that a point (x, y) in R^2 is chosen follows a uniform random distribution within the region described by the inequality 0 < |x| + |y| < 1 . What is the probability that 2(x + y) > 1?",
+      "options": [
+        "0",
+        "1/4",
+        "sqrt(2)/4",
+        "1/sqrt(2)"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-c18fafd8b14e",
+      "chapterId": "maths-complex-numbers",
+      "subjectId": "maths",
+      "stem": "If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be",
+      "options": [
+        "x^3 + 5x^2 + 4x + 1",
+        "x^4 - 6x^3 + 15x^2 - 18x + 10",
+        "x^3 - x^2 + 4x + 1",
+        "x^4 + 7x^2 + 10"
+      ],
+      "answerIndex": 1,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-6222880b537a",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen?",
+      "options": [
+        "(9/10)^k",
+        "(1/10)^k",
+        "(k-1)/k",
+        "1/10"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-f6d094dd6b8a",
+      "chapterId": "maths-probability",
+      "subjectId": "maths",
+      "stem": "A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is",
+      "options": [
+        "greater than 0.50",
+        "between 0.16 and 0.50",
+        "between 0.02 and 0.16",
+        "between 0.01 and 0.02"
+      ],
+      "answerIndex": 2,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    },
+    {
+      "id": "mmlu-maths-5036e1fb96f7",
+      "chapterId": "maths-applications-of-derivatives",
+      "subjectId": "maths",
+      "stem": "For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane?",
+      "options": [
+        "10/e",
+        "10",
+        "10e",
+        "e^10"
+      ],
+      "answerIndex": 0,
+      "explanation": "",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      },
+      "source": {
+        "name": "MMLU (Center for AI Safety)",
+        "url": "https://huggingface.co/datasets/cais/mmlu",
+        "license": "MIT"
+      }
+    }
+  ]
+}

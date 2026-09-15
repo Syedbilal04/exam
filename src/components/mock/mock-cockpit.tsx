@@ -2,6 +2,8 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { submitAttemptAction } from "@/app/actions/attempt";
+import { MathText } from "@/components/math-text";
+import { QuestionFigures } from "@/components/question-figures";
 import type { ClientQuestion } from "@/lib/types";
 
 type Props = {
@@ -148,8 +150,10 @@ export function MockCockpit({
               </p>
 
               <h2 className="mt-3 text-xl leading-relaxed text-ink-800">
-                {question.stem}
+                <MathText>{question.stem}</MathText>
               </h2>
+
+              <QuestionFigures images={question.images} />
 
               <div className="mt-6 space-y-3">
                 {question.options.map((option, optionIndex) => {
@@ -174,7 +178,9 @@ export function MockCockpit({
                       >
                         {String.fromCharCode(65 + optionIndex)}
                       </span>
-                      <span className="text-ink-800">{option}</span>
+                      <span className="text-ink-800">
+                        <MathText>{option}</MathText>
+                      </span>
                     </button>
                   );
                 })}
