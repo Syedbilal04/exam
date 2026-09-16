@@ -1,0 +1,1089 @@
+{
+  "subjectId": "maths",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-mat-par-001",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 1x^2, the value of y at x = 2 is",
+      "options": [
+        "5",
+        "4",
+        "2",
+        "8"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 1(2)^2 = 4.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-001.svg",
+          "alt": "Graph of y = 1x^2 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-002",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 2x^2, the value of y at x = 2 is",
+      "options": [
+        "8",
+        "16",
+        "4",
+        "12"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 2(2)^2 = 8.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-002.svg",
+          "alt": "Graph of y = 2x^2 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-003",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 3x^2, the value of y at x = 2 is",
+      "options": [
+        "6",
+        "16",
+        "12",
+        "24"
+      ],
+      "answerIndex": 2,
+      "explanation": "y = 3(2)^2 = 12.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-003.svg",
+          "alt": "Graph of y = 3x^2 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-004",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 4x^2, the value of y at x = 2 is",
+      "options": [
+        "8",
+        "20",
+        "16",
+        "32"
+      ],
+      "answerIndex": 2,
+      "explanation": "y = 4(2)^2 = 16.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-004.svg",
+          "alt": "Graph of y = 4x^2 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-005",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 1x^2, the value of y at x = 3 is",
+      "options": [
+        "27",
+        "9",
+        "18",
+        "3"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 1(3)^2 = 9.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-005.svg",
+          "alt": "Graph of y = 1x^2 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-006",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 2x^2, the value of y at x = 3 is",
+      "options": [
+        "27",
+        "6",
+        "54",
+        "18"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 2(3)^2 = 18.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-006.svg",
+          "alt": "Graph of y = 2x^2 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-007",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 3x^2, the value of y at x = 3 is",
+      "options": [
+        "81",
+        "9",
+        "36",
+        "27"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 3(3)^2 = 27.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-007.svg",
+          "alt": "Graph of y = 3x^2 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-008",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 4x^2, the value of y at x = 3 is",
+      "options": [
+        "36",
+        "12",
+        "45",
+        "108"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 4(3)^2 = 36.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-008.svg",
+          "alt": "Graph of y = 4x^2 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-009",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 1x^2, the value of y at x = 4 is",
+      "options": [
+        "32",
+        "4",
+        "64",
+        "16"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 1(4)^2 = 16.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-009.svg",
+          "alt": "Graph of y = 1x^2 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-010",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 2x^2, the value of y at x = 4 is",
+      "options": [
+        "8",
+        "48",
+        "32",
+        "128"
+      ],
+      "answerIndex": 2,
+      "explanation": "y = 2(4)^2 = 32.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-010.svg",
+          "alt": "Graph of y = 2x^2 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-011",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 3x^2, the value of y at x = 4 is",
+      "options": [
+        "48",
+        "12",
+        "192",
+        "64"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 3(4)^2 = 48.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-011.svg",
+          "alt": "Graph of y = 3x^2 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-012",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 4x^2, the value of y at x = 4 is",
+      "options": [
+        "64",
+        "256",
+        "80",
+        "16"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 4(4)^2 = 64.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-012.svg",
+          "alt": "Graph of y = 4x^2 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-013",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 1x^2, the value of y at x = 5 is",
+      "options": [
+        "5",
+        "25",
+        "50",
+        "125"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 1(5)^2 = 25.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-013.svg",
+          "alt": "Graph of y = 1x^2 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-014",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 2x^2, the value of y at x = 5 is",
+      "options": [
+        "10",
+        "250",
+        "50",
+        "75"
+      ],
+      "answerIndex": 2,
+      "explanation": "y = 2(5)^2 = 50.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-014.svg",
+          "alt": "Graph of y = 2x^2 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-015",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 3x^2, the value of y at x = 5 is",
+      "options": [
+        "100",
+        "75",
+        "15",
+        "375"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 3(5)^2 = 75.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-015.svg",
+          "alt": "Graph of y = 3x^2 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-016",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 4x^2, the value of y at x = 5 is",
+      "options": [
+        "100",
+        "500",
+        "20",
+        "125"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 4(5)^2 = 100.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-016.svg",
+          "alt": "Graph of y = 4x^2 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-017",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 1x^2, the value of y at x = 6 is",
+      "options": [
+        "6",
+        "72",
+        "36",
+        "216"
+      ],
+      "answerIndex": 2,
+      "explanation": "y = 1(6)^2 = 36.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-017.svg",
+          "alt": "Graph of y = 1x^2 with a marker at x = 6",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-018",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 2x^2, the value of y at x = 6 is",
+      "options": [
+        "72",
+        "432",
+        "108",
+        "12"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 2(6)^2 = 72.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-018.svg",
+          "alt": "Graph of y = 2x^2 with a marker at x = 6",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-019",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 3x^2, the value of y at x = 6 is",
+      "options": [
+        "648",
+        "108",
+        "18",
+        "144"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 3(6)^2 = 108.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-019.svg",
+          "alt": "Graph of y = 3x^2 with a marker at x = 6",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-020",
+      "chapterId": "maths-parabola",
+      "stem": "For the parabola y = 4x^2, the value of y at x = 6 is",
+      "options": [
+        "864",
+        "24",
+        "180",
+        "144"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 4(6)^2 = 144.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-020.svg",
+          "alt": "Graph of y = 4x^2 with a marker at x = 6",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-021",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 1x^2 + 1x + 0, the value of y at x = 2 is",
+      "options": [
+        "6",
+        "2",
+        "4",
+        "7"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 1(2)^2 + 1(2) + 0 = 6.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-021.svg",
+          "alt": "Graph of y = 1x^2 + 1x + 0 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-022",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 2x^2 + 2x + 1, the value of y at x = 3 is",
+      "options": [
+        "7",
+        "18",
+        "19",
+        "25"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 2(3)^2 + 2(3) + 1 = 25.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-022.svg",
+          "alt": "Graph of y = 2x^2 + 2x + 1 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-023",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 3x^2 + 3x + 2, the value of y at x = 4 is",
+      "options": [
+        "14",
+        "48",
+        "50",
+        "62"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 3(4)^2 + 3(4) + 2 = 62.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-023.svg",
+          "alt": "Graph of y = 3x^2 + 3x + 2 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-024",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 1x^2 + 4x + 3, the value of y at x = 5 is",
+      "options": [
+        "28",
+        "23",
+        "25",
+        "48"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 1(5)^2 + 4(5) + 3 = 48.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-024.svg",
+          "alt": "Graph of y = 1x^2 + 4x + 3 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-025",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 2x^2 + 1x + 4, the value of y at x = 2 is",
+      "options": [
+        "6",
+        "14",
+        "12",
+        "8"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 2(2)^2 + 1(2) + 4 = 14.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-025.svg",
+          "alt": "Graph of y = 2x^2 + 1x + 4 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-026",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 3x^2 + 2x + 0, the value of y at x = 3 is",
+      "options": [
+        "33",
+        "34",
+        "6",
+        "27"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 3(3)^2 + 2(3) + 0 = 33.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-026.svg",
+          "alt": "Graph of y = 3x^2 + 2x + 0 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-027",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 1x^2 + 3x + 1, the value of y at x = 4 is",
+      "options": [
+        "17",
+        "13",
+        "16",
+        "29"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 1(4)^2 + 3(4) + 1 = 29.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-027.svg",
+          "alt": "Graph of y = 1x^2 + 3x + 1 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-028",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 2x^2 + 4x + 2, the value of y at x = 5 is",
+      "options": [
+        "50",
+        "22",
+        "72",
+        "52"
+      ],
+      "answerIndex": 2,
+      "explanation": "y = 2(5)^2 + 4(5) + 2 = 72.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-028.svg",
+          "alt": "Graph of y = 2x^2 + 4x + 2 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-029",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 3x^2 + 1x + 3, the value of y at x = 2 is",
+      "options": [
+        "12",
+        "17",
+        "5",
+        "15"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 3(2)^2 + 1(2) + 3 = 17.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-029.svg",
+          "alt": "Graph of y = 3x^2 + 1x + 3 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-030",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 1x^2 + 2x + 4, the value of y at x = 3 is",
+      "options": [
+        "10",
+        "19",
+        "9",
+        "13"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 1(3)^2 + 2(3) + 4 = 19.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-030.svg",
+          "alt": "Graph of y = 1x^2 + 2x + 4 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-031",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 2x^2 + 3x + 0, the value of y at x = 4 is",
+      "options": [
+        "32",
+        "12",
+        "45",
+        "44"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 2(4)^2 + 3(4) + 0 = 44.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-031.svg",
+          "alt": "Graph of y = 2x^2 + 3x + 0 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-032",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 3x^2 + 4x + 1, the value of y at x = 5 is",
+      "options": [
+        "75",
+        "96",
+        "76",
+        "21"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 3(5)^2 + 4(5) + 1 = 96.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-032.svg",
+          "alt": "Graph of y = 3x^2 + 4x + 1 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-033",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 1x^2 + 1x + 2, the value of y at x = 2 is",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "9"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 1(2)^2 + 1(2) + 2 = 8.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-033.svg",
+          "alt": "Graph of y = 1x^2 + 1x + 2 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-034",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 2x^2 + 2x + 3, the value of y at x = 3 is",
+      "options": [
+        "27",
+        "21",
+        "18",
+        "9"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 2(3)^2 + 2(3) + 3 = 27.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-034.svg",
+          "alt": "Graph of y = 2x^2 + 2x + 3 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-035",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 3x^2 + 3x + 4, the value of y at x = 4 is",
+      "options": [
+        "64",
+        "48",
+        "16",
+        "52"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 3(4)^2 + 3(4) + 4 = 64.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-035.svg",
+          "alt": "Graph of y = 3x^2 + 3x + 4 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-036",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 1x^2 + 4x + 0, the value of y at x = 5 is",
+      "options": [
+        "20",
+        "46",
+        "25",
+        "45"
+      ],
+      "answerIndex": 3,
+      "explanation": "y = 1(5)^2 + 4(5) + 0 = 45.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-036.svg",
+          "alt": "Graph of y = 1x^2 + 4x + 0 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-037",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 2x^2 + 1x + 1, the value of y at x = 2 is",
+      "options": [
+        "9",
+        "8",
+        "11",
+        "3"
+      ],
+      "answerIndex": 2,
+      "explanation": "y = 2(2)^2 + 1(2) + 1 = 11.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-037.svg",
+          "alt": "Graph of y = 2x^2 + 1x + 1 with a marker at x = 2",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-038",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 3x^2 + 2x + 2, the value of y at x = 3 is",
+      "options": [
+        "8",
+        "27",
+        "35",
+        "29"
+      ],
+      "answerIndex": 2,
+      "explanation": "y = 3(3)^2 + 2(3) + 2 = 35.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-038.svg",
+          "alt": "Graph of y = 3x^2 + 2x + 2 with a marker at x = 3",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-039",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 1x^2 + 3x + 3, the value of y at x = 4 is",
+      "options": [
+        "31",
+        "15",
+        "19",
+        "16"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = 1(4)^2 + 3(4) + 3 = 31.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-039.svg",
+          "alt": "Graph of y = 1x^2 + 3x + 3 with a marker at x = 4",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-par-040",
+      "chapterId": "maths-parabola",
+      "stem": "For y = 2x^2 + 4x + 4, the value of y at x = 5 is",
+      "options": [
+        "54",
+        "74",
+        "50",
+        "24"
+      ],
+      "answerIndex": 1,
+      "explanation": "y = 2(5)^2 + 4(5) + 4 = 74.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-mat-par-040.svg",
+          "alt": "Graph of y = 2x^2 + 4x + 4 with a marker at x = 5",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

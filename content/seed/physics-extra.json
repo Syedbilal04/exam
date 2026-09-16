@@ -1,0 +1,777 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "phy-um-001",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "The SI unit of luminous intensity is the",
+      "options": [
+        "candela",
+        "lumen",
+        "lux",
+        "watt"
+      ],
+      "answerIndex": 0,
+      "explanation": "The candela is a base SI unit.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-um-002",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "A dimensionless quantity among the following is",
+      "options": [
+        "strain",
+        "stress",
+        "force",
+        "impulse"
+      ],
+      "answerIndex": 0,
+      "explanation": "Strain is a ratio of two lengths.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-um-003",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "The number of significant figures in 0.00240 is",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "answerIndex": 1,
+      "explanation": "Leading zeros do not count; the trailing zero after 4 does.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-um-004",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "Dimensional formula of force is",
+      "options": [
+        "[MLT^-2]",
+        "[MLT^-1]",
+        "[ML^2 T^-2]",
+        "[M T^-2]"
+      ],
+      "answerIndex": 0,
+      "explanation": "F = ma.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-um-005",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "Which of the following is a derived unit?",
+      "options": [
+        "second",
+        "kelvin",
+        "newton",
+        "mole"
+      ],
+      "answerIndex": 2,
+      "explanation": "Newton = kg m s^-2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-um-006",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "The order of magnitude of 2.8 × 10^3 is",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "28"
+      ],
+      "answerIndex": 0,
+      "explanation": "Order of magnitude is the power of ten when written in scientific notation with mantissa near 1 to 10.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-pw-001",
+      "chapterId": "physics-physical-world",
+      "stem": "The scientific method rests primarily on",
+      "options": [
+        "authority",
+        "experiment and observation",
+        "belief",
+        "vote"
+      ],
+      "answerIndex": 1,
+      "explanation": "Physics is empirical.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-pw-002",
+      "chapterId": "physics-physical-world",
+      "stem": "Which of the following is a fundamental force in nature?",
+      "options": [
+        "friction",
+        "tension",
+        "gravitational force",
+        "viscous drag"
+      ],
+      "answerIndex": 2,
+      "explanation": "The four fundamental interactions include gravity.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-pw-003",
+      "chapterId": "physics-physical-world",
+      "stem": "Technology is best described as",
+      "options": [
+        "pure speculation",
+        "application of scientific knowledge",
+        "a replacement for science",
+        "independent of science"
+      ],
+      "answerIndex": 1,
+      "explanation": "Technology applies science.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-pw-004",
+      "chapterId": "physics-physical-world",
+      "stem": "The SI system is based on how many base units?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "answerIndex": 2,
+      "explanation": "Seven base units.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ms-001",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "Hooke's law states that within the elastic limit, stress is proportional to",
+      "options": [
+        "strain",
+        "time",
+        "temperature only",
+        "volume"
+      ],
+      "answerIndex": 0,
+      "explanation": "stress = Y × strain.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ms-002",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "Young's modulus has the same dimensions as",
+      "options": [
+        "force",
+        "pressure",
+        "strain",
+        "length"
+      ],
+      "answerIndex": 1,
+      "explanation": "Y = stress/strain and strain is dimensionless.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ms-003",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "The SI unit of Young's modulus is",
+      "options": [
+        "N",
+        "N m",
+        "N m^-2",
+        "kg"
+      ],
+      "answerIndex": 2,
+      "explanation": "Same as stress, pascal.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ms-004",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "Rubber is more elastic than steel in everyday speech, but scientifically steel has a larger",
+      "options": [
+        "strain for a given stress",
+        "Young's modulus",
+        "breaking strain always",
+        "plastic region only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Larger Y means more elastic in the physics sense.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ms-005",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "Bulk modulus is the ratio of",
+      "options": [
+        "longitudinal stress to strain",
+        "volume stress to volume strain",
+        "shear stress to shear strain",
+        "force to area"
+      ],
+      "answerIndex": 1,
+      "explanation": "Definition of K.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ms-006",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "The Poisson ratio is the negative of lateral strain over",
+      "options": [
+        "volume strain",
+        "longitudinal strain",
+        "shear strain",
+        "stress"
+      ],
+      "answerIndex": 1,
+      "explanation": "sigma = - lateral / longitudinal.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-mm-001",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "A diamagnetic material is characterised by a magnetic susceptibility that is",
+      "options": [
+        "small and negative",
+        "large and positive",
+        "infinite",
+        "exactly 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Diamagnets have chi slightly less than 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-mm-002",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "The magnetic moment of a bar magnet is directed from",
+      "options": [
+        "north to south inside the magnet",
+        "south to north inside the magnet",
+        "east to west",
+        "randomly"
+      ],
+      "answerIndex": 1,
+      "explanation": "Field lines inside run S to N.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-mm-003",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "Earth's magnetic field is approximately",
+      "options": [
+        "1 T",
+        "10^-5 T",
+        "10 T",
+        "0"
+      ],
+      "answerIndex": 1,
+      "explanation": "A few tens of microtesla.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-mm-004",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "The angle of dip at the magnetic equator is",
+      "options": [
+        "0 degrees",
+        "90 degrees",
+        "45 degrees",
+        "180 degrees"
+      ],
+      "answerIndex": 0,
+      "explanation": "The field is horizontal.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-mm-005",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "Ferromagnetic materials exhibit",
+      "options": [
+        "hysteresis",
+        "zero permeability",
+        "negative permeability only",
+        "no domains"
+      ],
+      "answerIndex": 0,
+      "explanation": "Domain alignment and hysteresis loop.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-mm-006",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "The SI unit of magnetic flux is the",
+      "options": [
+        "tesla",
+        "weber",
+        "henry",
+        "ampere"
+      ],
+      "answerIndex": 1,
+      "explanation": "1 Wb = 1 T m^2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ac-001",
+      "chapterId": "physics-alternating-current",
+      "stem": "The rms value of a sinusoidal current of peak I0 is",
+      "options": [
+        "I0",
+        "I0 / sqrt(2)",
+        "I0 / 2",
+        "2 I0"
+      ],
+      "answerIndex": 1,
+      "explanation": "I_rms = I0 / sqrt(2).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ac-002",
+      "chapterId": "physics-alternating-current",
+      "stem": "In a pure inductor, current lags the voltage by",
+      "options": [
+        "0",
+        "45 degrees",
+        "90 degrees",
+        "180 degrees"
+      ],
+      "answerIndex": 2,
+      "explanation": "ELI: voltage leads current by pi/2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ac-003",
+      "chapterId": "physics-alternating-current",
+      "stem": "The impedance of an LCR series circuit at resonance is",
+      "options": [
+        "zero",
+        "R",
+        "omega L",
+        "1 / omega C"
+      ],
+      "answerIndex": 1,
+      "explanation": "XL = XC so Z = R.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ac-004",
+      "chapterId": "physics-alternating-current",
+      "stem": "The power factor of a purely resistive AC circuit is",
+      "options": [
+        "0",
+        "1",
+        "0.5",
+        "infinite"
+      ],
+      "answerIndex": 1,
+      "explanation": "cos phi = 1 when phi = 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ac-005",
+      "chapterId": "physics-alternating-current",
+      "stem": "The SI unit of inductive reactance is the",
+      "options": [
+        "henry",
+        "ohm",
+        "farad",
+        "weber"
+      ],
+      "answerIndex": 1,
+      "explanation": "XL = omega L has units of resistance.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-ac-006",
+      "chapterId": "physics-alternating-current",
+      "stem": "A transformer works on the principle of",
+      "options": [
+        "self induction only",
+        "mutual induction",
+        "electrostatics",
+        "photoelectric effect"
+      ],
+      "answerIndex": 1,
+      "explanation": "Changing flux in one coil induces emf in the other.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-cs-001",
+      "chapterId": "physics-communication-systems",
+      "stem": "Amplitude modulation varies the",
+      "options": [
+        "frequency of the carrier",
+        "amplitude of the carrier",
+        "phase only of the message",
+        "speed of light"
+      ],
+      "answerIndex": 1,
+      "explanation": "AM: carrier amplitude follows the message.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-cs-002",
+      "chapterId": "physics-communication-systems",
+      "stem": "The modulation index for AM must typically stay",
+      "options": [
+        "greater than 2",
+        "less than or equal to 1 for no overmodulation",
+        "exactly 0",
+        "infinite"
+      ],
+      "answerIndex": 1,
+      "explanation": "m > 1 causes overmodulation and distortion.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-cs-003",
+      "chapterId": "physics-communication-systems",
+      "stem": "The length of a quarter-wave antenna for wavelength lambda is",
+      "options": [
+        "lambda",
+        "lambda / 2",
+        "lambda / 4",
+        "2 lambda"
+      ],
+      "answerIndex": 2,
+      "explanation": "l = lambda / 4.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "phy-cs-004",
+      "chapterId": "physics-communication-systems",
+      "stem": "Frequency modulation is relatively immune to",
+      "options": [
+        "bandwidth limits",
+        "amplitude noise",
+        "all interference",
+        "carrier frequency"
+      ],
+      "answerIndex": 1,
+      "explanation": "Information is in frequency, not amplitude.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    }
+  ]
+}

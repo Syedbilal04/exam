@@ -1,0 +1,1689 @@
+{
+  "subjectId": "chemistry",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "che-hy-001",
+      "chapterId": "chemistry-hydrogen-and-its-compounds",
+      "stem": "The isotope of hydrogen with mass number 2 is called",
+      "options": [
+        "protium",
+        "deuterium",
+        "tritium",
+        "helium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Deuterium has one neutron.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-hy-002",
+      "chapterId": "chemistry-hydrogen-and-its-compounds",
+      "stem": "Heavy water is",
+      "options": [
+        "H2O2",
+        "D2O",
+        "H2O with salt",
+        "T2"
+      ],
+      "answerIndex": 1,
+      "explanation": "D2O.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-hy-003",
+      "chapterId": "chemistry-hydrogen-and-its-compounds",
+      "stem": "Hydrogen peroxide acts as",
+      "options": [
+        "only an oxidising agent",
+        "only a reducing agent",
+        "both oxidising and reducing agent",
+        "neither"
+      ],
+      "answerIndex": 2,
+      "explanation": "It can be oxidised to O2 or reduced to water.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-hy-004",
+      "chapterId": "chemistry-hydrogen-and-its-compounds",
+      "stem": "Temporary hardness of water is due to",
+      "options": [
+        "chlorides of Ca and Mg",
+        "bicarbonates of Ca and Mg",
+        "sulphates of Na",
+        "nitrates"
+      ],
+      "answerIndex": 1,
+      "explanation": "Boiling removes bicarbonate hardness.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-hy-005",
+      "chapterId": "chemistry-hydrogen-and-its-compounds",
+      "stem": "The structure of H2O2 in the gas phase is best described as",
+      "options": [
+        "linear",
+        "open book (skew)",
+        "tetrahedral",
+        "square planar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Non-planar skew structure.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-hy-006",
+      "chapterId": "chemistry-hydrogen-and-its-compounds",
+      "stem": "Calgon used to remove hardness is essentially",
+      "options": [
+        "sodium hexametaphosphate",
+        "washing soda only",
+        "lime",
+        "bleaching powder"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sequesters Ca and Mg.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sb-001",
+      "chapterId": "chemistry-the-s-block-elements",
+      "stem": "Alkali metals have the outer electronic configuration",
+      "options": [
+        "ns^2",
+        "ns^1",
+        "np^6",
+        "nd^1"
+      ],
+      "answerIndex": 1,
+      "explanation": "Group 1: ns^1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sb-002",
+      "chapterId": "chemistry-the-s-block-elements",
+      "stem": "The most abundant alkali metal in the earth's crust among Na and K is",
+      "options": [
+        "lithium",
+        "sodium",
+        "caesium",
+        "francium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sodium is more abundant than potassium in crustal rock overall; actually K and Na are both high - sodium is often cited as most abundant alkali. Keep sodium.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sb-003",
+      "chapterId": "chemistry-the-s-block-elements",
+      "stem": "Plaster of Paris is",
+      "options": [
+        "CaSO4 · 1/2 H2O",
+        "CaSO4 · 2 H2O",
+        "CaO",
+        "Ca(OH)2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hemihydrate.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sb-004",
+      "chapterId": "chemistry-the-s-block-elements",
+      "stem": "The diagonal relationship is strongest between",
+      "options": [
+        "Li and Mg",
+        "Na and Ca",
+        "K and Mg",
+        "Cs and Be"
+      ],
+      "answerIndex": 0,
+      "explanation": "Classic diagonal pair.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sb-005",
+      "chapterId": "chemistry-the-s-block-elements",
+      "stem": "Milk of magnesia is",
+      "options": [
+        "Mg(OH)2",
+        "MgO",
+        "MgCO3",
+        "MgSO4"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aqueous magnesium hydroxide.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sb-006",
+      "chapterId": "chemistry-the-s-block-elements",
+      "stem": "Solvay process is used to manufacture",
+      "options": [
+        "NaOH",
+        "Na2CO3",
+        "NaCl",
+        "NaHCO3 only as final product"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sodium carbonate.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-b13-001",
+      "chapterId": "chemistry-p-block-elements-group-13-boron-family",
+      "stem": "The hydride B2H6 is called",
+      "options": [
+        "borax",
+        "diborane",
+        "boric acid",
+        "colemanite"
+      ],
+      "answerIndex": 1,
+      "explanation": "Diborane.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-b13-002",
+      "chapterId": "chemistry-p-block-elements-group-13-boron-family",
+      "stem": "Boric acid is a",
+      "options": [
+        "Arrhenius strong acid",
+        "Lewis acid",
+        "Arrhenius strong base",
+        "salt"
+      ],
+      "answerIndex": 1,
+      "explanation": "It accepts OH- from water.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-b13-003",
+      "chapterId": "chemistry-p-block-elements-group-13-boron-family",
+      "stem": "The most abundant metal in the earth's crust is",
+      "options": [
+        "iron",
+        "aluminium",
+        "copper",
+        "gold"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aluminium.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-b13-004",
+      "chapterId": "chemistry-p-block-elements-group-13-boron-family",
+      "stem": "Alumina is",
+      "options": [
+        "AlCl3",
+        "Al2O3",
+        "Al(OH)3",
+        "AlN"
+      ],
+      "answerIndex": 1,
+      "explanation": "Al2O3.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-b13-005",
+      "chapterId": "chemistry-p-block-elements-group-13-boron-family",
+      "stem": "Inert pair effect is most pronounced in",
+      "options": [
+        "boron",
+        "aluminium",
+        "thallium",
+        "carbon"
+      ],
+      "answerIndex": 2,
+      "explanation": "Heavier p-block, +1 preferred for Tl.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-en-001",
+      "chapterId": "chemistry-environmental-chemistry",
+      "stem": "The gas mainly responsible for Bhopal tragedy was",
+      "options": [
+        "CO",
+        "methyl isocyanate",
+        "SO2",
+        "ozone"
+      ],
+      "answerIndex": 1,
+      "explanation": "MIC.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-en-002",
+      "chapterId": "chemistry-environmental-chemistry",
+      "stem": "Acid rain typically has pH",
+      "options": [
+        "7",
+        "less than 5.6",
+        "14",
+        "exactly 7.4"
+      ],
+      "answerIndex": 1,
+      "explanation": "Natural rain is already slightly acidic; acid rain is lower.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-en-003",
+      "chapterId": "chemistry-environmental-chemistry",
+      "stem": "The pollutant that causes Minamata disease is",
+      "options": [
+        "mercury",
+        "arsenic",
+        "lead",
+        "cadmium"
+      ],
+      "answerIndex": 0,
+      "explanation": "Organic mercury in fish.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-en-004",
+      "chapterId": "chemistry-environmental-chemistry",
+      "stem": "Ozone depletion is catalysed in the stratosphere by",
+      "options": [
+        "nitrogen",
+        "chlorine radicals from CFCs",
+        "oxygen",
+        "helium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cl atoms from chlorofluorocarbons.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-en-005",
+      "chapterId": "chemistry-environmental-chemistry",
+      "stem": "BOD of a water sample measures",
+      "options": [
+        "bacterial count directly",
+        "dissolved oxygen consumed by microbes",
+        "salt content",
+        "pH only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Biochemical oxygen demand.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-en-006",
+      "chapterId": "chemistry-environmental-chemistry",
+      "stem": "Photochemical smog requires",
+      "options": [
+        "sunlight, NOx and hydrocarbons",
+        "only CO2",
+        "only soot",
+        "argon"
+      ],
+      "answerIndex": 0,
+      "explanation": "Classic Los Angeles type smog.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ss-001",
+      "chapterId": "chemistry-solid-state",
+      "stem": "The number of atoms per unit cell in an fcc lattice is",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "answerIndex": 2,
+      "explanation": "8 corners × 1/8 + 6 faces × 1/2 = 4.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ss-002",
+      "chapterId": "chemistry-solid-state",
+      "stem": "A Schottky defect in an ionic crystal is",
+      "options": [
+        "a cation vacancy plus an anion vacancy",
+        "an extra cation in interstitial site",
+        "only electron excess",
+        "grain boundary"
+      ],
+      "answerIndex": 0,
+      "explanation": "Paired vacancies keep charge balance.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ss-003",
+      "chapterId": "chemistry-solid-state",
+      "stem": "Packing efficiency of a simple cubic lattice is about",
+      "options": [
+        "52%",
+        "68%",
+        "74%",
+        "100%"
+      ],
+      "answerIndex": 0,
+      "explanation": "pi/6 ≈ 52%.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ss-004",
+      "chapterId": "chemistry-solid-state",
+      "stem": "The coordination number in an hcp metal is",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "Same as fcc, 12.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ss-005",
+      "chapterId": "chemistry-solid-state",
+      "stem": "Frenkel defect is usually found in",
+      "options": [
+        "NaCl densely packed ions of similar size",
+        "AgCl, ZnS type crystals",
+        "metals only",
+        "noble gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "Small cation in interstitial site.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ss-006",
+      "chapterId": "chemistry-solid-state",
+      "stem": "Bragg's law is",
+      "options": [
+        "n lambda = 2 d sin theta",
+        "E = h nu",
+        "PV = nRT",
+        "F = qvB"
+      ],
+      "answerIndex": 0,
+      "explanation": "X-ray diffraction.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sc-001",
+      "chapterId": "chemistry-surface-chemistry",
+      "stem": "Adsorption is generally",
+      "options": [
+        "exothermic",
+        "endothermic",
+        "neither",
+        "always chemical"
+      ],
+      "answerIndex": 0,
+      "explanation": "Delta H negative; entropy of adsorbate falls.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sc-002",
+      "chapterId": "chemistry-surface-chemistry",
+      "stem": "The Tyndall effect is shown by",
+      "options": [
+        "true solutions",
+        "colloids",
+        "pure solvents",
+        "ideal gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "Scattering of light by colloidal particles.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sc-003",
+      "chapterId": "chemistry-surface-chemistry",
+      "stem": "Freundlich isotherm is",
+      "options": [
+        "x/m = k P^{1/n}",
+        "x/m = k P",
+        "x/m = k / P",
+        "linear always at all P"
+      ],
+      "answerIndex": 0,
+      "explanation": "Empirical adsorption isotherm.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sc-004",
+      "chapterId": "chemistry-surface-chemistry",
+      "stem": "An emulsion is a colloid of",
+      "options": [
+        "solid in gas",
+        "liquid in liquid",
+        "gas in solid",
+        "solid in solid"
+      ],
+      "answerIndex": 1,
+      "explanation": "One liquid dispersed in another.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-sc-005",
+      "chapterId": "chemistry-surface-chemistry",
+      "stem": "Micelles form above the",
+      "options": [
+        "boiling point",
+        "Krafft temperature and CMC",
+        "melting point of ice",
+        "critical pressure of water"
+      ],
+      "answerIndex": 1,
+      "explanation": "Critical micelle concentration.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-gm-001",
+      "chapterId": "chemistry-general-principles-of-metallurgy",
+      "stem": "Roasting is usually carried out for",
+      "options": [
+        "carbonate ores",
+        "sulphide ores",
+        "oxide ores only",
+        "native metals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Heating sulphides in air.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-gm-002",
+      "chapterId": "chemistry-general-principles-of-metallurgy",
+      "stem": "Calcination involves heating in",
+      "options": [
+        "limited air, often for carbonates",
+        "excess oxygen always",
+        "hydrogen",
+        "chlorine"
+      ],
+      "answerIndex": 0,
+      "explanation": "Drives off CO2 / water.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-gm-003",
+      "chapterId": "chemistry-general-principles-of-metallurgy",
+      "stem": "Froth floatation is used to concentrate",
+      "options": [
+        "bauxite",
+        "sulphide ores",
+        "sea water",
+        "limestone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hydrophobic sulphide particles in froth.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-gm-004",
+      "chapterId": "chemistry-general-principles-of-metallurgy",
+      "stem": "The Ellingham diagram plots",
+      "options": [
+        "Delta G vs T for oxide formation",
+        "rate vs concentration",
+        "pH vs volume",
+        "E vs pH"
+      ],
+      "answerIndex": 0,
+      "explanation": "Predicts reduction feasibility.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-gm-005",
+      "chapterId": "chemistry-general-principles-of-metallurgy",
+      "stem": "Zone refining is based on",
+      "options": [
+        "different solubilities of impurities in solid and liquid metal",
+        "electrolysis only",
+        "froth",
+        "calcination"
+      ],
+      "answerIndex": 0,
+      "explanation": "Impurities prefer the melt.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-po-001",
+      "chapterId": "chemistry-polymers",
+      "stem": "Nylon-6,6 is a",
+      "options": [
+        "addition polymer",
+        "condensation polymer",
+        "homopolymer of ethene",
+        "inorganic polymer"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hexamethylene diamine + adipic acid.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-po-002",
+      "chapterId": "chemistry-polymers",
+      "stem": "The monomer of natural rubber is",
+      "options": [
+        "isoprene",
+        "styrene",
+        "vinyl chloride",
+        "ethene"
+      ],
+      "answerIndex": 0,
+      "explanation": "2-methylbuta-1,3-diene.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-po-003",
+      "chapterId": "chemistry-polymers",
+      "stem": "Bakelite is formed from",
+      "options": [
+        "phenol and formaldehyde",
+        "urea only",
+        "ethene",
+        "caprolactam"
+      ],
+      "answerIndex": 0,
+      "explanation": "Thermosetting phenol-formaldehyde resin.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-po-004",
+      "chapterId": "chemistry-polymers",
+      "stem": "Teflon is chemically",
+      "options": [
+        "poly(tetrafluoroethene)",
+        "PVC",
+        "polythene",
+        "nylon"
+      ],
+      "answerIndex": 0,
+      "explanation": "PTFE.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-po-005",
+      "chapterId": "chemistry-polymers",
+      "stem": "Vulcanisation of rubber involves heating with",
+      "options": [
+        "sulphur",
+        "chlorine",
+        "nitrogen",
+        "helium"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cross-linking with sulphur.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-bm-001",
+      "chapterId": "chemistry-biomolecules",
+      "stem": "The bond joining two amino acids is a",
+      "options": [
+        "glycosidic bond",
+        "peptide bond",
+        "phosphodiester bond",
+        "ionic bond only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Amide linkage.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-bm-002",
+      "chapterId": "chemistry-biomolecules",
+      "stem": "Glucose is a",
+      "options": [
+        "ketohexose",
+        "aldohexose",
+        "aldopentose",
+        "disaccharide"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aldehyde + six carbons.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-bm-003",
+      "chapterId": "chemistry-biomolecules",
+      "stem": "The secondary structure of proteins is stabilised mainly by",
+      "options": [
+        "peptide bonds only",
+        "hydrogen bonds",
+        "disulphide only",
+        "hydrophobic core only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alpha helix and beta sheet.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-bm-004",
+      "chapterId": "chemistry-biomolecules",
+      "stem": "Enzymes are generally",
+      "options": [
+        "lipids",
+        "proteins",
+        "simple sugars",
+        "nucleic acids only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Most enzymes are proteins.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-bm-005",
+      "chapterId": "chemistry-biomolecules",
+      "stem": "A nucleotide contains",
+      "options": [
+        "base + sugar",
+        "base + sugar + phosphate",
+        "base only",
+        "phosphate only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Definition of a nucleotide.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-bm-006",
+      "chapterId": "chemistry-biomolecules",
+      "stem": "Deficiency of vitamin C causes",
+      "options": [
+        "beriberi",
+        "scurvy",
+        "rickets",
+        "night blindness"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ascorbic acid / collagen.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ed-001",
+      "chapterId": "chemistry-chemistry-in-everyday-life",
+      "stem": "Aspirin is chemically",
+      "options": [
+        "acetylsalicylic acid",
+        "paracetamol only",
+        "morphine",
+        "a barbiturate"
+      ],
+      "answerIndex": 0,
+      "explanation": "2-acetoxybenzoic acid.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ed-002",
+      "chapterId": "chemistry-chemistry-in-everyday-life",
+      "stem": "Soaps are sodium or potassium salts of",
+      "options": [
+        "mineral acids",
+        "long-chain fatty acids",
+        "amino acids",
+        "sulphonic acids only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Carboxylate soaps.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ed-003",
+      "chapterId": "chemistry-chemistry-in-everyday-life",
+      "stem": "An antipyretic is a drug that",
+      "options": [
+        "kills bacteria",
+        "reduces fever",
+        "induces sleep",
+        "narrows pupils"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fever-reducing.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ed-004",
+      "chapterId": "chemistry-chemistry-in-everyday-life",
+      "stem": "Artificial sweetener saccharin is",
+      "options": [
+        "a carbohydrate",
+        "an imide sweetener, not a sugar",
+        "table salt",
+        "aspartame only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Saccharin is not a sugar.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ed-005",
+      "chapterId": "chemistry-chemistry-in-everyday-life",
+      "stem": "Broad spectrum antibiotics act against",
+      "options": [
+        "one species only",
+        "a wide range of bacteria",
+        "viruses only",
+        "fungi only"
+      ],
+      "answerIndex": 1,
+      "explanation": "e.g. chloramphenicol, tetracyclines.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-al-001",
+      "chapterId": "chemistry-alcohols-phenols-and-ethers",
+      "stem": "Phenol is more acidic than ethanol because the phenoxide ion is",
+      "options": [
+        "less stable",
+        "resonance stabilised",
+        "a stronger base",
+        "larger"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aromatic delocalisation of the anion.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-al-002",
+      "chapterId": "chemistry-alcohols-phenols-and-ethers",
+      "stem": "Williamson synthesis is used to prepare",
+      "options": [
+        "aldehydes",
+        "ethers",
+        "carboxylic acids",
+        "alkynes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alkoxide + alkyl halide.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-al-003",
+      "chapterId": "chemistry-alcohols-phenols-and-ethers",
+      "stem": "Lucas test distinguishes",
+      "options": [
+        "primary, secondary and tertiary alcohols",
+        "aldehydes from ketones",
+        "alkenes from alkynes",
+        "phenols from benzene"
+      ],
+      "answerIndex": 0,
+      "explanation": "ZnCl2 / HCl, rate of turbidity.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-al-004",
+      "chapterId": "chemistry-alcohols-phenols-and-ethers",
+      "stem": "The functional group of ethers is",
+      "options": [
+        "-OH",
+        "-O-",
+        "-CHO",
+        "-COOH"
+      ],
+      "answerIndex": 1,
+      "explanation": "R-O-R'.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-al-005",
+      "chapterId": "chemistry-alcohols-phenols-and-ethers",
+      "stem": "Methanol is industrially produced from",
+      "options": [
+        "CO + H2",
+        "ethanol oxidation",
+        "benzene",
+        "acetic acid"
+      ],
+      "answerIndex": 0,
+      "explanation": "Synthesis gas.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ak-001",
+      "chapterId": "chemistry-aldehydes-ketones-and-carboxylic-acids",
+      "stem": "The carbonyl carbon in aldehydes is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "dsp2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Trigonal planar.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ak-002",
+      "chapterId": "chemistry-aldehydes-ketones-and-carboxylic-acids",
+      "stem": "Tollens' reagent gives a silver mirror with",
+      "options": [
+        "ketones generally",
+        "aldehydes",
+        "alcohols",
+        "alkanes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aldehydes reduce Ag(NH3)2+.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ak-003",
+      "chapterId": "chemistry-aldehydes-ketones-and-carboxylic-acids",
+      "stem": "Aldol condensation requires a carbonyl compound with",
+      "options": [
+        "no alpha hydrogen",
+        "at least one alpha hydrogen",
+        "a benzene ring",
+        "a nitro group"
+      ],
+      "answerIndex": 1,
+      "explanation": "Enolate formation.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ak-004",
+      "chapterId": "chemistry-aldehydes-ketones-and-carboxylic-acids",
+      "stem": "Carboxylic acids dimerise in the vapour phase through",
+      "options": [
+        "ionic bonds",
+        "hydrogen bonds",
+        "metallic bonds",
+        "London forces only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two H-bonds in the dimer.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-ak-005",
+      "chapterId": "chemistry-aldehydes-ketones-and-carboxylic-acids",
+      "stem": "HVZ reaction introduces halogen at the",
+      "options": [
+        "carbonyl carbon",
+        "alpha carbon of a carboxylic acid",
+        "OH hydrogen",
+        "beta carbon of an alkene only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hell-Volhard-Zelinsky.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-on-001",
+      "chapterId": "chemistry-organic-compounds-containing-nitrogen",
+      "stem": "Aniline is less basic than ammonia because the lone pair on nitrogen is",
+      "options": [
+        "more available",
+        "delocalised into the ring",
+        "on an sp3 orbital of higher energy only",
+        "absent"
+      ],
+      "answerIndex": 1,
+      "explanation": "Resonance with the ring.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-on-002",
+      "chapterId": "chemistry-organic-compounds-containing-nitrogen",
+      "stem": "Hinsberg test is used to distinguish",
+      "options": [
+        "1°, 2° and 3° amines",
+        "alcohols",
+        "aldehydes",
+        "alkenes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Benzenesulphonyl chloride.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-on-003",
+      "chapterId": "chemistry-organic-compounds-containing-nitrogen",
+      "stem": "Diazonium salts of aromatic amines are useful because they",
+      "options": [
+        "are explosive only",
+        "undergo substitution to introduce many groups on the ring",
+        "are gases",
+        "reduce ketones"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sandmeyer and related reactions.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-on-004",
+      "chapterId": "chemistry-organic-compounds-containing-nitrogen",
+      "stem": "Hoffmann bromamide reaction converts an amide to an amine with",
+      "options": [
+        "one more carbon",
+        "one fewer carbon",
+        "the same carbon count",
+        "loss of nitrogen only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The carbonyl carbon is lost.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "che-on-005",
+      "chapterId": "chemistry-organic-compounds-containing-nitrogen",
+      "stem": "Nitrobenzene is reduced to aniline by",
+      "options": [
+        "Sn / HCl",
+        "NaOH only",
+        "water",
+        "CO2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Classic Bechamp reduction.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    }
+  ]
+}

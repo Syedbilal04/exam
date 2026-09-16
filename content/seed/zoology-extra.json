@@ -1,0 +1,345 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "zoo-dw-001",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "The smallest taxon in the Linnaean hierarchy is usually the",
+      "options": [
+        "kingdom",
+        "species",
+        "phylum",
+        "order"
+      ],
+      "answerIndex": 1,
+      "explanation": "Species.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-dw-002",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Binomial nomenclature was popularised by",
+      "options": [
+        "Darwin",
+        "Linnaeus",
+        "Mendel",
+        "Lamarck"
+      ],
+      "answerIndex": 1,
+      "explanation": "Systema Naturae.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-dw-003",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "ICZN deals with names of",
+      "options": [
+        "plants",
+        "animals",
+        "bacteria only",
+        "viruses only"
+      ],
+      "answerIndex": 1,
+      "explanation": "International Code of Zoological Nomenclature.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-dw-004",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "A museum typically houses",
+      "options": [
+        "living plants in pots only",
+        "preserved animal specimens",
+        "only computer models",
+        "soil profiles solely"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zoological collections.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ck-001",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The respiratory system of the cockroach consists of",
+      "options": [
+        "lungs",
+        "gills",
+        "tracheae opening by spiracles",
+        "book lungs only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Direct tracheal respiration.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ck-002",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Cockroach blood is called",
+      "options": [
+        "haemolymph",
+        "haemoglobin-rich plasma only",
+        "lymph only",
+        "serum without cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Open circulation.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ck-003",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The mouthparts of Periplaneta are of the",
+      "options": [
+        "piercing type",
+        "biting and chewing type",
+        "sponging type",
+        "siphoning type"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mandibulate.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ck-004",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Malpighian tubules in the cockroach are",
+      "options": [
+        "respiratory",
+        "excretory",
+        "sensory",
+        "circulatory pumps"
+      ],
+      "answerIndex": 1,
+      "explanation": "Uric acid excretion.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ck-005",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The heart of the cockroach is",
+      "options": [
+        "ventral and four-chambered",
+        "dorsal and 13-chambered",
+        "a pair of auricles only",
+        "absent"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dorsal pulsatile vessel.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ab-001",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Apiculture is the rearing of",
+      "options": [
+        "fish",
+        "honeybees",
+        "silkworms",
+        "earthworms"
+      ],
+      "answerIndex": 1,
+      "explanation": "Beekeeping.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ab-002",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Sericulture is associated with",
+      "options": [
+        "Bombyx mori",
+        "Pheretima",
+        "Hirudinaria",
+        "Ascaris"
+      ],
+      "answerIndex": 0,
+      "explanation": "Silkworm.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ab-003",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Pisciculture is",
+      "options": [
+        "bird farming",
+        "fish culture",
+        "coral farming only",
+        "dairy"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fish.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ab-004",
+      "chapterId": "zoology-applied-biology",
+      "stem": "MOET in cattle breeding stands for",
+      "options": [
+        "Multiple Ovulation Embryo Transfer",
+        "Most Ordinary Embryo Test",
+        "Milk Output Evaluation Trial",
+        "Mitochondrial Oocyte Exchange"
+      ],
+      "answerIndex": 0,
+      "explanation": "Embryo transfer technology.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "zoo-ab-005",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Inbreeding increases",
+      "options": [
+        "heterozygosity",
+        "homozygosity",
+        "hybrid vigour always",
+        "mutation rate to zero"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mating of close relatives.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    }
+  ]
+}

@@ -5,8 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -H 0.0.0.0",
     "lint": "eslint",
+    "generate:questions": "node scripts/generate-questions.mjs",
     "bank:build": "node scripts/build-bank.mjs",
     "check:paper": "node scripts/check-paper-engine.mjs",
     "check:bank": "node scripts/check-bank-text.mjs",

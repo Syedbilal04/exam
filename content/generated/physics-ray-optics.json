@@ -1,0 +1,1089 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-phy-ray-001",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 10 cm. An object is placed 15 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "5 cm",
+        "15 cm",
+        "10 cm",
+        "30 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "With f = -10 cm and u = -15 cm, v = fu/(u - f) = -30 cm, so the image is 30 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-001.svg",
+          "alt": "Concave mirror with focal length 10 cm and object at 15 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-002",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 10 cm. An object is placed 30 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "30 cm",
+        "20 cm",
+        "10 cm",
+        "15 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "With f = -10 cm and u = -30 cm, v = fu/(u - f) = -15 cm, so the image is 15 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-002.svg",
+          "alt": "Concave mirror with focal length 10 cm and object at 30 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-003",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 10 cm. An object is placed 35 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "35 cm",
+        "10 cm",
+        "25 cm",
+        "14 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "With f = -10 cm and u = -35 cm, v = fu/(u - f) = -14 cm, so the image is 14 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-003.svg",
+          "alt": "Concave mirror with focal length 10 cm and object at 35 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-004",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 10 cm. An object is placed 60 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "12 cm",
+        "60 cm",
+        "50 cm",
+        "10 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -10 cm and u = -60 cm, v = fu/(u - f) = -12 cm, so the image is 12 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-004.svg",
+          "alt": "Concave mirror with focal length 10 cm and object at 60 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-005",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 10 cm. An object is placed 110 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "100 cm",
+        "110 cm",
+        "10 cm",
+        "11 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "With f = -10 cm and u = -110 cm, v = fu/(u - f) = -11 cm, so the image is 11 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-005.svg",
+          "alt": "Concave mirror with focal length 10 cm and object at 110 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-006",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 15 cm. An object is placed 20 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "5 cm",
+        "15 cm",
+        "60 cm",
+        "20 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -15 cm and u = -20 cm, v = fu/(u - f) = -60 cm, so the image is 60 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-006.svg",
+          "alt": "Concave mirror with focal length 15 cm and object at 20 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-007",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 15 cm. An object is placed 40 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "25 cm",
+        "40 cm",
+        "24 cm",
+        "15 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -15 cm and u = -40 cm, v = fu/(u - f) = -24 cm, so the image is 24 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-007.svg",
+          "alt": "Concave mirror with focal length 15 cm and object at 40 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-008",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 15 cm. An object is placed 60 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "45 cm",
+        "60 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "With f = -15 cm and u = -60 cm, v = fu/(u - f) = -20 cm, so the image is 20 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-008.svg",
+          "alt": "Concave mirror with focal length 15 cm and object at 60 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-009",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 15 cm. An object is placed 90 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "90 cm",
+        "18 cm",
+        "15 cm",
+        "75 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -15 cm and u = -90 cm, v = fu/(u - f) = -18 cm, so the image is 18 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-009.svg",
+          "alt": "Concave mirror with focal length 15 cm and object at 90 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-010",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 20 cm. An object is placed 25 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "100 cm",
+        "5 cm",
+        "20 cm",
+        "25 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -20 cm and u = -25 cm, v = fu/(u - f) = -100 cm, so the image is 100 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-010.svg",
+          "alt": "Concave mirror with focal length 20 cm and object at 25 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-011",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 20 cm. An object is placed 30 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "60 cm",
+        "10 cm",
+        "20 cm",
+        "30 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -20 cm and u = -30 cm, v = fu/(u - f) = -60 cm, so the image is 60 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-011.svg",
+          "alt": "Concave mirror with focal length 20 cm and object at 30 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-012",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 20 cm. An object is placed 45 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "36 cm",
+        "25 cm",
+        "20 cm",
+        "45 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -20 cm and u = -45 cm, v = fu/(u - f) = -36 cm, so the image is 36 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-012.svg",
+          "alt": "Concave mirror with focal length 20 cm and object at 45 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-013",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 20 cm. An object is placed 60 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "20 cm",
+        "60 cm",
+        "30 cm",
+        "40 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -20 cm and u = -60 cm, v = fu/(u - f) = -30 cm, so the image is 30 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-013.svg",
+          "alt": "Concave mirror with focal length 20 cm and object at 60 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-014",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 20 cm. An object is placed 70 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "20 cm",
+        "50 cm",
+        "70 cm",
+        "28 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "With f = -20 cm and u = -70 cm, v = fu/(u - f) = -28 cm, so the image is 28 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-014.svg",
+          "alt": "Concave mirror with focal length 20 cm and object at 70 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-015",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 20 cm. An object is placed 100 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "80 cm",
+        "25 cm",
+        "100 cm",
+        "20 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -20 cm and u = -100 cm, v = fu/(u - f) = -25 cm, so the image is 25 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-015.svg",
+          "alt": "Concave mirror with focal length 20 cm and object at 100 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-016",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 20 cm. An object is placed 120 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "24 cm",
+        "120 cm",
+        "20 cm",
+        "100 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -20 cm and u = -120 cm, v = fu/(u - f) = -24 cm, so the image is 24 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-016.svg",
+          "alt": "Concave mirror with focal length 20 cm and object at 120 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-017",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 25 cm. An object is placed 30 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "30 cm",
+        "25 cm",
+        "5 cm",
+        "150 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "With f = -25 cm and u = -30 cm, v = fu/(u - f) = -150 cm, so the image is 150 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-017.svg",
+          "alt": "Concave mirror with focal length 25 cm and object at 30 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-018",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 25 cm. An object is placed 150 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "30 cm",
+        "125 cm",
+        "150 cm",
+        "25 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -25 cm and u = -150 cm, v = fu/(u - f) = -30 cm, so the image is 30 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-018.svg",
+          "alt": "Concave mirror with focal length 25 cm and object at 150 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-019",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 35 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "5 cm",
+        "35 cm",
+        "210 cm",
+        "30 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -30 cm and u = -35 cm, v = fu/(u - f) = -210 cm, so the image is 210 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-019.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 35 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-020",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 40 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "40 cm",
+        "10 cm",
+        "30 cm",
+        "120 cm"
+      ],
+      "answerIndex": 3,
+      "explanation": "With f = -30 cm and u = -40 cm, v = fu/(u - f) = -120 cm, so the image is 120 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-020.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 40 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-021",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 45 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "45 cm",
+        "90 cm",
+        "15 cm",
+        "30 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -30 cm and u = -45 cm, v = fu/(u - f) = -90 cm, so the image is 90 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-021.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 45 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-022",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 50 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "75 cm",
+        "20 cm",
+        "30 cm",
+        "50 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -30 cm and u = -50 cm, v = fu/(u - f) = -75 cm, so the image is 75 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-022.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 50 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-023",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 55 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "66 cm",
+        "25 cm",
+        "55 cm",
+        "30 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -30 cm and u = -55 cm, v = fu/(u - f) = -66 cm, so the image is 66 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-023.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 55 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-024",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 75 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "45 cm",
+        "75 cm",
+        "50 cm",
+        "30 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -30 cm and u = -75 cm, v = fu/(u - f) = -50 cm, so the image is 50 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-024.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 75 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-025",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 80 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "30 cm",
+        "50 cm",
+        "48 cm",
+        "80 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -30 cm and u = -80 cm, v = fu/(u - f) = -48 cm, so the image is 48 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-025.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 80 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-026",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 90 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "30 cm",
+        "90 cm",
+        "45 cm",
+        "60 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -30 cm and u = -90 cm, v = fu/(u - f) = -45 cm, so the image is 45 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-026.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 90 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-027",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 105 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "42 cm",
+        "30 cm",
+        "75 cm",
+        "105 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -30 cm and u = -105 cm, v = fu/(u - f) = -42 cm, so the image is 42 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-027.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 105 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-028",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 120 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "30 cm",
+        "120 cm",
+        "40 cm",
+        "90 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -30 cm and u = -120 cm, v = fu/(u - f) = -40 cm, so the image is 40 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-028.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 120 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-029",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 30 cm. An object is placed 130 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "30 cm",
+        "39 cm",
+        "130 cm",
+        "100 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -30 cm and u = -130 cm, v = fu/(u - f) = -39 cm, so the image is 39 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-029.svg",
+          "alt": "Concave mirror with focal length 30 cm and object at 130 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-030",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 35 cm. An object is placed 40 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "5 cm",
+        "280 cm",
+        "40 cm",
+        "35 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -35 cm and u = -40 cm, v = fu/(u - f) = -280 cm, so the image is 280 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-030.svg",
+          "alt": "Concave mirror with focal length 35 cm and object at 40 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-031",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 35 cm. An object is placed 60 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "35 cm",
+        "84 cm",
+        "25 cm",
+        "60 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -35 cm and u = -60 cm, v = fu/(u - f) = -84 cm, so the image is 84 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-031.svg",
+          "alt": "Concave mirror with focal length 35 cm and object at 60 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-032",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 40 cm. An object is placed 45 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "40 cm",
+        "360 cm",
+        "45 cm",
+        "5 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -40 cm and u = -45 cm, v = fu/(u - f) = -360 cm, so the image is 360 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-032.svg",
+          "alt": "Concave mirror with focal length 40 cm and object at 45 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-033",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 40 cm. An object is placed 50 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "40 cm",
+        "50 cm",
+        "200 cm",
+        "10 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -40 cm and u = -50 cm, v = fu/(u - f) = -200 cm, so the image is 200 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-033.svg",
+          "alt": "Concave mirror with focal length 40 cm and object at 50 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-034",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 40 cm. An object is placed 60 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "60 cm",
+        "120 cm",
+        "20 cm",
+        "40 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -40 cm and u = -60 cm, v = fu/(u - f) = -120 cm, so the image is 120 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-034.svg",
+          "alt": "Concave mirror with focal length 40 cm and object at 60 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-035",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 40 cm. An object is placed 65 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "65 cm",
+        "25 cm",
+        "104 cm",
+        "40 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -40 cm and u = -65 cm, v = fu/(u - f) = -104 cm, so the image is 104 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-035.svg",
+          "alt": "Concave mirror with focal length 40 cm and object at 65 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-036",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 40 cm. An object is placed 90 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "40 cm",
+        "50 cm",
+        "72 cm",
+        "90 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -40 cm and u = -90 cm, v = fu/(u - f) = -72 cm, so the image is 72 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-036.svg",
+          "alt": "Concave mirror with focal length 40 cm and object at 90 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-037",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 40 cm. An object is placed 120 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "80 cm",
+        "60 cm",
+        "40 cm",
+        "120 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -40 cm and u = -120 cm, v = fu/(u - f) = -60 cm, so the image is 60 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-037.svg",
+          "alt": "Concave mirror with focal length 40 cm and object at 120 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-038",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 40 cm. An object is placed 140 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "100 cm",
+        "56 cm",
+        "140 cm",
+        "40 cm"
+      ],
+      "answerIndex": 1,
+      "explanation": "With f = -40 cm and u = -140 cm, v = fu/(u - f) = -56 cm, so the image is 56 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-038.svg",
+          "alt": "Concave mirror with focal length 40 cm and object at 140 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-039",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 45 cm. An object is placed 50 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "45 cm",
+        "50 cm",
+        "450 cm",
+        "5 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "With f = -45 cm and u = -50 cm, v = fu/(u - f) = -450 cm, so the image is 450 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-039.svg",
+          "alt": "Concave mirror with focal length 45 cm and object at 50 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ray-040",
+      "chapterId": "physics-ray-optics-and-optical-instruments",
+      "stem": "A concave mirror has a focal length of 45 cm. An object is placed 60 cm in front of it. Using the new Cartesian sign convention, the image distance from the mirror is",
+      "options": [
+        "180 cm",
+        "15 cm",
+        "45 cm",
+        "60 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "With f = -45 cm and u = -60 cm, v = fu/(u - f) = -180 cm, so the image is 180 cm in front of the mirror.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ray-040.svg",
+          "alt": "Concave mirror with focal length 45 cm and object at 60 cm",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

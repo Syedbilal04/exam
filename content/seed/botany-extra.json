@@ -1,0 +1,585 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "bot-sp-001",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Botany is the scientific study of",
+      "options": [
+        "animals",
+        "plants",
+        "rocks",
+        "stars"
+      ],
+      "answerIndex": 1,
+      "explanation": "Definition.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-sp-002",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "A herbarium sheet typically carries",
+      "options": [
+        "a living plant",
+        "a dried, labelled specimen",
+        "only seeds",
+        "DNA only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pressed specimen plus label data.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-sp-003",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "The father of botany is often named as",
+      "options": [
+        "Theophrastus",
+        "Darwin",
+        "Mendel",
+        "Hooke"
+      ],
+      "answerIndex": 0,
+      "explanation": "Historia Plantarum.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-sp-004",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Taxonomy deals with",
+      "options": [
+        "photosynthesis rate only",
+        "identification, nomenclature and classification",
+        "soil pH only",
+        "climate"
+      ],
+      "answerIndex": 1,
+      "explanation": "Systematics of organisms.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mf-001",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "A flower with both stamens and carpels is",
+      "options": [
+        "staminate",
+        "pistillate",
+        "bisexual",
+        "neuter"
+      ],
+      "answerIndex": 2,
+      "explanation": "Hermaphrodite flower.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mf-002",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Axile placentation is seen in",
+      "options": [
+        "pea",
+        "mustard",
+        "tomato / china rose",
+        "sunflower ovary wall"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ovules on a central axis in a multilocular ovary.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mf-003",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "A phylloclade is a modified",
+      "options": [
+        "root",
+        "stem",
+        "leaf",
+        "flower"
+      ],
+      "answerIndex": 1,
+      "explanation": "Photosynthetic stem, e.g. Opuntia.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mf-004",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Parallel venation is typical of",
+      "options": [
+        "dicot leaves",
+        "monocot leaves",
+        "all leaves",
+        "only gymnosperms"
+      ],
+      "answerIndex": 1,
+      "explanation": "Monocot character.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mf-005",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "The fruit of mustard is a",
+      "options": [
+        "drupe",
+        "siliqua",
+        "berry",
+        "pome"
+      ],
+      "answerIndex": 1,
+      "explanation": "Brassicaceae.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mf-006",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Epigynous flowers have the ovary",
+      "options": [
+        "superior",
+        "inferior",
+        "half-inferior always in pea",
+        "absent"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ovary below the other floral parts.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mn-001",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Insectivorous plants grow mainly in soils deficient in",
+      "options": [
+        "carbon",
+        "nitrogen",
+        "silicon",
+        "gold"
+      ],
+      "answerIndex": 1,
+      "explanation": "They digest insects for N.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mn-002",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "A saprophyte obtains food from",
+      "options": [
+        "living hosts",
+        "dead organic matter",
+        "sunlight only",
+        "rocks"
+      ],
+      "answerIndex": 1,
+      "explanation": "e.g. many fungi, some plants.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mn-003",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Cuscuta is a classic",
+      "options": [
+        "autotroph",
+        "total stem parasite",
+        "insectivore",
+        "saprophyte"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dodder.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-mn-004",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Mycorrhiza is a mutualism between",
+      "options": [
+        "alga and fungus in a lichen only",
+        "root and fungus",
+        "two animals",
+        "virus and bacterium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fungal hyphae with roots.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-min-001",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "A macronutrient among the following is",
+      "options": [
+        "Zn",
+        "Mo",
+        "N",
+        "Cu"
+      ],
+      "answerIndex": 2,
+      "explanation": "Nitrogen is required in large amounts.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-min-002",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Nitrogenase is extremely sensitive to",
+      "options": [
+        "water",
+        "oxygen",
+        "CO2",
+        "glucose"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nitrogen-fixing enzyme is O2-labile.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-min-003",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "The essential element in chlorophyll is",
+      "options": [
+        "Fe",
+        "Mg",
+        "Ca",
+        "Na"
+      ],
+      "answerIndex": 1,
+      "explanation": "Magnesium at the porphyrin centre.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-min-004",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Hydroponics means growing plants",
+      "options": [
+        "in soil only",
+        "in nutrient solution without soil",
+        "in the dark",
+        "in deserts only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Soilless culture.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-min-005",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Khaira disease of rice is due to deficiency of",
+      "options": [
+        "Zn",
+        "N",
+        "P",
+        "K"
+      ],
+      "answerIndex": 0,
+      "explanation": "Zinc deficiency.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-pm-001",
+      "chapterId": "botany-plants-microbes-and-human-welfare",
+      "stem": "Bt cotton expresses a toxin gene from",
+      "options": [
+        "Agrobacterium only",
+        "Bacillus thuringiensis",
+        "E. coli chromosome",
+        "TMV"
+      ],
+      "answerIndex": 1,
+      "explanation": "cry genes.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-pm-002",
+      "chapterId": "botany-plants-microbes-and-human-welfare",
+      "stem": "Biofertilisers include",
+      "options": [
+        "urea",
+        "Rhizobium",
+        "DDT",
+        "2,4-D"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nitrogen-fixing bacteria.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-pm-003",
+      "chapterId": "botany-plants-microbes-and-human-welfare",
+      "stem": "Tissue culture produces",
+      "options": [
+        "seeds only",
+        "somaclones from explants",
+        "only GMOs",
+        "pollen solely"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aseptic culture of plant cells.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-pm-004",
+      "chapterId": "botany-plants-microbes-and-human-welfare",
+      "stem": "The Green Revolution in India is associated with",
+      "options": [
+        "Norman Borlaug / high-yielding wheat",
+        "Darwin",
+        "Mendel only",
+        "Hooke"
+      ],
+      "answerIndex": 0,
+      "explanation": "HYV wheat and rice.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "bot-pm-005",
+      "chapterId": "botany-plants-microbes-and-human-welfare",
+      "stem": "Single cell protein can be obtained from",
+      "options": [
+        "Spirulina",
+        "diamond",
+        "sand",
+        "glass"
+      ],
+      "answerIndex": 0,
+      "explanation": "Microbial biomass as food.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    }
+  ]
+}

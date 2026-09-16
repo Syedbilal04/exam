@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280"><rect width="480" height="280" fill="#ffffff"/>
+    <line x1="90" y1="70" x2="390" y2="70" stroke="#1c1917" stroke-width="1.5"/>
+    <line x1="390" y1="70" x2="390" y2="210" stroke="#1c1917" stroke-width="1.5"/>
+    <line x1="90" y1="210" x2="390" y2="210" stroke="#1c1917" stroke-width="1.5"/>
+    <line x1="90" y1="96" x2="90" y2="210" stroke="#1c1917" stroke-width="1.5"/>
+    <line x1="78" y1="96" x2="102" y2="96" stroke="#1c1917" stroke-width="3"/>
+    <line x1="84" y1="110" x2="96" y2="110" stroke="#1c1917" stroke-width="1.5"/>
+    <rect x="168" y="54" width="72" height="32" fill="#ffffff" stroke="#0f766e" stroke-width="1.5"/>
+    <rect x="358" y="112" width="32" height="56" fill="#ffffff" stroke="#0f766e" stroke-width="1.5"/>
+    <text x="168" y="46" text-anchor="start" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">R1 = 6 ohm</text>
+    <text x="336" y="188" text-anchor="end" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">R2 = 7 ohm</text>
+    <text x="108" y="108" text-anchor="start" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">26 V</text>
+    <text x="240" y="250" text-anchor="middle" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">series</text>
+  </svg>

@@ -116,7 +116,7 @@ export function MockCockpit({
     <div className="surface-day min-h-full">
       <div className="mx-auto grid max-w-7xl gap-6 px-4 py-6 lg:grid-cols-[minmax(0,1fr)_20rem] sm:px-8">
         <section className="glass rounded-3xl p-6 sm:p-8">
-          <header className="flex flex-wrap items-center justify-between gap-4 border-b border-mist-200 pb-5">
+          <header className="flex flex-col gap-4 border-b border-mist-200 pb-5 sm:flex-row sm:items-center sm:justify-between">
             <div>
               <p className="font-display text-xs tracking-[0.3em] text-aurora-600">
                 {examName.toUpperCase()}
@@ -188,8 +188,9 @@ export function MockCockpit({
 
               {question.pyq.appearCount > 0 && (
                 <p className="mt-5 text-sm text-mist-600">
-                  Appeared {question.pyq.appearCount} time
-                  {question.pyq.appearCount === 1 ? "" : "s"} in previous papers
+                  Appeared {question.pyq.appearCount}{" "}
+                  {question.pyq.appearCount === 1 ? "time" : "times"} in
+                  previous papers
                   {question.pyq.years.length > 0 && (
                     <> · {question.pyq.years.join(", ")}</>
                   )}
@@ -253,7 +254,7 @@ export function MockCockpit({
                 <p className="text-xs tracking-[0.2em] text-mist-400">
                   {section.name.toUpperCase()}
                 </p>
-                <div className="mt-2 grid grid-cols-6 gap-1.5">
+                <div className="mt-2 grid grid-cols-8 gap-1.5 sm:grid-cols-6">
                   {Array.from({ length: section.count }, (_, offset) => {
                     const position = section.start + offset;
                     const item = questions[position];

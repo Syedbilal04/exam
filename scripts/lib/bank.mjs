@@ -4,6 +4,7 @@ import path from "node:path";
 
 export const repoRoot = path.resolve(import.meta.dirname, "..", "..");
 export const seedDir = path.join(repoRoot, "content", "seed");
+export const generatedDir = path.join(repoRoot, "content", "generated");
 export const importedDir = path.join(repoRoot, "content", "imported");
 export const bankFile = path.join(
   repoRoot,
@@ -93,15 +94,19 @@ async function readJsonDir(dir) {
 }
 
 /**
- * Merges authored seed questions with anything the import pipeline has fetched.
- * Imported records win on id conflicts because they carry verified PYQ data.
+ * Merges authored seed questions, generated items, and imported sources.
+ * Later sources win on id conflicts, so a verified import still overrides a
+ * generated item with the same id.
  */
 export async function buildBank() {
   const seeded = await readJsonDir(seedDir);
+  const generated = await readJsonDir(generatedDir);
   const imported = await readJsonDir(importedDir);
 
   const byId = new Map();
-  for (const question of [...seeded, ...imported]) byId.set(question.id, question);
+  for (const question of [...seeded, ...generated, ...imported]) {
+    byId.set(question.id, question);
+  }
 
   const questions = [...byId.values()].sort((a, b) => a.id.localeCompare(b.id));
   await mkdir(path.dirname(bankFile), { recursive: true });
@@ -110,6 +115,7 @@ export async function buildBank() {
   return {
     total: questions.length,
     seeded: seeded.length,
+    generated: generated.length,
     imported: imported.length,
     chapters: new Set(questions.map((q) => q.chapterId)).size,
   };

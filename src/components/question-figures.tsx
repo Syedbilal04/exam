@@ -12,14 +12,27 @@ export function QuestionFigures({ images }: { images: QuestionImage[] }) {
           key={image.url}
           className="overflow-hidden rounded-xl border border-mist-200 bg-white p-3"
         >
-          <Image
-            src={image.url}
-            alt={image.alt}
-            width={image.width}
-            height={image.height}
-            className="h-auto w-full max-w-sm"
-            unoptimized
-          />
+          {image.url.endsWith(".svg") ? (
+            // Generated diagrams are same-origin SVG. next/image does not
+            // optimize that format, so they are served as static files.
+            // eslint-disable-next-line @next/next/no-img-element
+            <img
+              src={image.url}
+              alt={image.alt}
+              width={image.width}
+              height={image.height}
+              className="h-auto w-full max-w-sm"
+            />
+          ) : (
+            <Image
+              src={image.url}
+              alt={image.alt}
+              width={image.width}
+              height={image.height}
+              className="h-auto w-full max-w-sm"
+              unoptimized
+            />
+          )}
         </figure>
       ))}
     </div>

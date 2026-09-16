@@ -1,0 +1,879 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-phy-msl-001",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 2 m s^-2. The distance covered in the first 3 s is",
+      "options": [
+        "6 m",
+        "3 m",
+        "9 m",
+        "18 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "s = (1/2)at^2 = (1/2)(2)(3)^2 = 9 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-002",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 4 m s^-2. The distance covered in the first 4 s is",
+      "options": [
+        "16 m",
+        "8 m",
+        "64 m",
+        "32 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "s = (1/2)at^2 = (1/2)(4)(4)^2 = 32 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-003",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 6 m s^-2. The distance covered in the first 5 s is",
+      "options": [
+        "75 m",
+        "150 m",
+        "30 m",
+        "15 m"
+      ],
+      "answerIndex": 0,
+      "explanation": "s = (1/2)at^2 = (1/2)(6)(5)^2 = 75 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-004",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 8 m s^-2. The distance covered in the first 6 s is",
+      "options": [
+        "48 m",
+        "24 m",
+        "144 m",
+        "288 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "s = (1/2)at^2 = (1/2)(8)(6)^2 = 144 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-005",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 10 m s^-2. The distance covered in the first 7 s is",
+      "options": [
+        "35 m",
+        "70 m",
+        "245 m",
+        "490 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "s = (1/2)at^2 = (1/2)(10)(7)^2 = 245 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-006",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 2 m s^-2. The distance covered in the first 8 s is",
+      "options": [
+        "16 m",
+        "128 m",
+        "8 m",
+        "64 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "s = (1/2)at^2 = (1/2)(2)(8)^2 = 64 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-007",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 4 m s^-2. The distance covered in the first 3 s is",
+      "options": [
+        "36 m",
+        "6 m",
+        "12 m",
+        "18 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "s = (1/2)at^2 = (1/2)(4)(3)^2 = 18 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-008",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 6 m s^-2. The distance covered in the first 4 s is",
+      "options": [
+        "96 m",
+        "24 m",
+        "12 m",
+        "48 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "s = (1/2)at^2 = (1/2)(6)(4)^2 = 48 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-009",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 8 m s^-2. The distance covered in the first 5 s is",
+      "options": [
+        "20 m",
+        "200 m",
+        "40 m",
+        "100 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "s = (1/2)at^2 = (1/2)(8)(5)^2 = 100 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-010",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body starts from rest and moves with a uniform acceleration of 10 m s^-2. The distance covered in the first 6 s is",
+      "options": [
+        "360 m",
+        "30 m",
+        "60 m",
+        "180 m"
+      ],
+      "answerIndex": 3,
+      "explanation": "s = (1/2)at^2 = (1/2)(10)(6)^2 = 180 m.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-011",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 2 m s^-1 accelerates at 1 m s^-2 for 2 s. Its velocity then is",
+      "options": [
+        "2 m s^-1",
+        "4 m s^-1",
+        "3 m s^-1",
+        "6 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v = u + at = 2 + (1)(2) = 4 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-012",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 3 m s^-1 accelerates at 2 m s^-2 for 3 s. Its velocity then is",
+      "options": [
+        "5 m s^-1",
+        "9 m s^-1",
+        "21 m s^-1",
+        "3 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v = u + at = 3 + (2)(3) = 9 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-013",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 4 m s^-1 accelerates at 3 m s^-2 for 4 s. Its velocity then is",
+      "options": [
+        "16 m s^-1",
+        "52 m s^-1",
+        "7 m s^-1",
+        "8 m s^-1"
+      ],
+      "answerIndex": 0,
+      "explanation": "v = u + at = 4 + (3)(4) = 16 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-014",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 5 m s^-1 accelerates at 4 m s^-2 for 5 s. Its velocity then is",
+      "options": [
+        "105 m s^-1",
+        "25 m s^-1",
+        "15 m s^-1",
+        "9 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v = u + at = 5 + (4)(5) = 25 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-015",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 6 m s^-1 accelerates at 1 m s^-2 for 6 s. Its velocity then is",
+      "options": [
+        "6 m s^-1",
+        "12 m s^-1",
+        "7 m s^-1",
+        "42 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v = u + at = 6 + (1)(6) = 12 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-016",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 7 m s^-1 accelerates at 2 m s^-2 for 2 s. Its velocity then is",
+      "options": [
+        "3 m s^-1",
+        "11 m s^-1",
+        "9 m s^-1",
+        "15 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v = u + at = 7 + (2)(2) = 11 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-017",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 8 m s^-1 accelerates at 3 m s^-2 for 3 s. Its velocity then is",
+      "options": [
+        "11 m s^-1",
+        "17 m s^-1",
+        "35 m s^-1",
+        "1 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v = u + at = 8 + (3)(3) = 17 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-018",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 9 m s^-1 accelerates at 4 m s^-2 for 4 s. Its velocity then is",
+      "options": [
+        "7 m s^-1",
+        "25 m s^-1",
+        "73 m s^-1",
+        "13 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v = u + at = 9 + (4)(4) = 25 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-019",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 10 m s^-1 accelerates at 1 m s^-2 for 5 s. Its velocity then is",
+      "options": [
+        "35 m s^-1",
+        "5 m s^-1",
+        "11 m s^-1",
+        "15 m s^-1"
+      ],
+      "answerIndex": 3,
+      "explanation": "v = u + at = 10 + (1)(5) = 15 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-020",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 2 m s^-1 accelerates at 2 m s^-2 for 6 s. Its velocity then is",
+      "options": [
+        "74 m s^-1",
+        "10 m s^-1",
+        "14 m s^-1",
+        "4 m s^-1"
+      ],
+      "answerIndex": 2,
+      "explanation": "v = u + at = 2 + (2)(6) = 14 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-021",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 2 m s^-1 accelerates at 1 m s^-2 through 6 m. Its speed then is",
+      "options": [
+        "3 m s^-1",
+        "8 m s^-1",
+        "4 m s^-1",
+        "6 m s^-1"
+      ],
+      "answerIndex": 2,
+      "explanation": "v^2 = u^2 + 2as = 2^2 + 2(1)(6) = 16, so v = 4 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-022",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 3 m s^-1 accelerates at 2 m s^-2 through 4 m. Its speed then is",
+      "options": [
+        "8 m s^-1",
+        "6 m s^-1",
+        "7 m s^-1",
+        "5 m s^-1"
+      ],
+      "answerIndex": 3,
+      "explanation": "v^2 = u^2 + 2as = 3^2 + 2(2)(4) = 25, so v = 5 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-023",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 4 m s^-1 accelerates at 2 m s^-2 through 5 m. Its speed then is",
+      "options": [
+        "6 m s^-1",
+        "9 m s^-1",
+        "10 m s^-1",
+        "8 m s^-1"
+      ],
+      "answerIndex": 0,
+      "explanation": "v^2 = u^2 + 2as = 4^2 + 2(2)(5) = 36, so v = 6 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-024",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 3 m s^-1 accelerates at 1 m s^-2 through 8 m. Its speed then is",
+      "options": [
+        "8 m s^-1",
+        "11 m s^-1",
+        "5 m s^-1",
+        "4 m s^-1"
+      ],
+      "answerIndex": 2,
+      "explanation": "v^2 = u^2 + 2as = 3^2 + 2(1)(8) = 25, so v = 5 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-025",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 6 m s^-1 accelerates at 2 m s^-2 through 7 m. Its speed then is",
+      "options": [
+        "10 m s^-1",
+        "8 m s^-1",
+        "13 m s^-1",
+        "14 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v^2 = u^2 + 2as = 6^2 + 2(2)(7) = 64, so v = 8 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-026",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 2 m s^-1 accelerates at 3 m s^-2 through 10 m. Its speed then is",
+      "options": [
+        "30 m s^-1",
+        "5 m s^-1",
+        "8 m s^-1",
+        "12 m s^-1"
+      ],
+      "answerIndex": 2,
+      "explanation": "v^2 = u^2 + 2as = 2^2 + 2(3)(10) = 64, so v = 8 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-027",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 5 m s^-1 accelerates at 2 m s^-2 through 6 m. Its speed then is",
+      "options": [
+        "7 m s^-1",
+        "9 m s^-1",
+        "12 m s^-1",
+        "11 m s^-1"
+      ],
+      "answerIndex": 0,
+      "explanation": "v^2 = u^2 + 2as = 5^2 + 2(2)(6) = 49, so v = 7 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-028",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 4 m s^-1 accelerates at 1 m s^-2 through 10 m. Its speed then is",
+      "options": [
+        "10 m s^-1",
+        "6 m s^-1",
+        "5 m s^-1",
+        "14 m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "v^2 = u^2 + 2as = 4^2 + 2(1)(10) = 36, so v = 6 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-029",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 8 m s^-1 accelerates at 1 m s^-2 through 18 m. Its speed then is",
+      "options": [
+        "10 m s^-1",
+        "18 m s^-1",
+        "9 m s^-1",
+        "26 m s^-1"
+      ],
+      "answerIndex": 0,
+      "explanation": "v^2 = u^2 + 2as = 8^2 + 2(1)(18) = 100, so v = 10 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-030",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "A body moving at 6 m s^-1 accelerates at 1 m s^-2 through 14 m. Its speed then is",
+      "options": [
+        "14 m s^-1",
+        "7 m s^-1",
+        "20 m s^-1",
+        "8 m s^-1"
+      ],
+      "answerIndex": 3,
+      "explanation": "v^2 = u^2 + 2as = 6^2 + 2(1)(14) = 64, so v = 8 m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-031",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 2 m s^-1 to 6 m s^-1 in 4 s. The displacement in this time is",
+      "options": [
+        "8 m",
+        "16 m",
+        "4 m",
+        "24 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement is the area under the graph: ((2 + 6)/2)(4) = 16 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-031.svg",
+          "alt": "Velocity-time graph from 2 m/s to 6 m/s in 4 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-032",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 3 m s^-1 to 15 m s^-1 in 6 s. The displacement in this time is",
+      "options": [
+        "9 m",
+        "54 m",
+        "90 m",
+        "18 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement is the area under the graph: ((3 + 15)/2)(6) = 54 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-032.svg",
+          "alt": "Velocity-time graph from 3 m/s to 15 m/s in 6 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-033",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 4 m s^-1 to 28 m s^-1 in 8 s. The displacement in this time is",
+      "options": [
+        "224 m",
+        "16 m",
+        "128 m",
+        "32 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "Displacement is the area under the graph: ((4 + 28)/2)(8) = 128 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-033.svg",
+          "alt": "Velocity-time graph from 4 m/s to 28 m/s in 8 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-034",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 5 m s^-1 to 9 m s^-1 in 4 s. The displacement in this time is",
+      "options": [
+        "36 m",
+        "28 m",
+        "7 m",
+        "20 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement is the area under the graph: ((5 + 9)/2)(4) = 28 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-034.svg",
+          "alt": "Velocity-time graph from 5 m/s to 9 m/s in 4 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-035",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 6 m s^-1 to 18 m s^-1 in 6 s. The displacement in this time is",
+      "options": [
+        "12 m",
+        "72 m",
+        "108 m",
+        "36 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement is the area under the graph: ((6 + 18)/2)(6) = 72 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-035.svg",
+          "alt": "Velocity-time graph from 6 m/s to 18 m/s in 6 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-036",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 7 m s^-1 to 31 m s^-1 in 8 s. The displacement in this time is",
+      "options": [
+        "248 m",
+        "152 m",
+        "56 m",
+        "19 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement is the area under the graph: ((7 + 31)/2)(8) = 152 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-036.svg",
+          "alt": "Velocity-time graph from 7 m/s to 31 m/s in 8 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-037",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 8 m s^-1 to 12 m s^-1 in 4 s. The displacement in this time is",
+      "options": [
+        "48 m",
+        "40 m",
+        "32 m",
+        "10 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement is the area under the graph: ((8 + 12)/2)(4) = 40 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-037.svg",
+          "alt": "Velocity-time graph from 8 m/s to 12 m/s in 4 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-038",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 9 m s^-1 to 21 m s^-1 in 6 s. The displacement in this time is",
+      "options": [
+        "126 m",
+        "54 m",
+        "90 m",
+        "15 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "Displacement is the area under the graph: ((9 + 21)/2)(6) = 90 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-038.svg",
+          "alt": "Velocity-time graph from 9 m/s to 21 m/s in 6 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-039",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 2 m s^-1 to 26 m s^-1 in 8 s. The displacement in this time is",
+      "options": [
+        "14 m",
+        "112 m",
+        "16 m",
+        "208 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement is the area under the graph: ((2 + 26)/2)(8) = 112 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-039.svg",
+          "alt": "Velocity-time graph from 2 m/s to 26 m/s in 8 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-msl-040",
+      "chapterId": "physics-motion-in-a-straight-line",
+      "stem": "The velocity-time graph shows a body whose velocity changes uniformly from 3 m s^-1 to 7 m s^-1 in 4 s. The displacement in this time is",
+      "options": [
+        "5 m",
+        "28 m",
+        "20 m",
+        "12 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "Displacement is the area under the graph: ((3 + 7)/2)(4) = 20 m.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-msl-040.svg",
+          "alt": "Velocity-time graph from 3 m/s to 7 m/s in 4 s",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

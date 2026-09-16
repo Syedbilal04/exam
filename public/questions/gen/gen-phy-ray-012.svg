@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280"><rect width="480" height="280" fill="#ffffff"/>
+    <line x1="48" y1="150" x2="438" y2="150" stroke="#1c1917" stroke-width="1.5"/>
+    <path d="M 430 48 Q 402 150 430 252" fill="none" stroke="#1c1917" stroke-width="2"/>
+    <line x1="88" y1="150" x2="88" y2="78" stroke="#0f766e" stroke-width="2.5"/>
+    <polygon points="88,78 83,90 93,90" fill="#0f766e"/>
+    <line x1="278" y1="142" x2="278" y2="158" stroke="#1c1917" stroke-width="1.5"/>
+    <text x="88" y="68" text-anchor="middle" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">object 45 cm</text>
+    <text x="278" y="178" text-anchor="middle" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">F 20 cm</text>
+    <text x="422" y="40" text-anchor="end" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">mirror</text>
+  </svg>

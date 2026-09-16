@@ -1,0 +1,809 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-phy-wep-001",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 2 kg body moving at 2 m s^-1 is",
+      "options": [
+        "6 J",
+        "4 J",
+        "8 J",
+        "5 J"
+      ],
+      "answerIndex": 1,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(2)(2)^2 = 4 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-002",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 4 kg body moving at 3 m s^-1 is",
+      "options": [
+        "36 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(4)(3)^2 = 18 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-003",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 6 kg body moving at 4 m s^-1 is",
+      "options": [
+        "96 J",
+        "48 J",
+        "24 J",
+        "16 J"
+      ],
+      "answerIndex": 1,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(6)(4)^2 = 48 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-004",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 8 kg body moving at 5 m s^-1 is",
+      "options": [
+        "40 J",
+        "25 J",
+        "100 J",
+        "200 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(8)(5)^2 = 100 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-005",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 10 kg body moving at 6 m s^-1 is",
+      "options": [
+        "60 J",
+        "36 J",
+        "180 J",
+        "360 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(10)(6)^2 = 180 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-006",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 2 kg body moving at 7 m s^-1 is",
+      "options": [
+        "50 J",
+        "49 J",
+        "98 J",
+        "14 J"
+      ],
+      "answerIndex": 1,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(2)(7)^2 = 49 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-007",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 4 kg body moving at 2 m s^-1 is",
+      "options": [
+        "16 J",
+        "4 J",
+        "9 J",
+        "8 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(4)(2)^2 = 8 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-008",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 6 kg body moving at 3 m s^-1 is",
+      "options": [
+        "27 J",
+        "9 J",
+        "18 J",
+        "54 J"
+      ],
+      "answerIndex": 0,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(6)(3)^2 = 27 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-009",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 8 kg body moving at 4 m s^-1 is",
+      "options": [
+        "128 J",
+        "16 J",
+        "64 J",
+        "32 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(8)(4)^2 = 64 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-010",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "The kinetic energy of a 10 kg body moving at 5 m s^-1 is",
+      "options": [
+        "50 J",
+        "250 J",
+        "25 J",
+        "125 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "KE = (1/2)mv^2 = (1/2)(10)(5)^2 = 125 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-011",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 2 kg is raised through 2 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "41 J",
+        "4 J",
+        "40 J",
+        "20 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "PE = mgh = (2)(10)(2) = 40 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-012",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 3 kg is raised through 3 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "30 J",
+        "91 J",
+        "9 J",
+        "90 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "PE = mgh = (3)(10)(3) = 90 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-013",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 4 kg is raised through 4 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "161 J",
+        "16 J",
+        "40 J",
+        "160 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "PE = mgh = (4)(10)(4) = 160 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-014",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 5 kg is raised through 5 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "250 J",
+        "25 J",
+        "50 J",
+        "251 J"
+      ],
+      "answerIndex": 0,
+      "explanation": "PE = mgh = (5)(10)(5) = 250 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-015",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 6 kg is raised through 6 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "36 J",
+        "360 J",
+        "361 J",
+        "60 J"
+      ],
+      "answerIndex": 1,
+      "explanation": "PE = mgh = (6)(10)(6) = 360 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-016",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 7 kg is raised through 2 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "14 J",
+        "20 J",
+        "140 J",
+        "70 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "PE = mgh = (7)(10)(2) = 140 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-017",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 2 kg is raised through 3 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "30 J",
+        "20 J",
+        "60 J",
+        "6 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "PE = mgh = (2)(10)(3) = 60 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-018",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 3 kg is raised through 4 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "40 J",
+        "120 J",
+        "30 J",
+        "12 J"
+      ],
+      "answerIndex": 1,
+      "explanation": "PE = mgh = (3)(10)(4) = 120 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-019",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 4 kg is raised through 5 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "20 J",
+        "50 J",
+        "40 J",
+        "200 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "PE = mgh = (4)(10)(5) = 200 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-020",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A body of mass 5 kg is raised through 6 m. Taking g = 10 m s^-2, its gain in potential energy is",
+      "options": [
+        "50 J",
+        "60 J",
+        "30 J",
+        "300 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "PE = mgh = (5)(10)(6) = 300 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-021",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 2 N displaces a body by 2 m in the direction of the force. The work done is",
+      "options": [
+        "2 J",
+        "5 J",
+        "4 J",
+        "6 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "W = Fs = (2)(2) = 4 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-022",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 3 N displaces a body by 3 m in the direction of the force. The work done is",
+      "options": [
+        "9 J",
+        "10 J",
+        "6 J",
+        "3 J"
+      ],
+      "answerIndex": 0,
+      "explanation": "W = Fs = (3)(3) = 9 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-023",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 4 N displaces a body by 4 m in the direction of the force. The work done is",
+      "options": [
+        "4 J",
+        "16 J",
+        "17 J",
+        "8 J"
+      ],
+      "answerIndex": 1,
+      "explanation": "W = Fs = (4)(4) = 16 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-024",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 5 N displaces a body by 5 m in the direction of the force. The work done is",
+      "options": [
+        "25 J",
+        "26 J",
+        "10 J",
+        "5 J"
+      ],
+      "answerIndex": 0,
+      "explanation": "W = Fs = (5)(5) = 25 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-025",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 6 N displaces a body by 6 m in the direction of the force. The work done is",
+      "options": [
+        "12 J",
+        "37 J",
+        "36 J",
+        "6 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "W = Fs = (6)(6) = 36 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-026",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 7 N displaces a body by 2 m in the direction of the force. The work done is",
+      "options": [
+        "7 J",
+        "9 J",
+        "2 J",
+        "14 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "W = Fs = (7)(2) = 14 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-027",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 8 N displaces a body by 3 m in the direction of the force. The work done is",
+      "options": [
+        "8 J",
+        "11 J",
+        "3 J",
+        "24 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "W = Fs = (8)(3) = 24 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-028",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 9 N displaces a body by 4 m in the direction of the force. The work done is",
+      "options": [
+        "9 J",
+        "4 J",
+        "36 J",
+        "13 J"
+      ],
+      "answerIndex": 2,
+      "explanation": "W = Fs = (9)(4) = 36 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-029",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 2 N displaces a body by 5 m in the direction of the force. The work done is",
+      "options": [
+        "5 J",
+        "10 J",
+        "7 J",
+        "2 J"
+      ],
+      "answerIndex": 1,
+      "explanation": "W = Fs = (2)(5) = 10 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-030",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A force of 3 N displaces a body by 6 m in the direction of the force. The work done is",
+      "options": [
+        "6 J",
+        "9 J",
+        "3 J",
+        "18 J"
+      ],
+      "answerIndex": 3,
+      "explanation": "W = Fs = (3)(6) = 18 J.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-031",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 10 J of work in 2 s. Its power is",
+      "options": [
+        "2 W",
+        "20 W",
+        "5 W",
+        "10 W"
+      ],
+      "answerIndex": 2,
+      "explanation": "P = W/t = 10/2 = 5 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-032",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 18 J of work in 3 s. Its power is",
+      "options": [
+        "3 W",
+        "54 W",
+        "18 W",
+        "6 W"
+      ],
+      "answerIndex": 3,
+      "explanation": "P = W/t = 18/3 = 6 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-033",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 28 J of work in 4 s. Its power is",
+      "options": [
+        "4 W",
+        "7 W",
+        "112 W",
+        "28 W"
+      ],
+      "answerIndex": 1,
+      "explanation": "P = W/t = 28/4 = 7 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-034",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 40 J of work in 5 s. Its power is",
+      "options": [
+        "40 W",
+        "5 W",
+        "200 W",
+        "8 W"
+      ],
+      "answerIndex": 3,
+      "explanation": "P = W/t = 40/5 = 8 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-035",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 54 J of work in 6 s. Its power is",
+      "options": [
+        "6 W",
+        "324 W",
+        "9 W",
+        "54 W"
+      ],
+      "answerIndex": 2,
+      "explanation": "P = W/t = 54/6 = 9 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-036",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 20 J of work in 2 s. Its power is",
+      "options": [
+        "2 W",
+        "10 W",
+        "20 W",
+        "40 W"
+      ],
+      "answerIndex": 1,
+      "explanation": "P = W/t = 20/2 = 10 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-037",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 33 J of work in 3 s. Its power is",
+      "options": [
+        "99 W",
+        "11 W",
+        "33 W",
+        "3 W"
+      ],
+      "answerIndex": 1,
+      "explanation": "P = W/t = 33/3 = 11 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-038",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 48 J of work in 4 s. Its power is",
+      "options": [
+        "192 W",
+        "12 W",
+        "4 W",
+        "48 W"
+      ],
+      "answerIndex": 1,
+      "explanation": "P = W/t = 48/4 = 12 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-039",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 65 J of work in 5 s. Its power is",
+      "options": [
+        "325 W",
+        "5 W",
+        "13 W",
+        "65 W"
+      ],
+      "answerIndex": 2,
+      "explanation": "P = W/t = 65/5 = 13 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-wep-040",
+      "chapterId": "physics-work-energy-and-power",
+      "stem": "A machine does 84 J of work in 6 s. Its power is",
+      "options": [
+        "14 W",
+        "84 W",
+        "6 W",
+        "504 W"
+      ],
+      "answerIndex": 0,
+      "explanation": "P = W/t = 84/6 = 14 W.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "subjectId": "maths",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-mat-quad-001",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 5x + 6 = 0 is",
+      "options": [
+        "5",
+        "2",
+        "3",
+        "6"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 5.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-002",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 7x + 12 = 0 is",
+      "options": [
+        "4",
+        "3",
+        "12",
+        "7"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 12.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-003",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 9x + 20 = 0 is",
+      "options": [
+        "20",
+        "9",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 9.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-004",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 11x + 30 = 0 is",
+      "options": [
+        "11",
+        "5",
+        "6",
+        "30"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 30.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-005",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 13x + 42 = 0 is",
+      "options": [
+        "42",
+        "13",
+        "6",
+        "7"
+      ],
+      "answerIndex": 1,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 13.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-006",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 15x + 56 = 0 is",
+      "options": [
+        "15",
+        "7",
+        "8",
+        "56"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 56.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-007",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 17x + 72 = 0 is",
+      "options": [
+        "8",
+        "72",
+        "17",
+        "9"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 17.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-008",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 6x + 8 = 0 is",
+      "options": [
+        "2",
+        "8",
+        "4",
+        "6"
+      ],
+      "answerIndex": 1,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 8.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-009",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 8x + 15 = 0 is",
+      "options": [
+        "15",
+        "5",
+        "3",
+        "8"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 8.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-010",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 10x + 24 = 0 is",
+      "options": [
+        "6",
+        "10",
+        "4",
+        "24"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 24.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-011",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 12x + 35 = 0 is",
+      "options": [
+        "7",
+        "35",
+        "5",
+        "12"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 12.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-012",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 14x + 48 = 0 is",
+      "options": [
+        "14",
+        "48",
+        "8",
+        "6"
+      ],
+      "answerIndex": 1,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 48.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-013",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 16x + 63 = 0 is",
+      "options": [
+        "7",
+        "63",
+        "16",
+        "9"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 16.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-014",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 18x + 80 = 0 is",
+      "options": [
+        "8",
+        "10",
+        "18",
+        "80"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 80.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-015",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 7x + 10 = 0 is",
+      "options": [
+        "5",
+        "2",
+        "7",
+        "10"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 7.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-016",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 9x + 18 = 0 is",
+      "options": [
+        "9",
+        "6",
+        "3",
+        "18"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 18.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-017",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 11x + 28 = 0 is",
+      "options": [
+        "7",
+        "4",
+        "11",
+        "28"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 11.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-018",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 13x + 40 = 0 is",
+      "options": [
+        "40",
+        "5",
+        "8",
+        "13"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 40.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-019",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 15x + 54 = 0 is",
+      "options": [
+        "54",
+        "6",
+        "9",
+        "15"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 15.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-020",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 17x + 70 = 0 is",
+      "options": [
+        "7",
+        "10",
+        "17",
+        "70"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 70.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-021",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 19x + 88 = 0 is",
+      "options": [
+        "19",
+        "8",
+        "88",
+        "11"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 19.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-022",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 8x + 12 = 0 is",
+      "options": [
+        "12",
+        "2",
+        "8",
+        "6"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 12.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-023",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 10x + 21 = 0 is",
+      "options": [
+        "7",
+        "21",
+        "3",
+        "10"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 10.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-024",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 12x + 32 = 0 is",
+      "options": [
+        "8",
+        "4",
+        "12",
+        "32"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 32.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-025",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 14x + 45 = 0 is",
+      "options": [
+        "14",
+        "9",
+        "5",
+        "45"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 14.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-026",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 16x + 60 = 0 is",
+      "options": [
+        "60",
+        "6",
+        "16",
+        "10"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 60.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-027",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 18x + 77 = 0 is",
+      "options": [
+        "11",
+        "7",
+        "77",
+        "18"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 18.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-028",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 20x + 96 = 0 is",
+      "options": [
+        "8",
+        "20",
+        "96",
+        "12"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 96.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-029",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 9x + 14 = 0 is",
+      "options": [
+        "9",
+        "7",
+        "14",
+        "2"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 9.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-030",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 11x + 24 = 0 is",
+      "options": [
+        "24",
+        "8",
+        "11",
+        "3"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 24.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-031",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 13x + 36 = 0 is",
+      "options": [
+        "36",
+        "9",
+        "4",
+        "13"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 13.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-032",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 15x + 50 = 0 is",
+      "options": [
+        "10",
+        "15",
+        "50",
+        "5"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 50.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-033",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 17x + 66 = 0 is",
+      "options": [
+        "11",
+        "17",
+        "66",
+        "6"
+      ],
+      "answerIndex": 1,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 17.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-034",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 19x + 84 = 0 is",
+      "options": [
+        "7",
+        "84",
+        "19",
+        "12"
+      ],
+      "answerIndex": 1,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 84.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-035",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 21x + 104 = 0 is",
+      "options": [
+        "13",
+        "8",
+        "21",
+        "104"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 21.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-036",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 10x + 16 = 0 is",
+      "options": [
+        "16",
+        "8",
+        "10",
+        "2"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 16.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-037",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 12x + 27 = 0 is",
+      "options": [
+        "3",
+        "27",
+        "12",
+        "9"
+      ],
+      "answerIndex": 2,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 12.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-038",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 14x + 40 = 0 is",
+      "options": [
+        "40",
+        "10",
+        "4",
+        "14"
+      ],
+      "answerIndex": 0,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 40.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-039",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The sum of the roots of x^2 - 16x + 55 = 0 is",
+      "options": [
+        "55",
+        "16",
+        "11",
+        "5"
+      ],
+      "answerIndex": 1,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the sum of the roots is 16.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-quad-040",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots of x^2 - 18x + 72 = 0 is",
+      "options": [
+        "6",
+        "18",
+        "12",
+        "72"
+      ],
+      "answerIndex": 3,
+      "explanation": "For x^2 - (sum)x + (product) = 0, the product of the roots is 72.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-phy-ce-001",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 2 ohm is connected to a 4 V supply. The current in the resistor is",
+      "options": [
+        "3 A",
+        "2 A",
+        "8 A",
+        "4 A"
+      ],
+      "answerIndex": 1,
+      "explanation": "I = V/R = 4/2 = 2 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-002",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 3 ohm is connected to a 9 V supply. The current in the resistor is",
+      "options": [
+        "27 A",
+        "3 A",
+        "4 A",
+        "9 A"
+      ],
+      "answerIndex": 1,
+      "explanation": "I = V/R = 9/3 = 3 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-003",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 4 ohm is connected to a 16 V supply. The current in the resistor is",
+      "options": [
+        "16 A",
+        "5 A",
+        "4 A",
+        "64 A"
+      ],
+      "answerIndex": 2,
+      "explanation": "I = V/R = 16/4 = 4 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-004",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 5 ohm is connected to a 25 V supply. The current in the resistor is",
+      "options": [
+        "5 A",
+        "6 A",
+        "125 A",
+        "25 A"
+      ],
+      "answerIndex": 0,
+      "explanation": "I = V/R = 25/5 = 5 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-005",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 6 ohm is connected to a 36 V supply. The current in the resistor is",
+      "options": [
+        "216 A",
+        "6 A",
+        "36 A",
+        "7 A"
+      ],
+      "answerIndex": 1,
+      "explanation": "I = V/R = 36/6 = 6 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-006",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 7 ohm is connected to a 14 V supply. The current in the resistor is",
+      "options": [
+        "14 A",
+        "7 A",
+        "2 A",
+        "98 A"
+      ],
+      "answerIndex": 2,
+      "explanation": "I = V/R = 14/7 = 2 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-007",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 8 ohm is connected to a 24 V supply. The current in the resistor is",
+      "options": [
+        "3 A",
+        "8 A",
+        "24 A",
+        "192 A"
+      ],
+      "answerIndex": 0,
+      "explanation": "I = V/R = 24/8 = 3 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-008",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 9 ohm is connected to a 36 V supply. The current in the resistor is",
+      "options": [
+        "4 A",
+        "324 A",
+        "9 A",
+        "36 A"
+      ],
+      "answerIndex": 0,
+      "explanation": "I = V/R = 36/9 = 4 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-009",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 2 ohm is connected to a 10 V supply. The current in the resistor is",
+      "options": [
+        "5 A",
+        "10 A",
+        "2 A",
+        "20 A"
+      ],
+      "answerIndex": 0,
+      "explanation": "I = V/R = 10/2 = 5 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-010",
+      "chapterId": "physics-current-electricity",
+      "stem": "A resistor of 3 ohm is connected to a 18 V supply. The current in the resistor is",
+      "options": [
+        "54 A",
+        "18 A",
+        "3 A",
+        "6 A"
+      ],
+      "answerIndex": 3,
+      "explanation": "I = V/R = 18/3 = 6 A.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-011",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 6 V supply sends a current of 2 A through a resistor. The resistance is",
+      "options": [
+        "6 ohm",
+        "3 ohm",
+        "2 ohm",
+        "12 ohm"
+      ],
+      "answerIndex": 1,
+      "explanation": "R = V/I = 6/2 = 3 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-012",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 12 V supply sends a current of 3 A through a resistor. The resistance is",
+      "options": [
+        "36 ohm",
+        "3 ohm",
+        "4 ohm",
+        "12 ohm"
+      ],
+      "answerIndex": 2,
+      "explanation": "R = V/I = 12/3 = 4 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-013",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 20 V supply sends a current of 4 A through a resistor. The resistance is",
+      "options": [
+        "80 ohm",
+        "20 ohm",
+        "5 ohm",
+        "4 ohm"
+      ],
+      "answerIndex": 2,
+      "explanation": "R = V/I = 20/4 = 5 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-014",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 15 V supply sends a current of 5 A through a resistor. The resistance is",
+      "options": [
+        "3 ohm",
+        "15 ohm",
+        "75 ohm",
+        "5 ohm"
+      ],
+      "answerIndex": 0,
+      "explanation": "R = V/I = 15/5 = 3 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-015",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 24 V supply sends a current of 6 A through a resistor. The resistance is",
+      "options": [
+        "6 ohm",
+        "24 ohm",
+        "144 ohm",
+        "4 ohm"
+      ],
+      "answerIndex": 3,
+      "explanation": "R = V/I = 24/6 = 4 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-016",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 12 V supply sends a current of 2 A through a resistor. The resistance is",
+      "options": [
+        "2 ohm",
+        "12 ohm",
+        "24 ohm",
+        "6 ohm"
+      ],
+      "answerIndex": 3,
+      "explanation": "R = V/I = 12/2 = 6 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-017",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 30 V supply sends a current of 5 A through a resistor. The resistance is",
+      "options": [
+        "5 ohm",
+        "6 ohm",
+        "30 ohm",
+        "150 ohm"
+      ],
+      "answerIndex": 1,
+      "explanation": "R = V/I = 30/5 = 6 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-018",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 21 V supply sends a current of 3 A through a resistor. The resistance is",
+      "options": [
+        "3 ohm",
+        "21 ohm",
+        "63 ohm",
+        "7 ohm"
+      ],
+      "answerIndex": 3,
+      "explanation": "R = V/I = 21/3 = 7 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-019",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 42 V supply sends a current of 6 A through a resistor. The resistance is",
+      "options": [
+        "7 ohm",
+        "6 ohm",
+        "42 ohm",
+        "252 ohm"
+      ],
+      "answerIndex": 0,
+      "explanation": "R = V/I = 42/6 = 7 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-020",
+      "chapterId": "physics-current-electricity",
+      "stem": "A 32 V supply sends a current of 4 A through a resistor. The resistance is",
+      "options": [
+        "8 ohm",
+        "32 ohm",
+        "4 ohm",
+        "128 ohm"
+      ],
+      "answerIndex": 0,
+      "explanation": "R = V/I = 32/4 = 8 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-021",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 2 ohm and 3 ohm are connected in series to a 10 V battery. The current in the circuit is",
+      "options": [
+        "5 A",
+        "3 A",
+        "2 A",
+        "10 A"
+      ],
+      "answerIndex": 2,
+      "explanation": "Req = 2 + 3 = 5 ohm. I = V/Req = 10/5 = 2 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-021.svg",
+          "alt": "Series circuit with 2 ohm and 3 ohm on a 10 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-022",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 3 ohm and 4 ohm are connected in series to a 21 V battery. The current in the circuit is",
+      "options": [
+        "7 A",
+        "4 A",
+        "21 A",
+        "3 A"
+      ],
+      "answerIndex": 3,
+      "explanation": "Req = 3 + 4 = 7 ohm. I = V/Req = 21/7 = 3 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-022.svg",
+          "alt": "Series circuit with 3 ohm and 4 ohm on a 21 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-023",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 4 ohm and 5 ohm are connected in series to a 36 V battery. The current in the circuit is",
+      "options": [
+        "5 A",
+        "9 A",
+        "36 A",
+        "4 A"
+      ],
+      "answerIndex": 3,
+      "explanation": "Req = 4 + 5 = 9 ohm. I = V/Req = 36/9 = 4 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-023.svg",
+          "alt": "Series circuit with 4 ohm and 5 ohm on a 36 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-024",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 5 ohm and 6 ohm are connected in series to a 55 V battery. The current in the circuit is",
+      "options": [
+        "5 A",
+        "11 A",
+        "6 A",
+        "55 A"
+      ],
+      "answerIndex": 0,
+      "explanation": "Req = 5 + 6 = 11 ohm. I = V/Req = 55/11 = 5 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-024.svg",
+          "alt": "Series circuit with 5 ohm and 6 ohm on a 55 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-025",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 6 ohm and 7 ohm are connected in series to a 26 V battery. The current in the circuit is",
+      "options": [
+        "13 A",
+        "2 A",
+        "6 A",
+        "26 A"
+      ],
+      "answerIndex": 1,
+      "explanation": "Req = 6 + 7 = 13 ohm. I = V/Req = 26/13 = 2 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-025.svg",
+          "alt": "Series circuit with 6 ohm and 7 ohm on a 26 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-026",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 7 ohm and 3 ohm are connected in series to a 30 V battery. The current in the circuit is",
+      "options": [
+        "7 A",
+        "10 A",
+        "3 A",
+        "30 A"
+      ],
+      "answerIndex": 2,
+      "explanation": "Req = 7 + 3 = 10 ohm. I = V/Req = 30/10 = 3 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-026.svg",
+          "alt": "Series circuit with 7 ohm and 3 ohm on a 30 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-027",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 2 ohm and 4 ohm are connected in series to a 24 V battery. The current in the circuit is",
+      "options": [
+        "2 A",
+        "6 A",
+        "4 A",
+        "24 A"
+      ],
+      "answerIndex": 2,
+      "explanation": "Req = 2 + 4 = 6 ohm. I = V/Req = 24/6 = 4 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-027.svg",
+          "alt": "Series circuit with 2 ohm and 4 ohm on a 24 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-028",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 3 ohm and 5 ohm are connected in series to a 40 V battery. The current in the circuit is",
+      "options": [
+        "5 A",
+        "8 A",
+        "3 A",
+        "40 A"
+      ],
+      "answerIndex": 0,
+      "explanation": "Req = 3 + 5 = 8 ohm. I = V/Req = 40/8 = 5 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-028.svg",
+          "alt": "Series circuit with 3 ohm and 5 ohm on a 40 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-029",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 4 ohm and 6 ohm are connected in series to a 20 V battery. The current in the circuit is",
+      "options": [
+        "4 A",
+        "2 A",
+        "20 A",
+        "10 A"
+      ],
+      "answerIndex": 1,
+      "explanation": "Req = 4 + 6 = 10 ohm. I = V/Req = 20/10 = 2 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-029.svg",
+          "alt": "Series circuit with 4 ohm and 6 ohm on a 20 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-030",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 5 ohm and 7 ohm are connected in series to a 36 V battery. The current in the circuit is",
+      "options": [
+        "12 A",
+        "5 A",
+        "36 A",
+        "3 A"
+      ],
+      "answerIndex": 3,
+      "explanation": "Req = 5 + 7 = 12 ohm. I = V/Req = 36/12 = 3 A.",
+      "images": [
+        {
+          "url": "/questions/gen/gen-phy-ce-030.svg",
+          "alt": "Series circuit with 5 ohm and 7 ohm on a 36 V battery",
+          "width": 480,
+          "height": 280
+        }
+      ],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-031",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 6 ohm and 3 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "3 ohm",
+        "2 ohm",
+        "6 ohm",
+        "9 ohm"
+      ],
+      "answerIndex": 1,
+      "explanation": "1/Req = 1/6 + 1/3, so Req = 2 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-032",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 12 ohm and 4 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "4 ohm",
+        "16 ohm",
+        "3 ohm",
+        "12 ohm"
+      ],
+      "answerIndex": 2,
+      "explanation": "1/Req = 1/12 + 1/4, so Req = 3 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-033",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 12 ohm and 6 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "12 ohm",
+        "4 ohm",
+        "18 ohm",
+        "6 ohm"
+      ],
+      "answerIndex": 1,
+      "explanation": "1/Req = 1/12 + 1/6, so Req = 4 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-034",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 8 ohm and 8 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "8 ohm",
+        "64 ohm",
+        "4 ohm",
+        "16 ohm"
+      ],
+      "answerIndex": 2,
+      "explanation": "1/Req = 1/8 + 1/8, so Req = 4 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-035",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 10 ohm and 10 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "100 ohm",
+        "10 ohm",
+        "5 ohm",
+        "20 ohm"
+      ],
+      "answerIndex": 2,
+      "explanation": "1/Req = 1/10 + 1/10, so Req = 5 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-036",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 15 ohm and 10 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "6 ohm",
+        "10 ohm",
+        "25 ohm",
+        "15 ohm"
+      ],
+      "answerIndex": 0,
+      "explanation": "1/Req = 1/15 + 1/10, so Req = 6 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-037",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 20 ohm and 20 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "400 ohm",
+        "40 ohm",
+        "10 ohm",
+        "20 ohm"
+      ],
+      "answerIndex": 2,
+      "explanation": "1/Req = 1/20 + 1/20, so Req = 10 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-038",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 16 ohm and 16 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "32 ohm",
+        "256 ohm",
+        "8 ohm",
+        "16 ohm"
+      ],
+      "answerIndex": 2,
+      "explanation": "1/Req = 1/16 + 1/16, so Req = 8 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-039",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 20 ohm and 30 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "50 ohm",
+        "12 ohm",
+        "30 ohm",
+        "20 ohm"
+      ],
+      "answerIndex": 1,
+      "explanation": "1/Req = 1/20 + 1/30, so Req = 12 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-ce-040",
+      "chapterId": "physics-current-electricity",
+      "stem": "Two resistors of 24 ohm and 8 ohm are connected in parallel. The equivalent resistance is",
+      "options": [
+        "6 ohm",
+        "8 ohm",
+        "24 ohm",
+        "32 ohm"
+      ],
+      "answerIndex": 0,
+      "explanation": "1/Req = 1/24 + 1/8, so Req = 6 ohm.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

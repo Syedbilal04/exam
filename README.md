@@ -64,9 +64,12 @@ what lets guest sessions work before an account exists.
 | `content/imported/*.json` | Output of the import run |
 | `src/content/question-bank.json` | Generated bank the app reads |
 
+Current bank: **1167 questions** covering all **135 TSBIE chapters** (Maths 283, Physics 289, Chemistry 218, Botany 198, Zoology 179).
+
 ```bash
-npm run import:pyq   # fetch allowlisted sources, then rebuild the bank
-npm run bank:build   # rebuild the bank without fetching
+npm run import:pyq          # fetch allowlisted sources, then rebuild the bank
+npm run generate:questions  # write original numerical items and their diagrams
+npm run bank:build          # rebuild the bank without fetching
 npm run check:bank   # fail loudly if any question would show raw TeX
 npm run check:paper  # paper generation rules: quotas, freshness, silent recycle
 ```
@@ -94,9 +97,9 @@ backslash markup. `npm run check:bank` guards this.
 A question may also carry diagrams. They are stored as
 `{ url, alt, width, height }` and served from `public/questions/<source>/`; the
 importer downloads and measures each file rather than hotlinking it, and drops
-a figure-based question whose image could not be fetched. None of the currently
-enabled sources ship diagrams, so this path is exercised by hand-authored
-content until a source with figures is licensed.
+a figure-based question whose image could not be fetched. Generated items draw
+their own SVG from the same numbers as the stem, under `public/questions/gen/`.
+The enabled import sources still ship no figures.
 
 Previous-year metadata: the hand-authored seed questions ship with **sample**
 appearance data so the feature is visible from the first run, and imported

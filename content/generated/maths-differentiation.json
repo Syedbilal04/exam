@@ -1,0 +1,809 @@
+{
+  "subjectId": "maths",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-mat-diff-001",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 1x^2 at x = 2 is",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "8"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (1x^2) = 2x^1. At x = 2 this is 4.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-002",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 2x^3 at x = 3 is",
+      "options": [
+        "54",
+        "162",
+        "18",
+        "36"
+      ],
+      "answerIndex": 0,
+      "explanation": "d/dx (2x^3) = 6x^2. At x = 3 this is 54.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-003",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 3x^2 at x = 4 is",
+      "options": [
+        "12",
+        "6",
+        "96",
+        "24"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (3x^2) = 6x^1. At x = 4 this is 24.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-004",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 4x^3 at x = 5 is",
+      "options": [
+        "120",
+        "1500",
+        "100",
+        "300"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (4x^3) = 12x^2. At x = 5 this is 300.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-005",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 5x^2 at x = 6 is",
+      "options": [
+        "10",
+        "360",
+        "30",
+        "60"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (5x^2) = 10x^1. At x = 6 this is 60.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-006",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 6x^3 at x = 2 is",
+      "options": [
+        "144",
+        "73",
+        "24",
+        "72"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (6x^3) = 18x^2. At x = 2 this is 72.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-007",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 7x^2 at x = 3 is",
+      "options": [
+        "42",
+        "21",
+        "14",
+        "126"
+      ],
+      "answerIndex": 0,
+      "explanation": "d/dx (7x^2) = 14x^1. At x = 3 this is 42.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-008",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 8x^3 at x = 4 is",
+      "options": [
+        "384",
+        "1536",
+        "192",
+        "128"
+      ],
+      "answerIndex": 0,
+      "explanation": "d/dx (8x^3) = 24x^2. At x = 4 this is 384.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-009",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 1x^2 at x = 5 is",
+      "options": [
+        "2",
+        "10",
+        "5",
+        "50"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (1x^2) = 2x^1. At x = 5 this is 10.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-010",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 2x^3 at x = 6 is",
+      "options": [
+        "1296",
+        "217",
+        "216",
+        "72"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (2x^3) = 6x^2. At x = 6 this is 216.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-011",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 3x^2 at x = 2 is",
+      "options": [
+        "24",
+        "12",
+        "13",
+        "6"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (3x^2) = 6x^1. At x = 2 this is 12.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-012",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 4x^3 at x = 3 is",
+      "options": [
+        "72",
+        "108",
+        "36",
+        "324"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (4x^3) = 12x^2. At x = 3 this is 108.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-013",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 5x^2 at x = 4 is",
+      "options": [
+        "10",
+        "160",
+        "20",
+        "40"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (5x^2) = 10x^1. At x = 4 this is 40.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-014",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 6x^3 at x = 5 is",
+      "options": [
+        "2250",
+        "180",
+        "450",
+        "150"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (6x^3) = 18x^2. At x = 5 this is 450.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-015",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 7x^2 at x = 6 is",
+      "options": [
+        "14",
+        "84",
+        "42",
+        "504"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (7x^2) = 14x^1. At x = 6 this is 84.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-016",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 8x^3 at x = 2 is",
+      "options": [
+        "192",
+        "32",
+        "96",
+        "97"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (8x^3) = 24x^2. At x = 2 this is 96.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-017",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 1x^2 at x = 3 is",
+      "options": [
+        "18",
+        "3",
+        "6",
+        "2"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (1x^2) = 2x^1. At x = 3 this is 6.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-018",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 2x^3 at x = 4 is",
+      "options": [
+        "48",
+        "96",
+        "384",
+        "32"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (2x^3) = 6x^2. At x = 4 this is 96.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-019",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 3x^2 at x = 5 is",
+      "options": [
+        "6",
+        "15",
+        "150",
+        "30"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (3x^2) = 6x^1. At x = 5 this is 30.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-020",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 4x^3 at x = 6 is",
+      "options": [
+        "2592",
+        "432",
+        "144",
+        "433"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (4x^3) = 12x^2. At x = 6 this is 432.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-021",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 5x^2 at x = 2 is",
+      "options": [
+        "21",
+        "10",
+        "20",
+        "40"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (5x^2) = 10x^1. At x = 2 this is 20.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-022",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 6x^3 at x = 3 is",
+      "options": [
+        "108",
+        "486",
+        "54",
+        "162"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (6x^3) = 18x^2. At x = 3 this is 162.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-023",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 7x^2 at x = 4 is",
+      "options": [
+        "224",
+        "14",
+        "56",
+        "28"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (7x^2) = 14x^1. At x = 4 this is 56.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-024",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 8x^3 at x = 5 is",
+      "options": [
+        "240",
+        "3000",
+        "200",
+        "600"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (8x^3) = 24x^2. At x = 5 this is 600.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-025",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 1x^2 at x = 6 is",
+      "options": [
+        "2",
+        "72",
+        "12",
+        "6"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (1x^2) = 2x^1. At x = 6 this is 12.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-026",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 2x^3 at x = 2 is",
+      "options": [
+        "8",
+        "24",
+        "48",
+        "25"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (2x^3) = 6x^2. At x = 2 this is 24.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-027",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 3x^2 at x = 3 is",
+      "options": [
+        "9",
+        "18",
+        "6",
+        "54"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (3x^2) = 6x^1. At x = 3 this is 18.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-028",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 4x^3 at x = 4 is",
+      "options": [
+        "768",
+        "192",
+        "64",
+        "96"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (4x^3) = 12x^2. At x = 4 this is 192.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-029",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 5x^2 at x = 5 is",
+      "options": [
+        "25",
+        "50",
+        "10",
+        "250"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (5x^2) = 10x^1. At x = 5 this is 50.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-030",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 6x^3 at x = 6 is",
+      "options": [
+        "216",
+        "649",
+        "648",
+        "3888"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (6x^3) = 18x^2. At x = 6 this is 648.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-031",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 7x^2 at x = 2 is",
+      "options": [
+        "28",
+        "29",
+        "56",
+        "14"
+      ],
+      "answerIndex": 0,
+      "explanation": "d/dx (7x^2) = 14x^1. At x = 2 this is 28.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-032",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 8x^3 at x = 3 is",
+      "options": [
+        "72",
+        "648",
+        "144",
+        "216"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (8x^3) = 24x^2. At x = 3 this is 216.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-033",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 1x^2 at x = 4 is",
+      "options": [
+        "4",
+        "8",
+        "32",
+        "2"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (1x^2) = 2x^1. At x = 4 this is 8.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-034",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 2x^3 at x = 5 is",
+      "options": [
+        "60",
+        "150",
+        "750",
+        "50"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (2x^3) = 6x^2. At x = 5 this is 150.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-035",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 3x^2 at x = 6 is",
+      "options": [
+        "36",
+        "216",
+        "18",
+        "6"
+      ],
+      "answerIndex": 0,
+      "explanation": "d/dx (3x^2) = 6x^1. At x = 6 this is 36.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-036",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 4x^3 at x = 2 is",
+      "options": [
+        "96",
+        "16",
+        "48",
+        "49"
+      ],
+      "answerIndex": 2,
+      "explanation": "d/dx (4x^3) = 12x^2. At x = 2 this is 48.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-037",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 5x^2 at x = 3 is",
+      "options": [
+        "10",
+        "30",
+        "15",
+        "90"
+      ],
+      "answerIndex": 1,
+      "explanation": "d/dx (5x^2) = 10x^1. At x = 3 this is 30.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-038",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 6x^3 at x = 4 is",
+      "options": [
+        "96",
+        "144",
+        "1152",
+        "288"
+      ],
+      "answerIndex": 3,
+      "explanation": "d/dx (6x^3) = 18x^2. At x = 4 this is 288.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-039",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 7x^2 at x = 5 is",
+      "options": [
+        "70",
+        "35",
+        "14",
+        "350"
+      ],
+      "answerIndex": 0,
+      "explanation": "d/dx (7x^2) = 14x^1. At x = 5 this is 70.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-mat-diff-040",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of 8x^3 at x = 6 is",
+      "options": [
+        "864",
+        "865",
+        "5184",
+        "288"
+      ],
+      "answerIndex": 0,
+      "explanation": "d/dx (8x^3) = 24x^2. At x = 6 this is 864.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

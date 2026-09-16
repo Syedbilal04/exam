@@ -1,0 +1,809 @@
+{
+  "subjectId": "chemistry",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-che-sto-001",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 100 g of CaCO3? The molar mass of CaCO3 is 100 g mol^-1.",
+      "options": [
+        "1 mol",
+        "2 mol",
+        "100 mol",
+        "200 mol"
+      ],
+      "answerIndex": 0,
+      "explanation": "n = m/M = 100/100 = 1 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-002",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 88 g of CO2? The molar mass of CO2 is 44 g mol^-1.",
+      "options": [
+        "132 mol",
+        "44 mol",
+        "2 mol",
+        "88 mol"
+      ],
+      "answerIndex": 2,
+      "explanation": "n = m/M = 88/44 = 2 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-003",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 54 g of H2O? The molar mass of H2O is 18 g mol^-1.",
+      "options": [
+        "72 mol",
+        "18 mol",
+        "3 mol",
+        "54 mol"
+      ],
+      "answerIndex": 2,
+      "explanation": "n = m/M = 54/18 = 3 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-004",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 128 g of O2? The molar mass of O2 is 32 g mol^-1.",
+      "options": [
+        "128 mol",
+        "32 mol",
+        "160 mol",
+        "4 mol"
+      ],
+      "answerIndex": 3,
+      "explanation": "n = m/M = 128/32 = 4 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-005",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 140 g of N2? The molar mass of N2 is 28 g mol^-1.",
+      "options": [
+        "28 mol",
+        "5 mol",
+        "140 mol",
+        "168 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "n = m/M = 140/28 = 5 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-006",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 56 g of Fe? The molar mass of Fe is 56 g mol^-1.",
+      "options": [
+        "1 mol",
+        "112 mol",
+        "2 mol",
+        "56 mol"
+      ],
+      "answerIndex": 0,
+      "explanation": "n = m/M = 56/56 = 1 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-007",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 128 g of SO2? The molar mass of SO2 is 64 g mol^-1.",
+      "options": [
+        "128 mol",
+        "64 mol",
+        "2 mol",
+        "192 mol"
+      ],
+      "answerIndex": 2,
+      "explanation": "n = m/M = 128/64 = 2 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-008",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 48 g of CH4? The molar mass of CH4 is 16 g mol^-1.",
+      "options": [
+        "3 mol",
+        "48 mol",
+        "16 mol",
+        "64 mol"
+      ],
+      "answerIndex": 0,
+      "explanation": "n = m/M = 48/16 = 3 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-009",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 160 g of NaOH? The molar mass of NaOH is 40 g mol^-1.",
+      "options": [
+        "40 mol",
+        "200 mol",
+        "160 mol",
+        "4 mol"
+      ],
+      "answerIndex": 3,
+      "explanation": "n = m/M = 160/40 = 4 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-010",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "How many moles are present in 10 g of H2? The molar mass of H2 is 2 g mol^-1.",
+      "options": [
+        "5 mol",
+        "10 mol",
+        "12 mol",
+        "2 mol"
+      ],
+      "answerIndex": 0,
+      "explanation": "n = m/M = 10/2 = 5 mol.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-011",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 2 mol of CaCO3 is how many grams? The molar mass of CaCO3 is 100 g mol^-1.",
+      "options": [
+        "100 g",
+        "2 g",
+        "200 g",
+        "102 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "m = nM = (2)(100) = 200 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-012",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 3 mol of CO2 is how many grams? The molar mass of CO2 is 44 g mol^-1.",
+      "options": [
+        "132 g",
+        "44 g",
+        "3 g",
+        "47 g"
+      ],
+      "answerIndex": 0,
+      "explanation": "m = nM = (3)(44) = 132 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-013",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 4 mol of H2O is how many grams? The molar mass of H2O is 18 g mol^-1.",
+      "options": [
+        "4 g",
+        "72 g",
+        "22 g",
+        "18 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = nM = (4)(18) = 72 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-014",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 5 mol of O2 is how many grams? The molar mass of O2 is 32 g mol^-1.",
+      "options": [
+        "37 g",
+        "160 g",
+        "5 g",
+        "32 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = nM = (5)(32) = 160 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-015",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 2 mol of N2 is how many grams? The molar mass of N2 is 28 g mol^-1.",
+      "options": [
+        "30 g",
+        "2 g",
+        "56 g",
+        "28 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "m = nM = (2)(28) = 56 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-016",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 3 mol of Fe is how many grams? The molar mass of Fe is 56 g mol^-1.",
+      "options": [
+        "3 g",
+        "168 g",
+        "59 g",
+        "56 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = nM = (3)(56) = 168 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-017",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 4 mol of SO2 is how many grams? The molar mass of SO2 is 64 g mol^-1.",
+      "options": [
+        "4 g",
+        "64 g",
+        "68 g",
+        "256 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "m = nM = (4)(64) = 256 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-018",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 5 mol of CH4 is how many grams? The molar mass of CH4 is 16 g mol^-1.",
+      "options": [
+        "16 g",
+        "21 g",
+        "80 g",
+        "5 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "m = nM = (5)(16) = 80 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-019",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 2 mol of NaOH is how many grams? The molar mass of NaOH is 40 g mol^-1.",
+      "options": [
+        "40 g",
+        "80 g",
+        "42 g",
+        "2 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = nM = (2)(40) = 80 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-020",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "The mass of 3 mol of H2 is how many grams? The molar mass of H2 is 2 g mol^-1.",
+      "options": [
+        "6 g",
+        "3 g",
+        "2 g",
+        "5 g"
+      ],
+      "answerIndex": 0,
+      "explanation": "m = nM = (3)(2) = 6 g.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-021",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For C + O2 -> CO2, what mass of CO2 is obtained from 12 g of C? Molar masses: C = 12 g mol^-1, CO2 = 44 g mol^-1.",
+      "options": [
+        "46 g",
+        "12 g",
+        "45 g",
+        "44 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "12 g of C is 1 mol. The equation gives 44 g of CO2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-022",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For 2H2 + O2 -> 2H2O, what mass of H2O is obtained from 8 g of H2? Molar masses: H2 = 2 g mol^-1, H2O = 18 g mol^-1.",
+      "options": [
+        "18 g",
+        "2 g",
+        "72 g",
+        "8 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "8 g of H2 is 4 mol. The equation gives 72 g of H2O.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-023",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For N2 + 3H2 -> 2NH3, what mass of NH3 is obtained from 84 g of N2? Molar masses: N2 = 28 g mol^-1, NH3 = 17 g mol^-1.",
+      "options": [
+        "28 g",
+        "17 g",
+        "84 g",
+        "102 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "84 g of N2 is 3 mol. The equation gives 102 g of NH3.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-024",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For S + O2 -> SO2, what mass of SO2 is obtained from 128 g of S? Molar masses: S = 32 g mol^-1, SO2 = 64 g mol^-1.",
+      "options": [
+        "128 g",
+        "64 g",
+        "256 g",
+        "32 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "128 g of S is 4 mol. The equation gives 256 g of SO2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-025",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For CaCO3 -> CaO + CO2, what mass of CO2 is obtained from 100 g of CaCO3? Molar masses: CaCO3 = 100 g mol^-1, CO2 = 44 g mol^-1.",
+      "options": [
+        "100 g",
+        "44 g",
+        "45 g",
+        "46 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "100 g of CaCO3 is 1 mol. The equation gives 44 g of CO2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-026",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For 2H2O2 -> 2H2O + O2, what mass of O2 is obtained from 136 g of H2O2? Molar masses: H2O2 = 34 g mol^-1, O2 = 32 g mol^-1.",
+      "options": [
+        "136 g",
+        "32 g",
+        "34 g",
+        "64 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "136 g of H2O2 is 4 mol. The equation gives 64 g of O2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-027",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For CH4 + 2O2 -> CO2 + 2H2O, what mass of CO2 is obtained from 48 g of CH4? Molar masses: CH4 = 16 g mol^-1, CO2 = 44 g mol^-1.",
+      "options": [
+        "48 g",
+        "132 g",
+        "16 g",
+        "44 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "48 g of CH4 is 3 mol. The equation gives 132 g of CO2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-028",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For 2Mg + O2 -> 2MgO, what mass of MgO is obtained from 192 g of Mg? Molar masses: Mg = 24 g mol^-1, MgO = 40 g mol^-1.",
+      "options": [
+        "40 g",
+        "192 g",
+        "24 g",
+        "320 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "192 g of Mg is 8 mol. The equation gives 320 g of MgO.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-029",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For CaO + H2O -> Ca(OH)2, what mass of Ca(OH)2 is obtained from 56 g of CaO? Molar masses: CaO = 56 g mol^-1, Ca(OH)2 = 74 g mol^-1.",
+      "options": [
+        "76 g",
+        "74 g",
+        "56 g",
+        "75 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "56 g of CaO is 1 mol. The equation gives 74 g of Ca(OH)2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-030",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For 2SO2 + O2 -> 2SO3, what mass of SO3 is obtained from 256 g of SO2? Molar masses: SO2 = 64 g mol^-1, SO3 = 80 g mol^-1.",
+      "options": [
+        "256 g",
+        "320 g",
+        "64 g",
+        "80 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "256 g of SO2 is 4 mol. The equation gives 320 g of SO3.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-031",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For C + O2 -> CO2, what mass of C is required to produce 44 g of CO2? Molar masses: C = 12 g mol^-1, CO2 = 44 g mol^-1.",
+      "options": [
+        "12 g",
+        "13 g",
+        "44 g",
+        "14 g"
+      ],
+      "answerIndex": 0,
+      "explanation": "44 g of CO2 is 1 mol. The equation requires 12 g of C.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-032",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For 2H2 + O2 -> 2H2O, what mass of H2 is required to produce 72 g of H2O? Molar masses: H2 = 2 g mol^-1, H2O = 18 g mol^-1.",
+      "options": [
+        "72 g",
+        "2 g",
+        "8 g",
+        "18 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "72 g of H2O is 4 mol. The equation requires 8 g of H2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-033",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For N2 + 3H2 -> 2NH3, what mass of N2 is required to produce 102 g of NH3? Molar masses: N2 = 28 g mol^-1, NH3 = 17 g mol^-1.",
+      "options": [
+        "17 g",
+        "102 g",
+        "84 g",
+        "28 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "102 g of NH3 is 6 mol. The equation requires 84 g of N2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-034",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For S + O2 -> SO2, what mass of S is required to produce 256 g of SO2? Molar masses: S = 32 g mol^-1, SO2 = 64 g mol^-1.",
+      "options": [
+        "256 g",
+        "32 g",
+        "64 g",
+        "128 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "256 g of SO2 is 4 mol. The equation requires 128 g of S.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-035",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For CaCO3 -> CaO + CO2, what mass of CaCO3 is required to produce 44 g of CO2? Molar masses: CaCO3 = 100 g mol^-1, CO2 = 44 g mol^-1.",
+      "options": [
+        "101 g",
+        "44 g",
+        "102 g",
+        "100 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "44 g of CO2 is 1 mol. The equation requires 100 g of CaCO3.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-036",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For 2H2O2 -> 2H2O + O2, what mass of H2O2 is required to produce 64 g of O2? Molar masses: H2O2 = 34 g mol^-1, O2 = 32 g mol^-1.",
+      "options": [
+        "34 g",
+        "32 g",
+        "64 g",
+        "136 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "64 g of O2 is 2 mol. The equation requires 136 g of H2O2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-037",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For CH4 + 2O2 -> CO2 + 2H2O, what mass of CH4 is required to produce 132 g of CO2? Molar masses: CH4 = 16 g mol^-1, CO2 = 44 g mol^-1.",
+      "options": [
+        "132 g",
+        "44 g",
+        "48 g",
+        "16 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "132 g of CO2 is 3 mol. The equation requires 48 g of CH4.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-038",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For 2Mg + O2 -> 2MgO, what mass of Mg is required to produce 320 g of MgO? Molar masses: Mg = 24 g mol^-1, MgO = 40 g mol^-1.",
+      "options": [
+        "40 g",
+        "24 g",
+        "192 g",
+        "320 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "320 g of MgO is 8 mol. The equation requires 192 g of Mg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-039",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For CaO + H2O -> Ca(OH)2, what mass of CaO is required to produce 74 g of Ca(OH)2? Molar masses: CaO = 56 g mol^-1, Ca(OH)2 = 74 g mol^-1.",
+      "options": [
+        "74 g",
+        "58 g",
+        "57 g",
+        "56 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "74 g of Ca(OH)2 is 1 mol. The equation requires 56 g of CaO.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-che-sto-040",
+      "chapterId": "chemistry-stoichiometry",
+      "stem": "For 2SO2 + O2 -> 2SO3, what mass of SO2 is required to produce 320 g of SO3? Molar masses: SO2 = 64 g mol^-1, SO3 = 80 g mol^-1.",
+      "options": [
+        "80 g",
+        "320 g",
+        "64 g",
+        "256 g"
+      ],
+      "answerIndex": 3,
+      "explanation": "320 g of SO3 is 4 mol. The equation requires 256 g of SO2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

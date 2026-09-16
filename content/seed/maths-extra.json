@@ -1,0 +1,4257 @@
+{
+  "subjectId": "maths",
+  "source": {
+    "name": "ASTRA seed set",
+    "license": "Original syllabus-based practice questions"
+  },
+  "questions": [
+    {
+      "id": "mat-mi-001",
+      "chapterId": "maths-mathematical-induction",
+      "stem": "The first step of the principle of mathematical induction is to prove the statement for",
+      "options": [
+        "n = 0",
+        "n = 1",
+        "n = k",
+        "n = k + 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "The base case is usually n = 1 (or the smallest natural number in the statement).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-mi-002",
+      "chapterId": "maths-mathematical-induction",
+      "stem": "In the inductive step we assume the statement is true for n = k and then prove it for",
+      "options": [
+        "n = k - 1",
+        "n = 2k",
+        "n = k + 1",
+        "n = k^2"
+      ],
+      "answerIndex": 2,
+      "explanation": "The inductive step lifts the result from k to k + 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-mi-003",
+      "chapterId": "maths-mathematical-induction",
+      "stem": "The statement 1 + 2 + ... + n = n(n + 1)/2 is proved by induction. The inductive hypothesis is that the formula holds for",
+      "options": [
+        "n = 1 only",
+        "n = k",
+        "n = k + 1",
+        "every even n"
+      ],
+      "answerIndex": 1,
+      "explanation": "We assume the formula for some fixed k and then show it for k + 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-mi-004",
+      "chapterId": "maths-mathematical-induction",
+      "stem": "Which of the following cannot be a base case for induction on the positive integers?",
+      "options": [
+        "n = 1",
+        "n = 2 when the statement starts at 2",
+        "n = 0 when 0 is included",
+        "n = infinity"
+      ],
+      "answerIndex": 3,
+      "explanation": "The base case must be a definite finite starting value.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-mi-005",
+      "chapterId": "maths-mathematical-induction",
+      "stem": "To prove 2^n > n for all n >= 1 by induction, after the base case we must show",
+      "options": [
+        "2^{k+1} > k from 2^k > k",
+        "2^{k+1} > k + 1 from 2^k > k",
+        "2^k > k + 1",
+        "2^{k} > 2k"
+      ],
+      "answerIndex": 1,
+      "explanation": "Need 2^{k+1} = 2(2^k) > 2k, which is at least k + 1 for k >= 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-mi-006",
+      "chapterId": "maths-mathematical-induction",
+      "stem": "Strong induction differs from ordinary induction because the inductive hypothesis assumes the statement for",
+      "options": [
+        "only n = 1",
+        "only n = k",
+        "all m with 1 <= m <= k",
+        "n = k + 2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Strong induction assumes every preceding case, not just k.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-av-001",
+      "chapterId": "maths-addition-of-vectors",
+      "stem": "If a and b are two vectors, then |a + b| = |a| + |b| if and only if a and b are",
+      "options": [
+        "perpendicular",
+        "parallel and like-directed",
+        "equal in magnitude",
+        "opposite"
+      ],
+      "answerIndex": 1,
+      "explanation": "Equality in the triangle inequality holds when the vectors are parallel and in the same sense.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-av-002",
+      "chapterId": "maths-addition-of-vectors",
+      "stem": "The vector i + j + k is a unit vector along",
+      "options": [
+        "the x-axis",
+        "the space diagonal of the unit cube, after dividing by sqrt(3)",
+        "the y-axis",
+        "the xy-plane"
+      ],
+      "answerIndex": 1,
+      "explanation": "|i+j+k| = sqrt(3), so the unit vector is (i+j+k)/sqrt(3).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-av-003",
+      "chapterId": "maths-addition-of-vectors",
+      "stem": "Position vector of the midpoint of A(2i) and B(4j) is",
+      "options": [
+        "2i + 4j",
+        "i + 2j",
+        "2i + 2j",
+        "i + 4j"
+      ],
+      "answerIndex": 1,
+      "explanation": "Midpoint is (OA + OB)/2 = (2i + 4j)/2 = i + 2j.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-av-004",
+      "chapterId": "maths-addition-of-vectors",
+      "stem": "If a + b = c and |a| = |b| = |c|, then the angle between a and b is",
+      "options": [
+        "60 degrees",
+        "90 degrees",
+        "120 degrees",
+        "180 degrees"
+      ],
+      "answerIndex": 2,
+      "explanation": "a + b = c with equal magnitudes forces 120 degrees between a and b.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-av-005",
+      "chapterId": "maths-addition-of-vectors",
+      "stem": "Two vectors are collinear if there exists a scalar k such that",
+      "options": [
+        "a · b = k",
+        "a = k b",
+        "a × b = k",
+        "|a| = k|b| only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Collinear vectors are scalar multiples of each other.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-av-006",
+      "chapterId": "maths-addition-of-vectors",
+      "stem": "The resultant of two vectors of equal magnitude a acting at 60 degrees is",
+      "options": [
+        "a",
+        "a sqrt(2)",
+        "a sqrt(3)",
+        "2a"
+      ],
+      "answerIndex": 2,
+      "explanation": "|R|^2 = a^2 + a^2 + 2a^2 cos 60 = 3a^2, so |R| = a sqrt(3).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-av-007",
+      "chapterId": "maths-addition-of-vectors",
+      "stem": "If a, b, c are coplanar, then one of them can be written as",
+      "options": [
+        "a scalar multiple of another only",
+        "a linear combination of the other two",
+        "their cross product",
+        "their dot product"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three coplanar vectors in 3D are linearly dependent.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-av-008",
+      "chapterId": "maths-addition-of-vectors",
+      "stem": "The unit vector along 3i - 4j is",
+      "options": [
+        "(3i - 4j)/5",
+        "(3i - 4j)/7",
+        "3i - 4j",
+        "(3i - 4j)/12"
+      ],
+      "answerIndex": 0,
+      "explanation": "Magnitude is 5, so divide by 5.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pv-001",
+      "chapterId": "maths-product-of-vectors",
+      "stem": "If a · b = 0 and a, b are nonzero, then a and b are",
+      "options": [
+        "parallel",
+        "perpendicular",
+        "equal",
+        "opposite"
+      ],
+      "answerIndex": 1,
+      "explanation": "A vanishing dot product means the angle is 90 degrees.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pv-002",
+      "chapterId": "maths-product-of-vectors",
+      "stem": "The magnitude of a × b is",
+      "options": [
+        "|a||b| cos theta",
+        "|a||b| sin theta",
+        "|a||b|",
+        "a · b"
+      ],
+      "answerIndex": 1,
+      "explanation": "The cross product magnitude is |a||b| sin theta.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pv-003",
+      "chapterId": "maths-product-of-vectors",
+      "stem": "a × a equals",
+      "options": [
+        "|a|^2",
+        "0",
+        "a",
+        "1"
+      ],
+      "answerIndex": 1,
+      "explanation": "The cross product of a vector with itself is the zero vector.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pv-004",
+      "chapterId": "maths-product-of-vectors",
+      "stem": "If i, j, k are the standard unit vectors, then i × j equals",
+      "options": [
+        "k",
+        "-k",
+        "0",
+        "i"
+      ],
+      "answerIndex": 0,
+      "explanation": "The right-handed triad gives i × j = k.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pv-005",
+      "chapterId": "maths-product-of-vectors",
+      "stem": "The scalar triple product [a b c] = a · (b × c) vanishes if a, b, c are",
+      "options": [
+        "mutually perpendicular",
+        "coplanar",
+        "of equal length",
+        "unit vectors"
+      ],
+      "answerIndex": 1,
+      "explanation": "The parallelepiped volume is zero precisely when the vectors are coplanar.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pv-006",
+      "chapterId": "maths-product-of-vectors",
+      "stem": "a · (b × c) equals",
+      "options": [
+        "(a × b) · c",
+        "a × b × c",
+        "|a||b||c|",
+        "a · b · c"
+      ],
+      "answerIndex": 0,
+      "explanation": "The scalar triple product is invariant under cyclic permutation.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pv-007",
+      "chapterId": "maths-product-of-vectors",
+      "stem": "If |a × b| = a · b and a, b are nonzero, then the angle between them is",
+      "options": [
+        "30 degrees",
+        "45 degrees",
+        "60 degrees",
+        "90 degrees"
+      ],
+      "answerIndex": 1,
+      "explanation": "sin theta = cos theta implies theta = 45 degrees.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pv-008",
+      "chapterId": "maths-product-of-vectors",
+      "stem": "The vector product a × b is perpendicular to",
+      "options": [
+        "a only",
+        "b only",
+        "both a and b",
+        "neither"
+      ],
+      "answerIndex": 2,
+      "explanation": "a × b is orthogonal to the plane of a and b.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-te-001",
+      "chapterId": "maths-trigonometric-equations",
+      "stem": "The general solution of sin theta = 0 is",
+      "options": [
+        "theta = n pi",
+        "theta = 2n pi",
+        "theta = n pi / 2",
+        "theta = (2n + 1) pi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sine vanishes at integer multiples of pi.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-te-002",
+      "chapterId": "maths-trigonometric-equations",
+      "stem": "The general solution of cos theta = 0 is",
+      "options": [
+        "theta = n pi",
+        "theta = (2n + 1) pi / 2",
+        "theta = 2n pi",
+        "theta = n pi / 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cosine vanishes at odd multiples of pi/2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-te-003",
+      "chapterId": "maths-trigonometric-equations",
+      "stem": "The principal solution of tan theta = 1 in (0, pi) is",
+      "options": [
+        "pi / 6",
+        "pi / 4",
+        "pi / 3",
+        "3 pi / 4"
+      ],
+      "answerIndex": 1,
+      "explanation": "tan(pi/4) = 1, and pi/4 lies in (0, pi).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-te-004",
+      "chapterId": "maths-trigonometric-equations",
+      "stem": "Number of solutions of sin x = 1/2 in [0, 2 pi] is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "x = pi/6 and 5pi/6.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-te-005",
+      "chapterId": "maths-trigonometric-equations",
+      "stem": "If sin theta = sin alpha, the general solution is",
+      "options": [
+        "theta = n pi + alpha",
+        "theta = 2n pi + alpha or (2n + 1)pi - alpha",
+        "theta = n pi / 2 + alpha",
+        "theta = alpha only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Standard sine general solution.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-te-006",
+      "chapterId": "maths-trigonometric-equations",
+      "stem": "The equation cos 2theta = 0 is equivalent to",
+      "options": [
+        "theta = n pi / 2",
+        "theta = (2n + 1) pi / 4",
+        "theta = n pi",
+        "theta = 2n pi"
+      ],
+      "answerIndex": 1,
+      "explanation": "2theta = (2n+1)pi/2 so theta = (2n+1)pi/4.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-it-001",
+      "chapterId": "maths-inverse-trigonometric-functions",
+      "stem": "The principal value of sin^{-1}(1/2) is",
+      "options": [
+        "pi / 6",
+        "pi / 3",
+        "pi / 4",
+        "5 pi / 6"
+      ],
+      "answerIndex": 0,
+      "explanation": "Range of sin^{-1} is [-pi/2, pi/2]; sin(pi/6) = 1/2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-it-002",
+      "chapterId": "maths-inverse-trigonometric-functions",
+      "stem": "The range of tan^{-1} x is",
+      "options": [
+        "(0, pi)",
+        "(-pi/2, pi/2)",
+        "[0, pi]",
+        "[-pi, pi]"
+      ],
+      "answerIndex": 1,
+      "explanation": "Principal values of arctan lie in the open interval (-pi/2, pi/2).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-it-003",
+      "chapterId": "maths-inverse-trigonometric-functions",
+      "stem": "sin^{-1} x + cos^{-1} x equals",
+      "options": [
+        "0",
+        "pi / 2",
+        "pi",
+        "x"
+      ],
+      "answerIndex": 1,
+      "explanation": "This identity holds for every x in [-1, 1].",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-it-004",
+      "chapterId": "maths-inverse-trigonometric-functions",
+      "stem": "tan^{-1}(1) + tan^{-1}(1) equals",
+      "options": [
+        "pi / 2",
+        "pi / 4",
+        "pi",
+        "0"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each arctan(1) is pi/4, and the sum is pi/2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-it-005",
+      "chapterId": "maths-inverse-trigonometric-functions",
+      "stem": "The domain of cos^{-1} x is",
+      "options": [
+        "[-1, 1]",
+        "R",
+        "[0, pi]",
+        "(-1, 1)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cosine inverse is defined on the closed interval [-1, 1].",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-it-006",
+      "chapterId": "maths-inverse-trigonometric-functions",
+      "stem": "d/dx (sin^{-1} x) equals",
+      "options": [
+        "1 / sqrt(1 - x^2)",
+        "-1 / sqrt(1 - x^2)",
+        "1 / (1 + x^2)",
+        "sqrt(1 - x^2)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard derivative of arcsin.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hf-001",
+      "chapterId": "maths-hyperbolic-functions",
+      "stem": "sinh x is defined as",
+      "options": [
+        "(e^x + e^{-x})/2",
+        "(e^x - e^{-x})/2",
+        "e^x - e^{-x}",
+        "cos ix"
+      ],
+      "answerIndex": 1,
+      "explanation": "sinh x = (e^x - e^{-x})/2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hf-002",
+      "chapterId": "maths-hyperbolic-functions",
+      "stem": "cosh^2 x - sinh^2 x equals",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2 sinh 2x"
+      ],
+      "answerIndex": 1,
+      "explanation": "The fundamental identity is cosh^2 - sinh^2 = 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hf-003",
+      "chapterId": "maths-hyperbolic-functions",
+      "stem": "The derivative of sinh x is",
+      "options": [
+        "-cosh x",
+        "cosh x",
+        "sech x",
+        "tanh x"
+      ],
+      "answerIndex": 1,
+      "explanation": "d(sinh x)/dx = cosh x.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hf-004",
+      "chapterId": "maths-hyperbolic-functions",
+      "stem": "tanh x equals",
+      "options": [
+        "sinh x / cosh x",
+        "cosh x / sinh x",
+        "e^x",
+        "sech x"
+      ],
+      "answerIndex": 0,
+      "explanation": "By definition tanh = sinh/cosh.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hf-005",
+      "chapterId": "maths-hyperbolic-functions",
+      "stem": "cosh 0 equals",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "1/2"
+      ],
+      "answerIndex": 1,
+      "explanation": "cosh 0 = (1 + 1)/2 = 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hf-006",
+      "chapterId": "maths-hyperbolic-functions",
+      "stem": "sinh(-x) equals",
+      "options": [
+        "sinh x",
+        "-sinh x",
+        "cosh x",
+        "0"
+      ],
+      "answerIndex": 1,
+      "explanation": "sinh is an odd function.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-lo-001",
+      "chapterId": "maths-locus",
+      "stem": "The locus of a point equidistant from two fixed points is",
+      "options": [
+        "a circle",
+        "the perpendicular bisector of the segment joining them",
+        "an ellipse",
+        "a parabola"
+      ],
+      "answerIndex": 1,
+      "explanation": "The set of points equally far from A and B is the perpendicular bisector of AB.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-lo-002",
+      "chapterId": "maths-locus",
+      "stem": "The locus of a point at a fixed distance from a fixed point is",
+      "options": [
+        "a line",
+        "a circle",
+        "a parabola",
+        "a pair of lines"
+      ],
+      "answerIndex": 1,
+      "explanation": "That is the definition of a circle.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-lo-003",
+      "chapterId": "maths-locus",
+      "stem": "If P(x, y) moves so that x^2 + y^2 = 25, the locus is a circle of radius",
+      "options": [
+        "5",
+        "25",
+        "10",
+        "sqrt(25)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard circle centred at the origin with r = 5.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-lo-004",
+      "chapterId": "maths-locus",
+      "stem": "The locus of a point whose distance from a fixed line equals its distance from a fixed point is",
+      "options": [
+        "an ellipse",
+        "a hyperbola",
+        "a parabola",
+        "a circle"
+      ],
+      "answerIndex": 2,
+      "explanation": "Definition of a parabola: equidistant from focus and directrix.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-lo-005",
+      "chapterId": "maths-locus",
+      "stem": "The equation xy = 0 represents",
+      "options": [
+        "a circle",
+        "a pair of coordinate axes",
+        "a parabola",
+        "one line"
+      ],
+      "answerIndex": 1,
+      "explanation": "xy = 0 means x = 0 or y = 0, the two axes.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-lo-006",
+      "chapterId": "maths-locus",
+      "stem": "The locus of P such that PA + PB is constant (greater than AB) is",
+      "options": [
+        "a circle",
+        "an ellipse with foci A, B",
+        "a hyperbola",
+        "a line"
+      ],
+      "answerIndex": 1,
+      "explanation": "Definition of an ellipse.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ta-001",
+      "chapterId": "maths-transformation-of-axes",
+      "stem": "If the origin is shifted to (h, k) without rotation, the new coordinates (x', y') satisfy",
+      "options": [
+        "x = x' + h, y = y' + k",
+        "x = x' - h, y = y' - k",
+        "x = hx', y = ky'",
+        "x' = y, y' = x"
+      ],
+      "answerIndex": 0,
+      "explanation": "Translation: old = new + shift.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ta-002",
+      "chapterId": "maths-transformation-of-axes",
+      "stem": "Rotation of axes through an angle theta (origin fixed) uses",
+      "options": [
+        "x = x' cos theta - y' sin theta",
+        "x = x' + y'",
+        "x = x' / cos theta",
+        "x = y' sin theta"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard rotation formulae.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ta-003",
+      "chapterId": "maths-transformation-of-axes",
+      "stem": "The xy term in a second degree equation can be removed by rotating through theta where",
+      "options": [
+        "tan 2theta = 2h / (a - b)",
+        "tan theta = h/a",
+        "theta = 90 degrees always",
+        "tan 2theta = a/b"
+      ],
+      "answerIndex": 0,
+      "explanation": "The rotation that diagonalises the conic.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ta-004",
+      "chapterId": "maths-transformation-of-axes",
+      "stem": "Shifting the origin to (2, -1) transforms x^2 + y^2 - 4x + 2y = 0 into",
+      "options": [
+        "x'^2 + y'^2 = 5",
+        "x'^2 + y'^2 = 1",
+        "x'^2 + y'^2 = 4",
+        "x'^2 - y'^2 = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "Complete the square: (x-2)^2 + (y+1)^2 = 5.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ta-005",
+      "chapterId": "maths-transformation-of-axes",
+      "stem": "Under a pure translation, the degree of an algebraic curve",
+      "options": [
+        "increases",
+        "decreases",
+        "remains the same",
+        "becomes zero"
+      ],
+      "answerIndex": 2,
+      "explanation": "Translation is an affine change of variables of degree 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ta-006",
+      "chapterId": "maths-transformation-of-axes",
+      "stem": "If axes are rotated by 45 degrees, the line y = x becomes",
+      "options": [
+        "the new x'-axis",
+        "the new y'-axis",
+        "x' = 0",
+        "a circle"
+      ],
+      "answerIndex": 0,
+      "explanation": "y = x is at 45 degrees to the original x-axis, so it coincides with x'.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ps-001",
+      "chapterId": "maths-pair-of-straight-lines",
+      "stem": "The homogeneous equation ax^2 + 2hxy + by^2 = 0 represents a pair of lines through the origin if",
+      "options": [
+        "h^2 = ab",
+        "h^2 >= ab",
+        "h^2 > ab or the factors are real",
+        "a + b = 0"
+      ],
+      "answerIndex": 2,
+      "explanation": "The lines are real and distinct when h^2 > ab; coincident when equal.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ps-002",
+      "chapterId": "maths-pair-of-straight-lines",
+      "stem": "The angle theta between the pair ax^2 + 2hxy + by^2 = 0 satisfies",
+      "options": [
+        "tan theta = 2 sqrt(h^2 - ab) / (a + b)",
+        "tan theta = h / ab",
+        "theta = 90 always",
+        "cos theta = a/b"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard formula for the angle between the pair.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ps-003",
+      "chapterId": "maths-pair-of-straight-lines",
+      "stem": "The pair of lines is perpendicular if",
+      "options": [
+        "a + b = 0",
+        "h = 0",
+        "ab = h^2",
+        "a = b"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sum of coefficients of x^2 and y^2 vanishes.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ps-004",
+      "chapterId": "maths-pair-of-straight-lines",
+      "stem": "x^2 - y^2 = 0 represents",
+      "options": [
+        "x = y only",
+        "the pair x = y and x = -y",
+        "a circle",
+        "a parabola"
+      ],
+      "answerIndex": 1,
+      "explanation": "Difference of squares factors as (x - y)(x + y).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ps-005",
+      "chapterId": "maths-pair-of-straight-lines",
+      "stem": "The combined equation of the coordinate axes is",
+      "options": [
+        "x^2 + y^2 = 0",
+        "xy = 0",
+        "x + y = 0",
+        "x^2 = y^2"
+      ],
+      "answerIndex": 1,
+      "explanation": "xy = 0 is the pair of axes.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ps-006",
+      "chapterId": "maths-pair-of-straight-lines",
+      "stem": "If the pair ax^2 + 2hxy + by^2 = 0 represents coincident lines, then",
+      "options": [
+        "h^2 = ab",
+        "h^2 > ab",
+        "a + b = 1",
+        "h = 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Discriminant zero means a repeated linear factor.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-3d-001",
+      "chapterId": "maths-three-dimensional-coordinates",
+      "stem": "The distance between A(1, 2, 3) and B(1, 2, 7) is",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 1,
+      "explanation": "Only the z-coordinate changes by 4.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-3d-002",
+      "chapterId": "maths-three-dimensional-coordinates",
+      "stem": "The midpoint of (2, 0, -4) and (0, 4, 2) is",
+      "options": [
+        "(1, 2, -1)",
+        "(2, 4, -2)",
+        "(1, 2, 1)",
+        "(0, 0, 0)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Average the coordinates.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-3d-003",
+      "chapterId": "maths-three-dimensional-coordinates",
+      "stem": "The octant in which (1, -2, 3) lies is the one with signs",
+      "options": [
+        "+, +, +",
+        "+, -, +",
+        "-, -, +",
+        "+, +, -"
+      ],
+      "answerIndex": 1,
+      "explanation": "x positive, y negative, z positive.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-3d-004",
+      "chapterId": "maths-three-dimensional-coordinates",
+      "stem": "The equation of the xy-plane is",
+      "options": [
+        "z = 0",
+        "x = 0",
+        "y = 0",
+        "x + y = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "Every point of the xy-plane has z = 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-3d-005",
+      "chapterId": "maths-three-dimensional-coordinates",
+      "stem": "The section formula internally dividing A(x1,y1,z1), B(x2,y2,z2) in m : n has x-coordinate",
+      "options": [
+        "(m x2 + n x1)/(m + n)",
+        "(m x1 + n x2)/(m + n)",
+        "(x1 + x2)/2 always",
+        "m x1 - n x2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Weighted average with the opposite segment's weight.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-3d-006",
+      "chapterId": "maths-three-dimensional-coordinates",
+      "stem": "Distance of the point (a, b, c) from the origin is",
+      "options": [
+        "a + b + c",
+        "sqrt(a^2 + b^2 + c^2)",
+        "abc",
+        "|a| + |b| + |c|"
+      ],
+      "answerIndex": 1,
+      "explanation": "3D Pythagoras.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dc-001",
+      "chapterId": "maths-direction-cosines-and-direction-ratios",
+      "stem": "If l, m, n are direction cosines of a line, then",
+      "options": [
+        "l + m + n = 1",
+        "l^2 + m^2 + n^2 = 1",
+        "lmn = 1",
+        "l^2 + m^2 = n^2"
+      ],
+      "answerIndex": 1,
+      "explanation": "The direction cosines are components of a unit vector.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dc-002",
+      "chapterId": "maths-direction-cosines-and-direction-ratios",
+      "stem": "Direction ratios 2, 3, 6 correspond to direction cosines",
+      "options": [
+        "2/7, 3/7, 6/7",
+        "2, 3, 6",
+        "2/11, 3/11, 6/11",
+        "1, 1, 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Divide by sqrt(4+9+36) = 7.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dc-003",
+      "chapterId": "maths-direction-cosines-and-direction-ratios",
+      "stem": "The direction cosines of the x-axis are",
+      "options": [
+        "1, 0, 0",
+        "0, 1, 0",
+        "0, 0, 1",
+        "1, 1, 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "The x-axis makes angle 0 with itself and 90 with the others.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dc-004",
+      "chapterId": "maths-direction-cosines-and-direction-ratios",
+      "stem": "Two lines with DCs (l1,m1,n1) and (l2,m2,n2) are perpendicular if",
+      "options": [
+        "l1 l2 + m1 m2 + n1 n2 = 0",
+        "l1/l2 = m1/m2",
+        "l1 = l2",
+        "sum of DCs is 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dot product of the unit direction vectors vanishes.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dc-005",
+      "chapterId": "maths-direction-cosines-and-direction-ratios",
+      "stem": "Direction ratios of the line joining (1, 2, 3) and (3, 5, 7) are",
+      "options": [
+        "2, 3, 4",
+        "1, 2, 3",
+        "3, 5, 7",
+        "4, 7, 10"
+      ],
+      "answerIndex": 0,
+      "explanation": "Differences of coordinates.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dc-006",
+      "chapterId": "maths-direction-cosines-and-direction-ratios",
+      "stem": "If a line makes equal angles with the axes, a set of DCs is",
+      "options": [
+        "1, 1, 1",
+        "1/sqrt(3), 1/sqrt(3), 1/sqrt(3)",
+        "1/2, 1/2, 1/2",
+        "0, 0, 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three equal direction cosines whose squares sum to 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pl-001",
+      "chapterId": "maths-the-plane",
+      "stem": "The cartesian equation of a plane is of the form",
+      "options": [
+        "ax + by + cz + d = 0",
+        "x^2 + y^2 + z^2 = r^2",
+        "x/a + y/b = 1 only",
+        "ax = by"
+      ],
+      "answerIndex": 0,
+      "explanation": "A linear equation in x, y, z represents a plane.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pl-002",
+      "chapterId": "maths-the-plane",
+      "stem": "A normal vector to the plane 2x - y + 2z = 3 is",
+      "options": [
+        "(2, -1, 2)",
+        "(1, 1, 1)",
+        "(2, 1, 2)",
+        "(3, 0, 0)"
+      ],
+      "answerIndex": 0,
+      "explanation": "The coefficients of x, y, z are the normal.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pl-003",
+      "chapterId": "maths-the-plane",
+      "stem": "The intercept form of a plane with intercepts a, b, c on the axes is",
+      "options": [
+        "x/a + y/b + z/c = 1",
+        "ax + by + cz = 1",
+        "x + y + z = abc",
+        "xyz = abc"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard intercept form.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pl-004",
+      "chapterId": "maths-the-plane",
+      "stem": "Distance of (0, 0, 0) from the plane x + 2y + 2z - 6 = 0 is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "answerIndex": 1,
+      "explanation": "|0+0+0-6| / sqrt(1+4+4) = 6/3 = 2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pl-005",
+      "chapterId": "maths-the-plane",
+      "stem": "Two planes a1x+b1y+c1z+d1=0 and a2x+b2y+c2z+d2=0 are parallel if their normals are",
+      "options": [
+        "perpendicular",
+        "scalar multiples",
+        "equal to (1,1,1)",
+        "zero"
+      ],
+      "answerIndex": 1,
+      "explanation": "Parallel planes have parallel normals.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pl-006",
+      "chapterId": "maths-the-plane",
+      "stem": "The xy-plane has equation",
+      "options": [
+        "z = 0",
+        "x = 0",
+        "y = 0",
+        "x + y + z = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "Same as the 3D-coordinates fact, now as a plane.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dm-001",
+      "chapterId": "maths-de-moivre-s-theorem",
+      "stem": "De Moivre's theorem states that (cos theta + i sin theta)^n equals",
+      "options": [
+        "cos(n theta) + i sin(n theta)",
+        "cos theta^n + i sin theta^n",
+        "n(cos theta + i sin theta)",
+        "e^{i theta}"
+      ],
+      "answerIndex": 0,
+      "explanation": "The standard statement for integer n, and it extends to real n.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dm-002",
+      "chapterId": "maths-de-moivre-s-theorem",
+      "stem": "The cube roots of unity are 1, omega, omega^2 where omega satisfies",
+      "options": [
+        "omega^2 + omega + 1 = 0",
+        "omega = 1",
+        "omega^2 = 1",
+        "omega + 1 = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "The cyclotomic relation 1 + omega + omega^2 = 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dm-003",
+      "chapterId": "maths-de-moivre-s-theorem",
+      "stem": "omega^3 equals, for a primitive cube root of unity,",
+      "options": [
+        "0",
+        "1",
+        "omega",
+        "-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "By definition omega^3 = 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dm-004",
+      "chapterId": "maths-de-moivre-s-theorem",
+      "stem": "The n nth roots of a nonzero complex number lie on",
+      "options": [
+        "a straight line",
+        "a circle centred at the origin",
+        "an ellipse",
+        "the real axis only"
+      ],
+      "answerIndex": 1,
+      "explanation": "They have equal modulus |z|^{1/n}.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dm-005",
+      "chapterId": "maths-de-moivre-s-theorem",
+      "stem": "cis theta · cis phi equals",
+      "options": [
+        "cis(theta + phi)",
+        "cis(theta phi)",
+        "cis(theta - phi)",
+        "cis theta + cis phi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Arguments add under multiplication.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-dm-006",
+      "chapterId": "maths-de-moivre-s-theorem",
+      "stem": "If z = cis(2 pi / n), then 1 + z + z^2 + ... + z^{n-1} equals",
+      "options": [
+        "n",
+        "0",
+        "1",
+        "z"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sum of all nth roots of unity is zero for n > 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-qe-001",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The roots of ax^2 + bx + c = 0 are real and distinct if",
+      "options": [
+        "D > 0",
+        "D = 0",
+        "D < 0",
+        "a = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "Discriminant D = b^2 - 4ac.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-qe-002",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "For ax^2 + bx + c = 0, the sum of roots is",
+      "options": [
+        "c/a",
+        "-b/a",
+        "b/a",
+        "-c/a"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vieta: sum = -b/a.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-qe-003",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The product of the roots is",
+      "options": [
+        "-b/a",
+        "c/a",
+        "b/c",
+        "-c/a"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vieta: product = c/a.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-qe-004",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The quadratic x^2 - 5x + 6 = 0 has roots",
+      "options": [
+        "2 and 3",
+        "1 and 6",
+        "-2 and -3",
+        "5 and 6"
+      ],
+      "answerIndex": 0,
+      "explanation": "Factors as (x-2)(x-3).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-qe-005",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "If the roots are equal, the quadratic is a perfect square when a > 0 and",
+      "options": [
+        "D = 0",
+        "D > 0",
+        "c = 0",
+        "b = 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Repeated root iff D = 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-qe-006",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "The expression ax^2 + bx + c is always positive for all real x if",
+      "options": [
+        "a > 0 and D < 0",
+        "a < 0 and D < 0",
+        "D > 0",
+        "a = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "The parabola opens up and never meets the x-axis.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-qe-007",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "A quadratic equation cannot have",
+      "options": [
+        "two real roots",
+        "two complex conjugate roots",
+        "three distinct real roots",
+        "a repeated root"
+      ],
+      "answerIndex": 2,
+      "explanation": "Degree 2 allows at most two roots.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-qe-008",
+      "chapterId": "maths-quadratic-expressions",
+      "stem": "If one root of x^2 - 3x + k = 0 is 1, then k equals",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "1 - 3 + k = 0 so k = 2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-th-001",
+      "chapterId": "maths-theory-of-equations",
+      "stem": "A polynomial equation of degree n has, counting multiplicity over the complex numbers,",
+      "options": [
+        "n roots",
+        "n - 1 roots",
+        "2n roots",
+        "infinitely many roots"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fundamental theorem of algebra.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-th-002",
+      "chapterId": "maths-theory-of-equations",
+      "stem": "For the cubic x^3 + p x^2 + q x + r = 0, the sum of roots is",
+      "options": [
+        "-p",
+        "p",
+        "-q",
+        "r"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vieta for monic cubic: sum = -coefficient of x^2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-th-003",
+      "chapterId": "maths-theory-of-equations",
+      "stem": "If all coefficients of a polynomial with real coefficients are real, complex roots appear in",
+      "options": [
+        "triples",
+        "conjugate pairs",
+        "single copies only",
+        "quadruplets"
+      ],
+      "answerIndex": 1,
+      "explanation": "Non-real roots come in conjugate pairs.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-th-004",
+      "chapterId": "maths-theory-of-equations",
+      "stem": "Descartes' rule of signs gives",
+      "options": [
+        "the exact number of positive roots",
+        "an upper bound on the number of positive real roots",
+        "the product of roots",
+        "the discriminant"
+      ],
+      "answerIndex": 1,
+      "explanation": "The number of sign changes bounds the number of positive roots.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-th-005",
+      "chapterId": "maths-theory-of-equations",
+      "stem": "If (x - 1) is a factor of x^3 - 6x^2 + 11x - 6, then a root is",
+      "options": [
+        "0",
+        "1",
+        "6",
+        "-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "Factor theorem: f(1) = 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-th-006",
+      "chapterId": "maths-theory-of-equations",
+      "stem": "The equation x^3 = 1 has",
+      "options": [
+        "one real root only",
+        "three real roots",
+        "one real and two complex cube roots of unity",
+        "no real root"
+      ],
+      "answerIndex": 2,
+      "explanation": "1 is real; omega and omega^2 are complex.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-bt-001",
+      "chapterId": "maths-binomial-theorem",
+      "stem": "The expansion of (1 + x)^n has number of terms",
+      "options": [
+        "n",
+        "n + 1",
+        "2n",
+        "n - 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "Terms from r = 0 to r = n.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-bt-002",
+      "chapterId": "maths-binomial-theorem",
+      "stem": "The general term in (a + b)^n is",
+      "options": [
+        "C(n, r) a^{n-r} b^r",
+        "n! a^n b^n",
+        "a^n + b^n",
+        "C(n, r) a^r b^r"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard binomial general term.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-bt-003",
+      "chapterId": "maths-binomial-theorem",
+      "stem": "The middle term in the expansion of (x + y)^6 is the",
+      "options": [
+        "3rd term",
+        "4th term",
+        "5th term",
+        "6th term"
+      ],
+      "answerIndex": 1,
+      "explanation": "n = 6 even, one middle term T_{4} (r = 3).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-bt-004",
+      "chapterId": "maths-binomial-theorem",
+      "stem": "C(n, 0) + C(n, 1) + ... + C(n, n) equals",
+      "options": [
+        "n",
+        "2^n",
+        "n!",
+        "n^2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Put x = 1 in (1 + x)^n.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-bt-005",
+      "chapterId": "maths-binomial-theorem",
+      "stem": "The coefficient of x^2 in (1 + x)^5 is",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answerIndex": 1,
+      "explanation": "C(5, 2) = 10.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-bt-006",
+      "chapterId": "maths-binomial-theorem",
+      "stem": "C(n, r) = C(n, n - r) is called",
+      "options": [
+        "Pascal's identity",
+        "the symmetry property of binomial coefficients",
+        "the binomial theorem",
+        "Vieta's formula"
+      ],
+      "answerIndex": 1,
+      "explanation": "Choosing r is the same as leaving out n - r.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-bt-007",
+      "chapterId": "maths-binomial-theorem",
+      "stem": "Pascal's identity states C(n, r) equals",
+      "options": [
+        "C(n-1, r) + C(n-1, r-1)",
+        "C(n, r-1) + C(n, r+1)",
+        "n C(n, r)",
+        "C(n+1, r)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pascal's triangle recurrence.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-bt-008",
+      "chapterId": "maths-binomial-theorem",
+      "stem": "(1 - x)^{-1} expanded for |x| < 1 begins",
+      "options": [
+        "1 + x + x^2 + ...",
+        "1 - x + x^2 - ...",
+        "1 + 2x + 3x^2 + ...",
+        "1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Geometric series.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pf-001",
+      "chapterId": "maths-partial-fractions",
+      "stem": "The proper fraction 1 / ((x-1)(x-2)) decomposes as",
+      "options": [
+        "A/(x-1) + B/(x-2)",
+        "A x + B",
+        "A/(x-1)^2",
+        "A + B x"
+      ],
+      "answerIndex": 0,
+      "explanation": "Distinct linear factors give simple partial fractions.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pf-002",
+      "chapterId": "maths-partial-fractions",
+      "stem": "If a quadratic factor x^2 + 1 is irreducible, it contributes a term of the form",
+      "options": [
+        "A / (x^2 + 1)",
+        "(Ax + B) / (x^2 + 1)",
+        "A / x",
+        "A x^2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Irreducible quadratic gets a linear numerator.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pf-003",
+      "chapterId": "maths-partial-fractions",
+      "stem": "A repeated linear factor (x - a)^2 contributes",
+      "options": [
+        "A/(x-a) only",
+        "A/(x-a) + B/(x-a)^2",
+        "A x + B",
+        "A/(x-a)^3 only"
+      ],
+      "answerIndex": 1,
+      "explanation": "One term for each power up to the multiplicity.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pf-004",
+      "chapterId": "maths-partial-fractions",
+      "stem": "1 / (x(x+1)) = A/x + B/(x+1). Then A equals",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cover-up: A = 1/(0+1) = 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pf-005",
+      "chapterId": "maths-partial-fractions",
+      "stem": "Partial fractions are used mainly to",
+      "options": [
+        "factor integers",
+        "integrate rational functions term by term",
+        "solve quadratic equations",
+        "find determinants"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each simple term integrates in closed form.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pf-006",
+      "chapterId": "maths-partial-fractions",
+      "stem": "A fraction is proper if the degree of the numerator is",
+      "options": [
+        "greater than the denominator",
+        "equal to the denominator",
+        "less than the degree of the denominator",
+        "zero"
+      ],
+      "answerIndex": 2,
+      "explanation": "Otherwise divide first.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-md-001",
+      "chapterId": "maths-measures-of-dispersion",
+      "stem": "The variance of a constant data set is",
+      "options": [
+        "the constant",
+        "0",
+        "1",
+        "undefined"
+      ],
+      "answerIndex": 1,
+      "explanation": "There is no spread.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-md-002",
+      "chapterId": "maths-measures-of-dispersion",
+      "stem": "Standard deviation is the",
+      "options": [
+        "square of the variance",
+        "positive square root of the variance",
+        "mean deviation always",
+        "range"
+      ],
+      "answerIndex": 1,
+      "explanation": "SD = sqrt(variance).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-md-003",
+      "chapterId": "maths-measures-of-dispersion",
+      "stem": "If every observation is increased by 5, the variance",
+      "options": [
+        "increases by 5",
+        "increases by 25",
+        "remains the same",
+        "becomes zero"
+      ],
+      "answerIndex": 2,
+      "explanation": "Adding a constant shifts the mean but not the spread.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-md-004",
+      "chapterId": "maths-measures-of-dispersion",
+      "stem": "If every observation is multiplied by 2, the standard deviation is multiplied by",
+      "options": [
+        "2",
+        "4",
+        "1/2",
+        "0"
+      ],
+      "answerIndex": 0,
+      "explanation": "SD scales with the absolute value of the multiplier.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-md-005",
+      "chapterId": "maths-measures-of-dispersion",
+      "stem": "The coefficient of variation is",
+      "options": [
+        "SD / mean × 100%",
+        "mean / SD",
+        "variance / mean",
+        "range / mean"
+      ],
+      "answerIndex": 0,
+      "explanation": "A dimensionless relative-dispersion measure.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-md-006",
+      "chapterId": "maths-measures-of-dispersion",
+      "stem": "Mean deviation from the mean is always",
+      "options": [
+        "greater than the SD",
+        "less than or equal to the SD",
+        "equal to the variance",
+        "negative"
+      ],
+      "answerIndex": 1,
+      "explanation": "SD penalises large deviations more (squares).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sc-001",
+      "chapterId": "maths-system-of-circles",
+      "stem": "The equation S + k S' = 0 represents",
+      "options": [
+        "a pair of tangents",
+        "a family of circles through the intersection points of S = 0 and S' = 0",
+        "a parabola",
+        "a straight line always"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pencil of circles through the common points.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sc-002",
+      "chapterId": "maths-system-of-circles",
+      "stem": "The radical axis of two circles is",
+      "options": [
+        "a circle",
+        "a straight line",
+        "a point",
+        "an ellipse"
+      ],
+      "answerIndex": 1,
+      "explanation": "S - S' = 0 is linear.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sc-003",
+      "chapterId": "maths-system-of-circles",
+      "stem": "Two circles touch orthogonally if",
+      "options": [
+        "d^2 = r1^2 + r2^2",
+        "d = r1 + r2",
+        "d = |r1 - r2|",
+        "d = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "The tangents at the intersection are perpendicular.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sc-004",
+      "chapterId": "maths-system-of-circles",
+      "stem": "The common chord of two intersecting circles is along their",
+      "options": [
+        "line of centres",
+        "radical axis",
+        "common tangent",
+        "diameter"
+      ],
+      "answerIndex": 1,
+      "explanation": "The radical axis is the common chord when they intersect.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sc-005",
+      "chapterId": "maths-system-of-circles",
+      "stem": "A system of coaxial circles has",
+      "options": [
+        "the same centre",
+        "a common radical axis",
+        "equal radii",
+        "no radical axis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Definition of a coaxial family.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sc-006",
+      "chapterId": "maths-system-of-circles",
+      "stem": "The limiting points of a coaxial system are points which",
+      "options": [
+        "lie on every circle of the system",
+        "may be regarded as point circles of the system",
+        "are the centres",
+        "are at infinity only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Point circles in the coaxial family.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pa-001",
+      "chapterId": "maths-parabola",
+      "stem": "The standard parabola y^2 = 4ax has focus",
+      "options": [
+        "(a, 0)",
+        "(0, a)",
+        "(2a, 0)",
+        "(0, 0)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Focus is (a, 0).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pa-002",
+      "chapterId": "maths-parabola",
+      "stem": "The directrix of y^2 = 4ax is",
+      "options": [
+        "x = a",
+        "x = -a",
+        "y = a",
+        "x = 0"
+      ],
+      "answerIndex": 1,
+      "explanation": "Directrix x + a = 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pa-003",
+      "chapterId": "maths-parabola",
+      "stem": "The latus rectum of y^2 = 4ax has length",
+      "options": [
+        "a",
+        "2a",
+        "4a",
+        "a/2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Length of latus rectum is 4a.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pa-004",
+      "chapterId": "maths-parabola",
+      "stem": "Parametric points on y^2 = 4ax are",
+      "options": [
+        "(at^2, 2at)",
+        "(a cos t, a sin t)",
+        "(at, at^2)",
+        "(t, t^2)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard parametric form.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pa-005",
+      "chapterId": "maths-parabola",
+      "stem": "The vertex of y^2 = 4ax is",
+      "options": [
+        "(a, 0)",
+        "(0, 0)",
+        "(-a, 0)",
+        "(0, a)"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vertex at the origin.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pa-006",
+      "chapterId": "maths-parabola",
+      "stem": "The axis of y^2 = 4ax is",
+      "options": [
+        "the y-axis",
+        "the x-axis",
+        "y = x",
+        "x = a"
+      ],
+      "answerIndex": 1,
+      "explanation": "Axis is the x-axis.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pa-007",
+      "chapterId": "maths-parabola",
+      "stem": "Eccentricity of a parabola is",
+      "options": [
+        "0",
+        "1",
+        "less than 1",
+        "greater than 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "By definition e = 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pa-008",
+      "chapterId": "maths-parabola",
+      "stem": "The tangent at (at^2, 2at) to y^2 = 4ax is",
+      "options": [
+        "ty = x + a t^2",
+        "y = tx + a/t",
+        "x = ty",
+        "y = 4ax"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard tangent ty = x + a t^2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-el-001",
+      "chapterId": "maths-ellipse",
+      "stem": "The standard ellipse x^2/a^2 + y^2/b^2 = 1 with a > b has foci",
+      "options": [
+        "(ae, 0) and (-ae, 0)",
+        "(0, ae)",
+        "(a, b)",
+        "(0, 0)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Foci lie on the major axis.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-el-002",
+      "chapterId": "maths-ellipse",
+      "stem": "For an ellipse, eccentricity e satisfies",
+      "options": [
+        "e = 0",
+        "0 < e < 1",
+        "e = 1",
+        "e > 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ellipse: e strictly between 0 and 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-el-003",
+      "chapterId": "maths-ellipse",
+      "stem": "The relation b^2 = a^2(1 - e^2) holds for",
+      "options": [
+        "a hyperbola",
+        "an ellipse with major axis 2a",
+        "a parabola",
+        "a circle only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Standard identity.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-el-004",
+      "chapterId": "maths-ellipse",
+      "stem": "The length of the latus rectum of the ellipse is",
+      "options": [
+        "2b^2 / a",
+        "2a",
+        "2b",
+        "ae"
+      ],
+      "answerIndex": 0,
+      "explanation": "Latus rectum = 2b^2/a.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-el-005",
+      "chapterId": "maths-ellipse",
+      "stem": "If a = b, the ellipse becomes",
+      "options": [
+        "a parabola",
+        "a circle",
+        "a hyperbola",
+        "a line"
+      ],
+      "answerIndex": 1,
+      "explanation": "Equal axes give a circle, e = 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-el-006",
+      "chapterId": "maths-ellipse",
+      "stem": "Sum of focal distances of any point on the ellipse is",
+      "options": [
+        "2a",
+        "2b",
+        "2ae",
+        "a + b"
+      ],
+      "answerIndex": 0,
+      "explanation": "PF1 + PF2 = 2a.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-el-007",
+      "chapterId": "maths-ellipse",
+      "stem": "The auxiliary circle of the ellipse is",
+      "options": [
+        "x^2 + y^2 = b^2",
+        "x^2 + y^2 = a^2",
+        "x^2/a^2 - y^2/b^2 = 1",
+        "the directrix"
+      ],
+      "answerIndex": 1,
+      "explanation": "Circle on the major axis as diameter.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-el-008",
+      "chapterId": "maths-ellipse",
+      "stem": "Parametric coordinates on the ellipse are",
+      "options": [
+        "(a cos theta, b sin theta)",
+        "(a t^2, 2at)",
+        "(ae, 0)",
+        "(a sec theta, b tan theta)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Eccentric angle theta.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hy-001",
+      "chapterId": "maths-hyperbola",
+      "stem": "The standard hyperbola x^2/a^2 - y^2/b^2 = 1 has eccentricity",
+      "options": [
+        "e < 1",
+        "e = 1",
+        "e > 1",
+        "e = 0"
+      ],
+      "answerIndex": 2,
+      "explanation": "Hyperbola: e > 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hy-002",
+      "chapterId": "maths-hyperbola",
+      "stem": "Asymptotes of x^2/a^2 - y^2/b^2 = 1 are",
+      "options": [
+        "y = ± (b/a) x",
+        "y = ± (a/b) x",
+        "x = ± a",
+        "y = ± b"
+      ],
+      "answerIndex": 0,
+      "explanation": "The pair y = ±(b/a)x.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hy-003",
+      "chapterId": "maths-hyperbola",
+      "stem": "b^2 = a^2(e^2 - 1) holds for",
+      "options": [
+        "an ellipse",
+        "a hyperbola",
+        "a parabola",
+        "a circle"
+      ],
+      "answerIndex": 1,
+      "explanation": "Standard identity for the hyperbola.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hy-004",
+      "chapterId": "maths-hyperbola",
+      "stem": "A rectangular hyperbola satisfies",
+      "options": [
+        "a = b",
+        "e = sqrt(2)",
+        "both of the above",
+        "e = 0"
+      ],
+      "answerIndex": 2,
+      "explanation": "a = b implies e = sqrt(2).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hy-005",
+      "chapterId": "maths-hyperbola",
+      "stem": "Difference of focal distances of a point on the hyperbola is",
+      "options": [
+        "2a",
+        "2b",
+        "2ae",
+        "0"
+      ],
+      "answerIndex": 0,
+      "explanation": "|PF1 - PF2| = 2a.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-hy-006",
+      "chapterId": "maths-hyperbola",
+      "stem": "The conjugate hyperbola of x^2/a^2 - y^2/b^2 = 1 is",
+      "options": [
+        "x^2/a^2 + y^2/b^2 = 1",
+        "y^2/b^2 - x^2/a^2 = 1",
+        "xy = c^2",
+        "x^2 + y^2 = a^2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Axes interchanged in the minus sign.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-in-001",
+      "chapterId": "maths-integration",
+      "stem": "The integral of x^n (n ≠ -1) is",
+      "options": [
+        "x^{n+1} / (n+1) + C",
+        "n x^{n-1}",
+        "x^n / n",
+        "log x"
+      ],
+      "answerIndex": 0,
+      "explanation": "Power rule for antiderivatives.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-in-002",
+      "chapterId": "maths-integration",
+      "stem": "The integral of 1/x is",
+      "options": [
+        "x^2 / 2",
+        "log |x| + C",
+        "1/x^2",
+        "e^x"
+      ],
+      "answerIndex": 1,
+      "explanation": "Natural logarithm.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-in-003",
+      "chapterId": "maths-integration",
+      "stem": "The integral of e^x is",
+      "options": [
+        "e^x + C",
+        "x e^x",
+        "1/e^x",
+        "e^{x^2}"
+      ],
+      "answerIndex": 0,
+      "explanation": "Exponential is its own antiderivative.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-in-004",
+      "chapterId": "maths-integration",
+      "stem": "The integral of cos x is",
+      "options": [
+        "sin x + C",
+        "-sin x + C",
+        "cos x",
+        "-cos x"
+      ],
+      "answerIndex": 0,
+      "explanation": "d(sin x)/dx = cos x.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-in-005",
+      "chapterId": "maths-integration",
+      "stem": "The integral of sin x is",
+      "options": [
+        "cos x + C",
+        "-cos x + C",
+        "sin x",
+        "tan x"
+      ],
+      "answerIndex": 1,
+      "explanation": "d(-cos x)/dx = sin x.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-in-006",
+      "chapterId": "maths-integration",
+      "stem": "Integration by parts is based on",
+      "options": [
+        "the product rule",
+        "the chain rule",
+        "L'Hospital's rule",
+        "the binomial theorem"
+      ],
+      "answerIndex": 0,
+      "explanation": "∫ u dv = uv - ∫ v du.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-in-007",
+      "chapterId": "maths-integration",
+      "stem": "∫ 1 / (1 + x^2) dx equals",
+      "options": [
+        "tan^{-1} x + C",
+        "log(1+x^2)",
+        "sin^{-1} x",
+        "x / (1+x^2)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard inverse-tangent integral.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-in-008",
+      "chapterId": "maths-integration",
+      "stem": "∫ 1 / sqrt(1 - x^2) dx equals",
+      "options": [
+        "sin^{-1} x + C",
+        "tan^{-1} x",
+        "log|x|",
+        "sec^{-1} x"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard inverse-sine integral.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ci-002",
+      "chapterId": "maths-circle",
+      "stem": "The equation x^2 + y^2 + 2gx + 2fy + c = 0 represents a circle with centre",
+      "options": [
+        "(-g, -f)",
+        "(g, f)",
+        "(c, 0)",
+        "(0, 0)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Complete the square: centre (-g, -f).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ci-003",
+      "chapterId": "maths-circle",
+      "stem": "The radius of x^2 + y^2 + 2gx + 2fy + c = 0 is",
+      "options": [
+        "sqrt(g^2 + f^2 - c)",
+        "g + f - c",
+        "sqrt(c)",
+        "g^2 + f^2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard formula, requiring g^2 + f^2 - c > 0.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ci-004",
+      "chapterId": "maths-circle",
+      "stem": "The circle x^2 + y^2 = a^2 has radius",
+      "options": [
+        "a",
+        "a^2",
+        "2a",
+        "sqrt(a)"
+      ],
+      "answerIndex": 0,
+      "explanation": "Centre origin, radius a.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-ci-005",
+      "chapterId": "maths-circle",
+      "stem": "The tangent at (x1, y1) to x^2 + y^2 = a^2 is",
+      "options": [
+        "x x1 + y y1 = a^2",
+        "x / x1 + y / y1 = a^2",
+        "y - y1 = m(x - x1)",
+        "x + y = a"
+      ],
+      "answerIndex": 0,
+      "explanation": "T = 0 form.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-de-002",
+      "chapterId": "maths-differential-equations",
+      "stem": "The order of d^2 y / dx^2 + (dy/dx)^3 = 0 is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answerIndex": 1,
+      "explanation": "The highest derivative is the second.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-de-003",
+      "chapterId": "maths-differential-equations",
+      "stem": "The degree of (dy/dx)^2 + y = 0, after it is polynomial in the derivatives, is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answerIndex": 1,
+      "explanation": "The highest power of the highest-order derivative is 2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-de-004",
+      "chapterId": "maths-differential-equations",
+      "stem": "The general solution of dy/dx = k (k constant) is",
+      "options": [
+        "y = kx + C",
+        "y = k",
+        "y = e^{kx}",
+        "y = C / x"
+      ],
+      "answerIndex": 0,
+      "explanation": "Direct integration.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-de-005",
+      "chapterId": "maths-differential-equations",
+      "stem": "A linear first-order equation can be written as",
+      "options": [
+        "dy/dx + P y = Q",
+        "y'' + y = 0 only",
+        "y^2 = x",
+        "d^2 y / dx^2 = 0 only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard linear form.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sl-003",
+      "chapterId": "maths-the-straight-line",
+      "stem": "The slope of the line joining (1, 2) and (3, 6) is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = (6-2)/(3-1) = 2.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sl-004",
+      "chapterId": "maths-the-straight-line",
+      "stem": "Two lines with slopes m1, m2 are perpendicular if",
+      "options": [
+        "m1 m2 = -1",
+        "m1 = m2",
+        "m1 m2 = 1",
+        "m1 + m2 = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "Product of slopes is -1 (neither vertical).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sl-005",
+      "chapterId": "maths-the-straight-line",
+      "stem": "The intercept form of a line is",
+      "options": [
+        "x/a + y/b = 1",
+        "y = mx",
+        "x = 0",
+        "ax + by + c = 0 only"
+      ],
+      "answerIndex": 0,
+      "explanation": "a, b are intercepts on the axes.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-sl-006",
+      "chapterId": "maths-the-straight-line",
+      "stem": "The distance from (x1, y1) to ax + by + c = 0 is",
+      "options": [
+        "|ax1 + by1 + c| / sqrt(a^2 + b^2)",
+        "ax1 + by1 + c",
+        "sqrt(x1^2 + y1^2)",
+        "c / a"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard point-to-line formula.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-di-003",
+      "chapterId": "maths-definite-integrals",
+      "stem": "∫_0^1 1 dx equals",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "1/2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Length of the interval.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-di-004",
+      "chapterId": "maths-definite-integrals",
+      "stem": "∫_0^{pi/2} sin x dx equals",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "pi/2"
+      ],
+      "answerIndex": 1,
+      "explanation": "[-cos x]_0^{pi/2} = 1.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-di-005",
+      "chapterId": "maths-definite-integrals",
+      "stem": "If f is even, ∫_{-a}^{a} f(x) dx equals",
+      "options": [
+        "0",
+        "2 ∫_0^a f(x) dx",
+        "∫_0^a f",
+        "undefined"
+      ],
+      "answerIndex": 1,
+      "explanation": "Even integrand doubles the positive half.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-di-006",
+      "chapterId": "maths-definite-integrals",
+      "stem": "If f is odd, ∫_{-a}^{a} f(x) dx equals",
+      "options": [
+        "0",
+        "2 ∫_0^a f",
+        "a",
+        "2a"
+      ],
+      "answerIndex": 0,
+      "explanation": "Odd integrand over a symmetric interval vanishes.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pt-004",
+      "chapterId": "maths-properties-of-triangles",
+      "stem": "In any triangle, a / sin A equals",
+      "options": [
+        "2R",
+        "R",
+        "r",
+        "Delta"
+      ],
+      "answerIndex": 0,
+      "explanation": "Law of sines: a/sin A = 2R.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pt-005",
+      "chapterId": "maths-properties-of-triangles",
+      "stem": "Area of a triangle with sides a, b, c is",
+      "options": [
+        "sqrt[s(s-a)(s-b)(s-c)]",
+        "abc",
+        "s^2",
+        "ab/2 always"
+      ],
+      "answerIndex": 0,
+      "explanation": "Heron's formula.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-pt-006",
+      "chapterId": "maths-properties-of-triangles",
+      "stem": "The cosine rule states that cos A equals",
+      "options": [
+        "(b^2 + c^2 - a^2) / (2bc)",
+        "(a^2 + b^2 - c^2)/2ab",
+        "a/b",
+        "s / abc"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard cosine rule.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-tr-006",
+      "chapterId": "maths-trigonometric-ratios-upto-transformations",
+      "stem": "sin 2A equals",
+      "options": [
+        "2 sin A cos A",
+        "sin^2 A",
+        "2 cos^2 A - 1",
+        "cos 2A"
+      ],
+      "answerIndex": 0,
+      "explanation": "Double-angle formula.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-tr-007",
+      "chapterId": "maths-trigonometric-ratios-upto-transformations",
+      "stem": "cos 2A equals",
+      "options": [
+        "2 sin A cos A",
+        "cos^2 A - sin^2 A",
+        "2 sin A",
+        "tan A"
+      ],
+      "answerIndex": 1,
+      "explanation": "Double-angle for cosine.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-tr-008",
+      "chapterId": "maths-trigonometric-ratios-upto-transformations",
+      "stem": "1 + tan^2 A equals",
+      "options": [
+        "sec^2 A",
+        "cosec^2 A",
+        "cot^2 A",
+        "sin^2 A"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pythagorean identity.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-df-006",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of cos x is",
+      "options": [
+        "sin x",
+        "-sin x",
+        "cos x",
+        "-cos x"
+      ],
+      "answerIndex": 1,
+      "explanation": "d(cos x)/dx = -sin x.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-df-007",
+      "chapterId": "maths-differentiation",
+      "stem": "The derivative of tan x is",
+      "options": [
+        "sec^2 x",
+        "cos^2 x",
+        "cot x",
+        "sec x"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    },
+    {
+      "id": "mat-df-008",
+      "chapterId": "maths-differentiation",
+      "stem": "If y = uv, then y' equals",
+      "options": [
+        "u' v'",
+        "u' v + u v'",
+        "u / v",
+        "u' + v'"
+      ],
+      "answerIndex": 1,
+      "explanation": "Product rule.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ]
+      }
+    }
+  ]
+}

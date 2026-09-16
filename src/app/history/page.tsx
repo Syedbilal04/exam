@@ -78,7 +78,11 @@ export default async function HistoryPage() {
                     <span className="font-display tabular-nums text-ink-800">
                       {inProgress
                         ? "Resume"
-                        : `${attempt.score?.marks ?? 0}/${attempt.score?.maxMarks ?? 0}`}
+                        : `${attempt.score?.marks ?? 0}/${attempt.score?.maxMarks ?? 0}${
+                            attempt.score && attempt.score.maxMarks > 0
+                              ? ` · ${Math.round((attempt.score.marks / attempt.score.maxMarks) * 100)}%`
+                              : ""
+                          }`}
                     </span>
                   </Link>
                 </li>

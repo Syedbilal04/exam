@@ -35,3 +35,17 @@ export function formatDate(iso: string): string {
   const { day, month, year } = istParts(iso);
   return `${day} ${month} ${year}`;
 }
+
+/** Elapsed time between two ISO stamps, for the result hero. */
+export function formatDuration(startIso: string, endIso: string): string {
+  const seconds = Math.max(
+    0,
+    Math.round((new Date(endIso).getTime() - new Date(startIso).getTime()) / 1000),
+  );
+  const hh = Math.floor(seconds / 3600);
+  const mm = Math.floor((seconds % 3600) / 60);
+  const ss = seconds % 60;
+  if (hh > 0) return `${hh}h ${String(mm).padStart(2, "0")}m`;
+  if (mm > 0) return `${mm}m ${String(ss).padStart(2, "0")}s`;
+  return `${ss}s`;
+}

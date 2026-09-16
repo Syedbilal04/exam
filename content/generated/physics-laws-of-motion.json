@@ -1,0 +1,809 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "ASTRA generated set",
+    "license": "Generated from public formulae"
+  },
+  "questions": [
+    {
+      "id": "gen-phy-lom-001",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 4 N acts on a body of mass 2 kg. Its acceleration is",
+      "options": [
+        "8 m s^-2",
+        "2 m s^-2",
+        "4 m s^-2",
+        "6 m s^-2"
+      ],
+      "answerIndex": 1,
+      "explanation": "a = F/m = 4/2 = 2 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-002",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 9 N acts on a body of mass 3 kg. Its acceleration is",
+      "options": [
+        "27 m s^-2",
+        "3 m s^-2",
+        "12 m s^-2",
+        "9 m s^-2"
+      ],
+      "answerIndex": 1,
+      "explanation": "a = F/m = 9/3 = 3 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-003",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 16 N acts on a body of mass 4 kg. Its acceleration is",
+      "options": [
+        "64 m s^-2",
+        "4 m s^-2",
+        "16 m s^-2",
+        "20 m s^-2"
+      ],
+      "answerIndex": 1,
+      "explanation": "a = F/m = 16/4 = 4 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-004",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 25 N acts on a body of mass 5 kg. Its acceleration is",
+      "options": [
+        "25 m s^-2",
+        "5 m s^-2",
+        "125 m s^-2",
+        "30 m s^-2"
+      ],
+      "answerIndex": 1,
+      "explanation": "a = F/m = 25/5 = 5 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-005",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 36 N acts on a body of mass 6 kg. Its acceleration is",
+      "options": [
+        "42 m s^-2",
+        "6 m s^-2",
+        "36 m s^-2",
+        "216 m s^-2"
+      ],
+      "answerIndex": 1,
+      "explanation": "a = F/m = 36/6 = 6 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-006",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 14 N acts on a body of mass 7 kg. Its acceleration is",
+      "options": [
+        "14 m s^-2",
+        "7 m s^-2",
+        "2 m s^-2",
+        "21 m s^-2"
+      ],
+      "answerIndex": 2,
+      "explanation": "a = F/m = 14/7 = 2 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-007",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 24 N acts on a body of mass 8 kg. Its acceleration is",
+      "options": [
+        "8 m s^-2",
+        "3 m s^-2",
+        "24 m s^-2",
+        "32 m s^-2"
+      ],
+      "answerIndex": 1,
+      "explanation": "a = F/m = 24/8 = 3 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-008",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 8 N acts on a body of mass 2 kg. Its acceleration is",
+      "options": [
+        "4 m s^-2",
+        "2 m s^-2",
+        "10 m s^-2",
+        "8 m s^-2"
+      ],
+      "answerIndex": 0,
+      "explanation": "a = F/m = 8/2 = 4 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-009",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 15 N acts on a body of mass 3 kg. Its acceleration is",
+      "options": [
+        "15 m s^-2",
+        "5 m s^-2",
+        "18 m s^-2",
+        "3 m s^-2"
+      ],
+      "answerIndex": 1,
+      "explanation": "a = F/m = 15/3 = 5 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-010",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 24 N acts on a body of mass 4 kg. Its acceleration is",
+      "options": [
+        "6 m s^-2",
+        "4 m s^-2",
+        "28 m s^-2",
+        "24 m s^-2"
+      ],
+      "answerIndex": 0,
+      "explanation": "a = F/m = 24/4 = 6 m s^-2.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-011",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 2 kg has an acceleration of 2 m s^-2. The net force on it is",
+      "options": [
+        "2 N",
+        "6 N",
+        "5 N",
+        "4 N"
+      ],
+      "answerIndex": 3,
+      "explanation": "F = ma = (2)(2) = 4 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-012",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 3 kg has an acceleration of 3 m s^-2. The net force on it is",
+      "options": [
+        "6 N",
+        "9 N",
+        "12 N",
+        "3 N"
+      ],
+      "answerIndex": 1,
+      "explanation": "F = ma = (3)(3) = 9 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-013",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 4 kg has an acceleration of 4 m s^-2. The net force on it is",
+      "options": [
+        "16 N",
+        "20 N",
+        "8 N",
+        "4 N"
+      ],
+      "answerIndex": 0,
+      "explanation": "F = ma = (4)(4) = 16 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-014",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 5 kg has an acceleration of 5 m s^-2. The net force on it is",
+      "options": [
+        "5 N",
+        "10 N",
+        "25 N",
+        "30 N"
+      ],
+      "answerIndex": 2,
+      "explanation": "F = ma = (5)(5) = 25 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-015",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 6 kg has an acceleration of 6 m s^-2. The net force on it is",
+      "options": [
+        "6 N",
+        "12 N",
+        "42 N",
+        "36 N"
+      ],
+      "answerIndex": 3,
+      "explanation": "F = ma = (6)(6) = 36 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-016",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 7 kg has an acceleration of 2 m s^-2. The net force on it is",
+      "options": [
+        "14 N",
+        "2 N",
+        "7 N",
+        "9 N"
+      ],
+      "answerIndex": 0,
+      "explanation": "F = ma = (7)(2) = 14 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-017",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 8 kg has an acceleration of 3 m s^-2. The net force on it is",
+      "options": [
+        "8 N",
+        "3 N",
+        "24 N",
+        "11 N"
+      ],
+      "answerIndex": 2,
+      "explanation": "F = ma = (8)(3) = 24 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-018",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 2 kg has an acceleration of 4 m s^-2. The net force on it is",
+      "options": [
+        "4 N",
+        "6 N",
+        "8 N",
+        "2 N"
+      ],
+      "answerIndex": 2,
+      "explanation": "F = ma = (2)(4) = 8 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-019",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 3 kg has an acceleration of 5 m s^-2. The net force on it is",
+      "options": [
+        "15 N",
+        "5 N",
+        "3 N",
+        "8 N"
+      ],
+      "answerIndex": 0,
+      "explanation": "F = ma = (3)(5) = 15 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-020",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 4 kg has an acceleration of 6 m s^-2. The net force on it is",
+      "options": [
+        "4 N",
+        "24 N",
+        "10 N",
+        "6 N"
+      ],
+      "answerIndex": 1,
+      "explanation": "F = ma = (4)(6) = 24 N.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-021",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 2 kg moves at 2 m s^-1. Its momentum is",
+      "options": [
+        "8 kg m s^-1",
+        "5 kg m s^-1",
+        "2 kg m s^-1",
+        "4 kg m s^-1"
+      ],
+      "answerIndex": 3,
+      "explanation": "p = mv = (2)(2) = 4 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-022",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 3 kg moves at 3 m s^-1. Its momentum is",
+      "options": [
+        "9 kg m s^-1",
+        "18 kg m s^-1",
+        "6 kg m s^-1",
+        "3 kg m s^-1"
+      ],
+      "answerIndex": 0,
+      "explanation": "p = mv = (3)(3) = 9 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-023",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 4 kg moves at 4 m s^-1. Its momentum is",
+      "options": [
+        "32 kg m s^-1",
+        "8 kg m s^-1",
+        "4 kg m s^-1",
+        "16 kg m s^-1"
+      ],
+      "answerIndex": 3,
+      "explanation": "p = mv = (4)(4) = 16 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-024",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 5 kg moves at 5 m s^-1. Its momentum is",
+      "options": [
+        "10 kg m s^-1",
+        "50 kg m s^-1",
+        "25 kg m s^-1",
+        "5 kg m s^-1"
+      ],
+      "answerIndex": 2,
+      "explanation": "p = mv = (5)(5) = 25 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-025",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 6 kg moves at 6 m s^-1. Its momentum is",
+      "options": [
+        "12 kg m s^-1",
+        "72 kg m s^-1",
+        "6 kg m s^-1",
+        "36 kg m s^-1"
+      ],
+      "answerIndex": 3,
+      "explanation": "p = mv = (6)(6) = 36 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-026",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 7 kg moves at 7 m s^-1. Its momentum is",
+      "options": [
+        "49 kg m s^-1",
+        "14 kg m s^-1",
+        "98 kg m s^-1",
+        "7 kg m s^-1"
+      ],
+      "answerIndex": 0,
+      "explanation": "p = mv = (7)(7) = 49 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-027",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 8 kg moves at 2 m s^-1. Its momentum is",
+      "options": [
+        "10 kg m s^-1",
+        "2 kg m s^-1",
+        "8 kg m s^-1",
+        "16 kg m s^-1"
+      ],
+      "answerIndex": 3,
+      "explanation": "p = mv = (8)(2) = 16 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-028",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 9 kg moves at 3 m s^-1. Its momentum is",
+      "options": [
+        "3 kg m s^-1",
+        "27 kg m s^-1",
+        "9 kg m s^-1",
+        "12 kg m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "p = mv = (9)(3) = 27 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-029",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 2 kg moves at 4 m s^-1. Its momentum is",
+      "options": [
+        "6 kg m s^-1",
+        "8 kg m s^-1",
+        "4 kg m s^-1",
+        "2 kg m s^-1"
+      ],
+      "answerIndex": 1,
+      "explanation": "p = mv = (2)(4) = 8 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-030",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 3 kg moves at 5 m s^-1. Its momentum is",
+      "options": [
+        "5 kg m s^-1",
+        "8 kg m s^-1",
+        "3 kg m s^-1",
+        "15 kg m s^-1"
+      ],
+      "answerIndex": 3,
+      "explanation": "p = mv = (3)(5) = 15 kg m s^-1.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-031",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 4 N produces an acceleration of 2 m s^-2. The mass of the body is",
+      "options": [
+        "6 kg",
+        "8 kg",
+        "2 kg",
+        "4 kg"
+      ],
+      "answerIndex": 2,
+      "explanation": "m = F/a = 4/2 = 2 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-032",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 9 N produces an acceleration of 3 m s^-2. The mass of the body is",
+      "options": [
+        "9 kg",
+        "3 kg",
+        "12 kg",
+        "27 kg"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = F/a = 9/3 = 3 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-033",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 16 N produces an acceleration of 4 m s^-2. The mass of the body is",
+      "options": [
+        "20 kg",
+        "4 kg",
+        "64 kg",
+        "16 kg"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = F/a = 16/4 = 4 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-034",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 25 N produces an acceleration of 5 m s^-2. The mass of the body is",
+      "options": [
+        "25 kg",
+        "5 kg",
+        "125 kg",
+        "30 kg"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = F/a = 25/5 = 5 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-035",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 36 N produces an acceleration of 6 m s^-2. The mass of the body is",
+      "options": [
+        "42 kg",
+        "216 kg",
+        "6 kg",
+        "36 kg"
+      ],
+      "answerIndex": 2,
+      "explanation": "m = F/a = 36/6 = 6 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-036",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 14 N produces an acceleration of 2 m s^-2. The mass of the body is",
+      "options": [
+        "2 kg",
+        "7 kg",
+        "14 kg",
+        "28 kg"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = F/a = 14/2 = 7 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-037",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 24 N produces an acceleration of 3 m s^-2. The mass of the body is",
+      "options": [
+        "3 kg",
+        "24 kg",
+        "72 kg",
+        "8 kg"
+      ],
+      "answerIndex": 3,
+      "explanation": "m = F/a = 24/3 = 8 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-038",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 8 N produces an acceleration of 4 m s^-2. The mass of the body is",
+      "options": [
+        "32 kg",
+        "8 kg",
+        "4 kg",
+        "2 kg"
+      ],
+      "answerIndex": 3,
+      "explanation": "m = F/a = 8/4 = 2 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-039",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 15 N produces an acceleration of 5 m s^-2. The mass of the body is",
+      "options": [
+        "15 kg",
+        "3 kg",
+        "75 kg",
+        "5 kg"
+      ],
+      "answerIndex": 1,
+      "explanation": "m = F/a = 15/5 = 3 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "gen-phy-lom-040",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A net force of 24 N produces an acceleration of 6 m s^-2. The mass of the body is",
+      "options": [
+        "144 kg",
+        "6 kg",
+        "24 kg",
+        "4 kg"
+      ],
+      "answerIndex": 3,
+      "explanation": "m = F/a = 24/6 = 4 kg.",
+      "images": [],
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

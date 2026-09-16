@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280"><rect width="480" height="280" fill="#ffffff"/>
+    
+    <line x1="48" y1="140" x2="452" y2="140" stroke="#a8a29e" stroke-width="1"/>
+    <line x1="240" y1="20" x2="240" y2="250" stroke="#a8a29e" stroke-width="1"/>
+  
+    <polyline points="60,102 67.5,106.375 75,110.5 82.5,114.375 90,118 97.5,121.375 105,124.5 112.5,127.375 120,130 127.5,132.375 135,134.5 142.5,136.375 150,138 157.5,139.375 165,140.5 172.5,141.375 180,142 187.5,142.375 195,142.5 202.5,142.375 210,142 217.5,141.375 225,140.5 232.5,139.375 240,138 247.5,136.375 255,134.5 262.5,132.375 270,130 277.5,127.375 285,124.5 292.5,121.375 300,118 307.5,114.375 315,110.5 322.5,106.375 330,102 337.5,97.375 345,92.5 352.5,87.375 360,82 367.5,76.375 375,70.5 382.5,64.375 390,58 397.5,51.375 405,44.5 412.5,37.375 420,30" fill="none" stroke="#0f766e" stroke-width="2.5"/>
+    <line x1="360" y1="20" x2="360" y2="250" stroke="#0f766e" stroke-dasharray="4 4" stroke-width="1.25"/>
+    <text x="360" y="268" text-anchor="middle" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">x = 4</text>
+    <text x="240" y="16" text-anchor="middle" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">y</text>
+  </svg>

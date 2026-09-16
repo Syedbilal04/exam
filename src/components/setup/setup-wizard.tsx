@@ -46,6 +46,9 @@ export function SetupWizard({ exams, chapters }: Props) {
   const chaptersBySubject = useMemo(() => {
     const map = new Map<string, WizardChapter[]>();
     for (const chapter of chapters) {
+      // Empty chapters stay off the picker so a student cannot start a
+      // subject with nothing to draw from.
+      if (chapter.questionCount === 0) continue;
       const list = map.get(chapter.subjectId);
       if (list) list.push(chapter);
       else map.set(chapter.subjectId, [chapter]);
@@ -170,38 +173,54 @@ export function SetupWizard({ exams, chapters }: Props) {
                   <span className="font-display text-lg font-semibold text-ink-800">
                     {quota.subjectName}
                   </span>
-                  <span className="text-sm text-mist-600">
+                  <span className="shrink-0 text-sm text-mist-600">
                     {chosen.length > 0
                       ? `${chosen.length} selected`
                       : "none selected"}{" "}
-                    · {quota.count} questions in paper
+                    · {quota.count} in paper
                   </span>
                 </summary>
 
-                <div className="mt-4 grid gap-2 sm:grid-cols-2">
-                  {subjectChapters.map((chapter) => (
-                    <label
-                      key={chapter.id}
-                      className={`flex cursor-pointer items-center justify-between gap-3 rounded-lg border px-3.5 py-2.5 text-sm transition ${
-                        selected.has(chapter.id)
-                          ? "border-aurora-500 bg-aurora-500/10"
-                          : "border-mist-200 bg-white/70 hover:border-mist-400"
-                      }`}
-                    >
-                      <span className="flex items-center gap-2.5">
-                        <input
-                          type="checkbox"
-                          className="accent-aurora-600 size-4"
-                          checked={selected.has(chapter.id)}
-                          onChange={() => toggleChapter(chapter.id)}
-                        />
-                        <span className="text-ink-800">{chapter.name}</span>
-                      </span>
-                      <span className="shrink-0 text-xs text-mist-400">
-                        Year {chapter.year} · {chapter.questionCount} Q
-                      </span>
-                    </label>
-                  ))}
+                <div className="mt-4 space-y-5">
+                  {([1, 2] as const).map((year) => {
+                    const yearChapters = subjectChapters.filter(
+                      (chapter) => chapter.year === year,
+                    );
+                    if (yearChapters.length === 0) return null;
+
+                    return (
+                      <div key={year}>
+                        <p className="mb-2 text-[0.65rem] tracking-[0.22em] text-mist-400">
+                          INTERMEDIATE YEAR {year}
+                        </p>
+                        <div className="grid gap-2 sm:grid-cols-2">
+                          {yearChapters.map((chapter) => (
+                            <label
+                              key={chapter.id}
+                              className={`flex min-w-0 cursor-pointer items-center justify-between gap-3 rounded-lg border px-3.5 py-2.5 text-sm transition ${
+                                selected.has(chapter.id)
+                                  ? "border-aurora-500 bg-aurora-500/10"
+                                  : "border-mist-200 bg-white/70 hover:border-mist-400"
+                              }`}
+                            >
+                              <span className="flex min-w-0 items-center gap-2.5">
+                                <input
+                                  type="checkbox"
+                                  className="accent-aurora-600 size-4 shrink-0"
+                                  checked={selected.has(chapter.id)}
+                                  onChange={() => toggleChapter(chapter.id)}
+                                />
+                                <span className="text-ink-800">{chapter.name}</span>
+                              </span>
+                              <span className="shrink-0 text-xs text-mist-400">
+                                {chapter.questionCount} Q
+                              </span>
+                            </label>
+                          ))}
+                        </div>
+                      </div>
+                    );
+                  })}
                 </div>
               </details>
             );

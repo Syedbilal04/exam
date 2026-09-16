@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280"><rect width="480" height="280" fill="#ffffff"/>
+    <line x1="56" y1="228" x2="456" y2="228" stroke="#1c1917" stroke-width="1.5"/>
+    <line x1="56" y1="28" x2="56" y2="228" stroke="#1c1917" stroke-width="1.5"/>
+    <line x1="56" y1="159.42857142857144" x2="456" y2="68" stroke="#0f766e" stroke-width="2.5"/>
+    <circle cx="56" cy="159.42857142857144" r="4" fill="#0f766e"/>
+    <circle cx="456" cy="68" r="4" fill="#0f766e"/>
+    <text x="64" y="149.42857142857144" text-anchor="start" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">3 m/s</text>
+    <text x="448" y="58" text-anchor="end" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">7 m/s</text>
+    <text x="456" y="252" text-anchor="end" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">4 s</text>
+    <text x="56" y="252" text-anchor="start" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">0</text>
+    <text x="18" y="32" text-anchor="start" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">v</text>
+    <text x="256" y="268" text-anchor="middle" font-size="14" fill="#1c1917" font-family="ui-sans-serif, system-ui, sans-serif">time (s)</text>
+  </svg>
