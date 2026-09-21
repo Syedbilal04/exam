@@ -1,0 +1,1022 @@
+[
+  {
+    "file": "electrochemistry-kinetics-01-p01-bank.sql",
+    "bytes": 8302,
+    "ids": "che-ek-101..che-ek-110",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-01-p01-meta.sql",
+    "bytes": 8222,
+    "ids": "che-ek-101..che-ek-110",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-01-p02-bank.sql",
+    "bytes": 9243,
+    "ids": "che-ek-111..che-ek-120",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-01-p02-meta.sql",
+    "bytes": 9163,
+    "ids": "che-ek-111..che-ek-120",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-01-p03-bank.sql",
+    "bytes": 4807,
+    "ids": "che-ek-121..che-ek-125",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-01-p03-meta.sql",
+    "bytes": 4727,
+    "ids": "che-ek-121..che-ek-125",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-02-p01-bank.sql",
+    "bytes": 8876,
+    "ids": "che-ek-126..che-ek-135",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-02-p01-meta.sql",
+    "bytes": 8796,
+    "ids": "che-ek-126..che-ek-135",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-02-p02-bank.sql",
+    "bytes": 8484,
+    "ids": "che-ek-136..che-ek-145",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-02-p02-meta.sql",
+    "bytes": 8404,
+    "ids": "che-ek-136..che-ek-145",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-02-p03-bank.sql",
+    "bytes": 4954,
+    "ids": "che-ek-146..che-ek-150",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-02-p03-meta.sql",
+    "bytes": 4874,
+    "ids": "che-ek-146..che-ek-150",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-03-p01-bank.sql",
+    "bytes": 8170,
+    "ids": "che-ek-151..che-ek-160",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-03-p01-meta.sql",
+    "bytes": 8090,
+    "ids": "che-ek-151..che-ek-160",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-03-p02-bank.sql",
+    "bytes": 8579,
+    "ids": "che-ek-161..che-ek-170",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-03-p02-meta.sql",
+    "bytes": 8499,
+    "ids": "che-ek-161..che-ek-170",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-03-p03-bank.sql",
+    "bytes": 4656,
+    "ids": "che-ek-171..che-ek-175",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-03-p03-meta.sql",
+    "bytes": 4576,
+    "ids": "che-ek-171..che-ek-175",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-04-p01-bank.sql",
+    "bytes": 8012,
+    "ids": "che-ek-176..che-ek-185",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-04-p01-meta.sql",
+    "bytes": 7932,
+    "ids": "che-ek-176..che-ek-185",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-04-p02-bank.sql",
+    "bytes": 8644,
+    "ids": "che-ek-186..che-ek-195",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-04-p02-meta.sql",
+    "bytes": 8564,
+    "ids": "che-ek-186..che-ek-195",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-04-p03-bank.sql",
+    "bytes": 4858,
+    "ids": "che-ek-196..che-ek-200",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-04-p03-meta.sql",
+    "bytes": 4778,
+    "ids": "che-ek-196..che-ek-200",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-05-p01-bank.sql",
+    "bytes": 8599,
+    "ids": "che-ek-201..che-ek-210",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-05-p01-meta.sql",
+    "bytes": 8519,
+    "ids": "che-ek-201..che-ek-210",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-05-p02-bank.sql",
+    "bytes": 8911,
+    "ids": "che-ek-211..che-ek-220",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-05-p02-meta.sql",
+    "bytes": 8831,
+    "ids": "che-ek-211..che-ek-220",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-05-p03-bank.sql",
+    "bytes": 4356,
+    "ids": "che-ek-221..che-ek-225",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-05-p03-meta.sql",
+    "bytes": 4276,
+    "ids": "che-ek-221..che-ek-225",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-06-p01-bank.sql",
+    "bytes": 8664,
+    "ids": "che-ek-226..che-ek-235",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-06-p01-meta.sql",
+    "bytes": 8584,
+    "ids": "che-ek-226..che-ek-235",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-06-p02-bank.sql",
+    "bytes": 7998,
+    "ids": "che-ek-236..che-ek-245",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-06-p02-meta.sql",
+    "bytes": 7918,
+    "ids": "che-ek-236..che-ek-245",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-06-p03-bank.sql",
+    "bytes": 4313,
+    "ids": "che-ek-246..che-ek-250",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-06-p03-meta.sql",
+    "bytes": 4233,
+    "ids": "che-ek-246..che-ek-250",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-07-p01-bank.sql",
+    "bytes": 8468,
+    "ids": "che-ek-251..che-ek-260",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-07-p01-meta.sql",
+    "bytes": 8388,
+    "ids": "che-ek-251..che-ek-260",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-07-p02-bank.sql",
+    "bytes": 8461,
+    "ids": "che-ek-261..che-ek-270",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-07-p02-meta.sql",
+    "bytes": 8381,
+    "ids": "che-ek-261..che-ek-270",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-07-p03-bank.sql",
+    "bytes": 4902,
+    "ids": "che-ek-271..che-ek-275",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-07-p03-meta.sql",
+    "bytes": 4822,
+    "ids": "che-ek-271..che-ek-275",
+    "n": 5
+  },
+  {
+    "file": "electrochemistry-kinetics-08-p01-bank.sql",
+    "bytes": 8824,
+    "ids": "che-ek-276..che-ek-285",
+    "n": 10
+  },
+  {
+    "file": "electrochemistry-kinetics-08-p01-meta.sql",
+    "bytes": 8744,
+    "ids": "che-ek-276..che-ek-285",
+    "n": 10
+  },
+  {
+    "file": "periodicity-01-p01-bank.sql",
+    "bytes": 8242,
+    "ids": "che-pe-101..che-pe-110",
+    "n": 10
+  },
+  {
+    "file": "periodicity-01-p01-meta.sql",
+    "bytes": 8162,
+    "ids": "che-pe-101..che-pe-110",
+    "n": 10
+  },
+  {
+    "file": "periodicity-01-p02-bank.sql",
+    "bytes": 7946,
+    "ids": "che-pe-111..che-pe-120",
+    "n": 10
+  },
+  {
+    "file": "periodicity-01-p02-meta.sql",
+    "bytes": 7866,
+    "ids": "che-pe-111..che-pe-120",
+    "n": 10
+  },
+  {
+    "file": "periodicity-01-p03-bank.sql",
+    "bytes": 4471,
+    "ids": "che-pe-121..che-pe-125",
+    "n": 5
+  },
+  {
+    "file": "periodicity-01-p03-meta.sql",
+    "bytes": 4391,
+    "ids": "che-pe-121..che-pe-125",
+    "n": 5
+  },
+  {
+    "file": "periodicity-02-p01-bank.sql",
+    "bytes": 7870,
+    "ids": "che-pe-126..che-pe-135",
+    "n": 10
+  },
+  {
+    "file": "periodicity-02-p01-meta.sql",
+    "bytes": 7790,
+    "ids": "che-pe-126..che-pe-135",
+    "n": 10
+  },
+  {
+    "file": "periodicity-02-p02-bank.sql",
+    "bytes": 7633,
+    "ids": "che-pe-136..che-pe-145",
+    "n": 10
+  },
+  {
+    "file": "periodicity-02-p02-meta.sql",
+    "bytes": 7553,
+    "ids": "che-pe-136..che-pe-145",
+    "n": 10
+  },
+  {
+    "file": "periodicity-02-p03-bank.sql",
+    "bytes": 4542,
+    "ids": "che-pe-146..che-pe-150",
+    "n": 5
+  },
+  {
+    "file": "periodicity-02-p03-meta.sql",
+    "bytes": 4462,
+    "ids": "che-pe-146..che-pe-150",
+    "n": 5
+  },
+  {
+    "file": "periodicity-03-p01-bank.sql",
+    "bytes": 8078,
+    "ids": "che-pe-151..che-pe-160",
+    "n": 10
+  },
+  {
+    "file": "periodicity-03-p01-meta.sql",
+    "bytes": 7998,
+    "ids": "che-pe-151..che-pe-160",
+    "n": 10
+  },
+  {
+    "file": "periodicity-03-p02-bank.sql",
+    "bytes": 7952,
+    "ids": "che-pe-161..che-pe-170",
+    "n": 10
+  },
+  {
+    "file": "periodicity-03-p02-meta.sql",
+    "bytes": 7872,
+    "ids": "che-pe-161..che-pe-170",
+    "n": 10
+  },
+  {
+    "file": "periodicity-03-p03-bank.sql",
+    "bytes": 4262,
+    "ids": "che-pe-171..che-pe-175",
+    "n": 5
+  },
+  {
+    "file": "periodicity-03-p03-meta.sql",
+    "bytes": 4182,
+    "ids": "che-pe-171..che-pe-175",
+    "n": 5
+  },
+  {
+    "file": "periodicity-04-p01-bank.sql",
+    "bytes": 8054,
+    "ids": "che-pe-176..che-pe-185",
+    "n": 10
+  },
+  {
+    "file": "periodicity-04-p01-meta.sql",
+    "bytes": 7974,
+    "ids": "che-pe-176..che-pe-185",
+    "n": 10
+  },
+  {
+    "file": "periodicity-04-p02-bank.sql",
+    "bytes": 8477,
+    "ids": "che-pe-186..che-pe-195",
+    "n": 10
+  },
+  {
+    "file": "periodicity-04-p02-meta.sql",
+    "bytes": 8397,
+    "ids": "che-pe-186..che-pe-195",
+    "n": 10
+  },
+  {
+    "file": "periodicity-04-p03-bank.sql",
+    "bytes": 4458,
+    "ids": "che-pe-196..che-pe-200",
+    "n": 5
+  },
+  {
+    "file": "periodicity-04-p03-meta.sql",
+    "bytes": 4378,
+    "ids": "che-pe-196..che-pe-200",
+    "n": 5
+  },
+  {
+    "file": "periodicity-05-p01-bank.sql",
+    "bytes": 8190,
+    "ids": "che-pe-201..che-pe-210",
+    "n": 10
+  },
+  {
+    "file": "periodicity-05-p01-meta.sql",
+    "bytes": 8110,
+    "ids": "che-pe-201..che-pe-210",
+    "n": 10
+  },
+  {
+    "file": "periodicity-05-p02-bank.sql",
+    "bytes": 7674,
+    "ids": "che-pe-211..che-pe-220",
+    "n": 10
+  },
+  {
+    "file": "periodicity-05-p02-meta.sql",
+    "bytes": 7594,
+    "ids": "che-pe-211..che-pe-220",
+    "n": 10
+  },
+  {
+    "file": "periodicity-05-p03-bank.sql",
+    "bytes": 4533,
+    "ids": "che-pe-221..che-pe-225",
+    "n": 5
+  },
+  {
+    "file": "periodicity-05-p03-meta.sql",
+    "bytes": 4453,
+    "ids": "che-pe-221..che-pe-225",
+    "n": 5
+  },
+  {
+    "file": "periodicity-06-p01-bank.sql",
+    "bytes": 7732,
+    "ids": "che-pe-226..che-pe-235",
+    "n": 10
+  },
+  {
+    "file": "periodicity-06-p01-meta.sql",
+    "bytes": 7652,
+    "ids": "che-pe-226..che-pe-235",
+    "n": 10
+  },
+  {
+    "file": "periodicity-06-p02-bank.sql",
+    "bytes": 7794,
+    "ids": "che-pe-236..che-pe-245",
+    "n": 10
+  },
+  {
+    "file": "periodicity-06-p02-meta.sql",
+    "bytes": 7714,
+    "ids": "che-pe-236..che-pe-245",
+    "n": 10
+  },
+  {
+    "file": "periodicity-06-p03-bank.sql",
+    "bytes": 4354,
+    "ids": "che-pe-246..che-pe-250",
+    "n": 5
+  },
+  {
+    "file": "periodicity-06-p03-meta.sql",
+    "bytes": 4274,
+    "ids": "che-pe-246..che-pe-250",
+    "n": 5
+  },
+  {
+    "file": "periodicity-07-p01-bank.sql",
+    "bytes": 7999,
+    "ids": "che-pe-251..che-pe-260",
+    "n": 10
+  },
+  {
+    "file": "periodicity-07-p01-meta.sql",
+    "bytes": 7919,
+    "ids": "che-pe-251..che-pe-260",
+    "n": 10
+  },
+  {
+    "file": "periodicity-07-p02-bank.sql",
+    "bytes": 8147,
+    "ids": "che-pe-261..che-pe-270",
+    "n": 10
+  },
+  {
+    "file": "periodicity-07-p02-meta.sql",
+    "bytes": 8067,
+    "ids": "che-pe-261..che-pe-270",
+    "n": 10
+  },
+  {
+    "file": "periodicity-07-p03-bank.sql",
+    "bytes": 4477,
+    "ids": "che-pe-271..che-pe-275",
+    "n": 5
+  },
+  {
+    "file": "periodicity-07-p03-meta.sql",
+    "bytes": 4397,
+    "ids": "che-pe-271..che-pe-275",
+    "n": 5
+  },
+  {
+    "file": "periodicity-08-p01-bank.sql",
+    "bytes": 7789,
+    "ids": "che-pe-276..che-pe-284",
+    "n": 9
+  },
+  {
+    "file": "periodicity-08-p01-meta.sql",
+    "bytes": 7709,
+    "ids": "che-pe-276..che-pe-284",
+    "n": 9
+  },
+  {
+    "file": "solutions-01-p01-bank.sql",
+    "bytes": 7421,
+    "ids": "che-so-101..che-so-110",
+    "n": 10
+  },
+  {
+    "file": "solutions-01-p01-meta.sql",
+    "bytes": 7341,
+    "ids": "che-so-101..che-so-110",
+    "n": 10
+  },
+  {
+    "file": "solutions-01-p02-bank.sql",
+    "bytes": 7590,
+    "ids": "che-so-111..che-so-120",
+    "n": 10
+  },
+  {
+    "file": "solutions-01-p02-meta.sql",
+    "bytes": 7510,
+    "ids": "che-so-111..che-so-120",
+    "n": 10
+  },
+  {
+    "file": "solutions-01-p03-bank.sql",
+    "bytes": 4061,
+    "ids": "che-so-121..che-so-125",
+    "n": 5
+  },
+  {
+    "file": "solutions-01-p03-meta.sql",
+    "bytes": 3981,
+    "ids": "che-so-121..che-so-125",
+    "n": 5
+  },
+  {
+    "file": "solutions-02-p01-bank.sql",
+    "bytes": 6852,
+    "ids": "che-so-126..che-so-135",
+    "n": 10
+  },
+  {
+    "file": "solutions-02-p01-meta.sql",
+    "bytes": 6772,
+    "ids": "che-so-126..che-so-135",
+    "n": 10
+  },
+  {
+    "file": "solutions-02-p02-bank.sql",
+    "bytes": 7242,
+    "ids": "che-so-136..che-so-145",
+    "n": 10
+  },
+  {
+    "file": "solutions-02-p02-meta.sql",
+    "bytes": 7162,
+    "ids": "che-so-136..che-so-145",
+    "n": 10
+  },
+  {
+    "file": "solutions-02-p03-bank.sql",
+    "bytes": 4218,
+    "ids": "che-so-146..che-so-150",
+    "n": 5
+  },
+  {
+    "file": "solutions-02-p03-meta.sql",
+    "bytes": 4138,
+    "ids": "che-so-146..che-so-150",
+    "n": 5
+  },
+  {
+    "file": "solutions-03-p01-bank.sql",
+    "bytes": 7560,
+    "ids": "che-so-151..che-so-160",
+    "n": 10
+  },
+  {
+    "file": "solutions-03-p01-meta.sql",
+    "bytes": 7480,
+    "ids": "che-so-151..che-so-160",
+    "n": 10
+  },
+  {
+    "file": "solutions-03-p02-bank.sql",
+    "bytes": 7265,
+    "ids": "che-so-161..che-so-170",
+    "n": 10
+  },
+  {
+    "file": "solutions-03-p02-meta.sql",
+    "bytes": 7185,
+    "ids": "che-so-161..che-so-170",
+    "n": 10
+  },
+  {
+    "file": "solutions-03-p03-bank.sql",
+    "bytes": 4281,
+    "ids": "che-so-171..che-so-175",
+    "n": 5
+  },
+  {
+    "file": "solutions-03-p03-meta.sql",
+    "bytes": 4201,
+    "ids": "che-so-171..che-so-175",
+    "n": 5
+  },
+  {
+    "file": "solutions-04-p01-bank.sql",
+    "bytes": 7517,
+    "ids": "che-so-176..che-so-185",
+    "n": 10
+  },
+  {
+    "file": "solutions-04-p01-meta.sql",
+    "bytes": 7437,
+    "ids": "che-so-176..che-so-185",
+    "n": 10
+  },
+  {
+    "file": "solutions-04-p02-bank.sql",
+    "bytes": 7848,
+    "ids": "che-so-186..che-so-195",
+    "n": 10
+  },
+  {
+    "file": "solutions-04-p02-meta.sql",
+    "bytes": 7768,
+    "ids": "che-so-186..che-so-195",
+    "n": 10
+  },
+  {
+    "file": "solutions-04-p03-bank.sql",
+    "bytes": 4171,
+    "ids": "che-so-196..che-so-200",
+    "n": 5
+  },
+  {
+    "file": "solutions-04-p03-meta.sql",
+    "bytes": 4091,
+    "ids": "che-so-196..che-so-200",
+    "n": 5
+  },
+  {
+    "file": "solutions-05-p01-bank.sql",
+    "bytes": 7377,
+    "ids": "che-so-201..che-so-210",
+    "n": 10
+  },
+  {
+    "file": "solutions-05-p01-meta.sql",
+    "bytes": 7297,
+    "ids": "che-so-201..che-so-210",
+    "n": 10
+  },
+  {
+    "file": "solutions-05-p02-bank.sql",
+    "bytes": 7228,
+    "ids": "che-so-211..che-so-220",
+    "n": 10
+  },
+  {
+    "file": "solutions-05-p02-meta.sql",
+    "bytes": 7148,
+    "ids": "che-so-211..che-so-220",
+    "n": 10
+  },
+  {
+    "file": "solutions-05-p03-bank.sql",
+    "bytes": 4063,
+    "ids": "che-so-221..che-so-225",
+    "n": 5
+  },
+  {
+    "file": "solutions-05-p03-meta.sql",
+    "bytes": 3983,
+    "ids": "che-so-221..che-so-225",
+    "n": 5
+  },
+  {
+    "file": "solutions-06-p01-bank.sql",
+    "bytes": 7010,
+    "ids": "che-so-226..che-so-235",
+    "n": 10
+  },
+  {
+    "file": "solutions-06-p01-meta.sql",
+    "bytes": 6930,
+    "ids": "che-so-226..che-so-235",
+    "n": 10
+  },
+  {
+    "file": "solutions-06-p02-bank.sql",
+    "bytes": 7241,
+    "ids": "che-so-236..che-so-245",
+    "n": 10
+  },
+  {
+    "file": "solutions-06-p02-meta.sql",
+    "bytes": 7161,
+    "ids": "che-so-236..che-so-245",
+    "n": 10
+  },
+  {
+    "file": "solutions-06-p03-bank.sql",
+    "bytes": 3952,
+    "ids": "che-so-246..che-so-250",
+    "n": 5
+  },
+  {
+    "file": "solutions-06-p03-meta.sql",
+    "bytes": 3872,
+    "ids": "che-so-246..che-so-250",
+    "n": 5
+  },
+  {
+    "file": "solutions-07-p01-bank.sql",
+    "bytes": 7239,
+    "ids": "che-so-251..che-so-260",
+    "n": 10
+  },
+  {
+    "file": "solutions-07-p01-meta.sql",
+    "bytes": 7159,
+    "ids": "che-so-251..che-so-260",
+    "n": 10
+  },
+  {
+    "file": "solutions-07-p02-bank.sql",
+    "bytes": 7105,
+    "ids": "che-so-261..che-so-270",
+    "n": 10
+  },
+  {
+    "file": "solutions-07-p02-meta.sql",
+    "bytes": 7025,
+    "ids": "che-so-261..che-so-270",
+    "n": 10
+  },
+  {
+    "file": "solutions-07-p03-bank.sql",
+    "bytes": 3739,
+    "ids": "che-so-271..che-so-275",
+    "n": 5
+  },
+  {
+    "file": "solutions-07-p03-meta.sql",
+    "bytes": 3659,
+    "ids": "che-so-271..che-so-275",
+    "n": 5
+  },
+  {
+    "file": "solutions-08-p01-bank.sql",
+    "bytes": 7211,
+    "ids": "che-so-276..che-so-285",
+    "n": 10
+  },
+  {
+    "file": "solutions-08-p01-meta.sql",
+    "bytes": 7131,
+    "ids": "che-so-276..che-so-285",
+    "n": 10
+  },
+  {
+    "file": "solutions-08-p02-bank.sql",
+    "bytes": 5740,
+    "ids": "che-so-286..che-so-292",
+    "n": 7
+  },
+  {
+    "file": "solutions-08-p02-meta.sql",
+    "bytes": 5660,
+    "ids": "che-so-286..che-so-292",
+    "n": 7
+  },
+  {
+    "file": "stoichiometry-01-p01-bank.sql",
+    "bytes": 8548,
+    "ids": "che-st-101..che-st-110",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-01-p01-meta.sql",
+    "bytes": 8468,
+    "ids": "che-st-101..che-st-110",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-01-p02-bank.sql",
+    "bytes": 7606,
+    "ids": "che-st-111..che-st-120",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-01-p02-meta.sql",
+    "bytes": 7526,
+    "ids": "che-st-111..che-st-120",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-01-p03-bank.sql",
+    "bytes": 4315,
+    "ids": "che-st-121..che-st-125",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-01-p03-meta.sql",
+    "bytes": 4235,
+    "ids": "che-st-121..che-st-125",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-02-p01-bank.sql",
+    "bytes": 7265,
+    "ids": "che-st-126..che-st-135",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-02-p01-meta.sql",
+    "bytes": 7185,
+    "ids": "che-st-126..che-st-135",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-02-p02-bank.sql",
+    "bytes": 7311,
+    "ids": "che-st-136..che-st-145",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-02-p02-meta.sql",
+    "bytes": 7231,
+    "ids": "che-st-136..che-st-145",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-02-p03-bank.sql",
+    "bytes": 4251,
+    "ids": "che-st-146..che-st-150",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-02-p03-meta.sql",
+    "bytes": 4171,
+    "ids": "che-st-146..che-st-150",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-03-p01-bank.sql",
+    "bytes": 7783,
+    "ids": "che-st-151..che-st-160",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-03-p01-meta.sql",
+    "bytes": 7703,
+    "ids": "che-st-151..che-st-160",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-03-p02-bank.sql",
+    "bytes": 7553,
+    "ids": "che-st-161..che-st-170",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-03-p02-meta.sql",
+    "bytes": 7473,
+    "ids": "che-st-161..che-st-170",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-03-p03-bank.sql",
+    "bytes": 4292,
+    "ids": "che-st-171..che-st-175",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-03-p03-meta.sql",
+    "bytes": 4212,
+    "ids": "che-st-171..che-st-175",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-04-p01-bank.sql",
+    "bytes": 7986,
+    "ids": "che-st-176..che-st-185",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-04-p01-meta.sql",
+    "bytes": 7906,
+    "ids": "che-st-176..che-st-185",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-04-p02-bank.sql",
+    "bytes": 7789,
+    "ids": "che-st-186..che-st-195",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-04-p02-meta.sql",
+    "bytes": 7709,
+    "ids": "che-st-186..che-st-195",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-04-p03-bank.sql",
+    "bytes": 3940,
+    "ids": "che-st-196..che-st-200",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-04-p03-meta.sql",
+    "bytes": 3860,
+    "ids": "che-st-196..che-st-200",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-05-p01-bank.sql",
+    "bytes": 6585,
+    "ids": "che-st-201..che-st-210",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-05-p01-meta.sql",
+    "bytes": 6505,
+    "ids": "che-st-201..che-st-210",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-05-p02-bank.sql",
+    "bytes": 7055,
+    "ids": "che-st-211..che-st-220",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-05-p02-meta.sql",
+    "bytes": 6975,
+    "ids": "che-st-211..che-st-220",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-05-p03-bank.sql",
+    "bytes": 4488,
+    "ids": "che-st-221..che-st-225",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-05-p03-meta.sql",
+    "bytes": 4408,
+    "ids": "che-st-221..che-st-225",
+    "n": 5
+  },
+  {
+    "file": "stoichiometry-06-p01-bank.sql",
+    "bytes": 7375,
+    "ids": "che-st-226..che-st-235",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-06-p01-meta.sql",
+    "bytes": 7295,
+    "ids": "che-st-226..che-st-235",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-06-p02-bank.sql",
+    "bytes": 7244,
+    "ids": "che-st-236..che-st-245",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-06-p02-meta.sql",
+    "bytes": 7164,
+    "ids": "che-st-236..che-st-245",
+    "n": 10
+  },
+  {
+    "file": "stoichiometry-06-p03-bank.sql",
+    "bytes": 2758,
+    "ids": "che-st-246..che-st-248",
+    "n": 3
+  },
+  {
+    "file": "stoichiometry-06-p03-meta.sql",
+    "bytes": 2678,
+    "ids": "che-st-246..che-st-248",
+    "n": 3
+  }
+]

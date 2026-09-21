@@ -1,0 +1,17 @@
+{
+  "chapterId": "chemistry-stoichiometry",
+  "subjectId": "chemistry",
+  "concepts": [
+    { "id": "laws-combination", "label": "Laws of chemical combination", "examHot": true, "quota": 10 },
+    { "id": "mole-avogadro", "label": "Mole concept and Avogadro number", "examHot": true, "quota": 20 },
+    { "id": "molar-mass-percent", "label": "Molar mass and percentage composition", "examHot": true, "quota": 14 },
+    { "id": "empirical-molecular", "label": "Empirical and molecular formulae", "examHot": true, "quota": 14 },
+    { "id": "equation-mole-ratio", "label": "Balanced equations and mole ratios", "examHot": true, "quota": 16 },
+    { "id": "limiting-reagent", "label": "Limiting and excess reagent", "examHot": true, "quota": 16 },
+    { "id": "yield", "label": "Theoretical and percentage yield", "examHot": true, "quota": 8 },
+    { "id": "oxidation-number", "label": "Oxidation number", "examHot": true, "quota": 16 },
+    { "id": "redox-balancing", "label": "Redox identification and balancing", "examHot": true, "quota": 14 },
+    { "id": "equivalents-normality", "label": "Equivalents, n-factor and normality", "examHot": true, "quota": 12 },
+    { "id": "molarity-dilution", "label": "Molarity and dilution (year-1 slice)", "examHot": true, "quota": 8 }
+  ]
+}

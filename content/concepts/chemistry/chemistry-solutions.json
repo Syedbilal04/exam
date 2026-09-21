@@ -1,0 +1,17 @@
+{
+  "chapterId": "chemistry-solutions",
+  "subjectId": "chemistry",
+  "concepts": [
+    { "id": "types-solubility", "label": "Types of solutions and solubility", "examHot": true, "quota": 14 },
+    { "id": "concentration-terms", "label": "Mass percent, mole fraction, molarity, molality, ppm", "examHot": true, "quota": 24 },
+    { "id": "henrys-law", "label": "Henry's law", "examHot": true, "quota": 12 },
+    { "id": "raoult-vapour", "label": "Raoult's law and vapour pressure", "examHot": true, "quota": 22 },
+    { "id": "ideal-nonideal", "label": "Ideal and non-ideal solutions", "examHot": true, "quota": 16 },
+    { "id": "relative-lowering", "label": "Relative lowering of vapour pressure", "examHot": true, "quota": 16 },
+    { "id": "boiling-elevation", "label": "Elevation of boiling point", "examHot": true, "quota": 18 },
+    { "id": "freezing-depression", "label": "Depression of freezing point", "examHot": true, "quota": 18 },
+    { "id": "osmotic-pressure", "label": "Osmotic pressure", "examHot": true, "quota": 20 },
+    { "id": "vanthoff-abnormal", "label": "van't Hoff factor and abnormal molar mass", "examHot": true, "quota": 20 },
+    { "id": "miscibility-azeotrope", "label": "Miscibility and azeotropes", "examHot": true, "quota": 12 }
+  ]
+}

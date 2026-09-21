@@ -1,0 +1,24 @@
+insert into question_pyq_meta (question_id, appear_count, years, exams, verified)
+select id, appear_count, coalesce((select array_agg(v::int) from jsonb_array_elements_text(years) as v), '{}')::int[], coalesce((select array_agg(v) from jsonb_array_elements_text(exams) as v), '{}')::text[], verified
+from jsonb_to_recordset($json$[{"id":"che-ek-196","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"The only chemical product of a hydrogen–oxygen fuel cell operating with an alkaline or acid electrolyte is","options":["water","carbon dioxide","ammonia","hydrogen peroxide exclusively"],"answer_index":0,"explanation":"H$_2$ is oxidised and O$_2$ is reduced; their combination yields H$_2$O (and electrical work).","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"medium","concept_id":"batteries-corrosion","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-197","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"A buried iron pipeline is protected by attaching blocks of zinc or magnesium because those metals","options":["act as sacrificial anodes and corrode in preference to iron","raise the $E^\\circ$ of iron above that of oxygen","convert iron into stainless steel","absorb all moisture from the soil"],"answer_index":0,"explanation":"Zn and Mg are more active (more negative $E^\\circ$) than Fe, so they oxidise first and the pipeline becomes cathodic.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"medium","concept_id":"batteries-corrosion","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-198","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"On a rusting iron surface the anodic half-change is Fe → Fe$^{2+}$ + 2 e$^-$. The matching cathodic process in a neutral water film is","options":["$\\mathrm{O_2 + 2H_2O + 4e^- \\rightarrow 4OH^-}$","$\\mathrm{Fe^{2+} + 2e^- \\rightarrow Fe}$","$\\mathrm{2H_2O \\rightarrow O_2 + 4H^+ + 4e^-}$","$\\mathrm{Zn^{2+} + 2e^- \\rightarrow Zn}$"],"answer_index":0,"explanation":"Dissolved oxygen is reduced to hydroxide. Fe$^{2+}$ and OH$^-$ then form rust (hydrated Fe$_2$O$_3$) after further oxidation.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"hard","concept_id":"batteries-corrosion","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-199","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"The instantaneous rate of consumption of a reactant A is written","options":["$-\\mathrm{d}[\\mathrm{A}]/\\mathrm{d}t$","$+\\mathrm{d}[\\mathrm{A}]/\\mathrm{d}t$","$[\\mathrm{A}] \\times t$","$\\Delta G / \\Delta t$"],"answer_index":0,"explanation":"Concentration of a reactant falls, so the minus sign makes the rate a positive quantity.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"rate-law","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-200","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"A rate law such as rate $= k[\\mathrm{A}]^x[\\mathrm{B}]^y$ must be established by","options":["experiment (initial rates or isolation methods)","copying the stoichiometric coefficients in every case","the equilibrium constant alone","the molecular mass of the product"],"answer_index":0,"explanation":"Orders $x$ and $y$ equal stoichiometric numbers only for an elementary step, not for an arbitrary overall equation.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"rate-law","appear_count":0,"years":[],"exams":[],"verified":false}]$json$::jsonb) as x(
+    id text,
+    chapter_id text,
+    subject_id text,
+    stem text,
+    options jsonb,
+    answer_index int,
+    explanation text,
+    images jsonb,
+    source jsonb,
+    difficulty text,
+    concept_id text,
+    appear_count int,
+    years jsonb,
+    exams jsonb,
+    verified boolean
+  )
+on conflict (question_id) do update set
+  appear_count = excluded.appear_count,
+  years = excluded.years,
+  exams = excluded.exams,
+  verified = excluded.verified;

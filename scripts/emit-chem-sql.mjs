@@ -2,12 +2,23 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { repoRoot, seedDir } from "./lib/bank.mjs";
 
-const FILES = [
+const WAVE1 = [
   "chemistry__atomic-structure.json",
   "chemistry__chemical-bonding.json",
   "chemistry__chemical-equilibrium.json",
   "chemistry__organic-basics.json",
 ];
+const WAVE2 = [
+  "chemistry__stoichiometry.json",
+  "chemistry__electrochemistry-kinetics.json",
+  "chemistry__periodicity.json",
+  "chemistry__solutions.json",
+];
+const FILES = process.argv.includes("--wave2")
+  ? WAVE2
+  : process.argv.includes("--wave1")
+    ? WAVE1
+    : [...WAVE1, ...WAVE2];
 
 function quote(value) {
   if (value === null || value === undefined) return "null";
@@ -71,7 +82,11 @@ function statement(question) {
   return `${bank}\n${meta}`;
 }
 
-const outDir = path.join(repoRoot, "supabase", ".chem-batches");
+const outDir = path.join(
+  repoRoot,
+  "supabase",
+  process.argv.includes("--wave2") ? ".chem-wave2-batches" : ".chem-batches",
+);
 await mkdir(outDir, { recursive: true });
 const SIZE = 40;
 const files = [];

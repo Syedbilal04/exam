@@ -1,0 +1,18 @@
+{
+  "chapterId": "chemistry-electrochemistry-and-chemical-kinetics",
+  "subjectId": "chemistry",
+  "concepts": [
+    { "id": "conductance", "label": "Conductance, specific and molar conductivity", "examHot": true, "quota": 16 },
+    { "id": "kohlrausch", "label": "Kohlrausch law and weak-electrolyte Λm°", "examHot": true, "quota": 12 },
+    { "id": "cells-emf", "label": "Galvanic cells, electrodes and standard EMF", "examHot": true, "quota": 22 },
+    { "id": "nernst", "label": "Nernst equation", "examHot": true, "quota": 18 },
+    { "id": "electrolysis-faraday", "label": "Electrolysis and Faraday laws", "examHot": true, "quota": 20 },
+    { "id": "batteries-corrosion", "label": "Batteries, fuel cells and corrosion", "examHot": false, "quota": 10 },
+    { "id": "rate-law", "label": "Rate, rate law and rate constant", "examHot": true, "quota": 18 },
+    { "id": "order-molecularity", "label": "Order and molecularity", "examHot": true, "quota": 14 },
+    { "id": "integrated-half-life", "label": "Integrated rate laws and half-life", "examHot": true, "quota": 24 },
+    { "id": "arrhenius-ea", "label": "Arrhenius equation and activation energy", "examHot": true, "quota": 16 },
+    { "id": "rate-factors", "label": "Factors affecting rate", "examHot": true, "quota": 10 },
+    { "id": "collision-qual", "label": "Collision theory (qualitative)", "examHot": false, "quota": 5 }
+  ]
+}

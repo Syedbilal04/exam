@@ -1,0 +1,24 @@
+insert into question_pyq_meta (question_id, appear_count, years, exams, verified)
+select id, appear_count, coalesce((select array_agg(v::int) from jsonb_array_elements_text(years) as v), '{}')::int[], coalesce((select array_agg(v) from jsonb_array_elements_text(exams) as v), '{}')::text[], verified
+from jsonb_to_recordset($json$[{"id":"che-ek-271","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"Increasing the concentration of a reactant that appears in the rate law generally","options":["increases the reaction rate","decreases $k$ at constant $T$","stops the reaction completely","changes $\\Delta H$ of the reaction"],"answer_index":0,"explanation":"Rate $= k[\\mathrm{A}]^x\\ldots$ grows with [A] whenever the order $x$ is positive.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"rate-factors","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-272","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"Heating a reaction mixture of thermally activated molecules typically","options":["speeds the reaction because more molecules clear the energy barrier","always shifts the equilibrium constant to 1","lowers $E_a$ of an uncatalysed path","has no kinetic effect below 100 °C"],"answer_index":0,"explanation":"Temperature enters $k$ through the Arrhenius factor. Equilibrium may also shift, but that is a separate thermodynamic effect.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"rate-factors","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-273","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"Adding a suitable catalyst to a reacting mixture","options":["increases the rate by opening a lower-energy path","is consumed as a stoichiometric reactant","alters the value of $\\Delta H$ for the net reaction","can change a first-order law into Faraday's law"],"answer_index":0,"explanation":"The catalyst is regenerated. It does not change the thermodynamics of the net reaction, only how fast equilibrium is reached.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"rate-factors","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-274","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"For a reaction between a solid and a gas or liquid, grinding the solid into a powder","options":["raises the rate by exposing a larger surface","lowers the rate because grains are smaller","changes the stoichiometric equation","removes the need for a collision"],"answer_index":0,"explanation":"Heterogeneous rates scale with the available surface. A powder offers far more area than a single lump of equal mass.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"rate-factors","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-275","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"Ionic reactions in water are often much faster than reactions of covalent organic molecules because","options":["ions need little bond-breaking to meet, whereas covalent bonds must usually be broken and remade","ions have no charge","organic molecules never collide","water cannot solvate ions"],"answer_index":0,"explanation":"The nature of the reactants matters: many aqueous ion combinations are essentially encounter-controlled, unlike typical covalent substitutions.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"rate-factors","appear_count":0,"years":[],"exams":[],"verified":false}]$json$::jsonb) as x(
+    id text,
+    chapter_id text,
+    subject_id text,
+    stem text,
+    options jsonb,
+    answer_index int,
+    explanation text,
+    images jsonb,
+    source jsonb,
+    difficulty text,
+    concept_id text,
+    appear_count int,
+    years jsonb,
+    exams jsonb,
+    verified boolean
+  )
+on conflict (question_id) do update set
+  appear_count = excluded.appear_count,
+  years = excluded.years,
+  exams = excluded.exams,
+  verified = excluded.verified;

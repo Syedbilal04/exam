@@ -1,0 +1,374 @@
+{
+  "chemistry-stoichiometry": [
+    {
+      "id": "che-st-001",
+      "stem": "The number of moles present in 22 g of carbon dioxide is"
+    },
+    {
+      "id": "che-st-002",
+      "stem": "Molarity of a solution is defined as"
+    },
+    {
+      "id": "che-st-003",
+      "stem": "The volume occupied by one mole of an ideal gas at STP is"
+    },
+    {
+      "id": "che-st-004",
+      "stem": "The number of molecules present in one mole of any substance is"
+    },
+    {
+      "id": "che-st-005",
+      "stem": "In a chemical reaction, the limiting reagent is the one that"
+    },
+    {
+      "id": "che-st-006",
+      "stem": "The mass of one mole of water is"
+    },
+    {
+      "id": "gen-che-sto-001",
+      "stem": "How many moles are present in 100 g of CaCO3? The molar mass of CaCO3 is 100 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-002",
+      "stem": "How many moles are present in 88 g of CO2? The molar mass of CO2 is 44 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-003",
+      "stem": "How many moles are present in 54 g of H2O? The molar mass of H2O is 18 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-004",
+      "stem": "How many moles are present in 128 g of O2? The molar mass of O2 is 32 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-005",
+      "stem": "How many moles are present in 140 g of N2? The molar mass of N2 is 28 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-006",
+      "stem": "How many moles are present in 56 g of Fe? The molar mass of Fe is 56 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-007",
+      "stem": "How many moles are present in 128 g of SO2? The molar mass of SO2 is 64 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-008",
+      "stem": "How many moles are present in 48 g of CH4? The molar mass of CH4 is 16 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-009",
+      "stem": "How many moles are present in 160 g of NaOH? The molar mass of NaOH is 40 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-010",
+      "stem": "How many moles are present in 10 g of H2? The molar mass of H2 is 2 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-011",
+      "stem": "The mass of 2 mol of CaCO3 is how many grams? The molar mass of CaCO3 is 100 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-012",
+      "stem": "The mass of 3 mol of CO2 is how many grams? The molar mass of CO2 is 44 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-013",
+      "stem": "The mass of 4 mol of H2O is how many grams? The molar mass of H2O is 18 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-014",
+      "stem": "The mass of 5 mol of O2 is how many grams? The molar mass of O2 is 32 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-015",
+      "stem": "The mass of 2 mol of N2 is how many grams? The molar mass of N2 is 28 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-016",
+      "stem": "The mass of 3 mol of Fe is how many grams? The molar mass of Fe is 56 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-017",
+      "stem": "The mass of 4 mol of SO2 is how many grams? The molar mass of SO2 is 64 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-018",
+      "stem": "The mass of 5 mol of CH4 is how many grams? The molar mass of CH4 is 16 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-019",
+      "stem": "The mass of 2 mol of NaOH is how many grams? The molar mass of NaOH is 40 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-020",
+      "stem": "The mass of 3 mol of H2 is how many grams? The molar mass of H2 is 2 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-021",
+      "stem": "For C + O2 -> CO2, what mass of CO2 is obtained from 12 g of C? Molar masses: C = 12 g mol^-1, CO2 = 44 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-022",
+      "stem": "For 2H2 + O2 -> 2H2O, what mass of H2O is obtained from 8 g of H2? Molar masses: H2 = 2 g mol^-1, H2O = 18 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-023",
+      "stem": "For N2 + 3H2 -> 2NH3, what mass of NH3 is obtained from 84 g of N2? Molar masses: N2 = 28 g mol^-1, NH3 = 17 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-024",
+      "stem": "For S + O2 -> SO2, what mass of SO2 is obtained from 128 g of S? Molar masses: S = 32 g mol^-1, SO2 = 64 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-025",
+      "stem": "For CaCO3 -> CaO + CO2, what mass of CO2 is obtained from 100 g of CaCO3? Molar masses: CaCO3 = 100 g mol^-1, CO2 = 44 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-026",
+      "stem": "For 2H2O2 -> 2H2O + O2, what mass of O2 is obtained from 136 g of H2O2? Molar masses: H2O2 = 34 g mol^-1, O2 = 32 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-027",
+      "stem": "For CH4 + 2O2 -> CO2 + 2H2O, what mass of CO2 is obtained from 48 g of CH4? Molar masses: CH4 = 16 g mol^-1, CO2 = 44 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-028",
+      "stem": "For 2Mg + O2 -> 2MgO, what mass of MgO is obtained from 192 g of Mg? Molar masses: Mg = 24 g mol^-1, MgO = 40 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-029",
+      "stem": "For CaO + H2O -> Ca(OH)2, what mass of Ca(OH)2 is obtained from 56 g of CaO? Molar masses: CaO = 56 g mol^-1, Ca(OH)2 = 74 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-030",
+      "stem": "For 2SO2 + O2 -> 2SO3, what mass of SO3 is obtained from 256 g of SO2? Molar masses: SO2 = 64 g mol^-1, SO3 = 80 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-031",
+      "stem": "For C + O2 -> CO2, what mass of C is required to produce 44 g of CO2? Molar masses: C = 12 g mol^-1, CO2 = 44 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-032",
+      "stem": "For 2H2 + O2 -> 2H2O, what mass of H2 is required to produce 72 g of H2O? Molar masses: H2 = 2 g mol^-1, H2O = 18 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-033",
+      "stem": "For N2 + 3H2 -> 2NH3, what mass of N2 is required to produce 102 g of NH3? Molar masses: N2 = 28 g mol^-1, NH3 = 17 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-034",
+      "stem": "For S + O2 -> SO2, what mass of S is required to produce 256 g of SO2? Molar masses: S = 32 g mol^-1, SO2 = 64 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-035",
+      "stem": "For CaCO3 -> CaO + CO2, what mass of CaCO3 is required to produce 44 g of CO2? Molar masses: CaCO3 = 100 g mol^-1, CO2 = 44 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-036",
+      "stem": "For 2H2O2 -> 2H2O + O2, what mass of H2O2 is required to produce 64 g of O2? Molar masses: H2O2 = 34 g mol^-1, O2 = 32 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-037",
+      "stem": "For CH4 + 2O2 -> CO2 + 2H2O, what mass of CH4 is required to produce 132 g of CO2? Molar masses: CH4 = 16 g mol^-1, CO2 = 44 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-038",
+      "stem": "For 2Mg + O2 -> 2MgO, what mass of Mg is required to produce 320 g of MgO? Molar masses: Mg = 24 g mol^-1, MgO = 40 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-039",
+      "stem": "For CaO + H2O -> Ca(OH)2, what mass of CaO is required to produce 74 g of Ca(OH)2? Molar masses: CaO = 56 g mol^-1, Ca(OH)2 = 74 g mol^-1."
+    },
+    {
+      "id": "gen-che-sto-040",
+      "stem": "For 2SO2 + O2 -> 2SO3, what mass of SO2 is required to produce 320 g of SO3? Molar masses: SO2 = 64 g mol^-1, SO3 = 80 g mol^-1."
+    },
+    {
+      "id": "mmlu-chemistry-372e2d331ecd",
+      "stem": "A new compound is synthesized and found to be a monoprotic acid with a molar mass of 248 g/mol. When 0.0050 mol of this acid are dissolved in 0.500 L of water, the pH is measured as 3.89. What is the pKa of this acid?"
+    },
+    {
+      "id": "mmlu-chemistry-5ba7124dac5a",
+      "stem": "How many moles of propane (C3H8) are there in 6.2 g of propane?"
+    },
+    {
+      "id": "mmlu-chemistry-8cbc09e7cd23",
+      "stem": "What is the empirical formula of a compound that is 51.9% carbon, 4.86% hydrogen, and 43.2% bromine"
+    },
+    {
+      "id": "mmlu-chemistry-e9df1d1073b0",
+      "stem": "Joseph Priestly discovered oxygen gas by the decomposition of solid mercury(II) oxide, HgO, to oxygen gas, O2, and liquid mercury metal, Hg. How many moles of oxygen gas will form when 4.32 g of solid mercury(II) oxide decomposes? The formula mass of mercury(II) oxide is 216 g mol^-1."
+    },
+    {
+      "id": "mmlu-chemistry-ef82ac0ea83c",
+      "stem": "A sample of a compound known to consist of only carbon, hydrogen, and oxygen is found to have a total mass of 29.05 g. If the mass of the carbon is 18.02 g and the mass of the hydrogen is 3.03 g, what is the empirical formula of the compound?"
+    },
+    {
+      "id": "mmlu-chemistry-f505cbd41a8b",
+      "stem": "What is the molar mass of a monoprotic weak acid that requires 26.3 mL of 0.122 M KOH to neutralize 0.682 gram of the acid?"
+    }
+  ],
+  "chemistry-electrochemistry-and-chemical-kinetics": [
+    {
+      "id": "che-ek-001",
+      "stem": "The unit of the rate constant of a first order reaction is"
+    },
+    {
+      "id": "che-ek-002",
+      "stem": "The value of the Faraday constant is approximately"
+    },
+    {
+      "id": "che-ek-003",
+      "stem": "The half life of a first order reaction with rate constant k is"
+    },
+    {
+      "id": "che-ek-004",
+      "stem": "In a galvanic cell, oxidation takes place at the"
+    },
+    {
+      "id": "che-ek-005",
+      "stem": "The Arrhenius equation relating rate constant and temperature is"
+    },
+    {
+      "id": "che-ek-006",
+      "stem": "On dilution of an electrolytic solution, the molar conductivity"
+    },
+    {
+      "id": "mmlu-chemistry-148e6e9d1d7d",
+      "stem": "The rate law may be written using stoichiometric coefficients for which of the following?"
+    },
+    {
+      "id": "mmlu-chemistry-5c3bf7ae4ed6",
+      "stem": "The electrolysis of molten magnesium bromide is expected to produce"
+    },
+    {
+      "id": "mmlu-chemistry-5eddfde56d76",
+      "stem": "The Arrhenius equation may be used to determine"
+    },
+    {
+      "id": "mmlu-chemistry-60ac96a93403",
+      "stem": "In determining the order for reactant A in a certain reaction, the concentrations of all other reactants are held constant while the concentration of A is tripled from one experiment to another. The reaction rate is found to triple. The appropriate exponent for A in the rate law is"
+    },
+    {
+      "id": "mmlu-chemistry-632481c75f31",
+      "stem": "The specific rate constant, k, for a certain first-order reaction is 86 h^-1. What mass of a 0.0500 g sample of starting material will remain after 58 s?"
+    },
+    {
+      "id": "mmlu-chemistry-a5a70c01cf35",
+      "stem": "NH4+(aq) + NO2- (aq) → N2(g) + 2H2O(l) Increasing the temperature of the above reaction will increase the rate of reaction. Which of the following is NOT a reason that increased temperature increases reaction rate?"
+    },
+    {
+      "id": "mmlu-chemistry-a5ade975ba83",
+      "stem": "4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(g) This reaction will experience a rate increase by the addition of a cataylst such as platinum. Which of the following best explains why?"
+    },
+    {
+      "id": "mmlu-chemistry-b6f0d6b58a13",
+      "stem": "The rate law for the reaction of 2 A + B → 2 P is"
+    },
+    {
+      "id": "mmlu-chemistry-daf1aea5a23d",
+      "stem": "A first-order reaction has a half-life of 34 minutes. What is the rate constant for this reaction?"
+    }
+  ],
+  "chemistry-classification-of-elements-and-periodicity-in-properties": [
+    {
+      "id": "mmlu-chemistry-1fc23169fa1e",
+      "stem": "Nitrogen's electronegativity value is between those of phosphorus and oxygen. Which of the following correctly describes the relationship between the three values?"
+    },
+    {
+      "id": "mmlu-chemistry-222214f11139",
+      "stem": "Hydrogen fluoride, HF, is a liquid at 15°C. All other hydrogen halides (represented by HX, where X is any other halogen) are gases at the same temperature. Why?"
+    },
+    {
+      "id": "mmlu-chemistry-2f05900787c6",
+      "stem": "Of the following atoms, which has the lowest electron affinity?"
+    },
+    {
+      "id": "mmlu-chemistry-490d3e177585",
+      "stem": "Carbon has an atomic radius of 77 pm and a first ionization energy of 1086 kJ/mol."
+    },
+    {
+      "id": "mmlu-chemistry-64834bc2e7e0",
+      "stem": "The first ionization energy for a neutral atom of chlorine is 1.25 MJ/mol and the first ionization energy for a neutral atom of argon is 1.52 MJ/mol. How would the first ionization energy value for a neutral atom of potassum compare to those values?"
+    },
+    {
+      "id": "mmlu-chemistry-81d7325bf552",
+      "stem": "Which of the following is lower for argon than for neon?"
+    },
+    {
+      "id": "mmlu-chemistry-86ce2429c751",
+      "stem": "Atoms of four elements are examined: carbon, nitrogen, neon, and sulfur. Which element would have a photoelectron spectra in which the peak representing electrons with the lowest ionization energy would be three times higher than all other peaks?"
+    },
+    {
+      "id": "mmlu-chemistry-8b382eda9def",
+      "stem": "Nickel (Z = 28, A = 59) has a first ionization energy of 737 kJ/mol and a boiling point of 2913 °C, while Pt (Z = 78, A = 195) has a first ionization energy of 870 kJ/mol and a boiling point of 3825 °C. Which of the following are the most reasonable values of ionization energy and boiling point for palladium?"
+    },
+    {
+      "id": "mmlu-chemistry-a6a9fce68f32",
+      "stem": "Which of the following is expected to have the highest electronegativity?"
+    },
+    {
+      "id": "mmlu-chemistry-d1b29ca6795e",
+      "stem": "Magnesium has an atomic radius of 160 pm and a first ionization energy of 737 kJ. Based on periodic trends and the data given above, what are the most probable values for the ionization energy and atomic radius of sodium?"
+    },
+    {
+      "id": "mmlu-chemistry-d7d95a03a78d",
+      "stem": "London dispersion forces are caused by"
+    },
+    {
+      "id": "mmlu-chemistry-de1c24c94696",
+      "stem": "Fluorine has a normal boiling point of 85 K, and chlorine boils at 239 K. The Cl2 molecule is much larger than F2 (atomic radius is 99 pm for chlorine and is 64 pm for fluorine). Which is the best reason for the large difference in boiling points?"
+    },
+    {
+      "id": "mmlu-chemistry-df190ba95cf3",
+      "stem": "Examining data obtained from mass spectrometry supports which of the following?"
+    },
+    {
+      "id": "mmlu-chemistry-e41b28807b71",
+      "stem": "Using fundamental trends in electronegativity and bond strength, which of the following should be the strongest acid?"
+    },
+    {
+      "id": "mmlu-chemistry-ed434a31ca08",
+      "stem": "Of the following pairs of elements, which pair has the second element with the larger electronegativity based on its position in the periodic table?"
+    },
+    {
+      "id": "mmlu-chemistry-f5daf4b1ff02",
+      "stem": "The first ionization energy of sodium is 496 kJ/mol, and its atomic radius is 186 pm."
+    }
+  ],
+  "chemistry-solutions": [
+    {
+      "id": "che-so-001",
+      "stem": "Which of the following is a colligative property?"
+    },
+    {
+      "id": "che-so-002",
+      "stem": "Raoult's law states that the partial vapour pressure of a component is proportional to its"
+    },
+    {
+      "id": "che-so-003",
+      "stem": "The van't Hoff factor for completely dissociated NaCl in water is"
+    },
+    {
+      "id": "che-so-004",
+      "stem": "Elevation of boiling point of a dilute solution is given by"
+    },
+    {
+      "id": "che-so-005",
+      "stem": "According to Henry's law, the solubility of a gas in a liquid at constant temperature is"
+    },
+    {
+      "id": "che-so-006",
+      "stem": "An azeotropic mixture is one that"
+    },
+    {
+      "id": "mmlu-chemistry-3ddd0e4a7500",
+      "stem": "Solvents A and B form an ideal solution. Solvent A has a vapor pressure of 345 torr at room temperature. At the same temperature, solvent B has a vapor pressure of 213 torr. What is the vapor pressure of a mixture where the mole fraction of A is 0.285?"
+    },
+    {
+      "id": "mmlu-chemistry-944d76adee7c",
+      "stem": "The weight percent of sodium hydroxide dissolved in water is 50%. What is the mole fraction of sodium hydroxide?"
+    }
+  ]
+}

@@ -1,0 +1,3873 @@
+{
+  "subjectId": "chemistry",
+  "source": {
+    "name": "ASTRA chemistry practice set",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "che-pe-101",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "easy",
+      "stem": "Dobereiner arranged chemically similar elements into sets of three that he called",
+      "options": [
+        "octaves",
+        "triads",
+        "periods",
+        "blocks"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each Dobereiner triad contains three related elements, with the middle one intermediate in properties.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-102",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "easy",
+      "stem": "In a Dobereiner triad the atomic mass of the middle element is approximately",
+      "options": [
+        "the product of the other two atomic masses",
+        "the arithmetic mean of the other two atomic masses",
+        "twice the atomic mass of the lightest member",
+        "equal to the atomic number of the heaviest member"
+      ],
+      "answerIndex": 1,
+      "explanation": "The middle atomic mass is close to the average of the first and third members.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-103",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "easy",
+      "stem": "Newlands noticed that every eighth element resembled the first and named this regularity the",
+      "options": [
+        "law of octaves",
+        "law of triads",
+        "modern periodic law",
+        "octet rule of Lewis"
+      ],
+      "answerIndex": 0,
+      "explanation": "He compared the repeating chemical likeness to the octaves of a musical scale.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-104",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "easy",
+      "stem": "Newlands' arrangement gave a useful resemblance of properties only as far as the element",
+      "options": [
+        "helium",
+        "calcium",
+        "iron",
+        "iodine"
+      ],
+      "answerIndex": 1,
+      "explanation": "Beyond calcium the octave pattern broke down as many new elements were fitted in.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-105",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "easy",
+      "stem": "Mendeleev's periodic law stated that the properties of elements are a periodic function of their",
+      "options": [
+        "atomic numbers",
+        "atomic masses",
+        "mass numbers only",
+        "neutron counts"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mendeleev ordered the then-known elements by increasing atomic mass and found a repeating pattern.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-106",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "easy",
+      "stem": "A distinctive feature of Mendeleev's table was that he",
+      "options": [
+        "placed isotopes in separate groups",
+        "left vacant places for elements still undiscovered",
+        "arranged elements strictly by atomic number",
+        "refused to predict any new element"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gaps such as those for eka-aluminium and eka-silicon were later filled by gallium and germanium.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-107",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "easy",
+      "stem": "A recognised limitation of Mendeleev's classification is the uncertain position of",
+      "options": [
+        "alkali metals",
+        "isotopes of the same element",
+        "halogens",
+        "alkaline earth metals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Isotopes have different atomic masses but identical chemistry, so a mass-based table cannot place them uniquely.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-108",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "medium",
+      "stem": "The element Mendeleev called eka-aluminium was later isolated and named",
+      "options": [
+        "scandium",
+        "gallium",
+        "germanium",
+        "silicon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Eka-aluminium occupies the place under aluminium and matches gallium in properties and atomic mass.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-109",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "medium",
+      "stem": "Eka-silicon of Mendeleev's table corresponds to the later-discovered element",
+      "options": [
+        "tin",
+        "lead",
+        "germanium",
+        "carbon"
+      ],
+      "answerIndex": 2,
+      "explanation": "Germanium fills the gap Mendeleev left beneath silicon and agrees with his predicted properties.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-110",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "medium",
+      "stem": "Tellurium was placed before iodine in Mendeleev's table even though Te has the greater atomic mass so that",
+      "options": [
+        "tellurium would sit with the noble gases",
+        "chemically similar elements remained in the same group",
+        "iodine would have a lower atomic number",
+        "the table would contain only eight periods"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chemical analogy (Te with O, S, Se; I with F, Cl, Br) was given priority over a strict mass sequence.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-111",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "medium",
+      "stem": "In the triad lithium–sodium–potassium the atomic mass of sodium is close to",
+      "options": [
+        "the difference of the atomic masses of Li and K",
+        "the mean of the atomic masses of lithium and potassium",
+        "twice the atomic mass of potassium",
+        "the atomic number of lithium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Li (7), Na (23) and K (39) illustrate Dobereiner's mean-mass rule for a triad.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-112",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "historical-classification",
+      "difficulty": "hard",
+      "stem": "Argon (atomic mass about 40) sits before potassium (about 39) in the older table because",
+      "options": [
+        "argon has the smaller atomic number, which Mendeleev already used",
+        "chemical properties forced the placement; atomic number later justified it",
+        "potassium is a noble gas",
+        "argon has fewer neutrons than potassium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mass inversion of the Ar–K pair is an anomalous pair of Mendeleev's table, resolved by Moseley's atomic-number order.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-113",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "The modern periodic law states that properties of elements are a periodic function of their",
+      "options": [
+        "atomic masses",
+        "atomic numbers",
+        "mass numbers",
+        "neutron-to-proton ratios"
+      ],
+      "answerIndex": 1,
+      "explanation": "After Moseley, atomic number Z replaced atomic mass as the classifying index.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-114",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "Henry Moseley's X-ray studies showed that the correct basis for classifying elements is",
+      "options": [
+        "atomic mass",
+        "atomic number",
+        "density",
+        "atomic volume"
+      ],
+      "answerIndex": 1,
+      "explanation": "The frequency of characteristic X-rays varies regularly with Z, not with A.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-115",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "The long form of the periodic table is constructed primarily on the basis of",
+      "options": [
+        "atomic volumes of Lothar Meyer",
+        "electronic configurations of the elements",
+        "boiling points only",
+        "natural abundances"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each period begins when a new principal shell starts to fill and ends at a noble-gas configuration.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-116",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "In the long form of the periodic table the number of vertical groups is",
+      "options": [
+        "seven",
+        "eight",
+        "sixteen",
+        "eighteen"
+      ],
+      "answerIndex": 3,
+      "explanation": "IUPAC numbers the groups from 1 to 18 in the 18-column table.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-117",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "The long form of the periodic table contains how many horizontal periods?",
+      "options": [
+        "five",
+        "six",
+        "seven",
+        "eighteen"
+      ],
+      "answerIndex": 2,
+      "explanation": "Periods 1 to 7 run from hydrogen to the heaviest known elements.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-118",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "A horizontal row of the periodic table is called a",
+      "options": [
+        "group",
+        "period",
+        "block",
+        "family of isotopes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Elements in one period have the same valence principal quantum number.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-119",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "A vertical column of the periodic table is called a",
+      "options": [
+        "period",
+        "group",
+        "series of isobars",
+        "shell"
+      ],
+      "answerIndex": 1,
+      "explanation": "A group collects elements with the same valence-shell configuration and similar chemistry.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-120",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "Elements of one group show similar chemical properties mainly because they have",
+      "options": [
+        "the same mass number",
+        "the same valence-shell electronic configuration",
+        "identical atomic radii",
+        "the same number of neutrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Valence configuration repeats down a group (for example ns¹ for alkali metals).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-121",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "The period number of an element equals the",
+      "options": [
+        "number of valence electrons",
+        "principal quantum number of its valence shell",
+        "atomic number divided by two",
+        "group number in every case"
+      ],
+      "answerIndex": 1,
+      "explanation": "Period 3 elements have n = 3 as the outer shell, period 4 have n = 4, and so on.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-122",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "easy",
+      "stem": "IUPAC temporary names for elements with Z greater than 100 are built from",
+      "options": [
+        "the discoverer's surname only",
+        "Latin roots of the digits of the atomic number",
+        "the atomic mass rounded to an integer",
+        "the name of the mineral in which they occur"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each digit 0–9 has a Latin stem (nil, un, bi, …) so Z = 107 is unnilseptium until a permanent name is approved.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-123",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "medium",
+      "stem": "Isotopes of one element occupy a single position in the modern table because they share the",
+      "options": [
+        "mass number",
+        "atomic number",
+        "neutron number",
+        "atomic mass exactly"
+      ],
+      "answerIndex": 1,
+      "explanation": "The modern law uses Z; isotopes differ in N and A but not in Z or chemistry.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-124",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "medium",
+      "stem": "The argon–potassium pair is placed in the order Ar then K once elements are arranged by",
+      "options": [
+        "atomic mass",
+        "atomic number",
+        "density",
+        "atomic volume"
+      ],
+      "answerIndex": 1,
+      "explanation": "Z(Ar) = 18 and Z(K) = 19, so the modern sequence matches chemical groups even though A(Ar) > A(K).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-125",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "medium",
+      "stem": "A group-2 (alkaline earth) atom has how many valence electrons in the ns subshell?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "eight"
+      ],
+      "answerIndex": 1,
+      "explanation": "The configuration ends in ns², so the group number in the s-block equals the valence-electron count.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-126",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "medium",
+      "stem": "Lanthanoids and actinoids are written as two separate rows beneath the main table so that",
+      "options": [
+        "they are excluded from the periodic law",
+        "the 18-column long form remains compact",
+        "they can be treated as noble gases",
+        "their atomic numbers can be ignored"
+      ],
+      "answerIndex": 1,
+      "explanation": "Inserting fourteen extra cells into periods 6 and 7 would make those rows awkwardly wide.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-127",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "medium",
+      "stem": "The fourteen lanthanoids still belong chemically to which period of the long form table?",
+      "options": [
+        "period 4",
+        "period 5",
+        "period 6",
+        "period 7"
+      ],
+      "answerIndex": 2,
+      "explanation": "They follow lanthanum in period 6; actinoids similarly belong to period 7.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-128",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "modern-law-table",
+      "difficulty": "hard",
+      "stem": "Moseley found that the square root of the characteristic X-ray frequency varies linearly with atomic number as $\\sqrt{\\nu}=a(Z-b)$. This showed that",
+      "options": [
+        "atomic mass is still the fundamental index",
+        "Z, not A, is the property that orders the elements",
+        "neutrons determine chemical behaviour",
+        "X-rays arise from valence-shell jumps only"
+      ],
+      "answerIndex": 1,
+      "explanation": "A plot of $\\sqrt{\\nu}$ against Z is a straight line; plots against atomic mass are irregular, so Z is the true periodic argument.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-129",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Alkali metals and alkaline earth metals together constitute the",
+      "options": [
+        "p-block",
+        "s-block",
+        "d-block",
+        "f-block"
+      ],
+      "answerIndex": 1,
+      "explanation": "Their differentiating electron enters the ns subshell (groups 1 and 2).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-130",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "The p-block of the long form table begins at boron and ends at",
+      "options": [
+        "the alkaline earth metals",
+        "the noble gases of each period",
+        "the lanthanoids",
+        "hydrogen only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Groups 13–18 are p-block; the last member of each of these periods is a noble gas.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-131",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "d-block elements are those whose differentiating electron enters a",
+      "options": [
+        "ns subshell",
+        "np subshell",
+        "penultimate (n−1)d subshell",
+        "(n−2)f subshell"
+      ],
+      "answerIndex": 2,
+      "explanation": "That is the definition of the transition series occupying groups 3–12.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-132",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Lanthanoids and actinoids together constitute the",
+      "options": [
+        "s-block",
+        "p-block",
+        "d-block",
+        "f-block"
+      ],
+      "answerIndex": 3,
+      "explanation": "Their differentiating electron enters the (n−2)f subshell; they are the inner transition elements.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-133",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Hydrogen and helium are the only two members of the",
+      "options": [
+        "second period",
+        "first period",
+        "d-block",
+        "halogen family"
+      ],
+      "answerIndex": 1,
+      "explanation": "Period 1 fills the 1s subshell and therefore contains just H and He.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-134",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "A short period of eight members starts at lithium and ends at",
+      "options": [
+        "argon",
+        "neon",
+        "sodium",
+        "fluorine"
+      ],
+      "answerIndex": 1,
+      "explanation": "Period 2 fills 2s and 2p (2 + 6 = 8 elements) from Li to Ne.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-135",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Sodium through argon form the second short period, matching the length of the",
+      "options": [
+        "lithium–neon row",
+        "potassium–krypton row",
+        "scandium–zinc row",
+        "cerium–lutetium row"
+      ],
+      "answerIndex": 0,
+      "explanation": "Period 3 also has eight elements (3s and 3p); 3d is not yet available.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-136",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Filling of 4s, 3d and 4p subshells produces the first long period of",
+      "options": [
+        "eight elements",
+        "ten elements",
+        "eighteen elements",
+        "thirty-two elements"
+      ],
+      "answerIndex": 2,
+      "explanation": "2 + 10 + 6 = 18 elements from potassium to krypton.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-137",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Group 1 elements other than hydrogen are collectively called",
+      "options": [
+        "alkaline earth metals",
+        "alkali metals",
+        "chalcogens",
+        "pnictogens"
+      ],
+      "answerIndex": 1,
+      "explanation": "Li, Na, K, Rb, Cs and Fr are the alkali metals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-138",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Beryllium, magnesium, calcium, strontium, barium and radium are the",
+      "options": [
+        "alkali metals",
+        "alkaline earth metals",
+        "halogens",
+        "coinage metals"
+      ],
+      "answerIndex": 1,
+      "explanation": "They form group 2 and have the valence configuration ns².",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-139",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Fluorine, chlorine, bromine, iodine and astatine belong to the",
+      "options": [
+        "noble-gas family",
+        "halogen family",
+        "alkali-metal family",
+        "coinage-metal family"
+      ],
+      "answerIndex": 1,
+      "explanation": "Group 17 elements are the halogens (salt-formers).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-140",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "easy",
+      "stem": "Neon, argon, krypton, xenon and radon occupy the",
+      "options": [
+        "first vertical column",
+        "last vertical column of the long form table",
+        "f-block",
+        "middle of the d-block"
+      ],
+      "answerIndex": 1,
+      "explanation": "They are the noble gases of group 18 (helium is also placed there).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-141",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "medium",
+      "stem": "Main-group (representative) elements are those belonging to the",
+      "options": [
+        "d-block only",
+        "s- and p-blocks",
+        "f-block only",
+        "inner transition series"
+      ],
+      "answerIndex": 1,
+      "explanation": "s- and p-block elements have their last electron in an ns or np orbital and show the classic group valences.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-142",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "medium",
+      "stem": "An element is classed as a transition metal if it has an incomplete d subshell in the",
+      "options": [
+        "nucleus",
+        "free atom or in any of its common ions",
+        "noble-gas core only",
+        "f subshell exclusively"
+      ],
+      "answerIndex": 1,
+      "explanation": "IUPAC uses the incomplete-(n−1)d criterion; Zn²⁺ (d¹⁰) is often set aside as a typical transition ion.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-143",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "medium",
+      "stem": "Inner transition metals are distinguished from the d-block by the filling of an",
+      "options": [
+        "ns subshell",
+        "np subshell",
+        "f subshell",
+        "1s subshell"
+      ],
+      "answerIndex": 2,
+      "explanation": "Lanthanoids fill 4f and actinoids fill 5f, so they are the f-block (inner transition) series.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-144",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "medium",
+      "stem": "Including the fourteen lanthanoids, the sixth period contains",
+      "options": [
+        "eight elements",
+        "eighteen elements",
+        "thirty-two elements",
+        "ten elements"
+      ],
+      "answerIndex": 2,
+      "explanation": "Period 6 fills 6s, 4f, 5d and 6p: 2 + 14 + 10 + 6 = 32.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-145",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "medium",
+      "stem": "Boron heads group 13; the remaining members of that group are best described as",
+      "options": [
+        "noble gases",
+        "metals",
+        "halogens",
+        "actinoids"
+      ],
+      "answerIndex": 1,
+      "explanation": "Al, Ga, In and Tl are metals; boron is the non-metallic/metalloid head of the group.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-146",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "medium",
+      "stem": "Helium is placed with the noble gases even though its configuration is $1s^{2}$ because",
+      "options": [
+        "it has an incomplete p subshell",
+        "it has a closed shell and is chemically inert",
+        "it is an alkali metal",
+        "its atomic number is eighteen"
+      ],
+      "answerIndex": 1,
+      "explanation": "A filled 1s shell gives helium the noble-gas chemistry of group 18, not the s-block reactivity of group 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-147",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "hard",
+      "stem": "The fourth period contains eighteen elements because the subshells that fill in that period are",
+      "options": [
+        "4s and 4p only",
+        "4s, 3d and 4p",
+        "5s, 4d and 5p",
+        "4f and 5d only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Capacity 2 + 10 + 6 = 18; 4f is not occupied until period 6.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-148",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periods-groups-blocks",
+      "difficulty": "hard",
+      "stem": "The f-block is printed below the main table because inserting the fourteen lanthanoids into period 6 would",
+      "options": [
+        "violate the modern periodic law",
+        "make that row awkwardly wide",
+        "change their atomic numbers",
+        "turn them into s-block metals"
+      ],
+      "answerIndex": 1,
+      "explanation": "The two-row footnote is a display convention; chemically the lanthanoids still belong in period 6.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-149",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "On moving from left to right across a period, the atomic radius of the elements generally",
+      "options": [
+        "increases",
+        "decreases",
+        "remains exactly constant",
+        "becomes infinite"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rising effective nuclear charge pulls the same-shell electrons inward, so the atom shrinks.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-150",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "On descending a group, the atomic radius of the elements generally",
+      "options": [
+        "decreases",
+        "increases",
+        "becomes zero",
+        "is independent of the new shell"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each step down adds a principal shell, which outweighs the extra nuclear charge.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-151",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "A cation is always smaller than the parent atom from which it is formed because",
+      "options": [
+        "a new shell is added",
+        "electrons are lost and the remaining cloud is held more tightly",
+        "nuclear charge decreases",
+        "the ion gains extra shielding"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fewer electrons and a higher Zeff/electron ratio contract the ion relative to the atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-152",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "An anion is always larger than the parent atom from which it is formed because",
+      "options": [
+        "nuclear charge increases",
+        "extra electrons raise inter-electronic repulsion and the cloud expands",
+        "a shell is completely removed",
+        "the ion has fewer electrons than the atom"
+      ],
+      "answerIndex": 1,
+      "explanation": "The added electron(s) swell the electron cloud, so r(anion) > r(atom).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-153",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "The covalent radius of an atom is half the internuclear distance in a",
+      "options": [
+        "heteronuclear ionic crystal",
+        "homonuclear single-bonded molecule",
+        "van der Waals contact between two non-bonded atoms",
+        "metallic unit cell only"
+      ],
+      "answerIndex": 1,
+      "explanation": "In Cl₂, for example, r(cov) = ½ d(Cl–Cl).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-154",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "For the same element the van der Waals radius compared with the covalent radius is",
+      "options": [
+        "smaller",
+        "larger",
+        "exactly equal",
+        "undefined"
+      ],
+      "answerIndex": 1,
+      "explanation": "van der Waals contact is a non-bonded approach, so the apparent radius is greater than the bonded covalent radius.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-155",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "The steady rise of effective nuclear charge across a period pulls the electron cloud inward and therefore",
+      "options": [
+        "expands the atom",
+        "shrinks the atom",
+        "adds a new shell",
+        "creates an anion"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zeff increases left to right while n stays the same, so atomic size falls.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-156",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "Addition of a new principal shell is the main reason atomic size",
+      "options": [
+        "falls across a period",
+        "grows down a group",
+        "is identical for all metals",
+        "vanishes for noble gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "The extra shell lies farther from the nucleus, so group radii increase top to bottom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-157",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "Metallic radius is half the distance between neighbouring nuclei in a",
+      "options": [
+        "gaseous homonuclear molecule",
+        "metallic crystal",
+        "van der Waals dimer",
+        "hydrated ion"
+      ],
+      "answerIndex": 1,
+      "explanation": "It is the radius used for metals in the close-packed or body-centred lattice.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-158",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "Isoelectronic species are atoms or ions that contain",
+      "options": [
+        "the same number of protons",
+        "the same number of electrons",
+        "the same mass number",
+        "identical nuclear charges"
+      ],
+      "answerIndex": 1,
+      "explanation": "N³⁻, O²⁻, F⁻, Ne, Na⁺ and Mg²⁺ are a familiar isoelectronic set (10 electrons).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-159",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "In an isoelectronic series the ionic radius falls as the",
+      "options": [
+        "nuclear charge falls",
+        "nuclear charge rises",
+        "mass number falls",
+        "neutron count rises"
+      ],
+      "answerIndex": 1,
+      "explanation": "More protons pull the same number of electrons more tightly, so size decreases with Z.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-160",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "The fluoride ion is larger than a neutral fluorine atom because of",
+      "options": [
+        "loss of the 2p electron",
+        "extra electron–electron repulsion in F⁻",
+        "a decrease in nuclear charge",
+        "lanthanoid contraction"
+      ],
+      "answerIndex": 1,
+      "explanation": "Adding one electron to F expands the 2p cloud, so r(F⁻) > r(F).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-161",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "easy",
+      "stem": "Sodium ion is smaller than a sodium atom because",
+      "options": [
+        "a 3p electron is added",
+        "the entire 3s electron has been removed",
+        "nuclear charge of Na⁺ is smaller",
+        "Na⁺ has one extra shell"
+      ],
+      "answerIndex": 1,
+      "explanation": "Na is [Ne] 3s¹; Na⁺ is a compact neon-like core with higher Zeff per electron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-162",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "medium",
+      "stem": "Among Li, Na, K and Rb, the atom with the largest covalent radius is",
+      "options": [
+        "lithium",
+        "sodium",
+        "potassium",
+        "rubidium"
+      ],
+      "answerIndex": 3,
+      "explanation": "Size increases down group 1 as extra shells are added; Rb is the heaviest of the four.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-163",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "medium",
+      "stem": "Among Na, Mg, Al and Si, the smallest atomic radius belongs to",
+      "options": [
+        "sodium",
+        "magnesium",
+        "aluminium",
+        "silicon"
+      ],
+      "answerIndex": 3,
+      "explanation": "Across period 3, Zeff rises and size falls, so Si is the smallest of this set.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-164",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "medium",
+      "stem": "The correct order of ionic radii is",
+      "options": [
+        "Mg²⁺ > Na⁺ > F⁻ > O²⁻",
+        "O²⁻ > F⁻ > Na⁺ > Mg²⁺",
+        "Na⁺ > O²⁻ > F⁻ > Mg²⁺",
+        "F⁻ > O²⁻ > Mg²⁺ > Na⁺"
+      ],
+      "answerIndex": 1,
+      "explanation": "These four ions are isoelectronic (10 e⁻); radius falls as Z rises from 8 (O) to 12 (Mg).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-165",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "medium",
+      "stem": "Gallium has an atomic radius close to that of aluminium because of",
+      "options": [
+        "a sudden drop in nuclear charge",
+        "the intervening 3d contraction",
+        "lanthanoid contraction in period 4",
+        "the absence of a 4p subshell"
+      ],
+      "answerIndex": 1,
+      "explanation": "Poorly shielding 3d¹⁰ electrons raise Zeff on Ga and cancel the expected size increase down the group.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-166",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "medium",
+      "stem": "Among the isoelectronic set S²⁻, Cl⁻, K⁺ and Ca²⁺, the smallest species is",
+      "options": [
+        "S²⁻",
+        "Cl⁻",
+        "K⁺",
+        "Ca²⁺"
+      ],
+      "answerIndex": 3,
+      "explanation": "All have 18 electrons; Ca²⁺ has the largest nuclear charge (Z = 20) and therefore the most contracted cloud.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-167",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "medium",
+      "stem": "The covalent radius of silicon is larger than that of carbon because silicon",
+      "options": [
+        "has fewer electrons",
+        "has one extra principal shell",
+        "has a greater Zeff in the same shell",
+        "is a halogen"
+      ],
+      "answerIndex": 1,
+      "explanation": "C is period 2 and Si is period 3; the added n = 3 shell makes Si larger.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-168",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "medium",
+      "stem": "The size order Li⁺ > Be²⁺ > B³⁺ holds because",
+      "options": [
+        "electron count rises along the series",
+        "nuclear charge rises while the electron count stays two",
+        "a new shell is added at each step",
+        "these ions are not isoelectronic"
+      ],
+      "answerIndex": 1,
+      "explanation": "All three are 1s² species; higher Z pulls the same two electrons closer.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-169",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "hard",
+      "stem": "Zirconium and hafnium have nearly identical atomic radii because of",
+      "options": [
+        "alkali-metal contraction",
+        "lanthanoid contraction",
+        "an extra 4s shell on Hf",
+        "a fall in Z from Zr to Hf"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 14 poorly shielding 4f electrons inserted before Hf shrink it so that r(Hf) ≈ r(Zr).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-170",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "atomic-ionic-radius",
+      "difficulty": "hard",
+      "stem": "Fe²⁺ is larger than Fe³⁺ because removal of an extra electron",
+      "options": [
+        "adds a new shell",
+        "raises Zeff and shrinks the remaining 3d cloud",
+        "lowers the nuclear charge",
+        "converts iron into a noble gas"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both ions are iron, but Fe³⁺ has fewer electrons and a higher charge density, so it is the smaller cation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-171",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "Ionisation enthalpy is the energy needed to remove an electron from an isolated gaseous atom in its",
+      "options": [
+        "first excited state only",
+        "ground state",
+        "metallic crystal",
+        "aqueous solution"
+      ],
+      "answerIndex": 1,
+      "explanation": "The textbook definition uses the ground-state gaseous atom: M(g) → M⁺(g) + e⁻.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-172",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "The first ionisation enthalpy refers to removal of an electron from the",
+      "options": [
+        "uninegative ion",
+        "neutral gaseous atom",
+        "dipositive cation",
+        "solid metal lattice"
+      ],
+      "answerIndex": 1,
+      "explanation": "IE₁ is for M(g); IE₂ is for M⁺(g), and so on.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-173",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "First ionisation enthalpy generally increases from left to right across a",
+      "options": [
+        "group",
+        "period",
+        "f-block row only",
+        "set of isotopes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zeff rises and size falls across a period, so the outer electron is harder to remove.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-174",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "First ionisation enthalpy generally decreases from top to bottom in a",
+      "options": [
+        "period",
+        "group",
+        "isoelectronic pair",
+        "triad of identical Z"
+      ],
+      "answerIndex": 1,
+      "explanation": "The valence electron is farther from the nucleus and more shielded in the heavier congener.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-175",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "Ionisation enthalpies of elements are commonly expressed in",
+      "options": [
+        "kelvin",
+        "kilojoules per mole",
+        "atmospheres",
+        "cubic centimetres"
+      ],
+      "answerIndex": 1,
+      "explanation": "TSBIE tables quote ΔᵢH in kJ mol⁻¹ (sometimes also in eV per atom).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-176",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "Noble gases have exceptionally high ionisation enthalpies because of their",
+      "options": [
+        "half-filled d subshells",
+        "closed-shell configurations",
+        "very large atomic radii",
+        "metallic bonding"
+      ],
+      "answerIndex": 1,
+      "explanation": "A complete ns² np⁶ (or 1s² for He) set is especially stable, so removal of an electron costs a lot of energy.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-177",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "In any period the alkali metal has the",
+      "options": [
+        "highest first ionisation enthalpy",
+        "lowest first ionisation enthalpy",
+        "same IE as the noble gas",
+        "negative ionisation enthalpy"
+      ],
+      "answerIndex": 1,
+      "explanation": "The single ns¹ electron is large, weakly held and easily lost.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-178",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "The second ionisation enthalpy of an element compared with its first is always",
+      "options": [
+        "smaller",
+        "larger",
+        "equal",
+        "negative"
+      ],
+      "answerIndex": 1,
+      "explanation": "The second electron is taken from a already positive ion, so IE₂ > IE₁ in every case.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-179",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "Metals typically have lower ionisation enthalpies than the non-metals of the",
+      "options": [
+        "same group only",
+        "same period",
+        "f-block exclusively",
+        "gaseous state only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Left-hand (metallic) elements are larger and have smaller Zeff, so they lose electrons more readily.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-180",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "Inner-electron screening reduces the effective nuclear charge and thereby",
+      "options": [
+        "raises ionisation enthalpy",
+        "lowers ionisation enthalpy",
+        "creates a new period",
+        "removes the nucleus"
+      ],
+      "answerIndex": 1,
+      "explanation": "A well-shielded valence electron feels less pull and is easier to remove.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-181",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "A smaller atomic radius generally corresponds to a",
+      "options": [
+        "lower ionisation enthalpy",
+        "higher ionisation enthalpy",
+        "zero ionisation enthalpy",
+        "negative electron count"
+      ],
+      "answerIndex": 1,
+      "explanation": "The outer electron is closer to the nucleus and more tightly bound in a smaller atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-182",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "Successive ionisation enthalpies of an atom increase because the cation left behind",
+      "options": [
+        "holds its remaining electrons more tightly",
+        "gains a new shell",
+        "becomes electrically neutral",
+        "has a smaller nuclear charge"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each removal raises the charge on the ion and shrinks the cloud, so the next IE is larger.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-183",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "The process whose enthalpy change is the first ionisation enthalpy is",
+      "options": [
+        "$\\mathrm{M}^{+}(g)+e^{-}\\rightarrow \\mathrm{M}(g)$",
+        "$\\mathrm{M}(g)\\rightarrow \\mathrm{M}^{+}(g)+e^{-}$",
+        "$\\mathrm{M}(g)+e^{-}\\rightarrow \\mathrm{M}^{-}(g)$",
+        "$\\mathrm{M}(s)\\rightarrow \\mathrm{M}(g)$"
+      ],
+      "answerIndex": 1,
+      "explanation": "IE₁ is defined for the isolated gaseous atom losing one electron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-184",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "easy",
+      "stem": "Among the period-2 elements, the highest first ionisation enthalpy belongs to",
+      "options": [
+        "lithium",
+        "fluorine",
+        "neon",
+        "carbon"
+      ],
+      "answerIndex": 2,
+      "explanation": "Neon is the noble gas of that period and has the most tightly held closed-shell electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-185",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "medium",
+      "stem": "Beryllium has a higher first ionisation enthalpy than boron because Be has a",
+      "options": [
+        "half-filled 2p set",
+        "filled 2s subshell",
+        "larger atomic radius than Li",
+        "vacant 1s orbital"
+      ],
+      "answerIndex": 1,
+      "explanation": "Removing an electron from stable 2s² (Be) costs more than removing the single 2p electron of B.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-186",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "medium",
+      "stem": "Nitrogen has a higher first ionisation enthalpy than oxygen because N has a",
+      "options": [
+        "filled 2s² 2p⁶ shell",
+        "half-filled 2p³ set",
+        "larger nuclear charge than O",
+        "d-orbital vacancy"
+      ],
+      "answerIndex": 1,
+      "explanation": "The extra stability of half-filled 2p³ outweighs the one-unit rise in Z from N to O.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-187",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "medium",
+      "stem": "Magnesium shows a higher first ionisation enthalpy than aluminium, an exception similar to",
+      "options": [
+        "Na versus Ar",
+        "Be versus B",
+        "F versus Ne",
+        "K versus Ca"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mg (3s²) is harder to ionise than Al (3p¹), just as Be (2s²) is harder than B (2p¹).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-188",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "medium",
+      "stem": "Phosphorus has a higher first ionisation enthalpy than sulphur because of the extra stability of the",
+      "options": [
+        "filled 3s² 3p⁶ set",
+        "half-filled 3p³ configuration",
+        "empty 3d subshell of S",
+        "metallic bond in phosphorus"
+      ],
+      "answerIndex": 1,
+      "explanation": "P is 3p³; the paired 3p⁴ electron of S is easier to remove, so IE(P) > IE(S).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-189",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "medium",
+      "stem": "Between lithium and beryllium, beryllium has the greater first ionisation enthalpy because of its",
+      "options": [
+        "lower Zeff and 2p¹ configuration",
+        "higher Zeff and 2s² configuration",
+        "much larger radius",
+        "noble-gas core of argon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Be is smaller, has one extra proton and a filled 2s pair, so IE₁(Be) > IE₁(Li).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-190",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "medium",
+      "stem": "The second ionisation enthalpy of sodium is very large because the second electron must be taken from the",
+      "options": [
+        "3s¹ valence orbital",
+        "neon-like 2p⁶ core",
+        "4s subshell",
+        "empty 3d set"
+      ],
+      "answerIndex": 1,
+      "explanation": "After loss of 3s¹, Na⁺ is isoelectronic with Ne; breaking that closed shell requires a large IE₂.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-191",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "medium",
+      "stem": "First ionisation enthalpy falls in the order Li > Na > K because",
+      "options": [
+        "nuclear charge falls down the group",
+        "atomic size increases down the group",
+        "the number of valence electrons increases",
+        "they become noble gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ns¹ electron is farther from the nucleus and more shielded in Na and K than in Li.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-192",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "hard",
+      "stem": "Although oxygen has a higher nuclear charge than nitrogen, its first ionisation enthalpy is lower because",
+      "options": [
+        "oxygen has the larger atomic radius",
+        "the extra electron in 2p⁴ is paired and is easier to remove",
+        "nitrogen has a filled 2p⁶ shell",
+        "oxygen lacks a 2s subshell"
+      ],
+      "answerIndex": 1,
+      "explanation": "Size would suggest IE(O) > IE(N), but pairing repulsion in 2p⁴ reverses the trend.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-193",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "hard",
+      "stem": "Boron has a lower first ionisation enthalpy than beryllium even though B is smaller, because",
+      "options": [
+        "the 2p electron of B is shielded by 2s² and is easier to remove than a 2s electron of Be",
+        "boron has a noble-gas configuration",
+        "beryllium has a half-filled 2p set",
+        "nuclear charge falls from Be to B"
+      ],
+      "answerIndex": 0,
+      "explanation": "The two trends conflict: smaller size would raise IE, but the change of subshell (2s → 2p) lowers it, and the subshell effect wins.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-194",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "ionization-enthalpy",
+      "difficulty": "hard",
+      "stem": "For magnesium, the jump between IE₂ and IE₃ is much larger than between IE₁ and IE₂ because the third electron",
+      "options": [
+        "comes from the 3s subshell",
+        "comes from the neon core",
+        "is a 3p electron of Al",
+        "enters a 4s orbital"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mg is 3s², so IE₁ and IE₂ remove valence electrons; IE₃ must break the 2p⁶ core and is therefore very large.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-195",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "Electron gain enthalpy is the enthalpy change when an electron is added to a neutral gaseous atom to form a",
+      "options": [
+        "cation",
+        "uninegative ion",
+        "crystal lattice",
+        "hydrated proton"
+      ],
+      "answerIndex": 1,
+      "explanation": "The defining process is X(g) + e⁻ → X⁻(g); ΔegH is usually negative when energy is released.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-196",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "A more negative electron gain enthalpy means a greater tendency of the atom to",
+      "options": [
+        "lose a proton",
+        "accept an electron",
+        "form a cation",
+        "expand its nucleus"
+      ],
+      "answerIndex": 1,
+      "explanation": "The more energy released on adding an electron, the more favourable the gain.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-197",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "Halogens have the most negative electron gain enthalpies in their respective periods because they",
+      "options": [
+        "have empty valence shells",
+        "are one electron short of a noble-gas configuration",
+        "are the largest atoms of the period",
+        "cannot form anions"
+      ],
+      "answerIndex": 1,
+      "explanation": "Adding one electron completes ns² np⁶ and releases a large amount of energy.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-198",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "Noble-gas atoms have positive electron gain enthalpies because the extra electron must",
+      "options": [
+        "pair in a half-filled p set",
+        "enter a new shell",
+        "remove a proton",
+        "form a metallic bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "The incoming electron is added to a higher-n orbital against a closed shell, so energy must be supplied.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-199",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "Electron gain enthalpy generally becomes more negative on moving from left to right in a",
+      "options": [
+        "group",
+        "period",
+        "set of isotopes",
+        "metallic crystal"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zeff rises and the vacancy is closer to the nucleus, so electron attachment is more exothermic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-200",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "On moving down a halogen group, electron gain enthalpy generally becomes less negative after",
+      "options": [
+        "fluorine",
+        "chlorine",
+        "astatine",
+        "helium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cl has the most negative value; Br and I are less exothermic as the added electron is farther from the nucleus.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-201",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "Among the first two halogens, the more negative electron gain enthalpy belongs to",
+      "options": [
+        "fluorine",
+        "chlorine",
+        "neon",
+        "sodium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cl is more exothermic than F, a well-known exception to the simple down-group trend.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-202",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "The second electron gain enthalpy of an atom is always",
+      "options": [
+        "more negative than the first",
+        "positive",
+        "zero",
+        "equal to the first"
+      ],
+      "answerIndex": 1,
+      "explanation": "A negative ion must accept another electron, so energy is required and ΔegH₂ > 0.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-203",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "Conversion of O⁻(g) to O²⁻(g) is endothermic because a negative ion must",
+      "options": [
+        "lose two protons",
+        "accept another electron against its own charge",
+        "enter the 1s shell",
+        "become a cation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electron–electron repulsion in O⁻ makes the second attachment unfavourable; oxides form in the lattice, not as free O²⁻(g).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-204",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "easy",
+      "stem": "Electron affinity is often quoted as the negative of the",
+      "options": [
+        "ionisation enthalpy",
+        "electron gain enthalpy",
+        "electronegativity",
+        "atomic radius"
+      ],
+      "answerIndex": 1,
+      "explanation": "Many older tables list EA as a positive number equal to −ΔegH when attachment is exothermic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-205",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "medium",
+      "stem": "Fluorine has a less negative electron gain enthalpy than chlorine because the compact 2p cloud of F suffers",
+      "options": [
+        "almost no inter-electronic repulsion",
+        "strong electron–electron repulsion when an extra electron is added",
+        "a vacant 3d subshell",
+        "lanthanoid contraction"
+      ],
+      "answerIndex": 1,
+      "explanation": "The incoming electron is forced into a very small 2p orbital already crowded with electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-206",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "medium",
+      "stem": "Among F, Cl, Br and I, the most negative electron gain enthalpy belongs to",
+      "options": [
+        "fluorine",
+        "chlorine",
+        "bromine",
+        "iodine"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chlorine combines a high Zeff with a large enough 3p orbital to avoid the extreme repulsion seen in F.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-207",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "medium",
+      "stem": "Nitrogen has a near-zero or slightly positive electron gain enthalpy because its 2p subshell is already",
+      "options": [
+        "empty",
+        "half filled",
+        "completely filled",
+        "a d subshell"
+      ],
+      "answerIndex": 1,
+      "explanation": "Adding an electron to 2p³ forces pairing and destroys the half-filled stability, so attachment is unfavourable.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-208",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "medium",
+      "stem": "Beryllium and magnesium have unfavourable (near-zero or positive) electron gain enthalpies because they possess",
+      "options": [
+        "half-filled 2p sets",
+        "filled ns² subshells",
+        "incomplete 1s shells",
+        "seven valence electrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "The extra electron would have to enter a higher np orbital against a closed s pair.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-209",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "medium",
+      "stem": "Among carbon, nitrogen, oxygen and fluorine, the most negative electron gain enthalpy is that of",
+      "options": [
+        "carbon",
+        "nitrogen",
+        "oxygen",
+        "fluorine"
+      ],
+      "answerIndex": 3,
+      "explanation": "Fluorine is one electron short of neon and, despite the F/Cl anomaly, is still the most exothermic of this period-2 set.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-210",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electron-gain",
+      "difficulty": "hard",
+      "stem": "Chlorine outruns fluorine in electron gain enthalpy because the incoming electron enters a larger 3p orbital with less repulsion, even though fluorine has the",
+      "options": [
+        "lower electronegativity",
+        "higher electronegativity and higher Zeff",
+        "greater number of shells",
+        "smaller nuclear charge"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two trends compete: F is smaller and more electronegative, yet inter-electronic repulsion in the compact 2p cloud makes ΔegH(F) less negative than ΔegH(Cl).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-211",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "Electronegativity is the tendency of an atom in a chemical bond to attract the",
+      "options": [
+        "nucleus of the other atom",
+        "shared electron pair towards itself",
+        "entire molecule into the lattice",
+        "neutrons of the partner"
+      ],
+      "answerIndex": 1,
+      "explanation": "It is a bonded-atom property, not an isolated-atom energy.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-212",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "The most widely used numerical scale of electronegativity is the",
+      "options": [
+        "Mulliken scale only",
+        "Pauling scale",
+        "Celsius scale",
+        "Rydberg scale"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pauling assigned fluorine the value 4.0 and built the rest of the scale from bond-energy data.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-213",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "Fluorine is the most electronegative element, with a Pauling value of about",
+      "options": [
+        "1.0",
+        "2.1",
+        "3.0",
+        "4.0"
+      ],
+      "answerIndex": 3,
+      "explanation": "χ(F) = 4.0 is the reference maximum on the Pauling scale.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-214",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "Electronegativity of representative elements generally increases from left to right across a",
+      "options": [
+        "group",
+        "period",
+        "lanthanoid row only",
+        "set of isotopes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zeff rises and size falls, so the bonded atom pulls the shared pair more strongly.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-215",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "Electronegativity of representative elements generally decreases from top to bottom in a",
+      "options": [
+        "period",
+        "group",
+        "isoelectronic anion pair",
+        "triad of identical mass"
+      ],
+      "answerIndex": 1,
+      "explanation": "The bonding electrons are farther from the nucleus in the heavier congener.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-216",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "Among the alkali metals, the member with a particularly low electronegativity is",
+      "options": [
+        "lithium",
+        "sodium",
+        "caesium",
+        "beryllium"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cs is large and weakly attracting; it is one of the most electropositive metals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-217",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "Electronegativity is a bonding property of an atom in a molecule, not an isolated-atom energy like",
+      "options": [
+        "atomic number",
+        "ionisation enthalpy",
+        "mass number",
+        "neutron count"
+      ],
+      "answerIndex": 1,
+      "explanation": "IE and electron gain enthalpy refer to gaseous atoms or ions; χ is defined for an atom already in a bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-218",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "A large electronegativity difference between two bonded atoms favours",
+      "options": [
+        "pure covalent character",
+        "ionic character",
+        "metallic bonding only",
+        "no bond at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "The shared pair is strongly displaced toward the more electronegative atom, approaching ion formation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-219",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "After fluorine, the next most electronegative element is",
+      "options": [
+        "chlorine",
+        "oxygen",
+        "nitrogen",
+        "neon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pauling values: F (4.0) > O (3.5) > N ≈ Cl (about 3.0).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-220",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "easy",
+      "stem": "Metals are characterised by low electronegativity values compared with",
+      "options": [
+        "noble-gas cores",
+        "non-metals",
+        "their own cations only",
+        "neutrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Low χ and low IE together describe the electropositive, electron-losing behaviour of metals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-221",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "medium",
+      "stem": "Electronegativity falls in the order N > P > As because",
+      "options": [
+        "atomic size increases down group 15",
+        "nuclear charge falls down the group",
+        "they become alkali metals",
+        "the number of valence electrons decreases"
+      ],
+      "answerIndex": 0,
+      "explanation": "The bonded pair is held farther from the nucleus in the larger P and As atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-222",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "medium",
+      "stem": "In period 2 the electronegativity order is",
+      "options": [
+        "F < O < N < C",
+        "C < N < O < F",
+        "N < C < F < O",
+        "O < C < N < F"
+      ],
+      "answerIndex": 1,
+      "explanation": "χ rises steadily across the period as Zeff increases and radius falls.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-223",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "medium",
+      "stem": "Fluorine is more electronegative than chlorine, bromine and iodine because of its",
+      "options": [
+        "larger size and lower Zeff",
+        "small size and high effective nuclear charge",
+        "half-filled 3d subshell",
+        "metallic character"
+      ],
+      "answerIndex": 1,
+      "explanation": "The shared pair in an F–X bond sits closest to a compact, highly charged fluorine atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-224",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "medium",
+      "stem": "On the Mulliken scale, electronegativity is taken as the average of",
+      "options": [
+        "atomic radius and density",
+        "ionisation enthalpy and electron gain enthalpy (in suitable units)",
+        "mass number and atomic number",
+        "melting point and boiling point"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mulliken wrote χ ∝ (IE + EA)/2, combining the two isolated-atom energies that measure electron holding and accepting.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-225",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "medium",
+      "stem": "The H–F bond is more polar than the H–Cl bond because fluorine is",
+      "options": [
+        "less electronegative than chlorine",
+        "more electronegative than chlorine",
+        "larger than chlorine",
+        "a metal"
+      ],
+      "answerIndex": 1,
+      "explanation": "The greater χ(F) − χ(H) gap displaces the shared pair more strongly toward fluorine.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-226",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "electronegativity",
+      "difficulty": "hard",
+      "stem": "Fluorine outranks chlorine in electronegativity even though Cl has more protons, because the bonding pair in an F–X bond is",
+      "options": [
+        "farther from the F nucleus",
+        "much closer to the small, poorly shielded fluorine atom",
+        "held only by London forces",
+        "shared equally in every case"
+      ],
+      "answerIndex": 1,
+      "explanation": "Size and Zeff on the valence shell dominate χ; the extra protons of Cl are offset by an extra shielding shell.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-227",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "easy",
+      "stem": "Valence electrons of an atom are those present in its",
+      "options": [
+        "innermost shell",
+        "outermost shell",
+        "nucleus",
+        "neutron cloud"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chemical valence is decided by the electrons in the highest principal shell.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-228",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "easy",
+      "stem": "Alkali metals exhibit a characteristic valence of",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "seven"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each atom has a single ns¹ electron, which it loses (or shares) in compounds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-229",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "easy",
+      "stem": "Halogens commonly exhibit a valence of one, corresponding to the oxidation state",
+      "options": [
+        "+7 in every ionic salt",
+        "−1 in simple ionic compounds",
+        "+1 only",
+        "zero in all molecules"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gain of one electron completes the octet and gives X⁻ (fluoride, chloride, …).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-230",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "easy",
+      "stem": "The characteristic oxidation state of alkali metals in their compounds is",
+      "options": [
+        "−1",
+        "+1",
+        "+2",
+        "+7"
+      ],
+      "answerIndex": 1,
+      "explanation": "Loss of the single valence electron leaves a noble-gas cation M⁺.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-231",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "easy",
+      "stem": "For many p-block elements the highest oxidation state equals the",
+      "options": [
+        "number of neutrons",
+        "number of valence electrons (the old group number)",
+        "period number",
+        "mass number minus Z"
+      ],
+      "answerIndex": 1,
+      "explanation": "Group 15 can reach +5, group 16 +6 and group 17 +7 when all valence electrons are involved.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-232",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "easy",
+      "stem": "Carbon is tetravalent in the great majority of its stable compounds because it has",
+      "options": [
+        "two valence electrons",
+        "four valence electrons",
+        "six valence electrons",
+        "no valence electrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 2s² 2p² set provides four electrons for four covalent bonds (as in CH₄).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-233",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "easy",
+      "stem": "Transition metals are noted for showing",
+      "options": [
+        "only the oxidation state +1",
+        "variable oxidation states",
+        "no cations at all",
+        "a unique oxidation state of −4"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both ns and (n−1)d electrons can take part in bonding, so several OS are common.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-234",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "easy",
+      "stem": "In most of its compounds oxygen exhibits the oxidation state",
+      "options": [
+        "+2",
+        "−2",
+        "+6",
+        "0 only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oxygen is highly electronegative and usually completes its octet by gaining or sharing two electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-235",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "medium",
+      "stem": "Nitrogen can show oxidation states ranging from −3 in ammonia to +5 in",
+      "options": [
+        "nitrogen gas",
+        "nitric acid",
+        "hydrazine",
+        "the nitride ion"
+      ],
+      "answerIndex": 1,
+      "explanation": "HNO₃ and nitrates use all five valence electrons of N; NH₃ uses the −3 state.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-236",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "medium",
+      "stem": "Manganese attains its highest oxidation state of +7 in the",
+      "options": [
+        "manganous ion Mn²⁺",
+        "permanganate ion",
+        "manganese metal",
+        "MnO solid only"
+      ],
+      "answerIndex": 1,
+      "explanation": "In MnO₄⁻ the seven 4s and 3d electrons of Mn are all involved in bonding.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-237",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "medium",
+      "stem": "Sulphur can show the +6 state in SO₃, whereas oxygen rarely exceeds −2, because sulphur has",
+      "options": [
+        "a smaller size than oxygen",
+        "vacant 3d orbitals",
+        "fewer valence electrons",
+        "no p orbitals"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 3d orbitals of S allow expansion of the octet; second-period O cannot do this.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-238",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "medium",
+      "stem": "Chlorine exhibits odd positive oxidation states +1, +3, +5 and +7 in addition to",
+      "options": [
+        "+8",
+        "−1",
+        "−7",
+        "+2 only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The −1 state is the halide; the odd positive states appear in oxoacids and oxides as 3s and 3p (and 3d) electrons are unpaired.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-239",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "medium",
+      "stem": "Group-14 elements typically form tetravalent compounds, matching",
+      "options": [
+        "two valence electrons",
+        "four valence electrons",
+        "six valence electrons",
+        "a noble-gas vacancy of one"
+      ],
+      "answerIndex": 1,
+      "explanation": "The valence configuration ns² np² supplies four electrons for four bonds (CCl₄, SiCl₄, …).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-240",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "valence-ox-states",
+      "difficulty": "hard",
+      "stem": "Among the 3d metals, the highest oxidation state is +7, shown by manganese, equal to the total of its",
+      "options": [
+        "3p electrons only",
+        "4s and 3d electrons",
+        "4p electrons",
+        "neutrons in ⁵⁵Mn"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mn is 4s² 3d⁵; using all seven electrons gives Mn(VII) as in KMnO₄. Iron does not reach +8 in ordinary compounds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-241",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "easy",
+      "stem": "Metallic character of elements increases on moving",
+      "options": [
+        "across a period from left to right",
+        "down a group",
+        "from Cs to Li",
+        "from Na to Cl"
+      ],
+      "answerIndex": 1,
+      "explanation": "Size grows and IE falls down a group, so the atom loses electrons more readily.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-242",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "easy",
+      "stem": "Metallic character of elements decreases on moving from left to right across a",
+      "options": [
+        "group",
+        "period",
+        "set of isotopes",
+        "noble-gas family"
+      ],
+      "answerIndex": 1,
+      "explanation": "IE and electronegativity rise across a period, so electron loss becomes less favourable.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-243",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "easy",
+      "stem": "Metals tend to lose valence electrons and form",
+      "options": [
+        "anions",
+        "cations",
+        "noble-gas atoms of lower Z",
+        "free neutrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electropositive behaviour is the chemical signature of metallic character.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-244",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "easy",
+      "stem": "Non-metals tend to gain electrons and form anions or",
+      "options": [
+        "metallic lattices",
+        "covalent molecules",
+        "only monatomic cations",
+        "bare nuclei"
+      ],
+      "answerIndex": 1,
+      "explanation": "High IE and high electronegativity favour electron gain or sharing rather than cation formation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-245",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "easy",
+      "stem": "Metalloids show a mixture of",
+      "options": [
+        "only ionic bonding",
+        "metallic and non-metallic properties",
+        "no electrical conductivity ever",
+        "f-block chemistry only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Elements on the p-block staircase (B, Si, Ge, As, Sb, Te) are the usual metalloids.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-246",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "easy",
+      "stem": "In the third period the most metallic element is",
+      "options": [
+        "chlorine",
+        "silicon",
+        "sodium",
+        "argon"
+      ],
+      "answerIndex": 2,
+      "explanation": "Na stands at the left of period 3 and has the lowest IE of that row.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-247",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "easy",
+      "stem": "In the second period the most non-metallic element is",
+      "options": [
+        "lithium",
+        "carbon",
+        "fluorine",
+        "beryllium"
+      ],
+      "answerIndex": 2,
+      "explanation": "Fluorine has the highest electronegativity and a very high IE among the period-2 non-nobles.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-248",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "easy",
+      "stem": "The reducing power of alkali metals increases down the group, in parallel with",
+      "options": [
+        "ionisation enthalpy",
+        "metallic character",
+        "electronegativity",
+        "electron gain enthalpy becoming more negative"
+      ],
+      "answerIndex": 1,
+      "explanation": "The heavier alkali metal loses its ns¹ electron more easily and is therefore the stronger reductant.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-249",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "medium",
+      "stem": "Metallic character in the set Na, Mg, Al decreases from",
+      "options": [
+        "aluminium to sodium",
+        "sodium to aluminium",
+        "magnesium to sodium",
+        "aluminium to argon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Across period 3 the atoms become smaller and harder to ionise, so metallic character falls Na > Mg > Al.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-250",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "medium",
+      "stem": "Among Li, Na and K, potassium is the most metallic because it has the",
+      "options": [
+        "smallest size and highest IE",
+        "largest size and the lowest ionisation enthalpy",
+        "highest electronegativity",
+        "closed 3p⁶ valence shell"
+      ],
+      "answerIndex": 1,
+      "explanation": "Down group 1, size rises and IE falls, so K loses its 4s electron most readily of the three.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-251",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "medium",
+      "stem": "Lithium shows a diagonal resemblance in several of its compounds to",
+      "options": [
+        "sodium",
+        "magnesium",
+        "potassium",
+        "fluorine"
+      ],
+      "answerIndex": 1,
+      "explanation": "Li and Mg have similar charge-to-radius ratios, so their oxides, fluorides and carbonates behave alike.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-252",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "medium",
+      "stem": "Silicon is classified as a metalloid, sitting on the diagonal staircase of the",
+      "options": [
+        "s-block",
+        "p-block",
+        "f-block",
+        "noble-gas column"
+      ],
+      "answerIndex": 1,
+      "explanation": "Si lies between the metal Al and the non-metal P and shows intermediate electrical and chemical behaviour.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-253",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "medium",
+      "stem": "Caesium is more metallic than lithium because the valence electron of Cs is",
+      "options": [
+        "closer to the nucleus and harder to lose",
+        "farther from the nucleus and more easily lost",
+        "a 2s electron",
+        "part of a filled p⁶ set"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 6s electron of Cs is highly shielded, so Cs has a very low IE and extreme metallic character.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-254",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "metallic-character",
+      "difficulty": "hard",
+      "stem": "Aluminium is distinctly more metallic than boron, even though both head group 13, because Al is",
+      "options": [
+        "smaller and has a higher ionisation enthalpy",
+        "larger and has a much lower ionisation enthalpy",
+        "a noble gas",
+        "an f-block element"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two trends reinforce: down the group size rises and IE falls, turning the head (B, a non-metal/metalloid) into a metal (Al).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-255",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "easy",
+      "stem": "The first element of a p-block or s-block group differs markedly from the",
+      "options": [
+        "noble gases only",
+        "heavier members of that group",
+        "isotopes of hydrogen",
+        "inner transition metals alone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Li, Be, B, C, N, O and F are the classic anomalous first members.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-256",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "easy",
+      "stem": "The anomalous behaviour of the first element is largely due to its",
+      "options": [
+        "large size and low electronegativity",
+        "small size and high electronegativity",
+        "empty 4f subshell",
+        "very low ionisation enthalpy"
+      ],
+      "answerIndex": 1,
+      "explanation": "A compact valence shell and high χ (and IE) set the head element apart from its congeners.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-257",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "easy",
+      "stem": "Second-period elements lack vacant d orbitals, so they cannot",
+      "options": [
+        "form any covalent bond",
+        "expand their octet the way heavier congeners can",
+        "show a +1 oxidation state",
+        "exist as isolated atoms"
+      ],
+      "answerIndex": 1,
+      "explanation": "N, O and F are limited to an octet; P, S and Cl can use 3d orbitals in PF₅, SF₆, ClF₃, and so on.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-258",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "easy",
+      "stem": "Lithium differs from the rest of the alkali metals in several properties, including the low solubility of its",
+      "options": [
+        "chloride only",
+        "fluoride and carbonate",
+        "all nitrates",
+        "hydride vapour"
+      ],
+      "answerIndex": 1,
+      "explanation": "LiF and Li₂CO₃ resemble the corresponding magnesium salts more than those of Na or K.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-259",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "easy",
+      "stem": "Lithium shows a diagonal relationship with",
+      "options": [
+        "sodium",
+        "magnesium",
+        "caesium",
+        "fluorine"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Li–Mg pair is the textbook diagonal relationship of group 1 / group 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-260",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "easy",
+      "stem": "Beryllium and aluminium form a well-known",
+      "options": [
+        "inert-pair pair",
+        "diagonal pair",
+        "isotope pair",
+        "noble-gas pair"
+      ],
+      "answerIndex": 1,
+      "explanation": "Be and Al share amphoteric oxides, covalent chlorides and a similar charge-to-radius ratio.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-261",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "easy",
+      "stem": "Hydrogen bonding is important for the hydrides of nitrogen, oxygen and fluorine, the smallest and most electronegative",
+      "options": [
+        "alkali metals",
+        "first-row non-metals",
+        "lanthanoids",
+        "noble gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "Only N, O and F are small and electronegative enough for strong intermolecular hydrogen bonds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-262",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "medium",
+      "stem": "Lithium burns in air to give mainly the monoxide Li₂O, whereas sodium readily forms the",
+      "options": [
+        "hydride only",
+        "peroxide",
+        "ozonide exclusively",
+        "nitride vapour"
+      ],
+      "answerIndex": 1,
+      "explanation": "The small Li⁺ ion is stabilised by the small O²⁻ ion; larger Na⁺ prefers the peroxide O₂²⁻.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-263",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "medium",
+      "stem": "Carbon–carbon single bonds are much stronger than silicon–silicon bonds, so catenation is far more characteristic of",
+      "options": [
+        "silicon",
+        "carbon",
+        "lead",
+        "tin"
+      ],
+      "answerIndex": 1,
+      "explanation": "The short, strong C–C bond and the inability of C to use d orbitals make long carbon chains uniquely stable.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-264",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "medium",
+      "stem": "Boron forms electron-deficient compounds such as B₂H₆, a behaviour not typical of",
+      "options": [
+        "boron itself",
+        "aluminium alkyls in the same simple way",
+        "all p-block metals",
+        "helium"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tiny boron has fewer valence orbitals than it needs for ordinary 2c–2e bonds, so it uses 3c–2e bridges.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-265",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "medium",
+      "stem": "Fluorine shows only the −1 oxidation state in its compounds, whereas chlorine can show",
+      "options": [
+        "only −1 as well",
+        "several positive oxidation states",
+        "the +8 state in ClF₈",
+        "no covalent compounds"
+      ],
+      "answerIndex": 1,
+      "explanation": "F is the most electronegative element and has no vacant d orbitals, so it never takes a positive OS.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-266",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "anomalous-first",
+      "difficulty": "hard",
+      "stem": "Lithium resembles magnesium more than sodium because Li⁺ and Mg²⁺ have similar charge-to-radius ratios, giving both a",
+      "options": [
+        "low polarising power",
+        "high polarising power",
+        "closed 3d¹⁰ shell",
+        "gaseous metallic lattice"
+      ],
+      "answerIndex": 1,
+      "explanation": "The two ions polarise anions strongly, so their oxides, fluorides and organometallic compounds look alike — the diagonal relationship.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-267",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "Periodicity of properties arises because similar valence-shell configurations recur at regular intervals of",
+      "options": [
+        "atomic mass only",
+        "atomic number",
+        "neutron number",
+        "mass defect"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each time a given ns / np pattern repeats, the chemistry of that group reappears.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-268",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "Effective nuclear charge experienced by a valence electron is written $Z_{\\mathrm{eff}}=Z-\\sigma$, where $\\sigma$ is the",
+      "options": [
+        "atomic mass",
+        "screening constant",
+        "mass number",
+        "group number"
+      ],
+      "answerIndex": 1,
+      "explanation": "Inner electrons cancel part of Z; the remainder is the effective nuclear charge felt by the outer electron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-269",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "Inner electrons shield valence electrons from the full attraction of the",
+      "options": [
+        "neighbouring atoms",
+        "nucleus",
+        "neutron cloud",
+        "crystal field"
+      ],
+      "answerIndex": 1,
+      "explanation": "Screening (shielding) is the reason Zeff is smaller than Z.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-270",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "Effective nuclear charge felt by the outermost electron",
+      "options": [
+        "falls across a period",
+        "increases across a period",
+        "is zero for all metals",
+        "equals the mass number"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electrons are added to the same shell, which screens poorly, so Zeff climbs left to right.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-271",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "Down a group, the increase in shielding and the addition of shells outweigh the rise in nuclear charge, so",
+      "options": [
+        "atomic size shrinks",
+        "atomic size grows",
+        "IE rises sharply",
+        "all elements become noble gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "The net result is a larger, more loosely held valence electron in the heavier congener.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-272",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "In a given period, a smaller atomic size is generally accompanied by a",
+      "options": [
+        "smaller ionisation enthalpy",
+        "larger ionisation enthalpy",
+        "negative nuclear charge",
+        "new f subshell"
+      ],
+      "answerIndex": 1,
+      "explanation": "The outer electron is closer to the nucleus and harder to remove in the smaller atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-273",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "Non-metallic character increases from left to right across a",
+      "options": [
+        "group",
+        "period",
+        "set of alkali metals",
+        "lanthanoid contraction pair"
+      ],
+      "answerIndex": 1,
+      "explanation": "IE and electronegativity rise, so the tendency to gain or share electrons grows.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-274",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "Melting points, boiling points and densities of elements also display",
+      "options": [
+        "no variation with Z",
+        "periodic variation",
+        "a linear fall with mass number only",
+        "identical values in every group"
+      ],
+      "answerIndex": 1,
+      "explanation": "These bulk properties repeat in a rough pattern because bonding type and size are themselves periodic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-275",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "s-block elements are strongly electropositive metals, except for",
+      "options": [
+        "sodium and potassium",
+        "hydrogen and helium",
+        "calcium and barium",
+        "all of group 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "H and He are non-metals placed in period 1; the rest of the s-block are typical metals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-276",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "The p-block is the only block that contains metals, metalloids and non-metals in the",
+      "options": [
+        "s-block groups",
+        "same set of groups",
+        "f-block rows",
+        "first period alone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Group 14, for example, runs from non-metal C through metalloid Si/Ge to metals Sn and Pb.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-277",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "easy",
+      "stem": "Screening of the nuclear charge is poorer by d and f electrons than by",
+      "options": [
+        "the nucleus itself",
+        "s and p electrons of the same shell",
+        "neutrons",
+        "alpha particles"
+      ],
+      "answerIndex": 1,
+      "explanation": "Penetrating s (and p) electrons cancel Z more effectively; d and f electrons leave a higher Zeff on the outside.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-278",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "medium",
+      "stem": "Neon has both a very small covalent radius and the highest first ionisation enthalpy of",
+      "options": [
+        "period 3",
+        "period 2",
+        "the alkali metals",
+        "the lanthanoids"
+      ],
+      "answerIndex": 1,
+      "explanation": "Closed-shell compactness and maximum Zeff in that row make Ne the extreme of both trends.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-279",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "medium",
+      "stem": "From lithium to caesium, ionisation enthalpy falls while atomic radius rises, so the two trends reinforce the",
+      "options": [
+        "decrease in metallic character",
+        "increase in metallic character",
+        "rise of electronegativity",
+        "formation of noble gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "A larger, more loosely held ns¹ electron makes the heavier alkali metal more metallic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-280",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "medium",
+      "stem": "Fluorine is more electronegative than chlorine, yet chlorine has the more negative electron gain enthalpy — a pair of trends that",
+      "options": [
+        "always run in step",
+        "do not run in step",
+        "apply only to metals",
+        "forbid any F–Cl bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "χ follows size/Zeff, while ΔegH of F is reduced by 2p–2p repulsion; the two properties therefore order F and Cl differently.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-281",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "medium",
+      "stem": "Na⁺ and neon are isoelectronic, but Na⁺ has the higher ionisation enthalpy because of its",
+      "options": [
+        "smaller nuclear charge",
+        "greater nuclear charge",
+        "extra 3s electron",
+        "f-block contraction"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both have 10 electrons; Z(Na⁺) = 11 > Z(Ne) = 10, so the Na⁺ cloud is more tightly bound.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-282",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "medium",
+      "stem": "The first ionisation enthalpy of gallium is slightly higher than that of aluminium because the poorly shielding 3d¹⁰ electrons",
+      "options": [
+        "lower Zeff on Ga",
+        "raise Zeff on Ga",
+        "remove the 4p electron",
+        "turn Ga into an alkali metal"
+      ],
+      "answerIndex": 1,
+      "explanation": "d-block contraction increases Zeff and offsets the expected fall of IE down group 13.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-283",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "hard",
+      "stem": "Oxygen is smaller than nitrogen, which would suggest a higher IE for O, yet IE of O is lower than that of N because",
+      "options": [
+        "oxygen has a half-filled 2p³ set",
+        "the paired 2p⁴ electron of oxygen is easier to remove",
+        "nitrogen has the larger nuclear charge",
+        "oxygen lacks a 2s pair"
+      ],
+      "answerIndex": 1,
+      "explanation": "The size trend and the pairing-repulsion trend oppose each other; pairing wins, so IE(N) > IE(O).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-pe-284",
+      "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+      "conceptId": "periodic-trends-general",
+      "difficulty": "hard",
+      "stem": "Size decreases from Be to B, which would suggest a higher IE for B; the observed lower IE of B is due to",
+      "options": [
+        "the ease of removing the 2p electron compared with Be 2s²",
+        "a fall in nuclear charge from Be to B",
+        "boron having a closed 2p⁶ shell",
+        "beryllium being a halogen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Again two trends conflict: smaller radius would raise IE, but the change of subshell (2s → 2p) lowers it.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

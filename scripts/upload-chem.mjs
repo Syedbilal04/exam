@@ -2,12 +2,23 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { repoRoot, seedDir } from "./lib/bank.mjs";
 
-const FILES = [
+const WAVE1 = [
   "chemistry__atomic-structure.json",
   "chemistry__chemical-bonding.json",
   "chemistry__chemical-equilibrium.json",
   "chemistry__organic-basics.json",
 ];
+const WAVE2 = [
+  "chemistry__stoichiometry.json",
+  "chemistry__electrochemistry-kinetics.json",
+  "chemistry__periodicity.json",
+  "chemistry__solutions.json",
+];
+const FILES = process.argv.includes("--wave2")
+  ? WAVE2
+  : process.argv.includes("--wave1")
+    ? WAVE1
+    : [...WAVE1, ...WAVE2];
 
 function loadEnvLocal() {
   const envPath = path.join(repoRoot, ".env.local");

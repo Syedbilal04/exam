@@ -1,0 +1,24 @@
+insert into question_pyq_meta (question_id, appear_count, years, exams, verified)
+select id, appear_count, coalesce((select array_agg(v::int) from jsonb_array_elements_text(years) as v), '{}')::int[], coalesce((select array_agg(v) from jsonb_array_elements_text(exams) as v), '{}')::text[], verified
+from jsonb_to_recordset($json$[{"id":"che-ek-146","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"The notation $\\mathrm{Pt}|\\mathrm{Fe^{2+},Fe^{3+}}||\\mathrm{Ag^+}|\\mathrm{Ag}$ implies that the cell reaction is","options":["$\\mathrm{Fe^{2+} + Ag^+ \\rightarrow Fe^{3+} + Ag}$","$\\mathrm{Fe^{3+} + Ag \\rightarrow Fe^{2+} + Ag^+}$","$\\mathrm{Fe^{2+} + Ag \\rightarrow Fe^{3+} + Ag^+}$","$\\mathrm{2Fe^{3+} + Ag^+ \\rightarrow 2Fe^{2+} + Ag}$"],"answer_index":0,"explanation":"Left-hand side is oxidised (Fe$^{2+} \\to$ Fe$^{3+}$) and right-hand side is reduced (Ag$^+ \\to$ Ag).","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"medium","concept_id":"cells-emf","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-147","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"In an electrolytic cell, as opposed to a galvanic cell, the anode is","options":["the positive electrode, still the site of oxidation","the negative electrode, the site of reduction","always made of zinc","unnecessary if a salt bridge is present"],"answer_index":0,"explanation":"Oxidation is always anodic. An external source makes the electrolytic anode positive, whereas a galvanic anode is negative.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"medium","concept_id":"cells-emf","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-148","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"A large positive $E^\\circ_{\\mathrm{cell}}$ corresponds to","options":["a large equilibrium constant for the cell reaction","a vanishingly small $K$","$K$ exactly equal to 1","no relation at all to $K$"],"answer_index":0,"explanation":"$\\Delta G^\\circ = -RT\\ln K = -nFE^\\circ$, so a sizable positive $E^\\circ$ means $K \\gg 1$.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"medium","concept_id":"cells-emf","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-149","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"For Zn–Cu with $E^\\circ = 1.10\\ \\mathrm{V}$ and $n = 2$, $\\Delta G^\\circ$ is nearest ($F = 96500\\ \\mathrm{C\\ mol^{-1}}$)","options":["$-212\\ \\mathrm{kJ\\ mol^{-1}}$","$-106\\ \\mathrm{kJ\\ mol^{-1}}$","$+212\\ \\mathrm{kJ\\ mol^{-1}}$","$-1.10\\ \\mathrm{kJ\\ mol^{-1}}$"],"answer_index":0,"explanation":"$\\Delta G^\\circ = -2 \\times 96500 \\times 1.10 = -212300\\ \\mathrm{J\\ mol^{-1}} \\approx -212\\ \\mathrm{kJ\\ mol^{-1}}$.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"hard","concept_id":"cells-emf","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-150","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"Couples: $\\mathrm{Ni^{2+}/Ni} = -0.25\\ \\mathrm{V}$, $\\mathrm{Ag^+/Ag} = +0.80\\ \\mathrm{V}$. The spontaneous standard cell and its $E^\\circ$ are","options":["Ni anode, Ag cathode; $1.05\\ \\mathrm{V}$","Ag anode, Ni cathode; $1.05\\ \\mathrm{V}$","Ni anode, Ag cathode; $0.55\\ \\mathrm{V}$","Ag anode, Ni cathode; $0.55\\ \\mathrm{V}$"],"answer_index":0,"explanation":"Ni is the better reductant, so it is the anode. $E^\\circ = 0.80 - (-0.25) = 1.05\\ \\mathrm{V}$.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"hard","concept_id":"cells-emf","appear_count":0,"years":[],"exams":[],"verified":false}]$json$::jsonb) as x(
+    id text,
+    chapter_id text,
+    subject_id text,
+    stem text,
+    options jsonb,
+    answer_index int,
+    explanation text,
+    images jsonb,
+    source jsonb,
+    difficulty text,
+    concept_id text,
+    appear_count int,
+    years jsonb,
+    exams jsonb,
+    verified boolean
+  )
+on conflict (question_id) do update set
+  appear_count = excluded.appear_count,
+  years = excluded.years,
+  exams = excluded.exams,
+  verified = excluded.verified;

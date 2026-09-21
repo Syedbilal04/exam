@@ -1,0 +1,24 @@
+insert into question_pyq_meta (question_id, appear_count, years, exams, verified)
+select id, appear_count, coalesce((select array_agg(v::int) from jsonb_array_elements_text(years) as v), '{}')::int[], coalesce((select array_agg(v) from jsonb_array_elements_text(exams) as v), '{}')::text[], verified
+from jsonb_to_recordset($json$[{"id":"che-ek-121","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"A practical use of Kohlrausch's law is the evaluation of","options":["$\\Lambda_m^\\circ$ of a poorly conducting weak acid from data on strong salts and acids","the Faraday constant from a copper voltameter","the order of a homogeneous reaction","the standard hydrogen electrode potential"],"answer_index":0,"explanation":"Typical combination: $\\Lambda_m^\\circ(\\mathrm{CH_3COOH}) = \\Lambda_m^\\circ(\\mathrm{CH_3COONa}) + \\Lambda_m^\\circ(\\mathrm{HCl}) - \\Lambda_m^\\circ(\\mathrm{NaCl})$.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"kohlrausch","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-122","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"Limiting molar conductivity $\\Lambda_m^\\circ$ refers to the molar conductivity","options":["extrapolated to infinite dilution, where ions no longer hinder one another","measured in a saturated solution","of the solid crystal before it dissolves","at the boiling point of the solvent only"],"answer_index":0,"explanation":"Infinite dilution removes ion–ion interactions, so each ion contributes its characteristic $\\lambda^\\circ$.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"kohlrausch","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-123","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"Among common aqueous ions, the unusually large $\\lambda^\\circ$ belongs to","options":["$\\mathrm{H}^+$ (and also $\\mathrm{OH}^-$)","$\\mathrm{Li}^+$ only, because it is the lightest metal ion","$\\mathrm{ClO_4}^-$ because it is bulky","every alkali-metal cation equally"],"answer_index":0,"explanation":"Grotthuss proton/hydroxide hopping through the hydrogen-bond network gives $\\mathrm{H}^+$ and $\\mathrm{OH}^-$ exceptional mobility.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"easy","concept_id":"kohlrausch","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-124","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"Given $\\Lambda_m^\\circ/\\mathrm{S\\ cm^2\\ mol^{-1}}$ of CH$_3$COONa = 91, HCl = 426 and NaCl = 126, $\\Lambda_m^\\circ$ of CH$_3$COOH is","options":["391","643","209","335"],"answer_index":0,"explanation":"$\\Lambda_m^\\circ(\\mathrm{HOAc}) = 91 + 426 - 126 = 391\\ \\mathrm{S\\ cm^2\\ mol^{-1}}$ by Kohlrausch combination.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"medium","concept_id":"kohlrausch","appear_count":0,"years":[],"exams":[],"verified":false},{"id":"che-ek-125","chapter_id":"chemistry-electrochemistry-and-chemical-kinetics","subject_id":"chemistry","stem":"A weak acid has $\\Lambda_m = 16\\ \\mathrm{S\\ cm^2\\ mol^{-1}}$ and $\\Lambda_m^\\circ = 400\\ \\mathrm{S\\ cm^2\\ mol^{-1}}$. Its degree of dissociation is","options":["0.040","0.40","25","0.0040"],"answer_index":0,"explanation":"$\\alpha = \\Lambda_m/\\Lambda_m^\\circ = 16/400 = 0.040$.","images":[],"source":{"name":"ASTRA chemistry practice set","license":"Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"},"difficulty":"medium","concept_id":"kohlrausch","appear_count":0,"years":[],"exams":[],"verified":false}]$json$::jsonb) as x(
+    id text,
+    chapter_id text,
+    subject_id text,
+    stem text,
+    options jsonb,
+    answer_index int,
+    explanation text,
+    images jsonb,
+    source jsonb,
+    difficulty text,
+    concept_id text,
+    appear_count int,
+    years jsonb,
+    exams jsonb,
+    verified boolean
+  )
+on conflict (question_id) do update set
+  appear_count = excluded.appear_count,
+  years = excluded.years,
+  exams = excluded.exams,
+  verified = excluded.verified;

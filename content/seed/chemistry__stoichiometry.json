@@ -1,0 +1,3117 @@
+{
+  "subjectId": "chemistry",
+  "source": {
+    "name": "ASTRA chemistry practice set",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "che-st-101",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "easy",
+      "stem": "Lavoisier’s law of conservation of mass states that, in a closed chemical change, the total mass of reactants compared with products is",
+      "options": [
+        "always greater",
+        "always smaller",
+        "exactly the same",
+        "unrelated"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mass is neither created nor destroyed in ordinary chemical reactions, so reactant and product masses match.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-102",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "easy",
+      "stem": "Proust’s law of definite proportions says that a given pure compound always contains the same elements combined in",
+      "options": [
+        "any convenient ratio",
+        "a fixed mass ratio",
+        "a ratio that depends on how it was prepared",
+        "equal numbers of grams only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The elemental composition by mass of a pure compound is constant, independent of source.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-103",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "easy",
+      "stem": "Dalton’s law of multiple proportions applies when two elements form more than one compound. The masses of one element that combine with a fixed mass of the other stand in",
+      "options": [
+        "a simple whole-number ratio",
+        "an irrational ratio",
+        "the ratio of their densities",
+        "a 1:1 mass ratio always"
+      ],
+      "answerIndex": 0,
+      "explanation": "Different compounds of the same two elements show small-integer mass ratios for one element at fixed mass of the other.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-104",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "easy",
+      "stem": "Gay-Lussac’s law of combining volumes concerns gases measured at the same temperature and pressure. Their reacting volumes are",
+      "options": [
+        "in simple whole-number ratios",
+        "always equal to one litre",
+        "inversely proportional to molar mass only",
+        "unrelated to the chemical equation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gaseous reactants and products combine or form in small integer volume ratios under identical T and P.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-105",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "easy",
+      "stem": "Avogadro’s hypothesis, used with Gay-Lussac’s volume data, states that equal volumes of gases at the same T and P contain",
+      "options": [
+        "equal numbers of molecules",
+        "equal masses of gas",
+        "equal numbers of atoms in every case",
+        "one mole only if the gas is monatomic"
+      ],
+      "answerIndex": 0,
+      "explanation": "Equal gas volumes at the same T and P hold the same number of molecules, which explains simple volume ratios.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-106",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "easy",
+      "stem": "The law of reciprocal proportions (Richter) compares how two elements A and B each combine with a fixed mass of a third element C. The A:B mass ratio so obtained is",
+      "options": [
+        "the same as, or a simple multiple of, the ratio in which A and B combine with each other",
+        "always 1:1 by mass",
+        "equal to their atomic numbers",
+        "independent of any compound of A with B"
+      ],
+      "answerIndex": 0,
+      "explanation": "Masses of A and B that combine with a fixed mass of C match the combining ratio of A with B, or a simple multiple of it.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-107",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "medium",
+      "stem": "In a sealed tube, 12 g of carbon is burnt completely in 32 g of oxygen to give carbon dioxide only. The mass of $\\mathrm{CO_2}$ that must be collected is",
+      "options": [
+        "12 g",
+        "32 g",
+        "44 g",
+        "16 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "Conservation of mass requires $12 + 32 = 44$ g of product when nothing else is formed.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-108",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "medium",
+      "stem": "Carbon forms two oxides. With 12 g of carbon, one oxide contains 16 g of oxygen and the other contains 32 g of oxygen. These oxygen masses illustrate multiple proportions because their ratio is",
+      "options": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 4",
+        "1 : 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "For a fixed 12 g of carbon the oxygen masses 16 g and 32 g stand in the simple ratio 1 : 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-109",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "medium",
+      "stem": "At the same T and P, two volumes of hydrogen gas combine with one volume of oxygen gas to give steam. The volume of steam formed, if measured under the same conditions, is",
+      "options": [
+        "1 volume",
+        "2 volumes",
+        "3 volumes",
+        "4 volumes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gay-Lussac’s ratio for $2\\mathrm{H_2} + \\mathrm{O_2} \\rightarrow 2\\mathrm{H_2O(g)}$ is 2 : 1 : 2 by volume.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-110",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "laws-combination",
+      "difficulty": "hard",
+      "stem": "Two oxides of copper are analysed. In the first, 6.35 g of copper is combined with 0.80 g of oxygen; in the second, 6.35 g of copper is combined with 1.60 g of oxygen. The oxygen masses that combine with the same mass of copper are in the ratio",
+      "options": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 4",
+        "4 : 5"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fixed 6.35 g Cu takes 0.80 g then 1.60 g of oxygen, a 1 : 2 ratio, which is Dalton’s multiple-proportion test.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-111",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "Avogadro’s constant $N_A$ is accepted as approximately",
+      "options": [
+        "$6.022 \\times 10^{23}\\ \\mathrm{mol^{-1}}$",
+        "$6.022 \\times 10^{22}\\ \\mathrm{mol^{-1}}$",
+        "$3.011 \\times 10^{23}\\ \\mathrm{mol^{-1}}$",
+        "$1.602 \\times 10^{-19}\\ \\mathrm{mol^{-1}}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "One mole contains $6.022 \\times 10^{23}$ specified elementary entities.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-112",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "The SI mole is defined so that 12 g of the carbon-12 nuclide contains",
+      "options": [
+        "one atom of carbon-12",
+        "$6.022 \\times 10^{23}$ carbon-12 atoms",
+        "12 carbon-12 atoms",
+        "$12 \\times 6.022 \\times 10^{23}$ atoms"
+      ],
+      "answerIndex": 1,
+      "explanation": "By definition, 12 g of $^{12}\\mathrm{C}$ is 1 mol and therefore holds $N_A$ atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-113",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "The amount of substance $n$ and the number of elementary entities $N$ are linked by",
+      "options": [
+        "$n = N \\times N_A$",
+        "$n = N / N_A$",
+        "$n = N_A / N$",
+        "$n = N + N_A$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dividing the particle count by Avogadro’s constant converts it to moles.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-114",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "One unified atomic mass unit (1 u) is defined as",
+      "options": [
+        "the mass of one hydrogen atom",
+        "one-twelfth of the mass of a carbon-12 atom",
+        "the mass of one oxygen-16 atom",
+        "1 g exactly"
+      ],
+      "answerIndex": 1,
+      "explanation": "The u (or amu) is $1/12$ of the mass of a single $^{12}\\mathrm{C}$ atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-115",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "Gram-atomic mass of an element is the mass, in grams, of",
+      "options": [
+        "one atom of the element",
+        "one mole of its atoms",
+        "one molecule only",
+        "Avogadro’s number of molecules of any compound"
+      ],
+      "answerIndex": 1,
+      "explanation": "The gram-atomic mass is numerically equal to the atomic mass and is the mass of $N_A$ atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-116",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "At 273 K and 1 atm (classic STP), the molar volume of an ideal gas is taken in Intermediate tables as",
+      "options": [
+        "11.2 L",
+        "22.4 L",
+        "24.0 L",
+        "44.8 L"
+      ],
+      "answerIndex": 1,
+      "explanation": "One mole of ideal gas occupies 22.4 L at 273 K and 1 atm.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-117",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "A pair of samples that must contain the same number of molecules is",
+      "options": [
+        "1 mol of $\\mathrm{O_2}$ and 1 mol of $\\mathrm{O_3}$",
+        "16 g of $\\mathrm{O_2}$ and 16 g of $\\mathrm{O_3}$",
+        "1 mol of $\\mathrm{O_2}$ and 2 mol of $\\mathrm{He}$",
+        "22.4 L of $\\mathrm{H_2}$ at STP and 11.2 L of $\\mathrm{He}$ at STP"
+      ],
+      "answerIndex": 0,
+      "explanation": "Equal amounts in moles contain equal numbers of molecules, whatever the formula.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-118",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "Half a mole of dioxygen molecules contains oxygen atoms numbering",
+      "options": [
+        "$0.5\\,N_A$",
+        "$N_A$",
+        "$2\\,N_A$",
+        "$0.25\\,N_A$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each $\\mathrm{O_2}$ molecule has two atoms, so $0.5\\,N_A$ molecules hold $N_A$ atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-119",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "The numerical value $1.66 \\times 10^{-24}$ g is the approximate mass of",
+      "options": [
+        "one mole of protons",
+        "one unified atomic mass unit",
+        "one electron",
+        "one mole of $^{12}\\mathrm{C}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "1 u $\\approx 1.66 \\times 10^{-24}$ g, which is $1/N_A$ grams.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-120",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "Twelve grams of carbon-12 and eighteen grams of water both represent",
+      "options": [
+        "the same number of atoms",
+        "one mole of the stated substance",
+        "two moles of molecules",
+        "half a mole of each"
+      ],
+      "answerIndex": 1,
+      "explanation": "12 g of $^{12}\\mathrm{C}$ is 1 mol of atoms; 18 g of $\\mathrm{H_2O}$ is 1 mol of molecules.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-121",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "If a flask holds $3.011 \\times 10^{23}$ molecules of nitrogen, the amount of $\\mathrm{N_2}$ in that flask is",
+      "options": [
+        "0.25 mol",
+        "0.50 mol",
+        "1.00 mol",
+        "2.00 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "$N / N_A = 3.011 \\times 10^{23} / 6.022 \\times 10^{23} = 0.50$ mol.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-122",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "easy",
+      "stem": "One mole of helium atoms and one mole of hydrogen molecules agree in",
+      "options": [
+        "total mass",
+        "number of elementary entities counted as ‘one mole’",
+        "number of atoms",
+        "density at STP"
+      ],
+      "answerIndex": 1,
+      "explanation": "A mole always contains $N_A$ of the named entities: He atoms or $\\mathrm{H_2}$ molecules.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-123",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "medium",
+      "stem": "An STP sample of ammonia occupying 11.2 L contains molecules numbering",
+      "options": [
+        "$6.022 \\times 10^{23}$",
+        "$3.011 \\times 10^{23}$",
+        "$1.505 \\times 10^{23}$",
+        "$12.044 \\times 10^{23}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "11.2 L at STP is 0.50 mol, so the molecule count is $0.50\\,N_A = 3.011 \\times 10^{23}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-124",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "medium",
+      "stem": "A 4.4 g portion of carbon dioxide is analysed for atoms. Taking $M(\\mathrm{CO_2}) = 44\\ \\mathrm{g\\,mol^{-1}}$, the total number of atoms present is",
+      "options": [
+        "$0.1\\,N_A$",
+        "$0.3\\,N_A$",
+        "$N_A$",
+        "$3\\,N_A$"
+      ],
+      "answerIndex": 1,
+      "explanation": "4.4 g is 0.10 mol of $\\mathrm{CO_2}$; each molecule has 3 atoms, giving $0.30\\,N_A$ atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-125",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "medium",
+      "stem": "Compare 16 g of methane with 16 g of dioxygen. The sample that holds more molecules is",
+      "options": [
+        "the methane sample",
+        "the dioxygen sample",
+        "neither; the molecule counts are equal",
+        "impossible to decide without density"
+      ],
+      "answerIndex": 0,
+      "explanation": "16 g $\\mathrm{CH_4}$ is 1.0 mol of molecules; 16 g $\\mathrm{O_2}$ is only 0.50 mol, so methane has twice as many molecules.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-126",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "medium",
+      "stem": "A gas burette delivers 2.24 L of hydrogen, measured at STP. The amount of $\\mathrm{H_2}$ collected is",
+      "options": [
+        "0.010 mol",
+        "0.10 mol",
+        "1.0 mol",
+        "2.0 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "Moles $= 2.24 / 22.4 = 0.10$ mol at STP.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-127",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "medium",
+      "stem": "A sealed ampoule contains $3.011 \\times 10^{23}$ molecules of dinitrogen. The mass of that $\\mathrm{N_2}$ sample is",
+      "options": [
+        "7 g",
+        "14 g",
+        "28 g",
+        "56 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "The count is 0.50 mol; mass $= 0.50 \\times 28 = 14$ g.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-128",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "medium",
+      "stem": "Eight grams of dioxygen and seven grams of dinitrogen are compared atom by atom. The two samples contain",
+      "options": [
+        "equal numbers of molecules and equal numbers of atoms",
+        "equal numbers of molecules but different numbers of atoms",
+        "different numbers of molecules but equal numbers of atoms",
+        "neither equal molecules nor equal atoms"
+      ],
+      "answerIndex": 0,
+      "explanation": "Both are 0.25 mol of diatomic molecules, so both have $0.25\\,N_A$ molecules and $0.50\\,N_A$ atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-129",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "hard",
+      "stem": "A 0.25 mol sample of $\\mathrm{Ca_3(PO_4)_2}$ is examined. The number of oxygen atoms in the sample is",
+      "options": [
+        "$0.25\\,N_A$",
+        "$1.00\\,N_A$",
+        "$2.00\\,N_A$",
+        "$8.00\\,N_A$"
+      ],
+      "answerIndex": 2,
+      "explanation": "Each formula unit has 8 oxygen atoms, so $0.25 \\times 8 = 2.00$ mol of O atoms, i.e. $2.00\\,N_A$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-130",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "mole-avogadro",
+      "difficulty": "hard",
+      "stem": "Among 8 g $\\mathrm{O_2}$, 7 g $\\mathrm{N_2}$, 4 g $\\mathrm{He}$ and 9 g $\\mathrm{H_2O}$, the largest number of atoms is present in",
+      "options": [
+        "8 g $\\mathrm{O_2}$",
+        "7 g $\\mathrm{N_2}$",
+        "4 g $\\mathrm{He}$",
+        "9 g $\\mathrm{H_2O}$"
+      ],
+      "answerIndex": 3,
+      "explanation": "Atom amounts are 0.50, 0.50, 1.0 and 1.5 mol respectively; 9 g water therefore has the most atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-131",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "easy",
+      "stem": "Using H = 1, S = 32 and O = 16, the molar mass of sulphuric acid $\\mathrm{H_2SO_4}$ is",
+      "options": [
+        "82 g mol$^{-1}$",
+        "98 g mol$^{-1}$",
+        "114 g mol$^{-1}$",
+        "64 g mol$^{-1}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "$2(1) + 32 + 4(16) = 98$ g mol$^{-1}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-132",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "easy",
+      "stem": "Calcium carbonate $\\mathrm{CaCO_3}$ (Ca = 40, C = 12, O = 16) has a formula mass of",
+      "options": [
+        "50 u",
+        "84 u",
+        "100 u",
+        "116 u"
+      ],
+      "answerIndex": 2,
+      "explanation": "$40 + 12 + 48 = 100$ u.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-133",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "easy",
+      "stem": "The percentage by mass of oxygen in water is closest to",
+      "options": [
+        "11.1%",
+        "50%",
+        "88.9%",
+        "94.1%"
+      ],
+      "answerIndex": 2,
+      "explanation": "Oxygen contributes 16 of the 18 g in one mole of $\\mathrm{H_2O}$, i.e. $16/18 \\times 100 = 88.9\\%$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-134",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "easy",
+      "stem": "In methane, the mass percent of carbon (C = 12, H = 1) works out to",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "80%"
+      ],
+      "answerIndex": 2,
+      "explanation": "Carbon is 12 g in 16 g of $\\mathrm{CH_4}$, so $12/16 \\times 100 = 75\\%$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-135",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "easy",
+      "stem": "Carbon dioxide is assigned a molecular mass of 44 u because that value equals",
+      "options": [
+        "12 + 16",
+        "12 + 2(16)",
+        "2(12) + 16",
+        "12 + 32 + 16"
+      ],
+      "answerIndex": 1,
+      "explanation": "One C and two O atoms give $12 + 32 = 44$ u.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-136",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "easy",
+      "stem": "Ammonia’s gram-molecular mass, with N = 14 and H = 1, is",
+      "options": [
+        "15 g",
+        "16 g",
+        "17 g",
+        "18 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "$14 + 3(1) = 17$ g mol$^{-1}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-137",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "easy",
+      "stem": "Hydrogen’s share of the mass of water, expressed as a percentage, is",
+      "options": [
+        "5.6%",
+        "11.1%",
+        "16.0%",
+        "18.0%"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two grams of H in 18 g of water give $2/18 \\times 100 = 11.1\\%$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-138",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "easy",
+      "stem": "Solid sodium hydroxide (Na = 23, O = 16, H = 1) has a molar mass of",
+      "options": [
+        "23 g mol$^{-1}$",
+        "39 g mol$^{-1}$",
+        "40 g mol$^{-1}$",
+        "58 g mol$^{-1}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "$23 + 16 + 1 = 40$ g mol$^{-1}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-139",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "medium",
+      "stem": "The calcium content of pure $\\mathrm{CaCO_3}$ (M = 100 g mol$^{-1}$) by mass percent is",
+      "options": [
+        "12%",
+        "40%",
+        "48%",
+        "60%"
+      ],
+      "answerIndex": 1,
+      "explanation": "40 g of Ca in 100 g of carbonate is a 40% calcium assay.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-140",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "medium",
+      "stem": "Urea, $\\mathrm{NH_2CONH_2}$ (M = 60 g mol$^{-1}$), is valued as a fertiliser for nitrogen. The nitrogen mass percent in urea is",
+      "options": [
+        "23.3%",
+        "46.7%",
+        "53.3%",
+        "60.0%"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two N atoms contribute 28 g in 60 g, so $28/60 \\times 100 = 46.7\\%$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-141",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "medium",
+      "stem": "Potassium chlorate $\\mathrm{KClO_3}$ (M = 122.5 g mol$^{-1}$) releases oxygen on heating. Oxygen’s mass percent in $\\mathrm{KClO_3}$ is nearest to",
+      "options": [
+        "13.1%",
+        "26.1%",
+        "39.2%",
+        "52.2%"
+      ],
+      "answerIndex": 2,
+      "explanation": "Three oxygen atoms weigh 48 g in 122.5 g, giving $48/122.5 \\times 100 \\approx 39.2\\%$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-142",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "medium",
+      "stem": "From a 50 g laboratory sample of pure $\\mathrm{CaCO_3}$, the mass of oxygen that can be accounted for in the formula is",
+      "options": [
+        "16 g",
+        "24 g",
+        "32 g",
+        "48 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oxygen is 48% of $\\mathrm{CaCO_3}$, so $0.48 \\times 50 = 24$ g.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-143",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "hard",
+      "stem": "Blue vitriol $\\mathrm{CuSO_4 \\cdot 5H_2O}$ (M = 249.5 g mol$^{-1}$) loses its water of crystallisation on strong heating. The mass percent of water in the pentahydrate is nearest to",
+      "options": [
+        "18.0%",
+        "25.0%",
+        "36.1%",
+        "45.2%"
+      ],
+      "answerIndex": 2,
+      "explanation": "Five water molecules weigh 90 g in 249.5 g, so $90/249.5 \\times 100 \\approx 36.1\\%$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-144",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molar-mass-percent",
+      "difficulty": "hard",
+      "stem": "Haematite $\\mathrm{Fe_2O_3}$ (M = 160 g mol$^{-1}$) is 70% iron by mass. An 80 g ore sample that is 80% pure $\\mathrm{Fe_2O_3}$ (rest gangue) contains iron weighing",
+      "options": [
+        "44.8 g",
+        "56.0 g",
+        "64.0 g",
+        "70.0 g"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pure oxide in the ore is $0.80 \\times 80 = 64$ g; iron in that oxide is $0.70 \\times 64 = 44.8$ g.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-145",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "easy",
+      "stem": "The empirical formula of a compound is the formula that shows",
+      "options": [
+        "the actual number of atoms in one molecule",
+        "the simplest whole-number ratio of the atoms present",
+        "only the metals in the compound",
+        "the percentage by mass of each element"
+      ],
+      "answerIndex": 1,
+      "explanation": "Empirical formulae give the smallest integer atom ratio, not necessarily the molecular formula.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-146",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "easy",
+      "stem": "A molecular formula is related to the empirical formula by a positive integer $n$ such that",
+      "options": [
+        "molecular formula $= n \\times$ empirical formula",
+        "empirical formula $= n \\times$ molecular formula",
+        "$n$ equals the number of elements",
+        "$n$ is always 1 for covalent compounds"
+      ],
+      "answerIndex": 0,
+      "explanation": "$n = M / $ (empirical formula mass), and the molecular formula is that multiple of the empirical set.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-147",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "easy",
+      "stem": "Benzene has molecular formula $\\mathrm{C_6H_6}$. Its empirical formula is therefore",
+      "options": [
+        "$\\mathrm{CH}$",
+        "$\\mathrm{C_2H_2}$",
+        "$\\mathrm{C_6H_6}$",
+        "$\\mathrm{C_3H_3}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dividing $\\mathrm{C_6H_6}$ by 6 gives the simplest ratio CH.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-148",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "easy",
+      "stem": "Glucose, $\\mathrm{C_6H_{12}O_6}$, reduces to the empirical set",
+      "options": [
+        "$\\mathrm{CHO}$",
+        "$\\mathrm{CH_2O}$",
+        "$\\mathrm{C_2H_4O_2}$",
+        "$\\mathrm{C_6H_{12}O_6}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each subscript is divisible by 6, leaving CH$_2$O.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-149",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "easy",
+      "stem": "Hydrogen peroxide $\\mathrm{H_2O_2}$ has the empirical formula",
+      "options": [
+        "$\\mathrm{HO}$",
+        "$\\mathrm{H_2O}$",
+        "$\\mathrm{HO_2}$",
+        "$\\mathrm{H_2O_2}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "The simplest H : O ratio in hydrogen peroxide is 1 : 1, written HO.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-150",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "easy",
+      "stem": "An organic gas has empirical formula $\\mathrm{CH_2}$ and a molar mass of 56 g mol$^{-1}$. Its molecular formula is",
+      "options": [
+        "$\\mathrm{C_2H_4}$",
+        "$\\mathrm{C_3H_6}$",
+        "$\\mathrm{C_4H_8}$",
+        "$\\mathrm{C_5H_{10}}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "Empirical mass is 14; $n = 56/14 = 4$, so the molecule is $\\mathrm{C_4H_8}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-151",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "easy",
+      "stem": "The integer $n$ that converts an empirical formula into the molecular formula is calculated as",
+      "options": [
+        "empirical mass / molecular mass",
+        "molecular mass / empirical formula mass",
+        "atomic number / mass number",
+        "percentage of carbon / 12"
+      ],
+      "answerIndex": 1,
+      "explanation": "$n = M / E$, then each empirical subscript is multiplied by $n$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-152",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "easy",
+      "stem": "For an ionic solid such as $\\mathrm{Na_2CO_3}$, the formula written on the bottle is already",
+      "options": [
+        "a molecular formula that can be halved",
+        "the empirical formula of the compound",
+        "only a percentage composition",
+        "an unbalanced equation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ionic compounds are represented by the simplest ratio of ions, which is the empirical formula.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-153",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "medium",
+      "stem": "A hydrocarbon analyses as 80% carbon and 20% hydrogen by mass. Its empirical formula is",
+      "options": [
+        "$\\mathrm{CH}$",
+        "$\\mathrm{CH_2}$",
+        "$\\mathrm{CH_3}$",
+        "$\\mathrm{C_2H_5}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mole ratio C : H $= (80/12) : (20/1) = 6.67 : 20 = 1 : 3$, so $\\mathrm{CH_3}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-154",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "medium",
+      "stem": "A compound contains 40.0% C, 6.7% H and 53.3% O. The empirical formula matching these percentages is",
+      "options": [
+        "$\\mathrm{CHO}$",
+        "$\\mathrm{CH_2O}$",
+        "$\\mathrm{C_2H_2O}$",
+        "$\\mathrm{C_2H_6O}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Moles C : H : O $= 3.33 : 6.7 : 3.33 = 1 : 2 : 1$, which is $\\mathrm{CH_2O}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-155",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "medium",
+      "stem": "A vapour has empirical formula CH and a vapour density corresponding to $M = 78$ g mol$^{-1}$. The molecular formula of the vapour is",
+      "options": [
+        "$\\mathrm{C_2H_2}$",
+        "$\\mathrm{C_3H_3}$",
+        "$\\mathrm{C_6H_6}$",
+        "$\\mathrm{C_{12}H_{12}}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "Empirical mass 13; $n = 78/13 = 6$, giving $\\mathrm{C_6H_6}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-156",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "medium",
+      "stem": "An iron oxide is 70% Fe and 30% O by mass (Fe = 56, O = 16). The oxide’s empirical formula is",
+      "options": [
+        "$\\mathrm{FeO}$",
+        "$\\mathrm{Fe_2O_3}$",
+        "$\\mathrm{Fe_3O_4}$",
+        "$\\mathrm{FeO_2}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Moles Fe : O $= (70/56) : (30/16) = 1.25 : 1.875 = 2 : 3$, so $\\mathrm{Fe_2O_3}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-157",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "medium",
+      "stem": "A hydrocarbon is 85.7% carbon, the rest hydrogen. The empirical formula of that hydrocarbon is",
+      "options": [
+        "$\\mathrm{CH}$",
+        "$\\mathrm{CH_2}$",
+        "$\\mathrm{CH_3}$",
+        "$\\mathrm{C_2H_2}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "C : H moles $= (85.7/12) : (14.3/1) \\approx 7.14 : 14.3 = 1 : 2$, hence $\\mathrm{CH_2}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-158",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "empirical-molecular",
+      "difficulty": "hard",
+      "stem": "A chloro-compound is 24.24% C, 4.04% H and 71.72% Cl. Its molar mass is 99 g mol$^{-1}$. The molecular formula is",
+      "options": [
+        "$\\mathrm{CH_2Cl}$",
+        "$\\mathrm{C_2H_4Cl_2}$",
+        "$\\mathrm{C_2H_3Cl}$",
+        "$\\mathrm{C_3H_6Cl_2}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Empirical moles give $\\mathrm{CH_2Cl}$ (E = 49.5); $n = 99/49.5 = 2$, so $\\mathrm{C_2H_4Cl_2}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-159",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "In the Haber equation $\\mathrm{N_2} + 3\\mathrm{H_2} \\rightarrow 2\\mathrm{NH_3}$, each mole of nitrogen that reacts consumes hydrogen amounting to",
+      "options": [
+        "1 mol",
+        "2 mol",
+        "3 mol",
+        "6 mol"
+      ],
+      "answerIndex": 2,
+      "explanation": "The coefficient of $\\mathrm{H_2}$ is 3, so the mole ratio N$_2$ : H$_2$ is 1 : 3.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-160",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "According to $2\\mathrm{H_2} + \\mathrm{O_2} \\rightarrow 2\\mathrm{H_2O}$, complete use of 1 mol of oxygen produces water equal to",
+      "options": [
+        "1 mol",
+        "2 mol",
+        "0.5 mol",
+        "4 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "One mole of $\\mathrm{O_2}$ corresponds to two moles of $\\mathrm{H_2O}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-161",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "Thermal decomposition $\\mathrm{CaCO_3} \\rightarrow \\mathrm{CaO} + \\mathrm{CO_2}$ is 1 : 1 : 1 in moles. From 1 mol of limestone the carbon dioxide obtained is",
+      "options": [
+        "0.5 mol",
+        "1 mol",
+        "2 mol",
+        "3 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each mole of $\\mathrm{CaCO_3}$ yields one mole of $\\mathrm{CO_2}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-162",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "The laboratory oxygen preparation $2\\mathrm{KClO_3} \\rightarrow 2\\mathrm{KCl} + 3\\mathrm{O_2}$ gives, from 2 mol of chlorate, oxygen amounting to",
+      "options": [
+        "2 mol",
+        "3 mol",
+        "4 mol",
+        "6 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "The O$_2$ coefficient is 3 when 2 mol of $\\mathrm{KClO_3}$ decompose.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-163",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "Complete combustion $\\mathrm{C} + \\mathrm{O_2} \\rightarrow \\mathrm{CO_2}$ links carbon and carbon dioxide in the mole ratio",
+      "options": [
+        "1 : 1",
+        "1 : 2",
+        "2 : 1",
+        "1 : 4"
+      ],
+      "answerIndex": 0,
+      "explanation": "Coefficients of C and $\\mathrm{CO_2}$ are both 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-164",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "Magnesium burns as $2\\mathrm{Mg} + \\mathrm{O_2} \\rightarrow 2\\mathrm{MgO}$. Oxygen amounting to 1 mol therefore requires magnesium equal to",
+      "options": [
+        "1 mol",
+        "2 mol",
+        "0.5 mol",
+        "4 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two moles of Mg are needed for each mole of $\\mathrm{O_2}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-165",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "Methane burns as $\\mathrm{CH_4} + 2\\mathrm{O_2} \\rightarrow \\mathrm{CO_2} + 2\\mathrm{H_2O}$. The oxygen-to-methane mole ratio demanded by the equation is",
+      "options": [
+        "1 : 1",
+        "2 : 1",
+        "1 : 2",
+        "4 : 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two moles of $\\mathrm{O_2}$ are required for every mole of $\\mathrm{CH_4}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-166",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "Contact-process oxidation $2\\mathrm{SO_2} + \\mathrm{O_2} \\rightarrow 2\\mathrm{SO_3}$ converts 1 mol of oxygen into sulphur trioxide amounting to",
+      "options": [
+        "1 mol",
+        "2 mol",
+        "0.5 mol",
+        "4 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "One mole of $\\mathrm{O_2}$ produces two moles of $\\mathrm{SO_3}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-167",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "Aluminium burns in oxygen: $4\\mathrm{Al} + 3\\mathrm{O_2} \\rightarrow 2\\mathrm{Al_2O_3}$. Four moles of aluminium therefore form alumina equal to",
+      "options": [
+        "1 mol",
+        "2 mol",
+        "3 mol",
+        "4 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "The product coefficient is 2 when 4 mol of Al react.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-168",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "easy",
+      "stem": "Hydrogen chloride is formed by $\\mathrm{H_2} + \\mathrm{Cl_2} \\rightarrow 2\\mathrm{HCl}$. One mole of hydrogen gas yields HCl equal to",
+      "options": [
+        "1 mol",
+        "2 mol",
+        "0.5 mol",
+        "4 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "The HCl coefficient is 2 for each mole of $\\mathrm{H_2}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-169",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "medium",
+      "stem": "Propane burns as $\\mathrm{C_3H_8} + 5\\mathrm{O_2} \\rightarrow 3\\mathrm{CO_2} + 4\\mathrm{H_2O}$. Complete combustion of 2 mol of propane releases carbon dioxide amounting to",
+      "options": [
+        "2 mol",
+        "3 mol",
+        "6 mol",
+        "8 mol"
+      ],
+      "answerIndex": 2,
+      "explanation": "Each mole of $\\mathrm{C_3H_8}$ gives 3 mol $\\mathrm{CO_2}$, so 2 mol give 6 mol.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-170",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "medium",
+      "stem": "A Haber converter is charged with 10 mol of hydrogen and surplus nitrogen. The maximum ammonia that can form is",
+      "options": [
+        "6.67 mol",
+        "10 mol",
+        "15 mol",
+        "20 mol"
+      ],
+      "answerIndex": 0,
+      "explanation": "From $3\\mathrm{H_2} \\rightarrow 2\\mathrm{NH_3}$, 10 mol H$_2$ produce $(10 \\times 2)/3 = 20/3 \\approx 6.67$ mol NH$_3$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-171",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "medium",
+      "stem": "Two moles of $\\mathrm{KClO_3}$ are fully decomposed to KCl and O$_2$. The STP volume of oxygen collected is",
+      "options": [
+        "22.4 L",
+        "44.8 L",
+        "67.2 L",
+        "89.6 L"
+      ],
+      "answerIndex": 2,
+      "explanation": "2 mol chlorate give 3 mol O$_2$; $3 \\times 22.4 = 67.2$ L at STP.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-172",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "medium",
+      "stem": "A bunsen flame consumes 16 g of methane completely (M = 16 g mol$^{-1}$). The STP volume of $\\mathrm{CO_2}$ produced is",
+      "options": [
+        "11.2 L",
+        "16.0 L",
+        "22.4 L",
+        "44.8 L"
+      ],
+      "answerIndex": 2,
+      "explanation": "16 g is 1 mol $\\mathrm{CH_4}$ and gives 1 mol $\\mathrm{CO_2}$, which occupies 22.4 L at STP.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-173",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "medium",
+      "stem": "A 50 g charge of $\\mathrm{CaCO_3}$ (M = 100 g mol$^{-1}$) is heated until decomposition is complete. The lime $\\mathrm{CaO}$ (M = 56 g mol$^{-1}$) obtained weighs",
+      "options": [
+        "28 g",
+        "50 g",
+        "56 g",
+        "44 g"
+      ],
+      "answerIndex": 0,
+      "explanation": "0.50 mol of carbonate yields 0.50 mol of CaO, i.e. 28 g.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-174",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equation-mole-ratio",
+      "difficulty": "hard",
+      "stem": "Ethane burns as $2\\mathrm{C_2H_6} + 7\\mathrm{O_2} \\rightarrow 4\\mathrm{CO_2} + 6\\mathrm{H_2O}$. A 15 g sample of ethane (M = 30) is burnt in 64 g of oxygen. The mass of $\\mathrm{CO_2}$ formed and the unused $\\mathrm{O_2}$ are",
+      "options": [
+        "44 g and 8 g",
+        "22 g and 16 g",
+        "88 g and 0 g",
+        "44 g and 0 g"
+      ],
+      "answerIndex": 0,
+      "explanation": "0.50 mol ethane needs 1.75 mol (56 g) O$_2$ and makes 1.0 mol (44 g) CO$_2$; 64 − 56 = 8 g O$_2$ remains.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-175",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "After a reaction stops, the starting material that is left unused is called the",
+      "options": [
+        "limiting reagent",
+        "excess reagent",
+        "catalyst",
+        "theoretical product"
+      ],
+      "answerIndex": 1,
+      "explanation": "The excess reagent remains because the other reactant ran out first.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-176",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "One mole of $\\mathrm{H_2}$ is mixed with one mole of $\\mathrm{O_2}$ and sparked to form water. The reactant that is used up completely is",
+      "options": [
+        "oxygen",
+        "hydrogen",
+        "both equally",
+        "neither"
+      ],
+      "answerIndex": 1,
+      "explanation": "Water needs H$_2$ : O$_2$ = 2 : 1, so 1 mol H$_2$ is finished while 0.5 mol O$_2$ is still unused.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-177",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "A flask is charged with 1 mol of $\\mathrm{N_2}$ and 1 mol of $\\mathrm{H_2}$ for the Haber reaction. Ammonia production is limited by",
+      "options": [
+        "nitrogen",
+        "hydrogen",
+        "both together",
+        "the catalyst only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 1 : 3 nitrogen-to-hydrogen requirement means 1 mol H$_2$ is exhausted long before the nitrogen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-178",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "Two moles of carbon are heated with one mole of oxygen to give only $\\mathrm{CO_2}$. The reagent that decides the amount of $\\mathrm{CO_2}$ is",
+      "options": [
+        "carbon",
+        "oxygen",
+        "neither; both finish together",
+        "the vessel volume"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each mole of $\\mathrm{CO_2}$ needs 1 mol O$_2$; only 1 mol O$_2$ is supplied, so oxygen limits.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-179",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "Equal molar amounts of $\\mathrm{H_2}$ and $\\mathrm{Cl_2}$ are allowed to form HCl. At the end of the reaction",
+      "options": [
+        "hydrogen remains unused",
+        "chlorine remains unused",
+        "both gases are completely consumed",
+        "no HCl forms"
+      ],
+      "answerIndex": 2,
+      "explanation": "$\\mathrm{H_2} + \\mathrm{Cl_2} \\rightarrow 2\\mathrm{HCl}$ uses the two gases in a 1 : 1 mole ratio.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-180",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "Three moles of magnesium ribbon are burnt in one mole of oxygen. Formation of $\\mathrm{MgO}$ is limited by",
+      "options": [
+        "magnesium",
+        "oxygen",
+        "both equally",
+        "air moisture"
+      ],
+      "answerIndex": 1,
+      "explanation": "$2\\mathrm{Mg} + \\mathrm{O_2}$ needs Mg : O$_2$ = 2 : 1; 1 mol O$_2$ can consume only 2 mol Mg, so oxygen limits.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-181",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "The quantity of product that can form in a given run is fixed by",
+      "options": [
+        "the reagent present in greater mass, always",
+        "the reagent that is consumed first",
+        "the reagent with the larger molar mass",
+        "whichever reagent is added last"
+      ],
+      "answerIndex": 1,
+      "explanation": "The limiting reagent is used up first and therefore caps the product.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-182",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "If a balanced equation is 1 : 1 and the two reactants are supplied in unequal moles, the leftover substance is",
+      "options": [
+        "always the product",
+        "the reactant that was supplied in smaller moles",
+        "the reactant that was supplied in larger moles",
+        "a catalyst"
+      ],
+      "answerIndex": 2,
+      "explanation": "The reactant present in fewer moles is limiting; the one in larger moles is excess and remains.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-183",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "One mole of sulphur is burnt in two moles of oxygen to give only $\\mathrm{SO_2}$. The unused oxygen at the end is",
+      "options": [
+        "0 mol",
+        "1 mol",
+        "2 mol",
+        "0.5 mol"
+      ],
+      "answerIndex": 1,
+      "explanation": "$\\mathrm{S} + \\mathrm{O_2} \\rightarrow \\mathrm{SO_2}$ uses 1 mol O$_2$, leaving 1 mol unused.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-184",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "easy",
+      "stem": "Aluminium and chlorine are mixed as 2 mol Al + 3 mol $\\mathrm{Cl_2}$ to form $\\mathrm{AlCl_3}$ ($2\\mathrm{Al} + 3\\mathrm{Cl_2} \\rightarrow 2\\mathrm{AlCl_3}$). The limiting reagent is",
+      "options": [
+        "aluminium only",
+        "chlorine only",
+        "neither; the mixture is stoichiometric",
+        "impossible to decide"
+      ],
+      "answerIndex": 2,
+      "explanation": "The supplied amounts match the 2 : 3 coefficients, so both finish together.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-185",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "medium",
+      "stem": "Four grams of hydrogen (M = 2) are sparked with 32 g of oxygen (M = 32) to form water. The mass of water that can form is",
+      "options": [
+        "18 g",
+        "36 g",
+        "16 g",
+        "4 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "2 mol H$_2$ and 1 mol O$_2$ match $2\\mathrm{H_2} + \\mathrm{O_2}$; both are used and give 2 mol (36 g) of water.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-186",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "medium",
+      "stem": "A converter is loaded with 14 g of nitrogen and 6 g of hydrogen for ammonia synthesis. The reagent that runs out first is",
+      "options": [
+        "nitrogen",
+        "hydrogen",
+        "both at the same instant",
+        "neither"
+      ],
+      "answerIndex": 0,
+      "explanation": "14 g N$_2$ is 0.50 mol and would need 1.5 mol H$_2$; 6 g H$_2$ is 3.0 mol, so nitrogen is consumed first.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-187",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "medium",
+      "stem": "Twelve grams of carbon are heated with 16 g of oxygen, forming only $\\mathrm{CO_2}$. The mass of carbon dioxide obtained is",
+      "options": [
+        "22 g",
+        "28 g",
+        "44 g",
+        "16 g"
+      ],
+      "answerIndex": 0,
+      "explanation": "1.0 mol C needs 1.0 mol (32 g) O$_2$; only 0.50 mol O$_2$ is present, so 0.50 mol (22 g) of $\\mathrm{CO_2}$ forms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-188",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "medium",
+      "stem": "Eight grams of hydrogen are burnt in 32 g of oxygen. After water has formed, the unused hydrogen weighs",
+      "options": [
+        "0 g",
+        "2 g",
+        "4 g",
+        "8 g"
+      ],
+      "answerIndex": 2,
+      "explanation": "1 mol O$_2$ consumes 2 mol (4 g) H$_2$; 8 g H$_2$ was supplied, so 4 g of hydrogen remains.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-189",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "medium",
+      "stem": "Two moles of $\\mathrm{SO_2}$ are oxidised with two moles of $\\mathrm{O_2}$ to $\\mathrm{SO_3}$. The oxygen left unreacted is",
+      "options": [
+        "0 mol",
+        "0.5 mol",
+        "1 mol",
+        "2 mol"
+      ],
+      "answerIndex": 2,
+      "explanation": "$2\\mathrm{SO_2}$ need only 1 mol O$_2$; of the 2 mol supplied, 1 mol remains.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-190",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "limiting-reagent",
+      "difficulty": "hard",
+      "stem": "Marble chips (25 g $\\mathrm{CaCO_3}$, M = 100) are treated with 14.6 g of HCl (M = 36.5) according to $\\mathrm{CaCO_3} + 2\\mathrm{HCl} \\rightarrow \\mathrm{CaCl_2} + \\mathrm{H_2O} + \\mathrm{CO_2}$. The mass of $\\mathrm{CO_2}$ that can escape is",
+      "options": [
+        "4.4 g",
+        "8.8 g",
+        "11.0 g",
+        "22.0 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "0.25 mol carbonate would need 0.50 mol HCl, but only 0.40 mol HCl is present, so HCl limits and $0.20$ mol (8.8 g) of $\\mathrm{CO_2}$ forms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-191",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "yield",
+      "difficulty": "easy",
+      "stem": "Theoretical yield is the mass of product calculated by assuming that",
+      "options": [
+        "the limiting reagent is completely converted as the equation is written",
+        "half the reactant is lost",
+        "no reaction occurs",
+        "the excess reagent alone reacts"
+      ],
+      "answerIndex": 0,
+      "explanation": "Theoretical yield is the stoichiometric maximum from the limiting reagent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-192",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "yield",
+      "difficulty": "easy",
+      "stem": "Percentage yield is obtained from the relation",
+      "options": [
+        "(theoretical / actual) $\\times 100$",
+        "(actual / theoretical) $\\times 100$",
+        "actual $-$ theoretical",
+        "theoretical $\\times$ actual"
+      ],
+      "answerIndex": 1,
+      "explanation": "Percent yield $= (\\text{actual yield}/\\text{theoretical yield}) \\times 100$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-193",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "yield",
+      "difficulty": "easy",
+      "stem": "When the mass collected on the filter equals the mass predicted from the equation, the percentage yield is",
+      "options": [
+        "0%",
+        "50%",
+        "100%",
+        "200%"
+      ],
+      "answerIndex": 2,
+      "explanation": "Actual = theoretical gives a 100% yield.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-194",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "yield",
+      "difficulty": "easy",
+      "stem": "In the school laboratory the isolated product is usually lighter than the theoretical mass because of",
+      "options": [
+        "creation of extra atoms",
+        "incomplete reaction, side products and handling losses",
+        "a change in Avogadro’s number",
+        "the law of conservation of mass being false"
+      ],
+      "answerIndex": 1,
+      "explanation": "Real recoveries suffer from incomplete conversion, competing reactions and transfer losses.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-195",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "yield",
+      "difficulty": "easy",
+      "stem": "A statement that the yield is 100% means that",
+      "options": [
+        "no product was obtained",
+        "every mole of limiting reagent appeared in the isolated product as written",
+        "the excess reagent disappeared completely",
+        "the reaction was endothermic"
+      ],
+      "answerIndex": 1,
+      "explanation": "A quantitative isolation matching the stoichiometric prediction is a 100% yield.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-196",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "yield",
+      "difficulty": "medium",
+      "stem": "A preparation is calculated to give 50 g of crystals; the dried crop actually weighs 40 g. The percentage yield of that run is",
+      "options": [
+        "40%",
+        "50%",
+        "80%",
+        "125%"
+      ],
+      "answerIndex": 2,
+      "explanation": "$(40/50) \\times 100 = 80\\%$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-197",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "yield",
+      "difficulty": "medium",
+      "stem": "A process is known to run at 80% yield. If the equation predicts 25 g of product, the mass a student should expect to isolate is",
+      "options": [
+        "5 g",
+        "20 g",
+        "25 g",
+        "31.25 g"
+      ],
+      "answerIndex": 1,
+      "explanation": "Actual $= 0.80 \\times 25 = 20$ g.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-198",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "yield",
+      "difficulty": "hard",
+      "stem": "Excess oxygen is used to burn 4.0 g of hydrogen. The equation predicts 36 g of water, but only 27 g is condensed. The percentage yield of water is",
+      "options": [
+        "27%",
+        "67%",
+        "75%",
+        "133%"
+      ],
+      "answerIndex": 2,
+      "explanation": "4.0 g H$_2$ is 2.0 mol and can give 2.0 mol (36 g) of water; $27/36 \\times 100 = 75\\%$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-199",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "An uncombined free element, whether atom or molecule, is assigned an oxidation number of",
+      "options": [
+        "$+1$",
+        "$-1$",
+        "$0$",
+        "$+2$"
+      ],
+      "answerIndex": 2,
+      "explanation": "The oxidation number of an element in its elemental form is zero.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-200",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "Except in peroxides, superoxides and $\\mathrm{OF_2}$, oxygen in compounds is assigned the oxidation number",
+      "options": [
+        "$-1$",
+        "$-2$",
+        "$+2$",
+        "$0$"
+      ],
+      "answerIndex": 1,
+      "explanation": "The common oxidation number of oxygen in oxides and oxo-salts is $-2$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-201",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "Hydrogen combined with a non-metal is assigned the oxidation number",
+      "options": [
+        "$+1$",
+        "$-1$",
+        "$0$",
+        "$+2$"
+      ],
+      "answerIndex": 0,
+      "explanation": "In hydrides of non-metals (HCl, H$_2$O, NH$_3$) hydrogen is $+1$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-202",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "In their compounds the alkali metals (Li, Na, K, …) show the oxidation number",
+      "options": [
+        "$0$",
+        "$+1$",
+        "$+2$",
+        "$-1$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Group 1 metals lose one valence electron and are $+1$ in compounds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-203",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "Fluorine, being the most electronegative element, has in all its compounds the oxidation number",
+      "options": [
+        "$0$",
+        "$+1$",
+        "$-1$",
+        "$+2$"
+      ],
+      "answerIndex": 2,
+      "explanation": "Fluorine is always $-1$ in compounds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-204",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "In hydrogen chloride the oxidation number of chlorine is",
+      "options": [
+        "$+1$",
+        "$-1$",
+        "$0$",
+        "$+7$"
+      ],
+      "answerIndex": 1,
+      "explanation": "H is $+1$ and the molecule is neutral, so Cl is $-1$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-205",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "Sulphur in hydrogen sulphide $\\mathrm{H_2S}$ has the oxidation number",
+      "options": [
+        "$+2$",
+        "$-2$",
+        "$+6$",
+        "$0$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two hydrogens at $+1$ force sulphur to $-2$ in the neutral molecule.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-206",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "Nitrogen in ammonia $\\mathrm{NH_3}$ is assigned the oxidation number",
+      "options": [
+        "$+3$",
+        "$-3$",
+        "$+5$",
+        "$0$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three hydrogens at $+1$ give nitrogen $-3$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-207",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "Carbon in methane $\\mathrm{CH_4}$ carries the oxidation number",
+      "options": [
+        "$+4$",
+        "$-4$",
+        "$0$",
+        "$+2$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four hydrogens at $+1$ leave carbon at $-4$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-208",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "easy",
+      "stem": "In hydrogen peroxide $\\mathrm{H_2O_2}$ the oxidation number of each oxygen atom is",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "$0$",
+        "$+1$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Peroxidic oxygen is $-1$; two H at $+1$ and two O at $-1$ balance the molecule.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-209",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "medium",
+      "stem": "Sulphur in sulphuric acid $\\mathrm{H_2SO_4}$ has the oxidation number",
+      "options": [
+        "$+2$",
+        "$+4$",
+        "$+6$",
+        "$-2$"
+      ],
+      "answerIndex": 2,
+      "explanation": "$2(+1) + \\mathrm{S} + 4(-2) = 0$ gives S $= +6$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-210",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "medium",
+      "stem": "Chromium in potassium dichromate $\\mathrm{K_2Cr_2O_7}$ has the oxidation number",
+      "options": [
+        "$+3$",
+        "$+6$",
+        "$+7$",
+        "$+2$"
+      ],
+      "answerIndex": 1,
+      "explanation": "$2(+1) + 2\\mathrm{Cr} + 7(-2) = 0$ gives each Cr $= +6$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-211",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "medium",
+      "stem": "Manganese in potassium permanganate $\\mathrm{KMnO_4}$ is assigned",
+      "options": [
+        "$+2$",
+        "$+4$",
+        "$+6$",
+        "$+7$"
+      ],
+      "answerIndex": 3,
+      "explanation": "$+1 + \\mathrm{Mn} + 4(-2) = 0$ gives Mn $= +7$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-212",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "medium",
+      "stem": "Nitrogen in nitric acid $\\mathrm{HNO_3}$ has the oxidation number",
+      "options": [
+        "$-3$",
+        "$+3$",
+        "$+5$",
+        "$+1$"
+      ],
+      "answerIndex": 2,
+      "explanation": "$+1 + \\mathrm{N} + 3(-2) = 0$ gives N $= +5$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-213",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "medium",
+      "stem": "The average oxidation number of sulphur in sodium thiosulphate $\\mathrm{Na_2S_2O_3}$ is",
+      "options": [
+        "$+2$",
+        "$+4$",
+        "$+6$",
+        "$-2$"
+      ],
+      "answerIndex": 0,
+      "explanation": "$2(+1) + 2\\mathrm{S} + 3(-2) = 0$ gives $2\\mathrm{S} = +4$, so each S averages $+2$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-214",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "oxidation-number",
+      "difficulty": "hard",
+      "stem": "In magnetite $\\mathrm{Fe_3O_4}$ iron is present in two oxidation states. The average oxidation number of iron in $\\mathrm{Fe_3O_4}$ is",
+      "options": [
+        "$+2$",
+        "$+8/3$",
+        "$+3$",
+        "$+4$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four oxide ions contribute $-8$; three Fe atoms share $+8$, so the average is $+8/3$ (one Fe$^{2+}$ and two Fe$^{3+}$).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-215",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "easy",
+      "stem": "Oxidation, in electronic language, is the process in which a species",
+      "options": [
+        "gains electrons",
+        "loses electrons",
+        "gains protons",
+        "loses neutrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Loss of electrons raises the oxidation number and is oxidation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-216",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "easy",
+      "stem": "Reduction is identified as a",
+      "options": [
+        "gain of electrons",
+        "loss of electrons",
+        "gain of oxygen only",
+        "loss of hydrogen only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gain of electrons lowers the oxidation number and is reduction.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-217",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "easy",
+      "stem": "An oxidising agent is the species that",
+      "options": [
+        "is itself oxidised",
+        "is itself reduced",
+        "does not change oxidation number",
+        "always contains hydrogen"
+      ],
+      "answerIndex": 1,
+      "explanation": "The oxidising agent accepts electrons and is reduced.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-218",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "easy",
+      "stem": "A reducing agent is the species that",
+      "options": [
+        "is itself reduced",
+        "is itself oxidised",
+        "only dilutes the mixture",
+        "must be a metal ion"
+      ],
+      "answerIndex": 1,
+      "explanation": "The reducing agent donates electrons and is oxidised.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-219",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "easy",
+      "stem": "When magnesium ribbon burns, $2\\mathrm{Mg} + \\mathrm{O_2} \\rightarrow 2\\mathrm{MgO}$. The element that is oxidised is",
+      "options": [
+        "oxygen",
+        "magnesium",
+        "neither",
+        "both equally as oxidant"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mg goes from 0 to $+2$ (loses electrons) and is oxidised; oxygen is reduced.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-220",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "easy",
+      "stem": "In $\\mathrm{Zn} + \\mathrm{Cu^{2+}} \\rightarrow \\mathrm{Zn^{2+}} + \\mathrm{Cu}$, the reducing agent is",
+      "options": [
+        "$\\mathrm{Cu^{2+}}$",
+        "Zn metal",
+        "the $\\mathrm{Zn^{2+}}$ ion formed",
+        "water"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zinc metal loses electrons (0 to $+2$) and therefore reduces $\\mathrm{Cu^{2+}}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-221",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "easy",
+      "stem": "A disproportionation reaction is one in which the same element is",
+      "options": [
+        "only oxidised",
+        "only reduced",
+        "simultaneously oxidised and reduced",
+        "left with an unchanged oxidation number"
+      ],
+      "answerIndex": 2,
+      "explanation": "Part of the element’s atoms rise in ON and part fall, as in $2\\mathrm{H_2O_2} \\rightarrow 2\\mathrm{H_2O} + \\mathrm{O_2}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-222",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "easy",
+      "stem": "The combination $\\mathrm{H_2} + \\mathrm{Cl_2} \\rightarrow 2\\mathrm{HCl}$ is classified as redox because",
+      "options": [
+        "no oxidation number changes",
+        "hydrogen is oxidised (0 to $+1$) and chlorine is reduced (0 to $-1$)",
+        "it is only an acid–base reaction",
+        "both elements are oxidised"
+      ],
+      "answerIndex": 1,
+      "explanation": "H$_2$ loses electrons and Cl$_2$ gains them, so the combination is a redox process.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-223",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "medium",
+      "stem": "Which of the following laboratory changes is not a redox reaction?",
+      "options": [
+        "$2\\mathrm{H_2} + \\mathrm{O_2} \\rightarrow 2\\mathrm{H_2O}$",
+        "$\\mathrm{Zn} + \\mathrm{H_2SO_4} \\rightarrow \\mathrm{ZnSO_4} + \\mathrm{H_2}$",
+        "$\\mathrm{HCl} + \\mathrm{NaOH} \\rightarrow \\mathrm{NaCl} + \\mathrm{H_2O}$",
+        "$\\mathrm{Fe_2O_3} + 3\\mathrm{CO} \\rightarrow 2\\mathrm{Fe} + 3\\mathrm{CO_2}$"
+      ],
+      "answerIndex": 2,
+      "explanation": "Acid–base neutralisation exchanges H$^+$ and OH$^-$ with no change in oxidation numbers.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-224",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "medium",
+      "stem": "In acid solution $\\mathrm{MnO_4^-}$ is reduced to $\\mathrm{Mn^{2+}}$. The number of electrons gained by one permanganate ion is",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mn goes from $+7$ to $+2$, a gain of five electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-225",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "medium",
+      "stem": "Dichromate $\\mathrm{Cr_2O_7^{2-}}$ is reduced to two $\\mathrm{Cr^{3+}}$ ions in acid. Electrons consumed per dichromate ion are",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "answerIndex": 2,
+      "explanation": "Two chromium atoms each fall from $+6$ to $+3$, a total of six electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-226",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "medium",
+      "stem": "The balanced acidic half-change $\\mathrm{MnO_4^-} + 8\\mathrm{H^+} + n\\,e^- \\rightarrow \\mathrm{Mn^{2+}} + 4\\mathrm{H_2O}$ requires $n$ equal to",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "8"
+      ],
+      "answerIndex": 2,
+      "explanation": "Charge balance and the $+7 \\rightarrow +2$ change both fix $n = 5$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-227",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "medium",
+      "stem": "Titration of $\\mathrm{Fe^{2+}}$ with acidic $\\mathrm{MnO_4^-}$ uses the mole ratio $\\mathrm{MnO_4^-} : \\mathrm{Fe^{2+}}$ equal to",
+      "options": [
+        "1 : 1",
+        "1 : 5",
+        "5 : 1",
+        "1 : 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "One $\\mathrm{MnO_4^-}$ takes five electrons; each $\\mathrm{Fe^{2+}}$ supplies one, so five Fe$^{2+}$ are needed.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-228",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "redox-balancing",
+      "difficulty": "hard",
+      "stem": "In acid, dichromate oxidises $\\mathrm{H_2S}$ to sulphur: $\\mathrm{Cr_2O_7^{2-}} + 3\\mathrm{H_2S} + 8\\mathrm{H^+} \\rightarrow 2\\mathrm{Cr^{3+}} + 3\\mathrm{S} + 7\\mathrm{H_2O}$. The coefficient 3 in front of $\\mathrm{H_2S}$ appears because",
+      "options": [
+        "each H$_2$S loses 2 e$^-$ and dichromate gains 6 e$^-$",
+        "sulphur has atomic number 16",
+        "three oxygen atoms are present in dichromate",
+        "the reaction is not redox"
+      ],
+      "answerIndex": 0,
+      "explanation": "H$_2$S (S = $-2$ to 0) is a 2-electron reductant; Cr$_2$O$_7^{2-}$ is a 6-electron oxidant, so three H$_2$S balance one dichromate.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-229",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "easy",
+      "stem": "Gram-equivalent mass of a substance is obtained from",
+      "options": [
+        "molar mass $\\times$ $n$-factor",
+        "molar mass / $n$-factor",
+        "molar mass + $n$-factor",
+        "molarity / $n$-factor"
+      ],
+      "answerIndex": 1,
+      "explanation": "Equivalent mass $= M / n$, where $n$ is the $n$-factor of the reaction.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-230",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "easy",
+      "stem": "Hydrochloric acid donates one H$^+$ per formula unit, so its $n$-factor in acid–base work is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answerIndex": 0,
+      "explanation": "Monobasic HCl has $n = 1$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-231",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "easy",
+      "stem": "Sulphuric acid is dibasic. In complete neutralisation its $n$-factor is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "H$_2$SO$_4$ can furnish two H$^+$ ions, so $n = 2$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-232",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "easy",
+      "stem": "Normality $N$ and molarity $M$ of the same solution are related by",
+      "options": [
+        "$N = M / n$",
+        "$N = M \\times n$",
+        "$N = M + n$",
+        "$N = n / M$"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each mole contributes $n$ equivalents, so $N = M \\times n$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-233",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "easy",
+      "stem": "Sodium hydroxide has molar mass 40 g mol$^{-1}$ and $n = 1$. Its gram-equivalent mass is",
+      "options": [
+        "20 g eq$^{-1}$",
+        "40 g eq$^{-1}$",
+        "80 g eq$^{-1}$",
+        "23 g eq$^{-1}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "For a monoacidic base, equivalent mass equals the molar mass, 40 g eq$^{-1}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-234",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "easy",
+      "stem": "Calcium hydroxide $\\mathrm{Ca(OH)_2}$ is a diacidic base, so its $n$-factor is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two OH$^-$ ions per formula unit give $n = 2$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-235",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "easy",
+      "stem": "The number of gram-equivalents in a weighed sample equals",
+      "options": [
+        "mass $\\times$ equivalent mass",
+        "mass / equivalent mass",
+        "molar mass / mass",
+        "volume / normality"
+      ],
+      "answerIndex": 1,
+      "explanation": "Equivalents $= m / E$, just as moles $= m / M$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-236",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "medium",
+      "stem": "Complete neutralisation of sulphuric acid uses $n = 2$. The equivalent mass of $\\mathrm{H_2SO_4}$ (M = 98) is therefore",
+      "options": [
+        "24.5 g eq$^{-1}$",
+        "49 g eq$^{-1}$",
+        "98 g eq$^{-1}$",
+        "196 g eq$^{-1}$"
+      ],
+      "answerIndex": 1,
+      "explanation": "$E = 98/2 = 49$ g eq$^{-1}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-237",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "medium",
+      "stem": "A bottle labelled 0.50 M $\\mathrm{H_2SO_4}$ is used as a dibasic acid. The normality of that solution is",
+      "options": [
+        "0.25 N",
+        "0.50 N",
+        "1.0 N",
+        "2.0 N"
+      ],
+      "answerIndex": 2,
+      "explanation": "$N = M \\times n = 0.50 \\times 2 = 1.0$ N.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-238",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "medium",
+      "stem": "In acidic medium $\\mathrm{KMnO_4}$ is reduced to $\\mathrm{Mn^{2+}}$. The $n$-factor of permanganate in that change is",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mn falls from $+7$ to $+2$, a five-electron change, so $n = 5$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-239",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "medium",
+      "stem": "Potassium permanganate (M = 158 g mol$^{-1}$) used in acidic titration has equivalent mass",
+      "options": [
+        "31.6 g eq$^{-1}$",
+        "52.7 g eq$^{-1}$",
+        "79.0 g eq$^{-1}$",
+        "158 g eq$^{-1}$"
+      ],
+      "answerIndex": 0,
+      "explanation": "$E = 158/5 = 31.6$ g eq$^{-1}$ for the five-electron acidic reduction.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-240",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "equivalents-normality",
+      "difficulty": "hard",
+      "stem": "Twenty-five millilitres of 0.20 N $\\mathrm{H_2SO_4}$ are titrated with 0.10 N NaOH. The volume of alkali required for complete neutralisation is",
+      "options": [
+        "12.5 mL",
+        "25 mL",
+        "50 mL",
+        "100 mL"
+      ],
+      "answerIndex": 2,
+      "explanation": "$N_1V_1 = N_2V_2$ gives $V(\\mathrm{NaOH}) = (0.20 \\times 25)/0.10 = 50$ mL.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-241",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molarity-dilution",
+      "difficulty": "easy",
+      "stem": "A one-molar aqueous solution is prepared so that one litre of the finished solution contains",
+      "options": [
+        "1 mol of solute",
+        "1 mol of solvent only",
+        "1 g of solute",
+        "1 kg of solute"
+      ],
+      "answerIndex": 0,
+      "explanation": "Molarity is moles of solute per litre of solution; 1 M means 1 mol in 1 L of solution.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-242",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molarity-dilution",
+      "difficulty": "easy",
+      "stem": "Half a mole of glucose is dissolved and the solution is made up to 250 mL. The molarity of that solution is",
+      "options": [
+        "0.50 M",
+        "1.0 M",
+        "2.0 M",
+        "4.0 M"
+      ],
+      "answerIndex": 2,
+      "explanation": "$M = 0.50 / 0.250 = 2.0$ mol L$^{-1}$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-243",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molarity-dilution",
+      "difficulty": "easy",
+      "stem": "When a solution is diluted with solvent, the product $M_1V_1$ compared with $M_2V_2$ is",
+      "options": [
+        "larger after dilution",
+        "smaller after dilution",
+        "unchanged, because solute moles stay the same",
+        "equal to the density"
+      ],
+      "answerIndex": 2,
+      "explanation": "Dilution conserves the amount of solute, so $M_1V_1 = M_2V_2$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-244",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molarity-dilution",
+      "difficulty": "easy",
+      "stem": "Two moles of NaOH pellets are dissolved and the solution is made up to 1.00 L. The molarity of the alkali is",
+      "options": [
+        "0.50 M",
+        "1.0 M",
+        "2.0 M",
+        "4.0 M"
+      ],
+      "answerIndex": 2,
+      "explanation": "$M = 2.0\\ \\mathrm{mol} / 1.00\\ \\mathrm{L} = 2.0$ M.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-245",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molarity-dilution",
+      "difficulty": "easy",
+      "stem": "Four grams of NaOH (M = 40 g mol$^{-1}$) are dissolved and made up to 500 mL. The molarity of the solution is",
+      "options": [
+        "0.10 M",
+        "0.20 M",
+        "0.40 M",
+        "2.0 M"
+      ],
+      "answerIndex": 1,
+      "explanation": "Moles of NaOH $= 4/40 = 0.10$; $M = 0.10 / 0.50 = 0.20$ M.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-246",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molarity-dilution",
+      "difficulty": "medium",
+      "stem": "A 100 mL portion of 2.0 M HCl is diluted with water to 500 mL. The molarity after dilution is",
+      "options": [
+        "0.20 M",
+        "0.40 M",
+        "1.0 M",
+        "2.0 M"
+      ],
+      "answerIndex": 1,
+      "explanation": "$M_2 = (2.0 \\times 100)/500 = 0.40$ M.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-247",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molarity-dilution",
+      "difficulty": "medium",
+      "stem": "A student must prepare 250 mL of 1.0 M $\\mathrm{H_2SO_4}$ from a 5.0 M stock. The volume of stock that should be pipetted is",
+      "options": [
+        "25 mL",
+        "50 mL",
+        "100 mL",
+        "200 mL"
+      ],
+      "answerIndex": 1,
+      "explanation": "$V_1 = (1.0 \\times 250)/5.0 = 50$ mL of stock, then diluted to 250 mL.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-st-248",
+      "chapterId": "chemistry-stoichiometry",
+      "conceptId": "molarity-dilution",
+      "difficulty": "hard",
+      "stem": "200 mL of 0.50 M NaCl is mixed with 300 mL of 1.50 M NaCl (volumes additive). The molarity of the blended solution is",
+      "options": [
+        "0.90 M",
+        "1.00 M",
+        "1.10 M",
+        "1.20 M"
+      ],
+      "answerIndex": 2,
+      "explanation": "Solute moles $= 0.10 + 0.45 = 0.55$; total volume $= 0.50$ L, so $M = 1.10$.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chapterId": "chemistry-classification-of-elements-and-periodicity-in-properties",
+  "subjectId": "chemistry",
+  "concepts": [
+    { "id": "historical-classification", "label": "Dobereiner, Newlands and Mendeleev", "examHot": true, "quota": 12 },
+    { "id": "modern-law-table", "label": "Modern periodic law and table structure", "examHot": true, "quota": 16 },
+    { "id": "periods-groups-blocks", "label": "Periods, groups and s/p/d/f blocks", "examHot": true, "quota": 20 },
+    { "id": "atomic-ionic-radius", "label": "Atomic and ionic radii", "examHot": true, "quota": 22 },
+    { "id": "ionization-enthalpy", "label": "Ionisation enthalpy", "examHot": true, "quota": 24 },
+    { "id": "electron-gain", "label": "Electron gain enthalpy", "examHot": true, "quota": 16 },
+    { "id": "electronegativity", "label": "Electronegativity", "examHot": true, "quota": 16 },
+    { "id": "valence-ox-states", "label": "Valence and oxidation states", "examHot": true, "quota": 14 },
+    { "id": "metallic-character", "label": "Metallic and non-metallic character", "examHot": true, "quota": 14 },
+    { "id": "anomalous-first", "label": "Anomalous behaviour of the first element", "examHot": true, "quota": 12 },
+    { "id": "periodic-trends-general", "label": "Combined periodic trends and exceptions", "examHot": true, "quota": 18 }
+  ]
+}
