@@ -1,9 +1,25 @@
-export const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
-export const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? "";
-const supabaseServiceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY ?? "";
+function cleanEnv(value: string | undefined): string {
+  const trimmed = value?.trim() ?? "";
+  // Render UI placeholders and empty strings must not count as configured.
+  if (!trimmed || trimmed.toLowerCase() === "value") return "";
+  return trimmed;
+}
+
+export const supabaseUrl = cleanEnv(process.env.NEXT_PUBLIC_SUPABASE_URL);
+export const supabaseAnonKey = cleanEnv(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
+const supabaseServiceRoleKey = cleanEnv(process.env.SUPABASE_SERVICE_ROLE_KEY);
+
+function isHttpUrl(value: string): boolean {
+  try {
+    const url = new URL(value);
+    return url.protocol === "http:" || url.protocol === "https:";
+  } catch {
+    return false;
+  }
+}
 
 const keys = {
-  NEXT_PUBLIC_SUPABASE_URL: supabaseUrl,
+  NEXT_PUBLIC_SUPABASE_URL: isHttpUrl(supabaseUrl) ? supabaseUrl : "",
   NEXT_PUBLIC_SUPABASE_ANON_KEY: supabaseAnonKey,
   SUPABASE_SERVICE_ROLE_KEY: supabaseServiceRoleKey,
 };

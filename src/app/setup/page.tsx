@@ -7,6 +7,7 @@ import {
 import { chapters, exams, quotasFor, streamsForExam } from "@/content/catalog";
 import { getStore } from "@/lib/db";
 
+export const dynamic = "force-dynamic";
 export const metadata = { title: "Build a mock" };
 
 export default async function SetupPage() {

@@ -158,12 +158,14 @@ declare
 begin
   foreach t in array array['subjects', 'streams', 'stream_subjects', 'exams', 'exam_quotas', 'chapters']
   loop
-    execute format(
-      'create policy %I on %I for select using (true)',
-      t || '_public_read', t
-    );
-  exception when duplicate_object then
-    null;
+    begin
+      execute format(
+        'create policy %I on %I for select using (true)',
+        t || '_public_read', t
+      );
+    exception when duplicate_object then
+      null;
+    end;
   end loop;
 end
 $$;

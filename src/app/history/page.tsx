@@ -5,6 +5,7 @@ import { getOwner, getSessionUser } from "@/lib/auth/session";
 import { getStore } from "@/lib/db";
 import { formatDateTime } from "@/lib/format";
 
+export const dynamic = "force-dynamic";
 export const metadata = { title: "History" };
 
 export default async function HistoryPage() {
