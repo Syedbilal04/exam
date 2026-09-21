@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-excretory-products-and-their-elimination",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "nephron-structure",
+      "label": "Nephron parts, cortical and juxtamedullary types",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "tubular-reabsorption-secretion",
+      "label": "PCT, loop, DCT reabsorption and secretion",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "raas-adh-anf",
+      "label": "RAAS, ADH and ANF regulation of urine",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "nitrogenous-waste-types",
+      "label": "Ammonotelic, ureotelic and uricotelic animals",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "excretory-organs-anatomy",
+      "label": "Kidneys, ureters, bladder and urethra",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "glomerular-filtration",
+      "label": "Glomerular filtration and GFR",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "countercurrent-mechanism",
+      "label": "Counter-current multiplier and vasa recta",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "micturition",
+      "label": "Micturition reflex",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "excretory-disorders",
+      "label": "Uremia, dialysis, calculi and nephritis",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "accessory-excretion",
+      "label": "Lungs, liver and skin as accessory excretory organs",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

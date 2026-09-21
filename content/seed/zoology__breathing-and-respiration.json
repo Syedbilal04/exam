@@ -1,0 +1,381 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Breathing and Respiration",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-br-e-101",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "The volume of air inspired or expired during a normal quiet breath is called",
+      "options": ["vital capacity", "tidal volume", "residual volume", "inspiratory reserve"],
+      "answerIndex": 1,
+      "explanation": "Tidal volume is about 500 mL in a healthy adult at rest.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "lung-volumes-capacities",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-102",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Nearly 97 percent of oxygen is carried from the lungs to tissues as",
+      "options": ["dissolved O2 in plasma", "oxyhaemoglobin", "carbamino compound", "bicarbonate"],
+      "answerIndex": 1,
+      "explanation": "Most O2 binds iron of haemoglobin; only about 3 percent travels dissolved in plasma.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "oxygen-transport",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-103",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "The major form in which carbon dioxide is transported in human blood is",
+      "options": ["dissolved CO2", "carbamino-haemoglobin", "bicarbonate ions", "carbonic acid crystals"],
+      "answerIndex": 2,
+      "explanation": "About 70 percent of CO2 travels as HCO3-; the rest is carbamino-Hb or dissolved gas.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "co2-transport-chloride-shift",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-104",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "The actual sites of exchange of O2 and CO2 in the lungs are the",
+      "options": ["tracheal rings", "primary bronchi", "alveoli", "pleural membranes only"],
+      "answerIndex": 2,
+      "explanation": "Alveoli provide a thin, moist, highly vascular surface for diffusion of respiratory gases.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "respiratory-system-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-105",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "During quiet inspiration the diaphragm",
+      "options": [
+        "relaxes and becomes dome-shaped",
+        "contracts and flattens",
+        "does not change shape",
+        "closes the glottis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Contraction flattens the diaphragm, increasing thoracic volume so air flows in.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "breathing-mechanism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-106",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Oxygen diffuses from alveolar air into pulmonary capillary blood because alveolar pO2 is",
+      "options": [
+        "lower than blood pO2",
+        "equal to tissue pO2",
+        "higher than blood pO2",
+        "zero at sea level"
+      ],
+      "answerIndex": 2,
+      "explanation": "Alveolar pO2 is about 104 mm Hg versus about 40 mm Hg in deoxygenated blood, so O2 enters the capillary.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pulmonary-gas-exchange",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-107",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "The basic respiratory rhythm centre of humans is located in the",
+      "options": ["cerebellum", "medulla oblongata", "corpus callosum", "spinal lumbar region"],
+      "answerIndex": 1,
+      "explanation": "The medullary rhythm centre sets the breathing rate; the pons modulates it.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "respiratory-regulation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-108",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Inflammation that narrows bronchioles and causes wheezing attacks is typical of",
+      "options": ["emphysema", "asthma", "pneumoconiosis only", "myasthenia"],
+      "answerIndex": 1,
+      "explanation": "Asthma is reversible bronchoconstriction with mucus; emphysema destroys alveolar walls.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "respiratory-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-109",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "The respiratory quotient (CO2 released / O2 used) for a pure carbohydrate diet is",
+      "options": ["0.7", "0.9", "1.0", "1.4"],
+      "answerIndex": 2,
+      "explanation": "Oxidation of glucose yields equal moles of CO2 and O2 consumed, so RQ = 1.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "respiratory-quotient",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-110",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "A rise in blood pCO2 and H+ concentration shifts the oxyhaemoglobin curve to the",
+      "options": [
+        "left and raises O2 affinity",
+        "right and favours unloading of O2",
+        "left without changing affinity",
+        "right and prevents any O2 release"
+      ],
+      "answerIndex": 1,
+      "explanation": "This Bohr effect helps haemoglobin give up oxygen in active tissues.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "transport-and-bohr",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-111",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Vital capacity of the lungs is the sum of",
+      "options": [
+        "TV + IRV + ERV",
+        "TV + RV only",
+        "IRV + RV",
+        "ERV + dead space"
+      ],
+      "answerIndex": 0,
+      "explanation": "VC is the maximum air that can be expired after a deepest inspiration: TV + IRV + ERV.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "lung-volumes-capacities",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-112",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Each haemoglobin molecule can bind a maximum of how many molecules of oxygen?",
+      "options": ["one", "two", "three", "four"],
+      "answerIndex": 3,
+      "explanation": "Hb has four haem groups, so it carries up to four O2 molecules (Hb4O8).",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "oxygen-transport",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-e-113",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "When HCO3- leaves a red cell in a tissue capillary, electroneutrality is kept by entry of Cl- (Hamburger phenomenon). This chloride shift is reversed in the",
+      "options": ["tissue interstitial fluid", "alveolar capillary", "lymph node", "renal pelvis"],
+      "answerIndex": 1,
+      "explanation": "In the lung, HCO3- re-enters RBCs, Cl- leaves, and CO2 is exhaled.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "co2-transport-chloride-shift",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-101",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Residual volume is the air that",
+      "options": [
+        "is exchanged in one quiet breath",
+        "remains in the lungs after a forceful expiration",
+        "can still be inspired after a normal inspiration",
+        "fills only the anatomical dead space"
+      ],
+      "answerIndex": 1,
+      "explanation": "About 1100–1200 mL stays after maximal expiration and cannot be expelled voluntarily.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "lung-volumes-capacities",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-102",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Binding of the first O2 molecule to haemoglobin",
+      "options": [
+        "prevents binding of further O2",
+        "raises affinity for the next O2 molecules",
+        "converts Hb into myoglobin",
+        "occurs only in plasma"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cooperative binding gives the sigmoid O2-dissociation curve of haemoglobin.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "oxygen-transport",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-103",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Carbonic anhydrase, which speeds formation of carbonic acid from CO2 and water, is abundant in",
+      "options": ["blood plasma only", "erythrocytes", "alveolar surfactant", "pleural fluid"],
+      "answerIndex": 1,
+      "explanation": "RBCs contain carbonic anhydrase; plasma has very little, so most HCO3- forms inside red cells.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "co2-transport-chloride-shift",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-104",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Which structure is shared by the respiratory and digestive pathways?",
+      "options": ["Trachea", "Alveolus", "Pharynx", "Bronchiole"],
+      "answerIndex": 2,
+      "explanation": "The pharynx is a common passage; the epiglottis then directs food away from the larynx.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "respiratory-system-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-105",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Quiet expiration in a healthy person is mainly",
+      "options": [
+        "an active process driven by abdominal muscles",
+        "a passive elastic recoil of lungs and chest wall",
+        "caused by contraction of the external intercostals",
+        "produced by flattening of the diaphragm"
+      ],
+      "answerIndex": 1,
+      "explanation": "After inspiration, stretched lungs and raised diaphragm recoil; forced expiration needs internal intercostals and abdomen.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "breathing-mechanism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-106",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "pCO2 is highest in which of the following?",
+      "options": [
+        "Inspired atmospheric air",
+        "Alveolar air",
+        "Deoxygenated blood in tissue capillaries",
+        "Oxygenated blood leaving the lungs"
+      ],
+      "answerIndex": 2,
+      "explanation": "Tissues produce CO2, so venous/tissue-capillary pCO2 (about 45 mm Hg) exceeds alveolar pCO2 (40 mm Hg).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pulmonary-gas-exchange",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-107",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "The pneumotaxic centre in the pons mainly",
+      "options": [
+        "starts inspiration and never stops it",
+        "limits the duration of inspiration",
+        "secretes surfactant",
+        "detects only arterial O2 in the aorta"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pneumotaxic signals switch off inspiration, thereby moderating tidal volume and rate.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "respiratory-regulation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-108",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Destruction of alveolar walls, often linked to cigarette smoking, characterises",
+      "options": ["asthma", "emphysema", "common cold", "otitis media"],
+      "answerIndex": 1,
+      "explanation": "Emphysema reduces surface area for gas exchange; asthma is bronchoconstriction.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "respiratory-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-109",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "A respiratory quotient close to 0.7 indicates that the substrate being oxidised is mainly",
+      "options": ["glucose", "protein", "fat", "nucleic acid"],
+      "answerIndex": 2,
+      "explanation": "Fats need more O2 per CO2 formed, so RQ is about 0.7; protein is about 0.9.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "respiratory-quotient",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-110",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Which change does not favour unloading of oxygen from haemoglobin?",
+      "options": [
+        "Increase in temperature",
+        "Increase in 2,3-BPG",
+        "Increase in pH (more alkaline)",
+        "Increase in pCO2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Higher pH (Bohr reverse) increases O2 affinity; heat, CO2, H+ and 2,3-BPG decrease it.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "transport-and-bohr",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-111",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Functional residual capacity (FRC) equals",
+      "options": ["TV + IRV", "ERV + RV", "VC + RV", "IC + TV"],
+      "answerIndex": 1,
+      "explanation": "FRC is the air left after a normal expiration: expiratory reserve plus residual volume.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "lung-volumes-capacities",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-112",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Which statement about oxygen transport is incorrect?",
+      "options": [
+        "A fully saturated Hb molecule carries four O2",
+        "Myoglobin shows a hyperbolic dissociation curve",
+        "Most O2 in arterial blood is dissolved, not bound to Hb",
+        "Low tissue pO2 promotes O2 release from Hb"
+      ],
+      "answerIndex": 2,
+      "explanation": "Only about 3 percent of O2 is dissolved; the rest is oxyhaemoglobin.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "oxygen-transport",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-br-n-113",
+      "chapterId": "zoology-breathing-and-respiration",
+      "stem": "Identify the incorrect statement about CO2 carriage.",
+      "options": [
+        "About 20–25 percent of CO2 binds Hb as carbamino-haemoglobin",
+        "Carbonic anhydrase is required for rapid HCO3- formation in RBCs",
+        "Chloride ions enter RBCs in tissues as HCO3- leaves them",
+        "Nearly all CO2 travels as dissolved gas in plasma"
+      ],
+      "answerIndex": 3,
+      "explanation": "Dissolved CO2 is only about 7 percent; bicarbonate is the main transport form.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "co2-transport-chloride-shift",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

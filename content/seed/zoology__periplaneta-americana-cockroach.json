@@ -1,0 +1,386 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Periplaneta americana (Cockroach)",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-ck-e-101",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The body of Periplaneta is divided into",
+      "options": [
+        "head and trunk only",
+        "head, thorax and abdomen",
+        "prosoma and opisthosoma",
+        "cephalothorax and abdomen as in prawn only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Insects have three tagmata: head, thorax and abdomen, covered by a chitinous cuticle.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "external-morphology-tagmata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-102",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The mandibles of the cockroach are used for",
+      "options": ["piercing skin", "biting and chewing food", "sucking nectar only", "spinning silk"],
+      "answerIndex": 1,
+      "explanation": "Periplaneta has mandibulate (biting-chewing) mouthparts with strong mandibles.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "mouthparts-and-head",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-103",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The gizzard (proventriculus) of the cockroach is lined with",
+      "options": [
+        "cilia for filter feeding",
+        "thick cuticle and chitinous teeth for grinding",
+        "Malpighian tubules",
+        "spiracles"
+      ],
+      "answerIndex": 1,
+      "explanation": "Six cuticular teeth in the gizzard grind food before it enters the mesenteron.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "digestive-system-cockroach",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-104",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Circulation in Periplaneta is described as open because",
+      "options": [
+        "blood remains only inside a closed network of capillaries",
+        "haemolymph flows in haemocoel and bathes the tissues",
+        "there is no heart",
+        "oxygen is carried by haemoglobin in RBC"
+      ],
+      "answerIndex": 1,
+      "explanation": "Haemolymph is pumped by the dorsal heart into sinuses; there are no tissue capillaries.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "open-circulation-heart",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-105",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The number of pairs of spiracles in Periplaneta is",
+      "options": ["two", "ten", "thirteen", "eight only on the head"],
+      "answerIndex": 1,
+      "explanation": "Ten pairs: two thoracic and eight abdominal spiracles open into the tracheal system.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "tracheal-respiration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-106",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Uric acid is the main nitrogenous waste of the cockroach, so it is",
+      "options": ["ammonotelic", "ureotelic", "uricotelic", "guanotelic only"],
+      "answerIndex": 2,
+      "explanation": "Malpighian tubules and the fat body contribute to uricotelic excretion, conserving water.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "malpighian-excretion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-107",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Compound eyes of Periplaneta are made of many visual units called",
+      "options": ["nephrons", "ommatidia", "alveoli", "osteons"],
+      "answerIndex": 1,
+      "explanation": "Each ommatidium contributes a fragment of the image, producing mosaic vision.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nervous-system-sense-organs",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-108",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The mushroom-shaped gland in the male cockroach is",
+      "options": ["excretory", "a reproductive accessory gland", "respiratory", "photoreceptive"],
+      "answerIndex": 1,
+      "explanation": "Utricular and phallic glands (mushroom gland) add secretions to the seminal fluid.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "male-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-109",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The ootheca of Periplaneta is a",
+      "options": [
+        "respiratory pouch",
+        "dark purse-like egg case produced by collateral glands",
+        "pair of anal styles",
+        "gastric caecum"
+      ],
+      "answerIndex": 1,
+      "explanation": "Collateral glands secrete the ootheca, which contains a double row of fertilised eggs.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "female-reproductive-ootheca",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-110",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Forewings of the cockroach that protect the hindwings are called",
+      "options": ["halteres", "tegmina", "elytra of beetles only by another name never used", "opercula"],
+      "answerIndex": 1,
+      "explanation": "Leathery mesothoracic tegmina cover the membranous metathoracic flying wings.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "wings-legs-metamorphosis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-111",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Hepatic caeca of the cockroach arise at the junction of",
+      "options": [
+        "gizzard and midgut",
+        "ileum and rectum",
+        "pharynx and crop",
+        "Malpighian tubules and heart"
+      ],
+      "answerIndex": 0,
+      "explanation": "Eight blind hepatic (gastric) caeca open into the anterior midgut and secrete digestive enzymes.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "digestive-system-cockroach",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-112",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Anal styles that distinguish the male cockroach are attached to the",
+      "options": ["head", "ninth abdominal sternum", "forewing", "crop"],
+      "answerIndex": 1,
+      "explanation": "Short, unjointed anal styles on the 9th sternum occur in males; both sexes have anal cerci on the 10th segment.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "male-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-e-113",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Which statement about Periplaneta americana is incorrect?",
+      "options": [
+        "The heart is a dorsal pulsatile tube of 13 chambers",
+        "Each thoracic segment bears a pair of walking legs",
+        "Development is paurometabolous with nymphs resembling adults",
+        "Oxygen is transported mainly by haemoglobin in haemolymph"
+      ],
+      "answerIndex": 3,
+      "explanation": "Tracheae deliver oxygen directly to tissues; haemolymph has little respiratory pigment.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "tracheal-respiration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-101",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "In Periplaneta the head is formed by the fusion of how many embryonic segments?",
+      "options": ["three", "six", "ten", "thirteen"],
+      "answerIndex": 1,
+      "explanation": "Six segments fuse to form the hypognathous head that bears antennae, palps and mouthparts.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "external-morphology-tagmata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-102",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Which of the following is not a mouthpart of the cockroach?",
+      "options": ["Labrum", "Mandible", "Maxilla", "Tegmen"],
+      "answerIndex": 3,
+      "explanation": "Labrum, mandibles, maxillae, labium and hypopharynx are mouthparts; tegmina are forewings.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "mouthparts-and-head",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-103",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The crop of Periplaneta functions mainly as a",
+      "options": ["grinding mill with teeth", "storage sac for food", "site of Malpighian filtration", "compound eye"],
+      "answerIndex": 1,
+      "explanation": "The thin-walled crop stores food; grinding occurs in the gizzard just behind it.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "digestive-system-cockroach",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-104",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Ostia of the cockroach heart are",
+      "options": [
+        "spiracles on the thorax",
+        "paired openings that admit haemolymph into the chambers",
+        "Malpighian tubules",
+        "ommatidia"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each heart chamber has lateral ostia with valves; blood enters from the pericardial sinus.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "open-circulation-heart",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-105",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Tracheoles of the cockroach end blindly on the tissues so that",
+      "options": [
+        "haemolymph must carry all oxygen",
+        "gaseous exchange occurs directly at the cells",
+        "gills can function in air",
+        "the crop can store oxygen"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fine fluid-filled tracheoles lie against cells; oxygen diffuses to mitochondria without using lungs.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "tracheal-respiration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-106",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Malpighian tubules of Periplaneta open at the junction of the",
+      "options": ["crop and gizzard", "midgut and hindgut", "pharynx and oesophagus", "heart and aorta"],
+      "answerIndex": 1,
+      "explanation": "Yellow thread-like tubules (about 100–150) arise at the midgut–hindgut junction and extract nitrogenous waste.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "malpighian-excretion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-107",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "The brain of the cockroach is the",
+      "options": [
+        "ventral nerve cord itself",
+        "supra-oesophageal ganglion",
+        "mushroom gland",
+        "last abdominal ganglion only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Paired supra-oesophageal ganglia above the oesophagus form the brain, linked to a sub-oesophageal ganglion.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nervous-system-sense-organs",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-108",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Phallomeres in the male cockroach are",
+      "options": [
+        "walking legs of the thorax",
+        "chitinous external genitalia around the gonopore",
+        "hepatic caeca",
+        "compound eyes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three asymmetrical phallomeres (gonapophyses) surround the male genital opening and aid copulation.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "male-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-109",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "In the female cockroach the 7th sternum is boat-shaped and together with the 8th and 9th sterna forms the",
+      "options": ["gizzard", "gynatrium (genital pouch)", "spiracle", "ommatidium"],
+      "answerIndex": 1,
+      "explanation": "The genital pouch lodges gonapophyses, spermathecal openings and the collaterial gland openings; oothecae form here.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "female-reproductive-ootheca",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-110",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Nymphs of Periplaneta grow to adults by a series of moults. This development is",
+      "options": [
+        "holometabolous with a pupa",
+        "paurometabolous (gradual metamorphosis)",
+        "direct without any moult",
+        "as in frogs with a tadpole"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cockroaches are paurometabolous: wingless nymphs resemble adults and gain wings after several instars; there is no pupa.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "wings-legs-metamorphosis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-111",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Each walking leg of Periplaneta consists of",
+      "options": [
+        "coxa, trochanter, femur, tibia and tarsus",
+        "femur and tibia only",
+        "protopodite and exopodite as in prawn gills",
+        "a single unjointed style"
+      ],
+      "answerIndex": 0,
+      "explanation": "The typical insect leg has five podomeres; the tarsus is further jointed and ends in claws.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "wings-legs-metamorphosis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-112",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "How many oothecae does a female Periplaneta produce on average, each with about 14–16 eggs?",
+      "options": ["one only", "9–10", "about 50", "none; eggs are laid singly in water"],
+      "answerIndex": 1,
+      "explanation": "A female produces roughly 9–10 oothecae; each dark case holds two rows of eggs.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "female-reproductive-ootheca",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ck-n-113",
+      "chapterId": "zoology-periplaneta-americana-cockroach",
+      "stem": "Which of the following is incorrect for Periplaneta americana?",
+      "options": [
+        "Fat body assists in storage and excretion",
+        "Sense organs include antennae, eyes, maxillary palps and anal cerci",
+        "Haemocytes float in haemolymph",
+        "The ventral nerve cord is absent; only a dorsal brain exists"
+      ],
+      "answerIndex": 3,
+      "explanation": "A double ventral nerve cord with three thoracic and six abdominal ganglia runs the length of the body.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "nervous-system-sense-organs",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

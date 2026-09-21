@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-photosynthesis-in-higher-plants",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "ps-early-experiments",
+      "label": "Priestley, Ingenhousz, Engelmann and van Niel experiments",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-site-chloroplast",
+      "label": "Chloroplast sites of light and carbon reactions",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-pigments-spectra",
+      "label": "Photosynthetic pigments and light harvesting",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-photosystems-zscheme",
+      "label": "Photosystems I and II and the Z-scheme",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-photophosphorylation",
+      "label": "Cyclic and non-cyclic photophosphorylation and chemiosmosis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-water-splitting",
+      "label": "Photolysis of water at PS II",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-calvin-rubisco",
+      "label": "Calvin cycle, RuBP and RuBisCO",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-c4-kranz",
+      "label": "C4 Hatch-Slack pathway, Kranz anatomy and CAM",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-photorespiration",
+      "label": "Photorespiration as a wasteful C2 path",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ps-factors-blackman",
+      "label": "Blackman limiting factors of photosynthesis",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

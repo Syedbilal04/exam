@@ -1,0 +1,1692 @@
+{
+  "botany-science-of-plants-botany": [
+    {
+      "id": "bot-sp-001",
+      "stem": "Botany is the scientific study of"
+    },
+    {
+      "id": "bot-sp-002",
+      "stem": "A herbarium sheet typically carries"
+    },
+    {
+      "id": "bot-sp-003",
+      "stem": "The father of botany is often named as"
+    },
+    {
+      "id": "bot-sp-004",
+      "stem": "Taxonomy deals with"
+    }
+  ],
+  "botany-morphology-of-flowering-plants": [
+    {
+      "id": "bot-mf-001",
+      "stem": "A flower with both stamens and carpels is"
+    },
+    {
+      "id": "bot-mf-002",
+      "stem": "Axile placentation is seen in"
+    },
+    {
+      "id": "bot-mf-003",
+      "stem": "A phylloclade is a modified"
+    },
+    {
+      "id": "bot-mf-004",
+      "stem": "Parallel venation is typical of"
+    },
+    {
+      "id": "bot-mf-005",
+      "stem": "The fruit of mustard is a"
+    },
+    {
+      "id": "bot-mf-006",
+      "stem": "Epigynous flowers have the ovary"
+    }
+  ],
+  "botany-modes-of-nutrition": [
+    {
+      "id": "bot-mn-001",
+      "stem": "Insectivorous plants grow mainly in soils deficient in"
+    },
+    {
+      "id": "bot-mn-002",
+      "stem": "A saprophyte obtains food from"
+    },
+    {
+      "id": "bot-mn-003",
+      "stem": "Cuscuta is a classic"
+    },
+    {
+      "id": "bot-mn-004",
+      "stem": "Mycorrhiza is a mutualism between"
+    }
+  ],
+  "botany-mineral-nutrition": [
+    {
+      "id": "bot-min-001",
+      "stem": "A macronutrient among the following is"
+    },
+    {
+      "id": "bot-min-002",
+      "stem": "Nitrogenase is extremely sensitive to"
+    },
+    {
+      "id": "bot-min-003",
+      "stem": "The essential element in chlorophyll is"
+    },
+    {
+      "id": "bot-min-004",
+      "stem": "Hydroponics means growing plants"
+    },
+    {
+      "id": "bot-min-005",
+      "stem": "Khaira disease of rice is due to deficiency of"
+    }
+  ],
+  "botany-plants-microbes-and-human-welfare": [
+    {
+      "id": "bot-pm-001",
+      "stem": "Bt cotton expresses a toxin gene from"
+    },
+    {
+      "id": "bot-pm-002",
+      "stem": "Biofertilisers include"
+    },
+    {
+      "id": "bot-pm-003",
+      "stem": "Tissue culture produces"
+    },
+    {
+      "id": "bot-pm-004",
+      "stem": "The Green Revolution in India is associated with"
+    },
+    {
+      "id": "bot-pm-005",
+      "stem": "Single cell protein can be obtained from"
+    }
+  ],
+  "botany-the-living-world": [
+    {
+      "id": "bot-lw-001",
+      "stem": "The system of binomial nomenclature was introduced by"
+    },
+    {
+      "id": "bot-lw-002",
+      "stem": "The basic unit of biological classification is"
+    },
+    {
+      "id": "bot-lw-003",
+      "stem": "The correct sequence of taxonomic categories in descending order is"
+    },
+    {
+      "id": "bot-lw-004",
+      "stem": "A herbarium is a collection of"
+    },
+    {
+      "id": "bot-lw-005",
+      "stem": "ICBN stands for"
+    },
+    {
+      "id": "bot-lw-006",
+      "stem": "Living plant collections maintained for reference and study are kept in a"
+    },
+    {
+      "id": "bot-lw-e-101",
+      "stem": "In binomial nomenclature, the first word of a biological name represents the"
+    },
+    {
+      "id": "bot-lw-e-102",
+      "stem": "In the taxonomic hierarchy, a family is an assemblage of related"
+    },
+    {
+      "id": "bot-lw-e-103",
+      "stem": "Organisms capable of interbreeding to produce fertile offspring are placed in the same"
+    },
+    {
+      "id": "bot-lw-e-104",
+      "stem": "Dried and pressed plant specimens mounted on sheets and stored for study constitute a"
+    },
+    {
+      "id": "bot-lw-e-105",
+      "stem": "Kew (Royal Botanic Gardens) is an internationally famous example of a"
+    },
+    {
+      "id": "bot-lw-e-106",
+      "stem": "A taxonomic key that offers two contrasting choices at each step is called a"
+    },
+    {
+      "id": "bot-lw-e-107",
+      "stem": "Scientific names of plants are assigned according to the rules of the"
+    },
+    {
+      "id": "bot-lw-e-108",
+      "stem": "Systematics differs from taxonomy mainly because it also studies"
+    },
+    {
+      "id": "bot-lw-e-109",
+      "stem": "Isolated metabolic reactions in a test tube are not called living systems because they lack"
+    },
+    {
+      "id": "bot-lw-e-110",
+      "stem": "The process of giving a scientific name to a newly discovered organism is called"
+    },
+    {
+      "id": "bot-lw-e-111",
+      "stem": "In the name Mangifera indica, the word indica denotes the"
+    },
+    {
+      "id": "bot-lw-e-112",
+      "stem": "Among species, genus, family and order, the highest taxonomic rank is"
+    },
+    {
+      "id": "bot-lw-e-113",
+      "stem": "The family to which mango (Mangifera indica) belongs is"
+    },
+    {
+      "id": "bot-lw-n-101",
+      "stem": "A correctly written biological name in a printed paper should have the"
+    },
+    {
+      "id": "bot-lw-n-102",
+      "stem": "Which taxonomic category includes all the others listed here?"
+    },
+    {
+      "id": "bot-lw-n-103",
+      "stem": "The most specific (lowest) taxonomic category among the following is"
+    },
+    {
+      "id": "bot-lw-n-104",
+      "stem": "Herbarium sheets are mainly useful for"
+    },
+    {
+      "id": "bot-lw-n-105",
+      "stem": "Which taxonomic aid maintains living plant specimens with scientific labels?"
+    },
+    {
+      "id": "bot-lw-n-106",
+      "stem": "Which of the following is not regarded as a taxonomic aid?"
+    },
+    {
+      "id": "bot-lw-n-107",
+      "stem": "The International Code of Zoological Nomenclature (ICZN) lays down rules for naming"
+    },
+    {
+      "id": "bot-lw-n-108",
+      "stem": "Taxonomy is a part of systematics. Systematics additionally includes the study of"
+    },
+    {
+      "id": "bot-lw-n-109",
+      "stem": "Growth cannot be used as a unique defining feature of living organisms because"
+    },
+    {
+      "id": "bot-lw-n-110",
+      "stem": "Scientific names are preferred over common names because they are"
+    },
+    {
+      "id": "bot-lw-n-111",
+      "stem": "When a biological name is handwritten, each of the two words should be"
+    },
+    {
+      "id": "bot-lw-n-112",
+      "stem": "Identify the incorrect pair of taxonomic rank and example."
+    },
+    {
+      "id": "bot-lw-n-113",
+      "stem": "Taxonomic keys used for identification are based on"
+    }
+  ],
+  "botany-cell-the-unit-of-life": [
+    {
+      "id": "bot-cl-001",
+      "stem": "The organelle known as the powerhouse of the cell is"
+    },
+    {
+      "id": "bot-cl-002",
+      "stem": "Cell theory was proposed by"
+    },
+    {
+      "id": "bot-cl-003",
+      "stem": "The ribosomes found in prokaryotic cells are of the type"
+    },
+    {
+      "id": "bot-cl-004",
+      "stem": "The plant cell wall is composed mainly of"
+    },
+    {
+      "id": "bot-cl-005",
+      "stem": "The site of photosynthesis in a plant cell is the"
+    },
+    {
+      "id": "bot-cl-006",
+      "stem": "The main function of the Golgi apparatus is"
+    },
+    {
+      "id": "mmlu-biology-7fdce4799d21",
+      "stem": "When the first tiny prokaryotic cell took up residence inside a larger prokaryotic cell, it heralded the advent of the eukaryotic cell and led to an explosion of new life on Earth. Since then, most cells on Earth have internal organelles. Which of the following best summarizes an advantage of having internal membranes and organelles?"
+    },
+    {
+      "id": "mmlu-biology-7a6f868d4f07",
+      "stem": "Which of the following pairs of structures is least likely to represent homology?"
+    },
+    {
+      "id": "mmlu-biology-0ce544c3c525",
+      "stem": "During which phase of the cell cycle does the quantity of DNA in a eukaryotic cell typically double?"
+    },
+    {
+      "id": "mmlu-biology-003fe117d07d",
+      "stem": "Which aspects of cell structure best reveals the unity of all life?"
+    },
+    {
+      "id": "mmlu-biology-388a8add7807",
+      "stem": "Which of the following statements about the light-dependent reactions of photosynthesis is correct?"
+    },
+    {
+      "id": "mmlu-biology-d2ec4bcd3515",
+      "stem": "Which of the following is most likely to increase the rate of diffusion of an uncharged solute across the plasma membrane of a cell?"
+    },
+    {
+      "id": "mmlu-biology-f6fd64d78584",
+      "stem": "All viruses contain at least these two principal components:"
+    },
+    {
+      "id": "mmlu-biology-cfb4e0c5714d",
+      "stem": "Which of the following would most likely describe the fate of a vesicle formed as a result of phagocytosis?"
+    },
+    {
+      "id": "mmlu-biology-6afc94690a63",
+      "stem": "Which of the following theories is based on the notion that mitochondria and chloroplasts evolved from prokaryotic cells?"
+    },
+    {
+      "id": "mmlu-biology-d0037404d8d8",
+      "stem": "Which of the following properties is responsible for holding together the water molecules in a vertical column of water in xylem vessels of a plant?"
+    },
+    {
+      "id": "mmlu-biology-8d237e9752f9",
+      "stem": "In the inherited disorder called Pompe disease, glycogen breakdown in the cytosol occurs normally and blood glucose levels are normal, yet glycogen accumulates in lysosomes. This suggests a malfunction with"
+    },
+    {
+      "id": "mmlu-biology-993a5b9be224",
+      "stem": "Oligomycin is an antibiotic that blocks proton channels in the cristae of mitochondria by binding to ATP synthase. Which of the following would be the first expected response after the application of oligomycin to cells?"
+    },
+    {
+      "id": "mmlu-biology-c7c96e80bd14",
+      "stem": "Which of the following characteristics would allow you to distinguish a prokaryotic cell from an animal cell?"
+    },
+    {
+      "id": "mmlu-biology-78bb40dfe944",
+      "stem": "The first simple cells evolved approximately 3.5 billion years ago, followed by the more complex eukaryotic cells 2.1 billion years ago. Which of the following statements is correct?"
+    },
+    {
+      "id": "mmlu-biology-489b96c97f63",
+      "stem": "Microtubules are protein filaments assembled from tubulin protein subunits. The chemical colchicine prevents the assembly of microtubules by binding to tubulin protein subunits. Which of the following cellular processes would be most impaired by the application of colchicine?"
+    },
+    {
+      "id": "mmlu-biology-0b4488fceb32",
+      "stem": "Chemiosmosis occurs in I.Mitochondria II. Nuclei III. Chloroplasts"
+    },
+    {
+      "id": "mmlu-biology-de3a815b565a",
+      "stem": "All of the following support the endosymbiotic theory that ancestors of mitochondria and chloroplasts were once independent, free-living prokaryotes EXCEPT:"
+    },
+    {
+      "id": "mmlu-biology-8a705c90db8b",
+      "stem": "In general, animal cells differ from plant cells in that animal cells have"
+    },
+    {
+      "id": "mmlu-biology-96a539cc9c82",
+      "stem": "The fluidity of the plasma membrane can vary in response to temperature changes. For bacteria and yeast cells, which of the following would be a viable strategy to maintain homeostasis of the plasma membrane in a temperature-varying environment?"
+    },
+    {
+      "id": "mmlu-biology-01adf088ea69",
+      "stem": "The structure of ATP synthase in the plasma membranes of bacteria is nearly identical to that in the mitochondria and chloroplasts of eukaryotic cells. This similarity best supports which of the following hypotheses?"
+    },
+    {
+      "id": "mmlu-biology-dd6f04cf38eb",
+      "stem": "In cells, which of the following can catalyze reactions involving hydrogen peroxide, provide cellular energy, and make proteins, in that order?"
+    },
+    {
+      "id": "mmlu-biology-79f9c5e6bcc9",
+      "stem": "Which of the following are characteristics of both bacteria and fungi?"
+    },
+    {
+      "id": "mmlu-biology-2a6ed7bdbc14",
+      "stem": "Which of the following is NOT a characteristic of bacteria?"
+    },
+    {
+      "id": "mmlu-biology-52244ca9412e",
+      "stem": "Viruses are considered an exception to the cell theory because they"
+    },
+    {
+      "id": "mmlu-biology-0b93ea5142d5",
+      "stem": "In the process of generating ATP, hydrogen ions (H+, or protons) are transported across the inner mitochondrial membrane and the thylakoid membrane by a proton pump (an ATPase). You would expect to find similar proton pumps in the plasma membranes of"
+    },
+    {
+      "id": "mmlu-biology-9d143c7bc31b",
+      "stem": "A cell from the leaf of the aquatic plant Elodea was soaked in a 15 percent sugar solution, and its contents soon separated from the cell wall and formed a mass in the center of the cell. All of the following statements are true about this event EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-09f8915a2645",
+      "stem": "In animal cells, which of the following represents the most likely pathway that a secretory protein takes as it is synthesized in a cell?"
+    },
+    {
+      "id": "mmlu-biology-33519450c92a",
+      "stem": "Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the following destinations?"
+    },
+    {
+      "id": "mmlu-biology-a501fa43af07",
+      "stem": "The following pairs were placed in solution together. Which two could be separated by performing low-speed centrifugation?"
+    },
+    {
+      "id": "mmlu-biology-f82ffa193dc3",
+      "stem": "In the formation of the earliest cells, which of the following components most likely arose first?"
+    },
+    {
+      "id": "mmlu-biology-8f3bb330b60f",
+      "stem": "In chloroplasts, a certain protein is found in the lumen of the thylakoid (thylakoid space). It is transcribed in the nucleus and synthesized on cytoplasmic ribosomes. How many membrane bilayers must this protein cross to reach its final location?"
+    },
+    {
+      "id": "mmlu-biology-357ea36a1985",
+      "stem": "Which of the following statements concerning the Golgi apparatus of a eukaryote is correct?"
+    },
+    {
+      "id": "mmlu-biology-a7ebe4e2939b",
+      "stem": "Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes belong to the class of antibodies called"
+    },
+    {
+      "id": "mmlu-biology-e6419b3bf6ea",
+      "stem": "Which of the following is true of organisms belonging to the kingdom Protista?"
+    },
+    {
+      "id": "mmlu-biology-e6f4ba2dfd81",
+      "stem": "Which of the following statements about fungi is NOT true?"
+    },
+    {
+      "id": "mmlu-biology-121d6922c60c",
+      "stem": "Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membrane and ending with the outermost membrane?"
+    },
+    {
+      "id": "mmlu-biology-3f2d52f0d819",
+      "stem": "Which of the following statements about mitochondria and chloroplasts is generally true?"
+    },
+    {
+      "id": "mmlu-biology-9afd0bc4a624",
+      "stem": "How do cyanobacteria differ from green unicellular algae?"
+    },
+    {
+      "id": "mmlu-biology-a648dc5965e3",
+      "stem": "Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surface proteins were observed to integrate along a fused mouse-human cell plasma membrane. Which of the following cell culture techniques was most likely employed in order to yield these results?"
+    },
+    {
+      "id": "mmlu-biology-1f403b392215",
+      "stem": "Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following is the best explanation for the effect of low external pH?"
+    },
+    {
+      "id": "mmlu-biology-f6c0cd91bf97",
+      "stem": "Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal populations?"
+    },
+    {
+      "id": "mmlu-biology-dd2fd4bec97a",
+      "stem": "In fungi, cell walls are reinforced by which of the following?"
+    },
+    {
+      "id": "mmlu-biology-99546c549178",
+      "stem": "Leber's hereditary optic atrophy is caused by a mutation in:"
+    }
+  ],
+  "botany-photosynthesis-in-higher-plants": [
+    {
+      "id": "bot-ph-001",
+      "stem": "The light reaction of photosynthesis takes place in the"
+    },
+    {
+      "id": "bot-ph-002",
+      "stem": "The first stable product formed in C4 plants is"
+    },
+    {
+      "id": "bot-ph-003",
+      "stem": "The Calvin cycle occurs in the"
+    },
+    {
+      "id": "bot-ph-004",
+      "stem": "The primary acceptor of carbon dioxide in C3 plants is"
+    },
+    {
+      "id": "bot-ph-005",
+      "stem": "Oxygen released during photosynthesis comes from"
+    },
+    {
+      "id": "bot-ph-006",
+      "stem": "Chlorophyll a shows maximum absorption in which regions of the spectrum?"
+    },
+    {
+      "id": "mmlu-biology-c44db04b60cd",
+      "stem": "The light reactions of photosynthesis supply the Calvin cycle with which of the following?"
+    },
+    {
+      "id": "mmlu-biology-bb64a98fe031",
+      "stem": "This process leads to the net production of two pyruvate, two ATP, and two NADH."
+    },
+    {
+      "id": "mmlu-biology-43ae9ef042e2",
+      "stem": "When oxygen becomes unavailable, this process regenerates NAD+, allowing respiration to continue."
+    },
+    {
+      "id": "mmlu-biology-53c911ae1414",
+      "stem": "Photosynthesis requires"
+    },
+    {
+      "id": "mmlu-biology-f9c6f14d051e",
+      "stem": "Which of the following best explains why lignin is important to the evolutionary success of land plants?"
+    },
+    {
+      "id": "mmlu-biology-5bdead1a8df2",
+      "stem": "Which of the following is the source of oxygen produced during photosynthesis?"
+    },
+    {
+      "id": "mmlu-biology-cb52c9e48504",
+      "stem": "This process has as its products NADP+, ADP, and sugar."
+    },
+    {
+      "id": "mmlu-biology-871cea9b8984",
+      "stem": "Which of the following statements about photosynthesis is incorrect?"
+    },
+    {
+      "id": "mmlu-biology-7419317dc107",
+      "stem": "Which of the following is NOT a source of atmospheric carbon?"
+    },
+    {
+      "id": "mmlu-biology-57077233b78d",
+      "stem": "Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the following is an accurate comparison of the two strategies?"
+    },
+    {
+      "id": "mmlu-biology-53ef576d30ab",
+      "stem": "Which of the following is the best explanation for why net primary productivity in terrestrial ecosystems tends to increase toward the tropics?"
+    }
+  ],
+  "botany-molecular-basis-of-inheritance": [
+    {
+      "id": "bot-mb-001",
+      "stem": "The double helix model of DNA was proposed by"
+    },
+    {
+      "id": "bot-mb-002",
+      "stem": "In a DNA molecule, adenine pairs with"
+    },
+    {
+      "id": "bot-mb-003",
+      "stem": "The enzyme that joins Okazaki fragments during replication is"
+    },
+    {
+      "id": "bot-mb-004",
+      "stem": "The central dogma of molecular biology is"
+    },
+    {
+      "id": "bot-mb-005",
+      "stem": "Transcription in prokaryotes is carried out by"
+    },
+    {
+      "id": "bot-mb-006",
+      "stem": "The number of nucleotides that make up one codon is"
+    },
+    {
+      "id": "mmlu-biology-9c02524bd088",
+      "stem": "Which of the changes below following the start codon in an mRNA would most likely have the greatest deleterious effect?"
+    },
+    {
+      "id": "mmlu-biology-45f4f7fd1b3f",
+      "stem": "Which statement about variation is true?"
+    },
+    {
+      "id": "mmlu-biology-ba838e3881d6",
+      "stem": "Short sequence by promoter that assists transcription by interacting with regulatory proteins."
+    },
+    {
+      "id": "mmlu-biology-ec01ef2ff93a",
+      "stem": "In modern terminology, diversity is understood to be a result of genetic variation. Sources of variation for evolution include all of the following except"
+    },
+    {
+      "id": "mmlu-biology-e3b7cfc8b83c",
+      "stem": "The higher the proportion of loci that are \"fixed\" in a population, the lower is that population's"
+    },
+    {
+      "id": "mmlu-biology-6b5459879c1f",
+      "stem": "Members of two different species possess a similar-looking structure that they use in a similar fashion to perform the same function. Which information would best help distinguish between an explanation based on homology versus one based on convergent evolution?"
+    },
+    {
+      "id": "mmlu-biology-fd3282d443a2",
+      "stem": "In reference to a segment of DNA, which of the following molecules contains the fewest number of nucleotides?"
+    },
+    {
+      "id": "mmlu-biology-0097b18456cd",
+      "stem": "The nucleotide sequence of a DNA molecule is 5′-C-A-T-3′. A mRNA molecule with a complementary codon is transcribed from the DNA in the process of protein synthesis a tRNA pairs with a mRNA codon. What is the nucleotide sequence of the tRNA anticodon?"
+    },
+    {
+      "id": "mmlu-biology-878bcc3f2e77",
+      "stem": "Which of the following pieces of evidence most strongly supports the common origin of all life on Earth?"
+    },
+    {
+      "id": "mmlu-biology-87d420235f00",
+      "stem": "If neutral variation is truly \"neutral,\" then it should have no effect on"
+    },
+    {
+      "id": "mmlu-biology-adf29a27732f",
+      "stem": "Which of the following statements about post-transcriptional modification are incorrect?"
+    },
+    {
+      "id": "mmlu-biology-da8a1e538418",
+      "stem": "Basepair sequence that signals the start site for gene transcription."
+    },
+    {
+      "id": "mmlu-biology-3897bcdd7894",
+      "stem": "Which of the following statements explains how a point mutation can have no negative impact in the protein formed from a sequence in DNA?"
+    },
+    {
+      "id": "mmlu-biology-a41c1f516a2f",
+      "stem": "Which of the following statements about meiosis is correct?"
+    },
+    {
+      "id": "mmlu-biology-9fe4c74b6885",
+      "stem": "Transcription-affecting DNA region that may be located thousands of basepairs away from the promoter."
+    },
+    {
+      "id": "mmlu-biology-c40351ee9d8f",
+      "stem": "Sickle cell anemia is a disease caused by the substitution of an incorrect nucleotide into the DNA sequence for a particular gene. The amino acids are still added to the growing protein chain, but the symptoms of sickle cell anemia result. This is an example of a"
+    },
+    {
+      "id": "mmlu-biology-6fd36c8332b1",
+      "stem": "Compared to DNA viral replication, RNA viral replication is more susceptible to mutation because"
+    },
+    {
+      "id": "mmlu-biology-555e6879657c",
+      "stem": "A gradual drop in the water level of a large lake divided it into three smaller lakes. The division separated a single population of fish into three smaller, isolated populations. After many generations it was determined that the three populations of fish had become three separate species. Which of the following is most likely correct about the three species?"
+    },
+    {
+      "id": "mmlu-biology-c16165c9a968",
+      "stem": "Which of the following processes occur in the cytoplasm of an eukaryotic cell? I. DNA replication II. Transcription III. Translation"
+    },
+    {
+      "id": "mmlu-biology-c691db38c481",
+      "stem": "All of the following are differences between prokaryotes and eukaryotes EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-0e8c6872613a",
+      "stem": "The synthesis of new proteins necessary for lactose utilization by the bacterium E. coli using the lac operon is regulated"
+    },
+    {
+      "id": "mmlu-biology-aae2004ce06e",
+      "stem": "In DNA replication, which of the following does NOT occur?"
+    },
+    {
+      "id": "mmlu-biology-f54776facb5e",
+      "stem": "Which of the following changes in a gamete is most likely to lead to a heritable change in a protein?"
+    },
+    {
+      "id": "mmlu-biology-6ae4d9ae77ce",
+      "stem": "A frameshift mutation is created when"
+    },
+    {
+      "id": "mmlu-biology-fc7bbb183158",
+      "stem": "Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires"
+    },
+    {
+      "id": "mmlu-biology-72f8620c62b1",
+      "stem": "When an influenza virus enters a cell, it immediately starts to do which of the following?"
+    },
+    {
+      "id": "mmlu-biology-b64198246e06",
+      "stem": "The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are"
+    },
+    {
+      "id": "mmlu-biology-2e407d361304",
+      "stem": "Which of the following is the most direct cause of polyteny in somatic cells of certain organisms?"
+    },
+    {
+      "id": "mmlu-biology-7721e91e6513",
+      "stem": "The polymerase chain reaction or PCR is a technique that"
+    },
+    {
+      "id": "mmlu-biology-95d7c6f8c612",
+      "stem": "Transcriptional activator proteins"
+    },
+    {
+      "id": "mmlu-biology-a53a4bed2496",
+      "stem": "Regarding exons, which, if any, of the following statements is correct?"
+    },
+    {
+      "id": "mmlu-biology-1ed7daf49f0f",
+      "stem": "Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion?"
+    },
+    {
+      "id": "mmlu-biology-38d470893a11",
+      "stem": "Repeat core sequences consisting of 2, 3, or 4 base pairs are known as what?"
+    }
+  ],
+  "zoology-diversity-in-the-living-world": [
+    {
+      "id": "zoo-dw-001",
+      "stem": "The smallest taxon in the Linnaean hierarchy is usually the"
+    },
+    {
+      "id": "zoo-dw-002",
+      "stem": "Binomial nomenclature was popularised by"
+    },
+    {
+      "id": "zoo-dw-003",
+      "stem": "ICZN deals with names of"
+    },
+    {
+      "id": "zoo-dw-004",
+      "stem": "A museum typically houses"
+    }
+  ],
+  "zoology-periplaneta-americana-cockroach": [
+    {
+      "id": "zoo-ck-001",
+      "stem": "The respiratory system of the cockroach consists of"
+    },
+    {
+      "id": "zoo-ck-002",
+      "stem": "Cockroach blood is called"
+    },
+    {
+      "id": "zoo-ck-003",
+      "stem": "The mouthparts of Periplaneta are of the"
+    },
+    {
+      "id": "zoo-ck-004",
+      "stem": "Malpighian tubules in the cockroach are"
+    },
+    {
+      "id": "zoo-ck-005",
+      "stem": "The heart of the cockroach is"
+    }
+  ],
+  "zoology-applied-biology": [
+    {
+      "id": "zoo-ab-001",
+      "stem": "Apiculture is the rearing of"
+    },
+    {
+      "id": "zoo-ab-002",
+      "stem": "Sericulture is associated with"
+    },
+    {
+      "id": "zoo-ab-003",
+      "stem": "Pisciculture is"
+    },
+    {
+      "id": "zoo-ab-004",
+      "stem": "MOET in cattle breeding stands for"
+    },
+    {
+      "id": "zoo-ab-005",
+      "stem": "Inbreeding increases"
+    }
+  ],
+  "zoology-digestion-and-absorption": [
+    {
+      "id": "zoo-da-001",
+      "stem": "The enzyme present in human saliva is"
+    },
+    {
+      "id": "zoo-da-002",
+      "stem": "Bile juice is produced by the"
+    },
+    {
+      "id": "zoo-da-003",
+      "stem": "Digestion of proteins begins in the"
+    },
+    {
+      "id": "zoo-da-004",
+      "stem": "Maximum absorption of digested food takes place in the"
+    },
+    {
+      "id": "zoo-da-005",
+      "stem": "Pepsinogen is converted to active pepsin by"
+    },
+    {
+      "id": "zoo-da-006",
+      "stem": "Which group of vitamins is absorbed along with fats?"
+    },
+    {
+      "id": "mmlu-biology-72cbd01c5cac",
+      "stem": "All of the following organs in the digestive system secrete digestive enzymes EXCEPT the"
+    },
+    {
+      "id": "mmlu-biology-0c1644986179",
+      "stem": "Villi and microvilli are present in the small intestine and aid in reabsorption by"
+    },
+    {
+      "id": "mmlu-biology-d80ac7177b57",
+      "stem": "Which of the following does NOT take place in the small intestine?"
+    },
+    {
+      "id": "mmlu-biology-9544f43c50c8",
+      "stem": "Destruction of all beta cells in the pancreas will cause which of the following to occur?"
+    },
+    {
+      "id": "mmlu-biology-c55f294cbc7f",
+      "stem": "The target of digestion of a nucleosome dimer to nucleosome monomers by DNase is"
+    },
+    {
+      "id": "mmlu-biology-a15986c261fa",
+      "stem": "Which of the following structures is part of the small intestine?"
+    }
+  ],
+  "zoology-body-fluids-and-circulation": [
+    {
+      "id": "zoo-bf-001",
+      "stem": "The pacemaker of the human heart is the"
+    },
+    {
+      "id": "zoo-bf-002",
+      "stem": "Persons with blood group O are called universal donors because their red cells lack"
+    },
+    {
+      "id": "zoo-bf-003",
+      "stem": "The normal resting heart rate in a healthy adult human is about"
+    },
+    {
+      "id": "zoo-bf-004",
+      "stem": "Mature mammalian red blood cells are characterised by the absence of"
+    },
+    {
+      "id": "zoo-bf-005",
+      "stem": "The plasma protein directly involved in blood clotting is"
+    },
+    {
+      "id": "zoo-bf-006",
+      "stem": "Double circulation in humans means that blood"
+    },
+    {
+      "id": "mmlu-biology-c179f1ecc284",
+      "stem": "Females with Turner's syndrome have a high incidence of hemophilia, a recessive, X-linked trait. Based on this information, it can be inferred that females with this condition"
+    },
+    {
+      "id": "mmlu-biology-5d64d36f9af5",
+      "stem": "Which of the following statements about the DNA in one of your liver cells is correct?"
+    },
+    {
+      "id": "mmlu-biology-f4c6157f533f",
+      "stem": "Which of the following best explains why drinking breast milk is beneficial to a human infant?"
+    },
+    {
+      "id": "mmlu-biology-9b1112565f3e",
+      "stem": "The sequence of amino acids in hemoglobin molecules of humans is more similar to the hemoglobin of chimpanzees than it is to the hemoglobin of dogs. This similarity suggests that"
+    },
+    {
+      "id": "mmlu-biology-7e094c711127",
+      "stem": "A child with type A B blood inherits an IA allele from one parent and an IB allele from the other. The child will carry both A and B glycoproteins on the surface of all red blood cells. This pattern of expression is referred to as"
+    },
+    {
+      "id": "mmlu-biology-b84bad06eae9",
+      "stem": "During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the more compliant venous side to the less compliant arterial side of the circulation. In terms of pressures within the venous and arterial compartments, this transfer results in"
+    },
+    {
+      "id": "mmlu-biology-97d3c7330530",
+      "stem": "Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?"
+    },
+    {
+      "id": "mmlu-biology-d7e4af9d5873",
+      "stem": "Normal adult haemoglobin (Hb A) consists of:"
+    },
+    {
+      "id": "mmlu-biology-6fafd9cd8a7a",
+      "stem": "Severe anaemia at birth is a feature of what?"
+    }
+  ],
+  "zoology-human-reproduction": [
+    {
+      "id": "zoo-hr-001",
+      "stem": "Fertilisation in humans normally takes place in the"
+    },
+    {
+      "id": "zoo-hr-002",
+      "stem": "The hormone chiefly responsible for maintaining pregnancy is"
+    },
+    {
+      "id": "zoo-hr-003",
+      "stem": "Spermatogenesis takes place in the"
+    },
+    {
+      "id": "zoo-hr-004",
+      "stem": "The average gestation period in humans is about"
+    },
+    {
+      "id": "zoo-hr-005",
+      "stem": "Implantation of the blastocyst occurs in the"
+    },
+    {
+      "id": "zoo-hr-006",
+      "stem": "Human chorionic gonadotropin (hCG) is secreted by the"
+    },
+    {
+      "id": "mmlu-biology-85a61d12b55d",
+      "stem": "In humans, fertilization normally occurs in the"
+    },
+    {
+      "id": "mmlu-biology-ed5fdcbf440b",
+      "stem": "Metafemale syndrome, a disorder in which a female has an extra X chromosome, is the result of nondisjunction. The failure in oogenesis that could produce this would occur in"
+    },
+    {
+      "id": "mmlu-biology-86b5e779da73",
+      "stem": "Fertilization of an ovum by a spermatozoon occurs in which of the following structures?"
+    }
+  ],
+  "zoology-genetics": [
+    {
+      "id": "zoo-gn-001",
+      "stem": "Mendel carried out his classical experiments on"
+    },
+    {
+      "id": "zoo-gn-002",
+      "stem": "The law of segregation states that"
+    },
+    {
+      "id": "zoo-gn-003",
+      "stem": "The phenotypic ratio of a monohybrid cross in the F2 generation is"
+    },
+    {
+      "id": "zoo-gn-004",
+      "stem": "Colour blindness in humans is inherited as"
+    },
+    {
+      "id": "zoo-gn-005",
+      "stem": "Down syndrome is caused by trisomy of chromosome number"
+    },
+    {
+      "id": "zoo-gn-006",
+      "stem": "The F2 phenotypic ratio of a typical dihybrid cross is"
+    },
+    {
+      "id": "mmlu-biology-7109e91e0fd3",
+      "stem": "A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. What originally caused the change in the variant?"
+    },
+    {
+      "id": "mmlu-biology-b9913a3d2d7d",
+      "stem": "Which of the following statements best summarizes evolution as it is viewed today?"
+    },
+    {
+      "id": "mmlu-biology-3957f636252b",
+      "stem": "Although mutations occur at a regular and predictable rate, which of the following statements is the LEAST likely reason the frequency of mutation appears to be low?"
+    },
+    {
+      "id": "mmlu-biology-89cc2fc912fd",
+      "stem": "No two people are genetically identical, except for identical twins. The chief cause of genetic variation among human individuals is"
+    },
+    {
+      "id": "mmlu-biology-bce8a08701f3",
+      "stem": "Except for identical twins, no two people are genetically identical. Which of the following statements most accurately describes the main source of variation in humans?"
+    },
+    {
+      "id": "mmlu-biology-316f439cc0d1",
+      "stem": "A proficient engineer can easily design skeletal structures that are more functional than those currently found in the forelimbs of such diverse mammals as horses, whales, and bats. That the actual forelimbs of these mammals do not seem to be optimally arranged is because"
+    },
+    {
+      "id": "mmlu-biology-28c2f1540fdb",
+      "stem": "Which of the following disorders will most likely result from X chromosome aneuploidy in women?"
+    },
+    {
+      "id": "mmlu-biology-6b3e62f32e66",
+      "stem": "A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. What kind of speciation does this example illustrate?"
+    },
+    {
+      "id": "mmlu-biology-1d5c51ac8f28",
+      "stem": "A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following is likely to exhibit the process described earlier?"
+    },
+    {
+      "id": "mmlu-biology-0b125895168c",
+      "stem": "A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following could possibly characterize the new variant?"
+    },
+    {
+      "id": "mmlu-biology-8a6fa1044981",
+      "stem": "Tay-Sachs is a disease caused by a recessive allele. Individuals with the genetic disorder usually do not survive more than a few years, and thus are not able to reproduce and pass on the gene. What would explain how this allele and its associated disease is preserved in the population?"
+    },
+    {
+      "id": "mmlu-biology-0a3ecd1c6afb",
+      "stem": "In the Tularosa Basin of New Mexico are black lava formations surrounded by light-colored sandy desert. Pocket mice inhabit both areas. Dark-colored ones inhabit the lava formations, while light-colored mice inhabit the desert. Which of the following statements is correct about this scenario?"
+    },
+    {
+      "id": "mmlu-biology-ea95524fe630",
+      "stem": "In a certain population of squirrels that is in Hardy-Weinberg equilibrium, black color is a recessive phenotype present in 9 percent of the squirrels, and 91 percent are gray. What percentage of the population is homozygous dominant for this trait?"
+    },
+    {
+      "id": "mmlu-biology-3e2d80f816cc",
+      "stem": "Which of the following statements is correct about a man who has hemophilia and whose wife does not have the disease and who does not have any relatives with the disease?"
+    },
+    {
+      "id": "mmlu-biology-8132c5f7a51c",
+      "stem": "In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele for violet flower color (W) is completely dominant to the allele for white flower color (w). In a cross between a tall violet plant, with the genotype DDWw, and a dwarf white plant, what phenotypic ratio of the progeny would be expected from this cross?"
+    },
+    {
+      "id": "mmlu-biology-8b877d87841c",
+      "stem": "Which of the following must be true in order for evolution to have occurred?"
+    },
+    {
+      "id": "mmlu-biology-d125ae625307",
+      "stem": "Which of the following best explains how mutations in DNA can result in the expression of a new phenotype?"
+    },
+    {
+      "id": "mmlu-biology-02e72c43171d",
+      "stem": "A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fly of phenotype black body and vestigial wings. The presence of gray-bodied, vestigialwinged flies among the progeny is best explained by"
+    },
+    {
+      "id": "mmlu-biology-ffdbc388abda",
+      "stem": "Which of the following karyotypes is diagnostic of Down syndrome"
+    },
+    {
+      "id": "mmlu-biology-c26e630d3227",
+      "stem": "The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation?"
+    },
+    {
+      "id": "mmlu-biology-ce6c44e289a7",
+      "stem": "Which of the following disorders does not show X-linked inheritance?"
+    },
+    {
+      "id": "mmlu-biology-1a476b2ad316",
+      "stem": "Which of the following statements about Hirschsprung disease is incorrect?"
+    },
+    {
+      "id": "mmlu-biology-a17b641d56b3",
+      "stem": "The ______ is the set of observable characteristics and is the sum of genetic and environmental effects."
+    },
+    {
+      "id": "mmlu-biology-d82c17445c37",
+      "stem": "The allele associated with sickle cell anemia apparently reached a high frequency in some human populations due to:"
+    }
+  ],
+  "botany-respiration-in-plants": [
+    {
+      "id": "mmlu-biology-e31017128c80",
+      "stem": "The energy given up by electrons as they move through the electron transport chain is used to"
+    },
+    {
+      "id": "mmlu-biology-7dbbe6fac48d",
+      "stem": "Which of the following reactions occurs in the forward direction during glycolysis but in the reverse direction during fermentation?"
+    },
+    {
+      "id": "mmlu-biology-ad4170d8da33",
+      "stem": "The Krebs cycle in humans occurs in the"
+    },
+    {
+      "id": "mmlu-biology-c8051e313dfc",
+      "stem": "Which of the following statements about cellular respiration is correct?"
+    },
+    {
+      "id": "mmlu-biology-ed4ff88208df",
+      "stem": "Which of the following is the direct energy source that allows ATP synthase to produce ATP in mitochondria?"
+    },
+    {
+      "id": "mmlu-biology-ffca2a6051ca",
+      "stem": "Energy is harvested during cellular respiration in stages. Which of the following correctly states which phase of cellular respiration harvests the most energy and the correct explanation why?"
+    },
+    {
+      "id": "mmlu-biology-05b8dab73919",
+      "stem": "During oxidative phosphorylation, the energy needed to drive ATP synthesis comes from one source. Which of the following statements states the immediate source of that energy?"
+    },
+    {
+      "id": "mmlu-biology-85e4f9fc80fa",
+      "stem": "Many different fermentation pathways occur in different organisms in nature. For example, skeletal muscle cells convert pyruvate into lactic acid when no oxygen is present. Yeast cells can produce alcohol and carbon dioxide under the same circumstances. However, regardless of the specific reactions, the purpose of glycolysis is an important one. Which statement best describes the importance of glycolysis?"
+    },
+    {
+      "id": "mmlu-biology-8611b89958ed",
+      "stem": "The end product of the alcohol fermentation pathway is the alcohol ethanol. A considerable amount of energy still remains in ethanol, yet ethanol is a waste product for the yeast cells that produce it. What, then, is the purpose of fermentation?"
+    },
+    {
+      "id": "mmlu-biology-e3d25bb602b1",
+      "stem": "This process couples the production of ATP with the movement of electrons down the electron transport chain by harnessing the driving force created by a proton gradient."
+    },
+    {
+      "id": "mmlu-biology-d422a9b03876",
+      "stem": "Which of the following is an example of a coupling of an exergonic reaction with an endergonic one?"
+    },
+    {
+      "id": "mmlu-biology-d11968f09a56",
+      "stem": "The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following participants in the citric acid cycle?"
+    },
+    {
+      "id": "mmlu-biology-7553e0c2dc89",
+      "stem": "In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron transport chain associated with photosystem I?"
+    },
+    {
+      "id": "mmlu-biology-8801190c465d",
+      "stem": "Which of the following sets of reactions occurs in the stroma of the chloroplast in plant cells?"
+    }
+  ],
+  "zoology-animal-diversity-ii-phylum-chordata": [
+    {
+      "id": "mmlu-biology-66b84e2e3ed6",
+      "stem": "Convergent evolution is best exemplified by which of the following?"
+    },
+    {
+      "id": "mmlu-biology-1a7f0a06aa00",
+      "stem": "As a young biologist, Charles Darwin had expected the living plants of temperate South America would resemble those of temperate Europe, but he was surprised to find that they more closely resembled the plants of tropical South America. The biological explanation for this observation is most properly associated with the field of"
+    },
+    {
+      "id": "mmlu-biology-87361b3b2b31",
+      "stem": "Which of the following is most correct concerning cell differentiation in vertebrates?"
+    },
+    {
+      "id": "mmlu-biology-6b12bd53fbe4",
+      "stem": "In vertebrate embryos, which of the following developmental processes most directly results in the formation of the three primary germ layers?"
+    },
+    {
+      "id": "mmlu-biology-f3531f6475e1",
+      "stem": "To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the"
+    },
+    {
+      "id": "mmlu-biology-bc27ea21ddb6",
+      "stem": "An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in drawing which of the following conclusions?"
+    },
+    {
+      "id": "mmlu-biology-791a31111ece",
+      "stem": "Evidence that sea urchins are more closely related to frogs than they are to snails is that echinoderms and chordates share which of the following embryological features?"
+    }
+  ],
+  "zoology-biology-in-human-welfare": [
+    {
+      "id": "mmlu-biology-3cfed82de7e2",
+      "stem": "Invertebrate immune systems possess which of the following?"
+    },
+    {
+      "id": "mmlu-biology-12bc005ba0c2",
+      "stem": "Which of the following is a property that is shared by Zika fever‚ West Nile fever‚ and malaria?"
+    },
+    {
+      "id": "mmlu-biology-720d389b2d7d",
+      "stem": "Which of the following is correct about vaccination?"
+    },
+    {
+      "id": "mmlu-biology-7b58f6b47901",
+      "stem": "Easily produced genetic variation is key to the rapid evolution of viral and microbial populations. Furthermore, pathogens that need to escape the immune system rely on this variation to generate new surface antigens that go unrecognized by the host’s immune system. Which of the following is an example of this antigenic variation?"
+    },
+    {
+      "id": "mmlu-biology-5daa6ff7c74a",
+      "stem": "Which of the following statements about the immune system is NOT correct?"
+    },
+    {
+      "id": "mmlu-biology-671704d0019b",
+      "stem": "Some strains of viruses can change normal mammalian cells into cancer cells in vitro. This transformation of the mammalian cell is usually associated with the"
+    },
+    {
+      "id": "mmlu-biology-4e8e95129d4a",
+      "stem": "Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways?"
+    },
+    {
+      "id": "mmlu-biology-e83f726c2b0b",
+      "stem": "Cancer cells grown in culture are similar to normal cells grown in culture in that they"
+    }
+  ],
+  "zoology-ecology-and-environment": [
+    {
+      "id": "mmlu-biology-4dd9696e3ca3",
+      "stem": "Which of the following is the most likely benefit of periodic natural wildfires in some forest ecosystems?"
+    },
+    {
+      "id": "mmlu-biology-f52df0c6e5b3",
+      "stem": "If the HMS Beagle had completely bypassed the Galapagos Islands, Darwin would have had a much poorer understanding of the"
+    },
+    {
+      "id": "mmlu-biology-f537973205fc",
+      "stem": "When driving from east to west in the U.S. from a forest ecosystem to grasslands, trees gradually give way to grasses. Which of the following is the critical factor responsible for this shift?"
+    },
+    {
+      "id": "mmlu-biology-b22487b83ffc",
+      "stem": "In most ecosystems, net primary productivity is important because it represents the"
+    },
+    {
+      "id": "mmlu-biology-e646e3bc6ac6",
+      "stem": "If a forest of fir, birch, and white spruce trees was devastated by fire, which of the following would most likely happen?"
+    },
+    {
+      "id": "mmlu-biology-94045f5bc01d",
+      "stem": "Which of Darwin's ideas had the strongest connection to Darwin having read Malthus's essay on human population growth?"
+    },
+    {
+      "id": "mmlu-biology-932c0f20f687",
+      "stem": "Based on the characteristic population curves that result from plotting population growth of a species, the most effective means of controlling the mosquito population is to"
+    },
+    {
+      "id": "mmlu-biology-fc51cfdfdfc5",
+      "stem": "In the growth of a population, the point at which natality and mortality rates are equal to one another is referred to as"
+    },
+    {
+      "id": "mmlu-biology-d1ab43fef29e",
+      "stem": "A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the"
+    },
+    {
+      "id": "mmlu-biology-25cda515a179",
+      "stem": "Keystone species are thought to have profound effects on the structure and composition of ecological communities because they"
+    },
+    {
+      "id": "mmlu-biology-05c1c9eb1798",
+      "stem": "A quote from a natural resources text states: \"Whenever the original ecosystem becomes restructured by man, it tends to become simplified, with a resultant disruption of the stabilizing influences of density-dependent regulatory factors.\" This implies that in a disturbed ecosystem"
+    }
+  ],
+  "botany-transport-in-plants": [
+    {
+      "id": "mmlu-biology-41bdb2a0b3f7",
+      "stem": "Which of the following statements is correct?"
+    },
+    {
+      "id": "mmlu-biology-4c7d23d8a947",
+      "stem": "A piece of potato is dropped into a beaker of pure water. Which of the following describes the initial condition when the potato enters the water?"
+    },
+    {
+      "id": "mmlu-biology-a2d2e05ac62d",
+      "stem": "Which of these makes determining the evolutionary relatedness of different species based on the amino acid sequence of homologous proteins generally less accurate than determinations of relatedness based on the nucleotide sequences of homologous genes?"
+    },
+    {
+      "id": "mmlu-biology-f685805183d0",
+      "stem": "Transpiration is a result of special properties of water. The special properties of water include all of the following EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-e3eb69abc3cb",
+      "stem": "When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called"
+    },
+    {
+      "id": "mmlu-biology-e85c3d584aec",
+      "stem": "All of the following environmental conditions increase the rate of transpiration from plants EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-b75882d7a18a",
+      "stem": "Root pressure created by a plant's roots causes water to enter the roots by"
+    },
+    {
+      "id": "mmlu-biology-2e9ee8651b0a",
+      "stem": "In a Robertsonian translocation fusion occurs at the:"
+    },
+    {
+      "id": "mmlu-biology-b54d4f370101",
+      "stem": "Complete the following sentence. The Philadelphia chromosome:"
+    }
+  ],
+  "zoology-structural-organisation-in-animals": [
+    {
+      "id": "mmlu-biology-9921229e7e4a",
+      "stem": "All of the following are examples of connective tissue EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-4bc176dd624a",
+      "stem": "All of the following might be found in connective tissue EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-429970a94bdb",
+      "stem": "Which of the following is NOT a correct statement concerning elastin?"
+    },
+    {
+      "id": "mmlu-biology-9811b633b6cf",
+      "stem": "Which of the following is flexible connective tissue that is attached to bones at the joints?"
+    }
+  ],
+  "botany-biological-classification": [
+    {
+      "id": "mmlu-biology-f7083f56ceef",
+      "stem": "The calypso orchid, Calypso bulbosa, grows in close association with mycorrhizae fungi. The fungi penetrate the roots of the flower and take advantage of the plant's food resources. The fungi concentrate rare minerals, such as phosphates, in the roots and make them readily accessible to the orchid. This situation is an example of"
+    },
+    {
+      "id": "mmlu-biology-8baf5a5d3db2",
+      "stem": "Which of the following is a benefit that mycorrhizal fungi confer to many plants?"
+    },
+    {
+      "id": "mmlu-biology-5cab0e0005d6",
+      "stem": "Fungi participate in each of the following EXCEPT"
+    }
+  ],
+  "zoology-endocrine-system-and-chemical-coordination": [
+    {
+      "id": "mmlu-biology-ff37ec18e231",
+      "stem": "ADH is a hormone secreted by the kidneys that reduces the amount of water excreted in the urine. ADH is released in times of dehydration. This is an example of"
+    },
+    {
+      "id": "mmlu-biology-acdeebf89b13",
+      "stem": "High levels of estrogen from maturing follicles inhibit the release of gonadotropin releasing hormone (GnRH). Which of the following endocrine glands produces GnRH?"
+    },
+    {
+      "id": "mmlu-biology-e7628e60fa7c",
+      "stem": "Adequate serum levels of calcium are maintained in humans by the secretion of"
+    },
+    {
+      "id": "mmlu-biology-a592b33a0973",
+      "stem": "Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?"
+    },
+    {
+      "id": "mmlu-biology-f33e0499ddea",
+      "stem": "Which of the following is the master gland of the endocrine system?"
+    },
+    {
+      "id": "mmlu-biology-b634e3a725bc",
+      "stem": "Which of the following is the body cavity that contains the pituitary gland?"
+    }
+  ],
+  "botany-biotechnology": [
+    {
+      "id": "mmlu-biology-4a4db179cbcb",
+      "stem": "Which of the following statements most accurately explains what EcoR1 is?"
+    },
+    {
+      "id": "mmlu-biology-cdfd95ebf5dc",
+      "stem": "Which of the following is (are) required when performing a polymerase chain reaction (P C R) on a DNA sample?"
+    },
+    {
+      "id": "mmlu-biology-5cf5473944c6",
+      "stem": "Once a plasmid has incorporated specific genes, such as the gene coding for the antibiotic ampicillin, into its genome, the plasmid may be cloned by"
+    },
+    {
+      "id": "mmlu-biology-5710aa85fdbd",
+      "stem": "Which of the following is not a way to form recombinant DNA?"
+    },
+    {
+      "id": "mmlu-biology-a05cdb07e297",
+      "stem": "On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected to cleave a double-stranded bacteriophage with a genome size of 5,000 bp into?"
+    },
+    {
+      "id": "mmlu-biology-d1c8d35ef657",
+      "stem": "Advantages of using adenoviruses for gene therapy include:"
+    },
+    {
+      "id": "mmlu-biology-6432a4228d44",
+      "stem": "The “sticky ends” generated by restriction enzymes allow"
+    },
+    {
+      "id": "mmlu-biology-10b7e140c0aa",
+      "stem": "Large triplet repeat expansions can be detected by:"
+    }
+  ],
+  "zoology-organic-evolution": [
+    {
+      "id": "mmlu-biology-550298fc0d78",
+      "stem": "Male satin bowerbirds adorn structures that they build, called \"bowers,\" with parrot feathers, flowers, and other bizarre ornaments in order to attract females. Females inspect the bowers and, if suitably impressed, allow males to mate with them. The evolution of this male behavior is due to"
+    },
+    {
+      "id": "mmlu-biology-79ad36aba88d",
+      "stem": "Which of the following best explains why a population is described as the evolutionary unit?"
+    },
+    {
+      "id": "mmlu-biology-e969e3735b37",
+      "stem": "Which of these is a statement that Darwin would have rejected?"
+    },
+    {
+      "id": "mmlu-biology-85012b099e30",
+      "stem": "Two trees of the same species growing close together will use the same resources, such as light, water, and nutrients. If any of these resources becomes limiting, then each tree will receive less of it than if the trees were growing farther apart. This scenario is an example of which of the following?"
+    },
+    {
+      "id": "mmlu-biology-3a5045034ae1",
+      "stem": "Catastrophism, meaning the regular occurrence of geological or meteorological disturbances (catastrophes), was Cuvier's attempt to explain the existence of"
+    },
+    {
+      "id": "mmlu-biology-e7ca416c9b38",
+      "stem": "Each of the following has a better chance of influencing gene frequencies in small populations than in large populations, but which one most consistently requires a small population as a precondition for its occurrence?"
+    },
+    {
+      "id": "mmlu-biology-3a2d506d1036",
+      "stem": "Which of the following statements is NOT correct about ancient Earth?"
+    },
+    {
+      "id": "mmlu-biology-a19cbcffd1b4",
+      "stem": "Within a few weeks of treatment with the drug 3TC, a patient's HIV population consists entirely of 3TC-resistant viruses. How can this result best be explained?"
+    },
+    {
+      "id": "mmlu-biology-42458c9772c6",
+      "stem": "Which of the following principles is NOT part of Darwin's theory of evolution by natural selection?"
+    },
+    {
+      "id": "mmlu-biology-3ac50be93408",
+      "stem": "In a certain pond, there are long-finned fish and short-finned fish. A horrific summer thunderstorm leads to the death of a disproportionate number of long-finned fish to the point where the relative frequency of the two forms has drastically shifted. This is an example of"
+    },
+    {
+      "id": "mmlu-biology-b880ed7a030a",
+      "stem": "Which of the following represents an idea that Darwin learned from the writings of Thomas Malthus?"
+    },
+    {
+      "id": "mmlu-biology-b98da797a843",
+      "stem": "A population undergoes a shift in which those who are really tall and those who are really short decrease in relative frequency compared to those of medium size, due to a change in the availability of resources. This is an example of"
+    },
+    {
+      "id": "mmlu-biology-55ab66477ca9",
+      "stem": "During drought years on the Galapagos, small, easily eaten seeds become rare, leaving mostly large, hard-cased seeds that only birds with large beaks can eat. If a drought persists for several years, what should one expect to result from natural selection?"
+    },
+    {
+      "id": "mmlu-biology-718bceed5883",
+      "stem": "A certain autosomal recessive trait is expressed in 1% of a population. Assuming that the population is in Hardy-Weinberg equilibrium, what percent of the population are carriers but do not express the trait?"
+    },
+    {
+      "id": "mmlu-biology-518a3d3ecda2",
+      "stem": "A trend toward the decrease in the size of plants on the slopes of mountains as altitudes increase is an example of"
+    },
+    {
+      "id": "mmlu-biology-a86565b5a025",
+      "stem": "Which of the following must exist in a population before natural selection can act upon that population?"
+    },
+    {
+      "id": "mmlu-biology-bc6b7b8a6b84",
+      "stem": "Which of the following is not an observation or inference on which natural selection is based?"
+    },
+    {
+      "id": "mmlu-biology-bb86fe797cf0",
+      "stem": "Which of the following statements is an inference of natural selection?"
+    },
+    {
+      "id": "mmlu-biology-5b9870ef35a2",
+      "stem": "The relatives of a group of pelicans from the same species that separated from each other because of an unsuccessful migration are reunited 150 years later and find that they are unable to produce offspring. This is an example of"
+    },
+    {
+      "id": "mmlu-biology-6ce59659d5d4",
+      "stem": "A small population of birds is blown to an isolated island by a hurricane and establishes a colony. The gene pool of the newly established population of birds is likely to reflect the effects of which of the following?"
+    },
+    {
+      "id": "mmlu-biology-b8df4756238f",
+      "stem": "Natural selection is based on all of the following except"
+    },
+    {
+      "id": "mmlu-biology-4a577c0bd71f",
+      "stem": "Which of these is the smallest unit that natural selection can change?"
+    },
+    {
+      "id": "mmlu-biology-b7a835415a52",
+      "stem": "Which of these is the smallest unit upon which natural selection directly acts?"
+    },
+    {
+      "id": "mmlu-biology-0a3ff34fc00c",
+      "stem": "Darwin's mechanism of natural selection required long time spans in order to modify species. From whom did Darwin get the concept of Earth's ancient age?"
+    },
+    {
+      "id": "mmlu-biology-cb5ce4a419f0",
+      "stem": "Refer to question 15 for details on the squirrel population. Which of the following conditions is required to keep this population in Hardy-Weinberg equilibrium?"
+    },
+    {
+      "id": "mmlu-biology-66a1ccb75130",
+      "stem": "There are 40 individuals in population 1, all of which have genotype A1A1, and there are 25 individuals in population 2, all of genotype A2A2. Assume that these populations are located far from one another and that their environmental conditions are very similar. Based on the information given here, the observed genetic variation is mostly likely an example of"
+    },
+    {
+      "id": "mmlu-biology-83180529c5e8",
+      "stem": "Natural selection changes allele frequencies in populations because some ____ survive and reproduce more successfully than others."
+    },
+    {
+      "id": "mmlu-biology-e2ae787fdfbe",
+      "stem": "Which of these evolutionary agents is most consistent at causing populations to become better suited to their environments over the course of generations?"
+    },
+    {
+      "id": "mmlu-biology-11753866a208",
+      "stem": "Which is a true statement concerning genetic variation?"
+    },
+    {
+      "id": "mmlu-biology-71749e6d886f",
+      "stem": "Which statement about natural selection is most correct?"
+    },
+    {
+      "id": "mmlu-biology-fa62fef122cc",
+      "stem": "Which of these naturalists synthesized a concept of natural selection independently of Darwin?"
+    },
+    {
+      "id": "mmlu-biology-2e5cacbb66a2",
+      "stem": "The upper forelimbs of humans and bats have fairly similar skeletal structures, whereas the corresponding bones in whales have very different shapes and proportions. However, genetic data suggest that all three kinds of organisms diverged from a common ancestor at about the same time. Which of the following is the most likely explanation for these data?"
+    },
+    {
+      "id": "mmlu-biology-b7e240de22c7",
+      "stem": "Homologous structures are often cited as evidence for the process of natural selection. All of the following are examples of homologous structures EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-5d9b1281cdff",
+      "stem": "In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditions must be met EXCEPT:"
+    },
+    {
+      "id": "mmlu-biology-f320eff16a2f",
+      "stem": "Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-450128239223",
+      "stem": "Gene flow between populations results in"
+    },
+    {
+      "id": "mmlu-biology-066431e094d3",
+      "stem": "Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environment. Which of the following represents a form of Batesian mimicry?"
+    },
+    {
+      "id": "mmlu-biology-5d48f8c67958",
+      "stem": "Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given population EXCEPT"
+    },
+    {
+      "id": "mmlu-biology-251fb53f3946",
+      "stem": "If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the expected incidence of affected homozygous females would be _______."
+    },
+    {
+      "id": "mmlu-biology-0d081c599218",
+      "stem": "If an autosomal recessive disorder which shows Hardy-Weinberg equilibrium has an incidence of 1 in 6400 then the frequency of carriers is approximately _______."
+    }
+  ],
+  "zoology-locomotion-and-reproduction-in-protozoa": [
+    {
+      "id": "mmlu-biology-d54a2c70c8b3",
+      "stem": "Which of the following contributes the MOST to genetic variability in a population?"
+    }
+  ],
+  "botany-continuity-of-life": [
+    {
+      "id": "mmlu-biology-9f021295afe9",
+      "stem": "Hydrangea flowers have one gene for flower color. Plants of the same genetic variety have flowers that range in color from blue to pink with the color varying due to the type of soil in which they are grown. Which of the following statement best explains this phenomenon?"
+    },
+    {
+      "id": "mmlu-biology-fc5ef82c5ef4",
+      "stem": "A rooster with gray feathers and a hen with the same phenotype produce 17 gray, 7 black, and 8 white chicks. What is the simplest explanation for the inheritance of these colors in chickens?"
+    },
+    {
+      "id": "mmlu-biology-e4f5bfc9c828",
+      "stem": "Incomplete dominance and epistasis are two terms that define genetic relationships. Which of the following statements best describes the differences or similarities between the two terms?"
+    },
+    {
+      "id": "mmlu-biology-7466666e3b04",
+      "stem": "In a hypothetical population's gene pool, an autosomal gene, which had previously been fixed, undergoes a mutation that introduces a new allele, one inherited according to incomplete dominance. Natural selection then causes stabilizing selection at this locus. Consequently, what should happen over the course of many generations?"
+    },
+    {
+      "id": "mmlu-biology-ab40e39067ef",
+      "stem": "A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspring that are light blue. When the F1 progeny are selfed a 1:2:1 ratio of dark blue to light blue to white flowers is observed. What genetic phenomenon is consistent with these results?"
+    }
+  ],
+  "zoology-neural-control-and-coordination": [
+    {
+      "id": "mmlu-biology-282a920fe377",
+      "stem": "A change in a neuron membrane potential from +50 millivolts to -70 millivolts is considered"
+    },
+    {
+      "id": "mmlu-biology-ca8e97e7a62e",
+      "stem": "The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the following varies with the stimulus intensity?"
+    },
+    {
+      "id": "mmlu-biology-d7049ac5a988",
+      "stem": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra."
+    },
+    {
+      "id": "mmlu-biology-d149e969da7c",
+      "stem": "Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?"
+    },
+    {
+      "id": "mmlu-biology-e5ac7f80f03a",
+      "stem": "Which of the following is a substance that aids the transmission of nerve impulses to the muscles?"
+    },
+    {
+      "id": "mmlu-biology-e70f05efadfb",
+      "stem": "In the spinal cord, motor neuron cell bodies are located in"
+    },
+    {
+      "id": "mmlu-biology-41df331fd72a",
+      "stem": "Noradrenaline is the neurotransmitter between which of the two structures below?"
+    }
+  ],
+  "zoology-animal-diversity-i-invertebrate-phyla": [
+    {
+      "id": "mmlu-biology-65432556d64f",
+      "stem": "Organisms in which of the following phyla have a true coelom?"
+    }
+  ],
+  "botany-plant-ecology": [
+    {
+      "id": "mmlu-biology-ade71f79008a",
+      "stem": "Which of the following is correct about organisms that are the first to colonize a habitat undergoing ecological succession?"
+    },
+    {
+      "id": "mmlu-biology-c6f4937ede53",
+      "stem": "Three distinct bird species, flicker, woodpecker, and elf owl, all inhabit a large cactus, Cereus giganteus, in the desert of Arizona. Since competition among these birds rarely occurs, the most likely explanation for this phenomenon is that these birds"
+    },
+    {
+      "id": "mmlu-biology-8a8406c7e819",
+      "stem": "The concept of punctuated equilibrium refers to"
+    },
+    {
+      "id": "mmlu-biology-400529dfd4f8",
+      "stem": "The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in the treetops due to the established presence of a more aggressive bird species on the cliff ledges. With respect to habitat, the treetop-nesting birds are utilizing"
+    },
+    {
+      "id": "mmlu-biology-37c42ce73539",
+      "stem": "Which of the following characteristics is predicted for an early-successional plant community?"
+    }
+  ],
+  "botany-internal-organisation-of-plants": [
+    {
+      "id": "mmlu-biology-cad8c1345b54",
+      "stem": "Water and minerals that reach the xylem in the center of a plant root must first"
+    },
+    {
+      "id": "mmlu-biology-93110f2b3de8",
+      "stem": "Nymphaea odorata, a water lily, is an aquatic plant whose leaves and flowers float on the surface of the water. Which of the following characteristics would be expected for leaves of this plant?"
+    },
+    {
+      "id": "mmlu-biology-dcc55008feb3",
+      "stem": "The cell type comprising the pith tissue centered within a dicot stem is the"
+    },
+    {
+      "id": "mmlu-biology-7780de795cbb",
+      "stem": "A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. In proper order (inside to outside), what tissues and tissue regions would the larvae encounter as they eat their way toward the outside of the twig? (For simplicity, assume that the epidermis has already fallen off completely.)"
+    },
+    {
+      "id": "mmlu-biology-26b783d5fe97",
+      "stem": "Which of the following plant cells undergoes programmed cell death to become functional?"
+    },
+    {
+      "id": "mmlu-biology-16a181cf2b98",
+      "stem": "The spheno-occipital synchondrosis"
+    }
+  ],
+  "botany-plant-growth-and-development": [
+    {
+      "id": "mmlu-biology-556459b928cd",
+      "stem": "Which of the following is known to be involved in the photoperiodic flowering response of angiosperms?"
+    },
+    {
+      "id": "mmlu-biology-dc6d52488fd8",
+      "stem": "Which of the following would be the most dependable environmental signal that a plant in a temperate ecosystem could use to initiate flowering at the correct time of the year?"
+    },
+    {
+      "id": "mmlu-biology-d79c54e5d629",
+      "stem": "Short-term changes in plant growth rate mediated by the plant hormone auxin are hypothesized to result from"
+    }
+  ],
+  "zoology-excretory-products-and-their-elimination": [
+    {
+      "id": "mmlu-biology-c8f9437de117",
+      "stem": "Kangaroo rats are better able to concentrate urine than humans are. It would be expected that, compared to the nephrons of human kidneys, the nephrons of kangaroo-rat kidneys would have"
+    },
+    {
+      "id": "mmlu-biology-27bfc209c368",
+      "stem": "The primary site of glucose reabsorption is the"
+    },
+    {
+      "id": "mmlu-biology-626e2e2bb30d",
+      "stem": "Which of the following statements about excretory organs is true?"
+    },
+    {
+      "id": "mmlu-biology-6a0dd35aff10",
+      "stem": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?"
+    }
+  ],
+  "botany-enzymes": [
+    {
+      "id": "mmlu-biology-07931d0a9bce",
+      "stem": "Hemoglobin is a molecule that binds to both O2 and CO2. There is an allosteric relationship between the concentrations of O2 and CO2. Hemoglobin's affinity for O2"
+    },
+    {
+      "id": "mmlu-biology-8438fcdf7b53",
+      "stem": "The endocrine system maintains homeostasis using many feedback mechanisms. Which of the following is an example of positive feedback?"
+    },
+    {
+      "id": "mmlu-biology-63e0f5d4e158",
+      "stem": "A mutation in a bacterial enzyme changed a previously polar amino acid into a nonpolar amino acid. This amino acid was located at a site distant from the enzyme’s active site. How might this mutation alter the enzyme’s substrate specificity?"
+    },
+    {
+      "id": "mmlu-biology-ebc52a593796",
+      "stem": "A competitive inhibitor of an enzyme exerts its effect by"
+    }
+  ],
+  "botany-plant-kingdom": [
+    {
+      "id": "mmlu-biology-4183786907d3",
+      "stem": "Ferns undergo alternation of generations in which a"
+    },
+    {
+      "id": "mmlu-biology-7782558438a5",
+      "stem": "Which of the following characteristics distinguishes angiosperms from gymnosperms?"
+    }
+  ],
+  "zoology-muscular-and-skeletal-system": [
+    {
+      "id": "mmlu-biology-0766d5b6006d",
+      "stem": "Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct?"
+    },
+    {
+      "id": "mmlu-biology-62aebe38fda8",
+      "stem": "All of the following statements about muscle contraction are true EXCEPT:"
+    },
+    {
+      "id": "mmlu-biology-19d714fd5ae0",
+      "stem": "Which of the following structures is derived from ectomesenchyme?"
+    },
+    {
+      "id": "mmlu-biology-3e3cfeaacdd0",
+      "stem": "Smooth muscle cells contain"
+    }
+  ],
+  "botany-reproduction-in-plants": [
+    {
+      "id": "mmlu-biology-ceef4efd5c99",
+      "stem": "Which is a characteristic unique to angiosperms?"
+    },
+    {
+      "id": "mmlu-biology-47117dcdcbbb",
+      "stem": "Which of the following sources makes the greatest contribution to the dry mass of organic matter that comprises an oak tree?"
+    },
+    {
+      "id": "mmlu-biology-b74f189b8811",
+      "stem": "Which of the following adaptations would limit pollination by bees and promote hummingbird pollination?"
+    },
+    {
+      "id": "mmlu-biology-4e057ceaef14",
+      "stem": "Double fertilization is a unique feature of flowering plants. In this process, one sperm unites with the egg to yield a zygote. The second sperm unites with the polar nuclei to initiate the formation of the"
+    }
+  ],
+  "zoology-breathing-and-respiration": [
+    {
+      "id": "mmlu-biology-266fa01d90a8",
+      "stem": "Which muscles are normally active during quiet inspiration?"
+    },
+    {
+      "id": "mmlu-biology-b37856efead2",
+      "stem": "Which of the following cavities are separated by the diaphragm?"
+    },
+    {
+      "id": "mmlu-biology-5f591068f6ac",
+      "stem": "Which of the following structures accompany the oesophagus through the diaphragm?"
+    },
+    {
+      "id": "mmlu-biology-60d18623ae48",
+      "stem": "The phrenic nerves innervate the"
+    },
+    {
+      "id": "mmlu-biology-cdbbba2800c0",
+      "stem": "Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?"
+    },
+    {
+      "id": "mmlu-biology-d6ad7ecad79d",
+      "stem": "A medical practitioner places a stethoscope over the patient's seventh right intercostal space in the mid-axillary line. The stethoscope overlies the"
+    }
+  ]
+}

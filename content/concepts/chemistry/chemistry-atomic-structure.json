@@ -1,0 +1,17 @@
+{
+  "chapterId": "chemistry-atomic-structure",
+  "subjectId": "chemistry",
+  "concepts": [
+    { "id": "particles-models", "label": "Subatomic particles and atomic models", "examHot": true, "quota": 16 },
+    { "id": "planck-photoelectric", "label": "Planck relation and photoelectric effect", "examHot": true, "quota": 12 },
+    { "id": "hydrogen-spectrum", "label": "Hydrogen spectrum and Rydberg formula", "examHot": true, "quota": 20 },
+    { "id": "bohr-model", "label": "Bohr model postulates and formulae", "examHot": true, "quota": 28 },
+    { "id": "debroglie-heisenberg", "label": "de Broglie wavelength and Heisenberg uncertainty", "examHot": true, "quota": 16 },
+    { "id": "quantum-mechanical", "label": "Quantum mechanical model (qualitative)", "examHot": false, "quota": 8 },
+    { "id": "quantum-numbers", "label": "Quantum numbers", "examHot": true, "quota": 24 },
+    { "id": "orbital-shapes-nodes", "label": "Orbital shapes and nodes", "examHot": true, "quota": 14 },
+    { "id": "aufbau-pauli-hund", "label": "Aufbau, Pauli and Hund", "examHot": true, "quota": 18 },
+    { "id": "configuration-exceptions", "label": "Electronic configuration and exceptions", "examHot": true, "quota": 20 },
+    { "id": "unpaired-magnetic", "label": "Unpaired electrons and magnetic behaviour", "examHot": true, "quota": 10 }
+  ]
+}

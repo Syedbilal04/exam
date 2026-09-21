@@ -1,0 +1,18 @@
+{
+  "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+  "subjectId": "chemistry",
+  "concepts": [
+    { "id": "classification-homologous", "label": "Classification and homologous series", "examHot": true, "quota": 18 },
+    { "id": "functional-groups", "label": "Functional groups", "examHot": true, "quota": 16 },
+    { "id": "iupac-nomenclature", "label": "IUPAC nomenclature", "examHot": true, "quota": 28 },
+    { "id": "structural-isomerism", "label": "Structural isomerism", "examHot": true, "quota": 22 },
+    { "id": "geometrical-isomerism", "label": "Geometrical isomerism", "examHot": true, "quota": 10 },
+    { "id": "fission-reagents", "label": "Bond fission and reagents", "examHot": true, "quota": 18 },
+    { "id": "inductive-electromeric", "label": "Inductive and electromeric effects", "examHot": true, "quota": 16 },
+    { "id": "resonance-hyperconjugation", "label": "Resonance and hyperconjugation", "examHot": true, "quota": 18 },
+    { "id": "reaction-types", "label": "Types of organic reactions", "examHot": true, "quota": 14 },
+    { "id": "purification", "label": "Purification methods", "examHot": true, "quota": 16 },
+    { "id": "qualitative-lassaigne", "label": "Qualitative analysis (Lassaigne)", "examHot": true, "quota": 12 },
+    { "id": "quantitative-analysis", "label": "Quantitative analysis", "examHot": false, "quota": 9 }
+  ]
+}

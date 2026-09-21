@@ -1,0 +1,376 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Ecology and Environment",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-eco-e-101",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "The functional role of a species in its habitat is its",
+      "options": ["biomass", "ecological niche", "carrying capacity", "pyramid of numbers"],
+      "answerIndex": 1,
+      "explanation": "Habitat is the address; niche is the profession — the range of conditions and resources a species uses.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "habitat-niche-environment",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-102",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Natality of a population refers to the",
+      "options": ["death rate", "birth rate", "number leaving the area", "number entering the area"],
+      "answerIndex": 1,
+      "explanation": "Natality is births (or hatching) per unit time; mortality is deaths; immigration and emigration are movements.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "population-attributes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-103",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "In logistic growth, the maximum population size that the environment can support is the",
+      "options": ["intrinsic rate r", "carrying capacity K", "lag phase only", "pyramid of energy"],
+      "answerIndex": 1,
+      "explanation": "The S-shaped curve levels off at K, the carrying capacity of that habitat.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "population-growth",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-104",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "An interaction in which both species benefit, such as mycorrhiza or lichen, is",
+      "options": ["predation", "competition", "mutualism", "amensalism"],
+      "answerIndex": 2,
+      "explanation": "Mutualism is +/+ ; predation and parasitism are +/- ; competition is -/- ; amensalism is -/0.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "species-interactions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-105",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Gross primary productivity of an ecosystem is the rate of",
+      "options": [
+        "energy lost as heat by consumers",
+        "organic matter produced by photosynthesis including that used in plant respiration",
+        "decomposition of detritus only",
+        "fishing yield"
+      ],
+      "answerIndex": 1,
+      "explanation": "GPP is total photosynthesis; NPP = GPP − respiratory loss of producers, and is available to consumers.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ecosystem-productivity",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-106",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "In a grazing food chain the first trophic level is always occupied by",
+      "options": ["herbivores", "producers", "decomposers", "top carnivores"],
+      "answerIndex": 1,
+      "explanation": "Autotrophs fix energy; herbivores are primary consumers at the second trophic level.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "energy-flow-food-chains",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-107",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "The pyramid of energy in a natural ecosystem is always",
+      "options": ["inverted", "upright", "spindle-shaped", "absent"],
+      "answerIndex": 1,
+      "explanation": "Energy is lost as heat at each transfer (about 10% rule), so the energy pyramid cannot invert.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ecological-pyramids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-108",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Protection of species in their natural habitat, as in a national park, is",
+      "options": ["ex-situ conservation", "in-situ conservation", "biomagnification", "eutrophication"],
+      "answerIndex": 1,
+      "explanation": "In-situ keeps organisms in the ecosystem; zoos, seed banks and botanical gardens are ex-situ.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "biodiversity-conservation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-109",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "A high BOD of a water sample indicates",
+      "options": [
+        "very clean oligotrophic water",
+        "a large amount of organic waste and high microbial oxygen use",
+        "absence of bacteria",
+        "only thermal pollution"
+      ],
+      "answerIndex": 1,
+      "explanation": "Biochemical oxygen demand rises when microbes oxidise sewage; fish may die from oxygen depletion.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pollution-and-bod",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-110",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "The principal greenhouse gas released by burning fossil fuels is",
+      "options": ["oxygen", "carbon dioxide", "nitrogen gas", "argon"],
+      "answerIndex": 1,
+      "explanation": "CO2, along with methane, N2O and CFCs, traps outgoing infrared radiation and warms the troposphere.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "greenhouse-ozone",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-111",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "An expanding population has an age pyramid that is",
+      "options": [
+        "urn-shaped with a narrow base",
+        "triangular with a broad base of pre-reproductive individuals",
+        "bell-shaped and stable",
+        "inverted with no young"
+      ],
+      "answerIndex": 1,
+      "explanation": "A wide base means many children; a stable population is bell-shaped; a declining one is urn-shaped.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "population-attributes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-112",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Competitive exclusion (Gause's principle) states that two species with identical niches",
+      "options": [
+        "always form a lichen",
+        "cannot occupy the same habitat indefinitely",
+        "must both become predators",
+        "increase each other's K"
+      ],
+      "answerIndex": 1,
+      "explanation": "Complete competitors cannot coexist; one is eliminated or they partition resources.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "species-interactions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-e-113",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Which statement about ozone and greenhouse gases is incorrect?",
+      "options": [
+        "Stratospheric ozone absorbs UV-B",
+        "CFCs release chlorine that catalytically destroys ozone",
+        "The ozone hole is most pronounced over Antarctica in spring",
+        "Ground-level ozone from CFCs is the main UV shield for humans"
+      ],
+      "answerIndex": 3,
+      "explanation": "Beneficial ozone is in the stratosphere; tropospheric ozone is a pollutant. CFCs destroy stratospheric O3, they do not create a UV shield at ground level.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "greenhouse-ozone",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-101",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Among the following, the most specific description of where an organism lives is its",
+      "options": ["biome name only", "habitat", "kingdom", "food chain length"],
+      "answerIndex": 1,
+      "explanation": "Habitat is the place with a particular set of abiotic and biotic conditions occupied by the organism.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "habitat-niche-environment",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-102",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Immigration increases a population's size while emigration",
+      "options": ["also always increases it", "decreases it by individuals leaving", "is the same as natality", "has no effect on density"],
+      "answerIndex": 1,
+      "explanation": "N_{t+1} = N_t + (B + I) − (D + E); emigration removes individuals.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "population-attributes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-103",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Exponential (geometric) growth produces a curve that is",
+      "options": ["S-shaped and density-dependent", "J-shaped when resources are not limiting", "always a pyramid of biomass", "independent of r"],
+      "answerIndex": 1,
+      "explanation": "dN/dt = rN gives a J-curve; logistic growth adds (K−N)/K and becomes sigmoid.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "population-growth",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-104",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Commensalism is an interaction in which",
+      "options": [
+        "both partners are harmed",
+        "one benefits and the other is unaffected",
+        "both benefit equally always",
+        "one is killed and eaten"
+      ],
+      "answerIndex": 1,
+      "explanation": "Example: orchid on a mango tree, or cattle egret with grazing cattle (+/0).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "species-interactions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-105",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Net primary productivity is",
+      "options": [
+        "GPP + plant respiration",
+        "GPP minus respiratory losses of autotrophs",
+        "only the biomass of carnivores",
+        "the same as secondary productivity"
+      ],
+      "answerIndex": 1,
+      "explanation": "NPP is the energy stored as producer biomass and available to the rest of the food chain.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ecosystem-productivity",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-106",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "A detritus food chain begins with",
+      "options": ["green plants in sunlight", "dead organic matter", "top carnivores", "phytoplankton only"],
+      "answerIndex": 1,
+      "explanation": "Decomposers and detritivores feed on dead remains; grazing chains start with living producers.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "energy-flow-food-chains",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-107",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "A pyramid of biomass may be inverted in a",
+      "options": [
+        "grassland with grasses heavier than herbivores",
+        "aquatic system where phytoplankton biomass is less than that of zooplankton at a given time",
+        "forest of large trees",
+        "pyramid of energy of any ecosystem"
+      ],
+      "answerIndex": 1,
+      "explanation": "Phytoplankton turn over so fast that standing crop is small, so biomass pyramid can invert; energy pyramid never does.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ecological-pyramids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-108",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Sacred groves in India are examples of",
+      "options": ["ex-situ gene banks", "in-situ conservation by traditional protection of forest patches", "ozone depletion sites", "eutrophic lakes"],
+      "answerIndex": 1,
+      "explanation": "Community-protected groves shelter many rare plants and animals in their native habitat.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "biodiversity-conservation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-109",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Eutrophication of lakes is accelerated mainly by",
+      "options": [
+        "addition of nitrates and phosphates from sewage and fertilisers",
+        "increase in dissolved oxygen only",
+        "removal of all algae",
+        "decrease in BOD"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nutrient enrichment causes algal blooms; their decay raises BOD and can kill fish.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pollution-and-bod",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-110",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Good ozone that filters ultraviolet radiation is concentrated in the",
+      "options": ["troposphere as smog", "stratosphere", "soil water", "mantle of the earth"],
+      "answerIndex": 1,
+      "explanation": "The stratospheric ozone layer absorbs UV-B; tropospheric ozone is a component of photochemical smog.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "greenhouse-ozone",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-111",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "According to Lindeman, the efficiency of energy transfer between two successive trophic levels is of the order of",
+      "options": ["90%", "10%", "50%", "1% from sun to all levels equally"],
+      "answerIndex": 1,
+      "explanation": "Roughly one-tenth of the energy at one level is converted to biomass at the next (10% law).",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "energy-flow-food-chains",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-112",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Hotspots of biodiversity are regions with",
+      "options": [
+        "low endemism and no threat",
+        "high endemism that are under severe habitat loss",
+        "only polar ice",
+        "zero human population always"
+      ],
+      "answerIndex": 1,
+      "explanation": "Myers' hotspots combine exceptional endemic species richness with serious threat, e.g. Western Ghats.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "biodiversity-conservation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-eco-n-113",
+      "chapterId": "zoology-ecology-and-environment",
+      "stem": "Which statement about climate treaties and greenhouse gases is incorrect?",
+      "options": [
+        "Montreal Protocol aims to phase out ozone-depleting substances",
+        "Kyoto Protocol addressed greenhouse gas emissions",
+        "UV-B can cause snow blindness and skin cancers",
+        "Methane is not a greenhouse gas"
+      ],
+      "answerIndex": 3,
+      "explanation": "Methane is a potent greenhouse gas from wetlands, cattle and rice fields; CO2 is the most abundant anthropogenic one.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "greenhouse-ozone",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

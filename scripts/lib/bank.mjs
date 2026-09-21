@@ -52,6 +52,25 @@ function normalizeFile(file, raw) {
     }
 
     const pyq = question.pyq ?? {};
+    const examLabels = { "ts-eamcet": "TS EAMCET", neet: "NEET" };
+    let exams = [...(pyq.exams ?? [])];
+    if (question.exam) {
+      const label = examLabels[question.exam];
+      if (!label) {
+        throw new Error(`${where}: exam must be "ts-eamcet" or "neet"`);
+      }
+      if (exams.length === 0) exams = [label];
+      else if (exams.length !== 1 || exams[0] !== label) {
+        throw new Error(`${where}: exam "${question.exam}" does not match pyq.exams`);
+      }
+    }
+    if (
+      question.difficulty &&
+      !["easy", "medium", "hard"].includes(question.difficulty)
+    ) {
+      throw new Error(`${where}: difficulty must be easy, medium, or hard`);
+    }
+
     return {
       id: question.id,
       chapterId: question.chapterId,
@@ -74,10 +93,12 @@ function normalizeFile(file, raw) {
       pyq: {
         appearCount: pyq.appearCount ?? 0,
         years: [...(pyq.years ?? [])].sort((a, b) => a - b),
-        exams: pyq.exams ?? [],
+        exams,
         verified: pyq.verified ?? false,
       },
       source: question.source ?? source,
+      ...(question.difficulty ? { difficulty: question.difficulty } : {}),
+      ...(question.conceptId ? { conceptId: question.conceptId } : {}),
     };
   });
 }

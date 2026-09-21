@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-transport-in-plants",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "diffusion-facilitated",
+      "label": "Diffusion and facilitated diffusion",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "active-transport",
+      "label": "Active transport of ions and molecules",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "water-potential-osmosis",
+      "label": "Water potential and osmosis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "plasmolysis-imbibition",
+      "label": "Plasmolysis and imbibition",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "apoplast-symplast",
+      "label": "Apoplast and symplast pathways",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "transpiration",
+      "label": "Types and significance of transpiration",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "stomatal-mechanism",
+      "label": "Stomatal opening and closing",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ascent-of-sap",
+      "label": "Cohesion-tension and transpiration pull",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "root-pressure-guttation",
+      "label": "Root pressure and guttation",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "phloem-translocation",
+      "label": "Phloem translocation and pressure flow",
+      "examHot": ["neet"]
+    }
+  ]
+}

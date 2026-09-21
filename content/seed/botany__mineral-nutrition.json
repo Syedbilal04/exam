@@ -1,0 +1,386 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Mineral Nutrition",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-min-e-101",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Arnon and Stout’s criteria of essentiality require that the element is needed for",
+      "options": [
+        "only flower colour in ornamentals",
+        "normal growth and is not replaceable by another element",
+        "soil texture alone",
+        "animal nutrition but never plants"
+      ],
+      "answerIndex": 1,
+      "explanation": "An essential element is required for the life cycle, has a specific role, and cannot be substituted.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "criteria-of-essentiality",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-102",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Calcium is a macronutrient mainly required as a constituent of the",
+      "options": ["chlorophyll porphyrin", "middle lamella", "nitrogenase FeMo cofactor", "ferredoxin iron–sulfur core"],
+      "answerIndex": 1,
+      "explanation": "Calcium pectate cements the middle lamella; magnesium, not calcium, sits in chlorophyll.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "macronutrients",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-103",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Molybdenum is required in plants mainly because it is a component of",
+      "options": ["cellulose", "nitrate reductase and nitrogenase", "starch grains", "cutin"],
+      "answerIndex": 1,
+      "explanation": "Mo is a cofactor of nitrate reductase and of nitrogenase, so it is vital for nitrogen metabolism.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "micronutrients",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-104",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Whiptail of cauliflower is a deficiency disorder linked to",
+      "options": ["molybdenum", "calcium", "potassium", "silicon"],
+      "answerIndex": 0,
+      "explanation": "Mo deficiency produces narrow, distorted ‘whip’ leaves in cauliflower.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "deficiency-symptoms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-105",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Julius von Sachs demonstrated mineral needs of plants by growing them in",
+      "options": [
+        "sterile soil only",
+        "defined nutrient solutions without soil",
+        "complete darkness without water",
+        "pure nitrogen gas"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sachs pioneered solution culture; modern hydroponics is the same principle.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "hydroponics-solution-culture",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-106",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "A free-living aerobic nitrogen-fixing bacterium commonly cited in textbooks is",
+      "options": ["Rhizobium inside a nodule", "Azotobacter", "Agrobacterium tumefaciens", "Nitrobacter"],
+      "answerIndex": 1,
+      "explanation": "Azotobacter fixes N2 in aerobic soil; Rhizobium is symbiotic inside legume nodules.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nitrogen-fixation-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-107",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Infection threads that carry rhizobia into the cortex are a step in",
+      "options": [
+        "formation of root nodules",
+        "opening of stomata",
+        "secondary xylem differentiation",
+        "pollen-tube entry only"
+      ],
+      "answerIndex": 0,
+      "explanation": "After root-hair curling, an infection thread delivers rhizobia to cortical cells that become the nodule.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nodule-formation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-108",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "The pink pigment that buffers oxygen around bacteroids in a nodule is",
+      "options": ["chlorophyll b", "leghaemoglobin", "anthocyanin", "phytochrome"],
+      "answerIndex": 1,
+      "explanation": "Leghaemoglobin keeps free O2 low so nitrogenase can work, while still supplying bound oxygen for respiration.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nitrogenase-leghaemoglobin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-109",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Transfer of an amino group from an amino acid to a keto acid is called",
+      "options": ["nitrification", "transamination", "denitrification", "photolysis"],
+      "answerIndex": 1,
+      "explanation": "Transaminases move −NH2 onto keto acids, spreading nitrogen into many amino acids.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nitrogen-assimilation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-110",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Passive uptake of ions that later exchange according to Donnan equilibrium occurs mainly in the",
+      "options": ["inner mitochondrial matrix", "apparent free space of the root", "sieve-tube lumen only", "leaf cuticle wax"],
+      "answerIndex": 1,
+      "explanation": "Ions first enter the apoplast (apparent free space) passively; further uptake into the symplast is often active.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "mineral-absorption",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-111",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Deficiency of a mobile element such as nitrogen first appears in",
+      "options": [
+        "the youngest expanding leaves",
+        "the older leaves",
+        "only the root cap",
+        "pollen grains exclusively"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mobile nutrients are remobilised from old leaves to growing points, so old leaves yellow first.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "deficiency-symptoms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-112",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Anabaena living in the leaf cavities of Azolla is important in paddy fields because it",
+      "options": [
+        "fixes atmospheric nitrogen",
+        "causes Khaira disease",
+        "dissolves the Casparian strip",
+        "stores only calcium pectate"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Azolla–Anabaena symbiosis adds fixed nitrogen to flooded rice soils.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "nitrogen-fixation-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-e-113",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Choose the correct combination. I. Carbon, hydrogen and oxygen are obtained mainly from CO2 and water, not as soil minerals. II. Nickel is now listed among essential micronutrients. III. All micronutrients are required in amounts greater than 10 mmol kg−1 dry matter.",
+      "options": ["I and II only", "I and III only", "II and III only", "I, II and III"],
+      "answerIndex": 0,
+      "explanation": "C, H, O come from air and water; Ni is essential (urease). Micronutrients are needed in far smaller amounts than that threshold.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "criteria-of-essentiality",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-101",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "An element is not considered essential if the plant can complete its life cycle when that element is",
+      "options": [
+        "fully withheld and a substitute works equally well",
+        "present only in chlorophyll",
+        "absorbed only at night",
+        "supplied as a gas"
+      ],
+      "answerIndex": 0,
+      "explanation": "Essentiality fails if growth is normal without the element or if another ion can replace it completely.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "criteria-of-essentiality",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-102",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Potassium as a macronutrient is especially important for",
+      "options": [
+        "forming the chlorophyll porphyrin ring",
+        "stomatal movements and enzyme activation",
+        "building cellulose microfibrils",
+        "being the FeMo centre of nitrogenase"
+      ],
+      "answerIndex": 1,
+      "explanation": "K+ is the major osmotic ion of guard cells and activates many enzymes; it is not a chlorophyll constituent.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "macronutrients",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-103",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Iron is a micronutrient required because it",
+      "options": [
+        "is the central atom of chlorophyll",
+        "is needed for chlorophyll synthesis and redox proteins",
+        "cements the middle lamella as pectate",
+        "is the only element in cellulose"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fe is a cofactor in cytochromes and ferredoxin and is required to make chlorophyll, but Mg is the ring metal.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "micronutrients",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-104",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Little-leaf disease of apple is classically associated with deficiency of",
+      "options": ["zinc", "nitrogen", "silicon", "sodium"],
+      "answerIndex": 0,
+      "explanation": "Zn deficiency produces little leaf / rosette in apple and other fruit trees.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "deficiency-symptoms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-105",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "In solution culture, aeration of the nutrient medium is needed mainly to",
+      "options": [
+        "supply oxygen to respiring roots",
+        "remove all nitrate from the tank",
+        "sterilise the shoot apex",
+        "increase soil bulk density"
+      ],
+      "answerIndex": 0,
+      "explanation": "Roots in waterlogged solution would otherwise suffer hypoxia; bubbling air keeps them aerobic.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "hydroponics-solution-culture",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-106",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Frankia forms nitrogen-fixing nodules on roots of",
+      "options": ["non-legumes such as Alnus", "only Triticum", "only Spirogyra", "all gymnosperm cones"],
+      "answerIndex": 0,
+      "explanation": "Frankia is an actinomycete that nodulates actinorhizal hosts such as alder (Alnus).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nitrogen-fixation-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-107",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Nod genes of Rhizobium are induced by plant-released",
+      "options": ["cellulose fibres", "flavonoid signals", "cuticular waxes only", "starch grains"],
+      "answerIndex": 1,
+      "explanation": "Root flavonoids activate nodulation genes; the bacterium then makes Nod factors that curl the hair.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nodule-formation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-108",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Nitrogenase converts N2 to ammonia and is a complex of",
+      "options": [
+        "only a copper protein",
+        "dinitrogenase and dinitrogenase reductase",
+        "Rubisco large and small subunits",
+        "amylase and invertase"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Mo-Fe protein (dinitrogenase) plus the Fe protein (reductase) together reduce N2 to NH3.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nitrogenase-leghaemoglobin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-109",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "The GS–GOGAT pathway assimilates ammonia into",
+      "options": ["nitrite", "amino acids (glutamine/glutamate)", "molecular nitrogen", "urea only in seeds"],
+      "answerIndex": 1,
+      "explanation": "Glutamine synthetase and glutamate synthase are the main route of NH4+ assimilation in plants.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nitrogen-assimilation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-110",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Carrier-mediated ion uptake into root cells that can be saturated and is often energy-dependent is",
+      "options": [
+        "purely apoplastic flow past the Casparian strip",
+        "active or facilitated transport at the plasma membrane",
+        "guttation through hydathodes",
+        "diffusion of O2 through aerenchyma only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ion carriers/channels in the plasmalemma show specificity and saturation; many steps are active.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "mineral-absorption",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-111",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Interveinal chlorosis of young leaves with veins remaining green is most typical of deficiency of",
+      "options": ["a mobile element such as nitrogen", "an immobile micronutrient such as iron", "only silicon", "only sodium"],
+      "answerIndex": 1,
+      "explanation": "Fe is poorly remobilised, so young leaves show interveinal chlorosis while veins stay greener.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "deficiency-symptoms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-112",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Which statement about nitrogenase is incorrect?",
+      "options": [
+        "It reduces N2 to ammonia.",
+        "It needs a large ATP supply.",
+        "Leghaemoglobin helps protect it from free oxygen.",
+        "It functions best when the nodule is fully aerobic and free of any oxygen-binding protein."
+      ],
+      "answerIndex": 3,
+      "explanation": "Nitrogenase is O2-labile; the nodule is microaerobic and uses leghaemoglobin, not a fully aerobic unprotected state.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "nitrogenase-leghaemoglobin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-min-n-113",
+      "chapterId": "botany-mineral-nutrition",
+      "stem": "Identify the incorrect match of element and principal role.",
+      "options": [
+        "Phosphorus — nucleic acids and ATP",
+        "Sulphur — some amino acids (Cys, Met)",
+        "Boron — pollen-tube growth and membrane function",
+        "Magnesium — central metal of the middle lamella pectate"
+      ],
+      "answerIndex": 3,
+      "explanation": "Mg is the central atom of chlorophyll and an enzyme cofactor; calcium pectate forms the middle lamella.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "macronutrients",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

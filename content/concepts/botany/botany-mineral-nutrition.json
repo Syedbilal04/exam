@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-mineral-nutrition",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "criteria-of-essentiality",
+      "label": "Criteria of essentiality of mineral elements",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "macronutrients",
+      "label": "Macronutrient roles in the plant",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "micronutrients",
+      "label": "Micronutrient roles in the plant",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "deficiency-symptoms",
+      "label": "Deficiency symptoms and mobility",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "hydroponics-solution-culture",
+      "label": "Solution culture and hydroponics methods",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "nitrogen-fixation-types",
+      "label": "Biological nitrogen fixation types and organisms",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "nodule-formation",
+      "label": "Root nodule development in legumes",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "nitrogenase-leghaemoglobin",
+      "label": "Nitrogenase and leghaemoglobin",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "nitrogen-assimilation",
+      "label": "Ammonia assimilation and transamination",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "mineral-absorption",
+      "label": "Absorption of mineral ions by roots",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

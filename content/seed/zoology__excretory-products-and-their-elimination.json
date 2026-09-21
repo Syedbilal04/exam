@@ -1,0 +1,386 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Excretory Products and their Elimination",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-ex-e-101",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "The cup-shaped part of a nephron that encloses the glomerulus is the",
+      "options": ["loop of Henle", "Bowman's capsule", "collecting duct", "pelvis"],
+      "answerIndex": 1,
+      "explanation": "Bowman's capsule plus the glomerular capillaries form the renal corpuscle.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nephron-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-102",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Nearly 70–80 percent of the filtrate, including all glucose, is reabsorbed in the",
+      "options": ["collecting duct", "proximal convoluted tubule", "descending loop only", "urinary bladder"],
+      "answerIndex": 1,
+      "explanation": "PCT epithelium has dense microvilli and does obligatory reabsorption of water, ions, glucose and amino acids.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "tubular-reabsorption-secretion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-103",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Renin secreted by juxtaglomerular cells starts the cascade that finally raises",
+      "options": ["atrial natriuretic factor", "aldosterone and blood pressure", "insulin", "calcitonin"],
+      "answerIndex": 1,
+      "explanation": "Renin forms angiotensin II, which stimulates aldosterone and vasoconstriction (RAAS).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "raas-adh-anf",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-104",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Mammals are described as ureotelic because their main nitrogenous waste is",
+      "options": ["ammonia", "urea", "uric acid", "creatine only"],
+      "answerIndex": 1,
+      "explanation": "Urea is less toxic than ammonia and needs less water than ammonia excretion.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nitrogenous-waste-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-105",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Human kidneys lie in the abdominal cavity at the level of the last thoracic and third lumbar vertebrae, and each empties urine into a",
+      "options": ["urethra directly", "ureter", "gall bladder", "spleen"],
+      "answerIndex": 1,
+      "explanation": "A ureter carries urine from the pelvis of each kidney to the urinary bladder.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "excretory-organs-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-106",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "The glomerular filtration rate in a healthy adult is about",
+      "options": ["1.25 mL/min", "12.5 mL/min", "125 mL/min", "1250 mL/min"],
+      "answerIndex": 2,
+      "explanation": "GFR is roughly 125 mL/min (180 L/day); most of this filtrate is reabsorbed.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "glomerular-filtration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-107",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "The counter-current mechanism that concentrates urine involves the loop of Henle and the",
+      "options": ["afferent arteriole only", "vasa recta", "ureter", "urethra"],
+      "answerIndex": 1,
+      "explanation": "Long loops and vasa recta maintain a medullary osmotic gradient that lets collecting ducts withdraw water.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "countercurrent-mechanism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-108",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Stretching of the urinary bladder wall initiates the",
+      "options": ["defaecation reflex", "micturition reflex", "cough reflex", "swallowing reflex"],
+      "answerIndex": 1,
+      "explanation": "Stretch receptors signal the CNS, which then relaxes the sphincters and empties the bladder.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "micturition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-109",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Haemodialysis is used when urea and other wastes accumulate in blood, a condition called",
+      "options": ["jaundice", "uremia", "emphysema", "angina"],
+      "answerIndex": 1,
+      "explanation": "Uremia is high blood urea from renal failure; a dialyser acts as an artificial kidney.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "excretory-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-110",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Besides the kidneys, carbon dioxide and water vapour are eliminated by the",
+      "options": ["spleen", "lungs", "pancreas", "thyroid"],
+      "answerIndex": 1,
+      "explanation": "Lungs excrete CO2 and some water; skin loses salts and urea in sweat; liver puts bilirubin into bile.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "accessory-excretion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-111",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Juxtamedullary nephrons differ from cortical nephrons mainly in having",
+      "options": [
+        "no loop of Henle",
+        "a long loop that dips deep into the medulla",
+        "no Bowman's capsule",
+        "glomeruli only in the renal pelvis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Their long loops and vasa recta are the main devices for concentrating urine.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nephron-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-112",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "The ascending limb of the loop of Henle is",
+      "options": [
+        "freely permeable to water and impermeable to salts",
+        "impermeable to water and actively transports salts out",
+        "the only site of glucose reabsorption",
+        "the site of ADH-regulated urea secretion into blood"
+      ],
+      "answerIndex": 1,
+      "explanation": "Thick ascending limb pumps NaCl into the medulla and does not let water follow, so filtrate becomes dilute.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "tubular-reabsorption-secretion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-e-113",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "ADH increases water channels in the collecting duct, while ANF from the atria does the opposite of RAAS. A fall in blood volume would therefore raise ADH and renin but",
+      "options": [
+        "also raise ANF sharply",
+        "lower ANF release",
+        "stop all tubular reabsorption",
+        "convert urea into ammonia in the bladder"
+      ],
+      "answerIndex": 1,
+      "explanation": "Low venous return reduces atrial stretch, so ANF falls; ADH and RAAS conserve water and salt.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "raas-adh-anf",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-101",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Which part of the nephron is lined by a single layer of squamous epithelium specialised for filtration?",
+      "options": ["PCT", "Inner wall of Bowman's capsule (podocytes)", "DCT only", "Ureter"],
+      "answerIndex": 1,
+      "explanation": "Podocytes of the visceral Bowman's layer, with the glomerular endothelium, form the filter.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nephron-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-102",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Which substance is normally completely reabsorbed from the filtrate in a healthy person?",
+      "options": ["Urea", "Creatinine", "Glucose", "Inulin"],
+      "answerIndex": 2,
+      "explanation": "Glucose is fully reabsorbed in the PCT unless the transport maximum is exceeded (as in diabetes).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "tubular-reabsorption-secretion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-103",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Atrial natriuretic factor lowers blood pressure by",
+      "options": [
+        "stimulating renin release",
+        "causing vasodilation and more Na+ loss in urine",
+        "increasing aldosterone secretion",
+        "constricting afferent arterioles only"
+      ],
+      "answerIndex": 1,
+      "explanation": "ANF is an antagonist of the RAAS: it dilates vessels and promotes natriuresis.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "raas-adh-anf",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-104",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Birds and terrestrial reptiles are typically uricotelic because uric acid",
+      "options": [
+        "is highly soluble and needs lots of water",
+        "can be excreted as a paste with very little water",
+        "is more toxic than ammonia",
+        "is formed only in the lungs"
+      ],
+      "answerIndex": 1,
+      "explanation": "Uric acid is almost insoluble, so water is conserved — useful in eggs and dry habitats.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nitrogenous-waste-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-105",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "The inner concave surface of the kidney, where ureter and vessels enter, is the",
+      "options": ["cortex", "hilum", "pyramid apex only", "capsule"],
+      "answerIndex": 1,
+      "explanation": "The hilum is the notch for ureter, renal artery and vein; inside it lies the pelvis.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "excretory-organs-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-106",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Glomerular filtrate is formed because glomerular capillary pressure is higher than the opposing pressures. Which change would lower GFR?",
+      "options": [
+        "Dilation of the afferent arteriole",
+        "Constriction of the afferent arteriole",
+        "A rise in renal blood flow",
+        "A fall in plasma oncotic pressure"
+      ],
+      "answerIndex": 1,
+      "explanation": "Narrowing the afferent vessel reduces glomerular hydrostatic pressure and therefore filtration.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "glomerular-filtration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-107",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "The descending limb of the loop of Henle is",
+      "options": [
+        "impermeable to water",
+        "highly permeable to water",
+        "the site of obligatory glucose secretion",
+        "lined by transitional epithelium like the bladder"
+      ],
+      "answerIndex": 1,
+      "explanation": "Water leaves the thin descending limb into the hyperosmotic medulla; salts leave mainly in the ascending limb.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "countercurrent-mechanism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-108",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Voluntary control of micturition is possible because humans can contract the",
+      "options": [
+        "internal urethral sphincter only",
+        "external urethral sphincter (skeletal muscle)",
+        "ureteric valves",
+        "glomerular capillaries"
+      ],
+      "answerIndex": 1,
+      "explanation": "The external sphincter is skeletal muscle under cortical control; the internal sphincter is smooth muscle.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "micturition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-109",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Renal calculi that may block a ureter are",
+      "options": [
+        "inflamed glomeruli",
+        "insoluble crystal masses in the kidney",
+        "artificial dialysis membranes",
+        "stretched bladder walls"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stones of oxalate, phosphate or uric acid can block the ureter and cause severe pain.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "excretory-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-110",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Which pair of accessory excretory roles is correct?",
+      "options": [
+        "Liver — urea synthesis and bile pigments; skin — sweat with NaCl and urea",
+        "Lungs — urea crystals; spleen — CO2",
+        "Pancreas — bilirubin; thyroid — ammonia",
+        "Heart — uric acid; liver — O2"
+      ],
+      "answerIndex": 0,
+      "explanation": "The ornithine cycle in liver makes urea; sweat and expired air also remove wastes.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "accessory-excretion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-111",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "The juxtaglomerular apparatus is formed where the distal tubule contacts the",
+      "options": [
+        "ureter",
+        "afferent arteriole of the same nephron",
+        "collecting duct of another lobe",
+        "urinary bladder"
+      ],
+      "answerIndex": 1,
+      "explanation": "JG cells in the afferent arteriole plus macula densa of the DCT monitor pressure and NaCl.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nephron-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-112",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Which statement about tubular function is incorrect?",
+      "options": [
+        "PCT reabsorbs most water, Na+, glucose and amino acids",
+        "DCT can reabsorb HCO3- and secrete H+ and K+",
+        "Collecting duct water permeability rises when ADH is present",
+        "Glucose is secreted into the PCT in a healthy adult"
+      ],
+      "answerIndex": 3,
+      "explanation": "Glucose is reabsorbed, not secreted, in the PCT of a healthy person.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "tubular-reabsorption-secretion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ex-n-113",
+      "chapterId": "zoology-excretory-products-and-their-elimination",
+      "stem": "Identify the incorrect match of regulator and action on the kidney.",
+      "options": [
+        "ADH — more aquaporins in collecting-duct cells",
+        "Aldosterone — more Na+ reabsorption in DCT",
+        "Angiotensin II — vasoconstriction and aldosterone release",
+        "ANF — activates renin secretion from JG cells"
+      ],
+      "answerIndex": 3,
+      "explanation": "ANF suppresses renin and opposes RAAS; it does not activate JG renin release.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "raas-adh-anf",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

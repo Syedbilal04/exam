@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-biological-classification",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "classification-systems",
+      "label": "Two- to five-kingdom systems and three domains",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "whittaker-criteria",
+      "label": "Whittaker criteria for five kingdoms",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "monera-bacteria",
+      "label": "Bacterial shapes and nutrition in Monera",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "archaebacteria",
+      "label": "Archaebacteria: methanogens, halophiles, thermoacidophiles",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "cyanobacteria-mycoplasma",
+      "label": "Cyanobacteria, heterocysts and mycoplasma",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "protista-groups",
+      "label": "Chrysophytes, dinoflagellates, euglenoids and slime moulds",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "fungi-structure",
+      "label": "Fungal mycelium, cell wall and dikaryophase",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "fungal-classes",
+      "label": "Phycomycetes, ascomycetes, basidiomycetes, deuteromycetes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "viruses-viroids",
+      "label": "Viruses, viroids and prions",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "lichens-indicators",
+      "label": "Lichens as dual organisms and pollution indicators",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-muscular-and-skeletal-system",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "sliding-filament",
+      "label": "Sliding filament theory of contraction",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "sarcomere-structure",
+      "label": "Sarcomere bands, filaments and Z lines",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "excitation-contraction",
+      "label": "Calcium, troponin and ATP in contraction",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "types-of-movement",
+      "label": "Amoeboid, ciliary and muscular movement",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "muscle-types",
+      "label": "Skeletal, smooth and cardiac muscle",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "red-white-muscle",
+      "label": "Red and white skeletal muscle fibres",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "axial-appendicular-skeleton",
+      "label": "Axial and appendicular skeleton and bone counts",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "joints-classification",
+      "label": "Fibrous, cartilaginous and synovial joints",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "muscle-skeletal-disorders",
+      "label": "Myasthenia, tetany, arthritis, gout and osteoporosis",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "ribs-and-vertebrae",
+      "label": "Vertebral column and types of ribs",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

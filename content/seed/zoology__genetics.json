@@ -1,0 +1,386 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Genetics",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-gn-e-101",
+      "chapterId": "zoology-genetics",
+      "stem": "A test cross of a plant showing a dominant monohybrid phenotype is made with a",
+      "options": [
+        "homozygous recessive parent",
+        "second F1 heterozygote",
+        "homozygous dominant parent",
+        "dihybrid of unknown pedigree"
+      ],
+      "answerIndex": 0,
+      "explanation": "Crossing with the double (or single) recessive tester reveals whether the dominant parent is hetero- or homozygous.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "mendelian-dominance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-102",
+      "chapterId": "zoology-genetics",
+      "stem": "Independent assortment is expected when two genes lie on",
+      "options": [
+        "different (non-homologous) chromosomes",
+        "the same chromatid with zero map distance",
+        "mitochondrial DNA only",
+        "the Y chromosome of every female"
+      ],
+      "answerIndex": 0,
+      "explanation": "Genes on different chromosome pairs segregate independently at anaphase I.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "independent-assortment",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-103",
+      "chapterId": "zoology-genetics",
+      "stem": "Incomplete dominance of flower colour in snapdragon gives an F2 phenotypic ratio of",
+      "options": ["1 : 2 : 1", "3 : 1", "9 : 3 : 3 : 1", "1 : 1"],
+      "answerIndex": 0,
+      "explanation": "Heterozygotes are intermediate, so phenotypes track the 1:2:1 genotypic split.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "incomplete-and-codominance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-104",
+      "chapterId": "zoology-genetics",
+      "stem": "The ABO blood-group locus is a classic example of",
+      "options": ["multiple allelism", "Y-linkage", "polyploidy", "cytoplasmic male sterility"],
+      "answerIndex": 0,
+      "explanation": "More than two alleles (IA, IB, i) exist in the population, though a person carries only two.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "multiple-alleles-abo",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-105",
+      "chapterId": "zoology-genetics",
+      "stem": "In humans the heterogametic sex is the",
+      "options": ["male (XY)", "female (XX)", "ZZ male of birds", "haploid drone bee only"],
+      "answerIndex": 0,
+      "explanation": "Human males produce two kinds of gametes (X or Y) and are therefore heterogametic.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "sex-determination",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-106",
+      "chapterId": "zoology-genetics",
+      "stem": "A colour-blind father married to a homozygous normal mother is expected to have",
+      "options": [
+        "carrier daughters and colour-vision-normal sons",
+        "all colour-blind daughters",
+        "all colour-blind sons",
+        "no heterozygous children"
+      ],
+      "answerIndex": 0,
+      "explanation": "The father passes Xc to every daughter (carriers) and Y to every son, who receive a normal X from the mother.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "sex-linked-inheritance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-107",
+      "chapterId": "zoology-genetics",
+      "stem": "Genes that do not assort independently because they occupy one chromosome are said to be",
+      "options": ["linked", "codominant", "polyploid", "extranuclear"],
+      "answerIndex": 0,
+      "explanation": "Linkage keeps genes on the same chromosome together unless crossing over separates them.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "linkage-and-crossing-over",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-108",
+      "chapterId": "zoology-genetics",
+      "stem": "Klinefelter syndrome in humans is associated with the karyotype",
+      "options": ["47, XXY", "45, XO", "47, XXX", "45, YO"],
+      "answerIndex": 0,
+      "explanation": "An extra X in a phenotypic male (XXY) produces Klinefelter syndrome; 45, X is Turner.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "chromosomal-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-109",
+      "chapterId": "zoology-genetics",
+      "stem": "Insertion or deletion of a single nucleotide that shifts the codon reading frame is a",
+      "options": [
+        "frameshift mutation",
+        "silent base substitution",
+        "whole-genome polyploidy",
+        "pericentric inversion of a chromosome"
+      ],
+      "answerIndex": 0,
+      "explanation": "Indels not in multiples of three alter every codon downstream and usually destroy the protein.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "mutation-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-110",
+      "chapterId": "zoology-genetics",
+      "stem": "Alternative forms of a gene that occupy the same locus on homologues are called",
+      "options": ["alleles", "genomes", "karyotypes", "operons"],
+      "answerIndex": 0,
+      "explanation": "Alleles are variants of one gene; a diploid individual carries two alleles of each autosomal gene.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "genotype-phenotype-and-alleles",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-111",
+      "chapterId": "zoology-genetics",
+      "stem": "The F2 genotypic ratio of a monohybrid Mendelian self-cross is",
+      "options": ["1 : 2 : 1", "3 : 1", "9 : 3 : 3 : 1", "2 : 1"],
+      "answerIndex": 0,
+      "explanation": "AA : Aa : aa = 1 : 2 : 1; the 3 : 1 ratio is phenotypic when dominance is complete.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "mendelian-dominance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-112",
+      "chapterId": "zoology-genetics",
+      "stem": "Haemophilia is more frequent in males because the defective allele is",
+      "options": [
+        "recessive and located on the X chromosome",
+        "dominant autosomal in both sexes",
+        "always Y-linked and lethal in embryos",
+        "mitochondrial and transmitted by fathers only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Males are hemizygous for X-linked genes, so a single recessive allele is expressed.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "sex-linked-inheritance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-e-113",
+      "chapterId": "zoology-genetics",
+      "stem": "A woman with Turner syndrome has",
+      "options": [
+        "45 chromosomes with an XO constitution",
+        "47 chromosomes with XXY",
+        "46 chromosomes with XX",
+        "47 chromosomes with trisomy 21"
+      ],
+      "answerIndex": 0,
+      "explanation": "Turner females lack one sex chromosome (45, X) and are sterile with characteristic somatic features.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "chromosomal-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-101",
+      "chapterId": "zoology-genetics",
+      "stem": "A tall pea plant of unknown genotype crossed with dwarf (tt) yields half dwarf progeny. The tall parent is",
+      "options": ["heterozygous Tt", "homozygous TT", "tt", "triploid Ttt"],
+      "answerIndex": 0,
+      "explanation": "A 1 : 1 tall : dwarf split is the test-cross signature of a heterozygote.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "mendelian-dominance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-102",
+      "chapterId": "zoology-genetics",
+      "stem": "If genes assort independently, a dihybrid test cross AaBb × aabb is expected to give phenotypic proportions",
+      "options": ["1 : 1 : 1 : 1", "9 : 3 : 3 : 1", "3 : 1", "1 : 2 : 1"],
+      "answerIndex": 0,
+      "explanation": "The tester contributes only ab gametes, so four equally frequent progeny classes appear.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "independent-assortment",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-103",
+      "chapterId": "zoology-genetics",
+      "stem": "A person of genotype IAIB expresses both A and B antigens. This pattern is",
+      "options": ["co-dominance", "complete dominance of i", "incomplete dominance of i", "epistasis by H substance only"],
+      "answerIndex": 0,
+      "explanation": "IA and IB are co-dominant: both glycolipid antigens appear on the red-cell surface.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "incomplete-and-codominance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-104",
+      "chapterId": "zoology-genetics",
+      "stem": "A person of blood group O must have the genotype",
+      "options": ["ii", "IAIA", "IAIB", "IBi"],
+      "answerIndex": 0,
+      "explanation": "Group O lacks A and B antigens and is homozygous for the recessive allele i.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "multiple-alleles-abo",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-105",
+      "chapterId": "zoology-genetics",
+      "stem": "Birds typically show which sex-chromosome pattern?",
+      "options": [
+        "ZZ male and ZW female",
+        "XX male and XY female",
+        "XO male as in some insects only",
+        "haplodiploidy of honeybee drones"
+      ],
+      "answerIndex": 0,
+      "explanation": "In birds the female is heterogametic (ZW) and the male is ZZ.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "sex-determination",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-106",
+      "chapterId": "zoology-genetics",
+      "stem": "A pedigree of an X-linked recessive trait typically shows",
+      "options": [
+        "more affected males and no father-to-son transmission",
+        "father-to-all-sons transmission only",
+        "equal affected sexes in every generation",
+        "exclusive mitochondrial inheritance"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sons get their X from the mother; an affected father passes his X only to daughters.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "sex-linked-inheritance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-107",
+      "chapterId": "zoology-genetics",
+      "stem": "Crossing over that recombines linked genes occurs during",
+      "options": [
+        "pachytene of meiosis I",
+        "mitotic metaphase",
+        "G1 of interphase",
+        "syngamy of pronuclei"
+      ],
+      "answerIndex": 0,
+      "explanation": "Reciprocal chiasmata form between homologous chromatids at pachytene.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "linkage-and-crossing-over",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-108",
+      "chapterId": "zoology-genetics",
+      "stem": "Which condition is a sex-chromosomal aneuploidy rather than an autosomal trisomy?",
+      "options": ["Turner syndrome", "Down syndrome", "Patau syndrome", "Edwards syndrome"],
+      "answerIndex": 0,
+      "explanation": "Turner is 45, X; Down, Patau and Edwards are trisomies 21, 13 and 18.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "chromosomal-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-109",
+      "chapterId": "zoology-genetics",
+      "stem": "A chromosomal inversion",
+      "options": [
+        "reverses a segment within a chromosome",
+        "adds an entire extra haploid set",
+        "is the same as a frameshift in one codon",
+        "always deletes the centromere"
+      ],
+      "answerIndex": 0,
+      "explanation": "An inverted block remains on the same chromosome; gene order, not copy number, is changed.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "mutation-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-110",
+      "chapterId": "zoology-genetics",
+      "stem": "The observable traits of an organism in a given environment constitute its",
+      "options": ["phenotype", "allele", "locus", "karyotype"],
+      "answerIndex": 0,
+      "explanation": "Phenotype is the expressed character; genotype is the allelic constitution.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "genotype-phenotype-and-alleles",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-111",
+      "chapterId": "zoology-genetics",
+      "stem": "Mendel's law of dominance is illustrated when a tall × dwarf true-breeding cross yields",
+      "options": [
+        "an F1 that is uniformly tall",
+        "an F1 that is uniformly dwarf",
+        "alleles that never separate in meiosis",
+        "only recessive homozygotes in F1"
+      ],
+      "answerIndex": 0,
+      "explanation": "The dominant allele masks the recessive one in the heterozygote, so F1 shows the tall phenotype.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "mendelian-dominance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-112",
+      "chapterId": "zoology-genetics",
+      "stem": "Which statement about classical haemophilia is incorrect?",
+      "options": [
+        "It is autosomally dominant and equally common in both sexes",
+        "It is an X-linked recessive clotting defect",
+        "Affected males transmit the allele to all daughters",
+        "Heterozygous females are usually phenotypically normal carriers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Haemophilia A/B is X-linked recessive, not autosomal dominant, which is why males are affected far more often.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "sex-linked-inheritance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-gn-n-113",
+      "chapterId": "zoology-genetics",
+      "stem": "Cri-du-chat syndrome is associated with",
+      "options": [
+        "deletion of a portion of the short arm of chromosome 5",
+        "trisomy of chromosome 21",
+        "an XXY karyotype",
+        "an extra Y chromosome only"
+      ],
+      "answerIndex": 0,
+      "explanation": "A 5p deletion produces the cat-like cry and developmental features of cri-du-chat.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "chromosomal-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

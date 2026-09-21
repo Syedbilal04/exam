@@ -1,0 +1,371 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Plant Kingdom",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-pk-e-101",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "The plant body of algae is typically a",
+      "options": ["thallus", "vascular sporophyte with seeds", "flowering shoot", "woody trunk"],
+      "answerIndex": 0,
+      "explanation": "Algae lack true roots, stems and leaves; the body is a simple thallus.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "algae-general",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-102",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Green algae store food mainly as",
+      "options": ["starch", "laminarin", "floridean starch", "glycogen only"],
+      "answerIndex": 0,
+      "explanation": "Chlorophyceae have chlorophyll a and b and store starch, like higher plants.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "chlorophyceae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-103",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "The brown pigment characteristic of Phaeophyceae is",
+      "options": ["fucoxanthin", "phycoerythrin", "phycocyanin", "anthocyanin"],
+      "answerIndex": 0,
+      "explanation": "Fucoxanthin masks chlorophyll and gives brown algae their colour.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phaeophyceae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-104",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Agar used in microbiology is obtained mainly from",
+      "options": ["Gelidium and Gracilaria", "Sargassum and Fucus", "Spirogyra and Ulothrix", "Funaria and Marchantia"],
+      "answerIndex": 0,
+      "explanation": "Red algae Gelidium and Gracilaria yield agar.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rhodophyceae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-105",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Bryophytes are called amphibians of the plant kingdom because they",
+      "options": [
+        "need water for fertilisation though they live on land",
+        "have seeds and flowers",
+        "are fully marine algae",
+        "possess xylem vessels in all genera"
+      ],
+      "answerIndex": 0,
+      "explanation": "They occupy moist land but motile sperms still require a film of water.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "bryophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-106",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "The first land plants to possess vascular tissues (xylem and phloem) are the",
+      "options": ["pteridophytes", "algae", "bryophytes", "fungi"],
+      "answerIndex": 0,
+      "explanation": "Pteridophytes are vascular cryptogams; bryophytes lack true vascular tissue.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pteridophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-107",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "In gymnosperms the ovules remain",
+      "options": [
+        "naked on megasporophylls",
+        "enclosed inside a fruit wall",
+        "inside an ovary that becomes a fruit",
+        "absent; they form only spores"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gymnosperm means naked seed: ovules are not enclosed in an ovary.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "gymnosperms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-108",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Double fertilisation is a unique feature of",
+      "options": ["angiosperms", "all gymnosperms", "all bryophytes", "all green algae"],
+      "answerIndex": 0,
+      "explanation": "One male gamete fuses with the egg and the other with polar nuclei only in flowering plants.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "angiosperms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-109",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "A haplontic life cycle, with a dominant haploid plant body, is seen in",
+      "options": ["Spirogyra", "Pinus", "Cycas", "a typical angiosperm"],
+      "answerIndex": 0,
+      "explanation": "Many green algae (e.g. Spirogyra) are haplontic; seed plants are diplontic.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "life-cycle-patterns",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-110",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Sphagnum is economically important because it",
+      "options": [
+        "holds water and forms peat",
+        "yields agar",
+        "yields algin",
+        "is the source of all cereals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Peat moss absorbs water and its deposits form peat used as fuel and in horticulture.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "economic-algae-bryophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-111",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Volvox, Ulothrix and Chara are members of",
+      "options": ["Chlorophyceae", "Phaeophyceae", "Rhodophyceae", "Bryophyta"],
+      "answerIndex": 0,
+      "explanation": "These are textbook green algae (Chlorophyceae).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "chlorophyceae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-112",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Heterospory, regarded as a precursor of the seed habit, occurs in",
+      "options": ["Selaginella and Salvinia", "Funaria and Marchantia", "Ulothrix and Spirogyra", "all mosses only"],
+      "answerIndex": 0,
+      "explanation": "Selaginella, Salvinia and Marsilea produce micro- and megaspores; this foreshadows seeds.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "pteridophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-e-113",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Coralloid roots associated with nitrogen-fixing cyanobacteria are a feature of",
+      "options": ["Cycas", "Funaria", "Spirogyra", "Pteris"],
+      "answerIndex": 0,
+      "explanation": "Cycas coralloid roots harbour Anabaena/Nostoc; Pinus roots are typically mycorrhizal.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "gymnosperms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-101",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Which statement about algae is incorrect?",
+      "options": [
+        "The plant body is usually a thallus",
+        "They are chiefly aquatic",
+        "They possess chlorophyll and are photosynthetic",
+        "They always produce seeds inside fruits"
+      ],
+      "answerIndex": 3,
+      "explanation": "Algae are thalloid phototrophs; seeds and fruits appear only in spermatophytes.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "algae-general",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-102",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Chlorophyceae are characterised by chlorophylls",
+      "options": ["a and b", "a and c only", "a and d only", "b and d only"],
+      "answerIndex": 0,
+      "explanation": "Green algae share chlorophyll a and b with land plants; brown algae have a and c.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "chlorophyceae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-103",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Stored food in brown algae is chiefly",
+      "options": ["laminarin and mannitol", "floridean starch", "true starch of higher plants", "glycogen granules only"],
+      "answerIndex": 0,
+      "explanation": "Phaeophyceae accumulate laminarin and mannitol; red algae store floridean starch.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phaeophyceae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-104",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Which pigment is typical of Rhodophyceae?",
+      "options": ["phycoerythrin", "fucoxanthin", "chlorophyll b as the only chlorophyll", "bacteriochlorophyll"],
+      "answerIndex": 0,
+      "explanation": "Red algae have chlorophyll a (and d) plus phycoerythrin, which masks other pigments.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rhodophyceae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-105",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "In bryophytes the dominant, independent generation is the",
+      "options": [
+        "gametophyte",
+        "sporophyte",
+        "seedling",
+        "diploid embryo inside a seed"
+      ],
+      "answerIndex": 0,
+      "explanation": "The green leafy or thalloid plant is haploid; the sporophyte is attached and dependent.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "bryophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-106",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "The independent photosynthetic prothallus of a fern is",
+      "options": [
+        "the gametophyte",
+        "the diploid sporophyte",
+        "a seed",
+        "an endosperm"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pteridophyte spores grow into a small haploid prothallus that bears sex organs.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pteridophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-107",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Which of the following is a gymnosperm?",
+      "options": ["Pinus", "Marchantia", "Ulothrix", "Pteris"],
+      "answerIndex": 0,
+      "explanation": "Pinus, Cycas, Cedrus and Ginkgo are gymnosperms; the others are a liverwort, a green alga and a fern.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "gymnosperms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-108",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Which statement about angiosperms is incorrect?",
+      "options": [
+        "Ovules are enclosed in an ovary",
+        "Seeds are enclosed in a fruit",
+        "Double fertilisation produces a zygote and endosperm",
+        "Ovules are always exposed on woody cones"
+      ],
+      "answerIndex": 3,
+      "explanation": "Exposed ovules on cones characterise gymnosperms, not flowering plants.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "angiosperms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-109",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "A diplontic life cycle is the rule in",
+      "options": [
+        "gymnosperms and angiosperms",
+        "all mosses",
+        "all liverworts",
+        "Spirogyra only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Seed plants have a dominant diploid sporophyte; bryophytes are haplo-diplontic with a dominant gametophyte.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "life-cycle-patterns",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-110",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Algin is a hydrocolloid obtained from",
+      "options": ["brown algae", "red algae only", "mosses", "ferns"],
+      "answerIndex": 0,
+      "explanation": "Alginates come from phaeophycean walls (Laminaria, Sargassum, Macrocystis).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "economic-algae-bryophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-111",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Which alga is incorrectly placed in Chlorophyceae?",
+      "options": ["Laminaria", "Chlamydomonas", "Volvox", "Chara"],
+      "answerIndex": 0,
+      "explanation": "Laminaria is a kelp (Phaeophyceae); the others are green algae.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "chlorophyceae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-112",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Which pair of life-cycle type and example is incorrect?",
+      "options": [
+        "Haplontic — Spirogyra",
+        "Diplontic — Fucus",
+        "Haplo-diplontic — Funaria",
+        "Haplontic — Pinus"
+      ],
+      "answerIndex": 3,
+      "explanation": "Pinus is diplontic. Fucus/Sargassum are diplontic brown algae; mosses are haplo-diplontic.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "life-cycle-patterns",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pk-n-113",
+      "chapterId": "botany-plant-kingdom",
+      "stem": "Identify the incorrect match.",
+      "options": [
+        "Cycas — coralloid roots",
+        "Pinus — mycorrhizal roots",
+        "Selaginella — heterospory",
+        "Marchantia — presence of xylem vessels"
+      ],
+      "answerIndex": 3,
+      "explanation": "Marchantia is a liverwort without true vascular tissue; the other matches are standard.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "gymnosperms",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-organic-evolution",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "origin-of-life",
+      "label": "Oparin–Haldane hypothesis and Miller–Urey experiment",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "lamarckism",
+      "label": "Lamarck: use and disuse and inheritance of acquired characters",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "darwin-natural-selection",
+      "label": "Darwinian natural selection and industrial melanism",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "mutation-and-synthetic-theory",
+      "label": "De Vries mutation theory and modern synthetic theory",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "homologous-organs",
+      "label": "Homologous organs and divergent evolution",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "analogous-and-convergent",
+      "label": "Analogous organs and convergent evolution",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "vestigial-and-fossils",
+      "label": "Vestigial organs, fossils and connecting links",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "hardy-weinberg",
+      "label": "Hardy–Weinberg equilibrium and allele frequencies",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "speciation-and-isolation",
+      "label": "Speciation and reproductive isolation",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "adaptive-radiation-and-human-evolution",
+      "label": "Adaptive radiation and outline of human evolution",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

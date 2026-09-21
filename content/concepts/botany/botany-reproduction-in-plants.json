@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-reproduction-in-plants",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "rpl-vegetative-asexual",
+      "label": "Vegetative propagation and asexual spread",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "rpl-anther-tapetum",
+      "label": "Anther wall, tapetum and microsporogenesis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rpl-pollen",
+      "label": "Pollen structure, intine/exine and pollen tube",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rpl-ovule-embryo-sac",
+      "label": "Ovule, megasporogenesis and Polygonum embryo sac",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rpl-pollination",
+      "label": "Autogamy, geitonogamy and xenogamy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rpl-outbreeding",
+      "label": "Outbreeding devices, cleistogamy and self-incompatibility",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rpl-double-fertilisation",
+      "label": "Syngamy, triple fusion and double fertilisation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rpl-endosperm-embryo",
+      "label": "Endosperm (PEN) and embryo development",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rpl-seed-fruit",
+      "label": "Seed types and true versus false fruit",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rpl-apomixis-polyembryony",
+      "label": "Apomixis and polyembryony",
+      "examHot": ["neet"]
+    }
+  ]
+}

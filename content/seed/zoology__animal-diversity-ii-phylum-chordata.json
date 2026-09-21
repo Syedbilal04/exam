@@ -1,0 +1,366 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Animal Diversity II: Phylum Chordata",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-ad2-e-101",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "A dorsal hollow nerve cord, notochord and pharyngeal gill slits together diagnose the phylum",
+      "options": ["Hemichordata", "Chordata", "Echinodermata", "Arthropoda"],
+      "answerIndex": 1,
+      "explanation": "These three (plus a post-anal tail) are the fundamental chordate characters.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "chordate-fundamental-characters",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-102",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "In urochordates such as Ascidia, the notochord is present",
+      "options": [
+        "throughout life in the entire body",
+        "only in the tail of the larva",
+        "only in the adult pharynx",
+        "never at any stage"
+      ],
+      "answerIndex": 1,
+      "explanation": "Urochordate larvae are tadpole-like with a tail notochord; the adult is sessile and loses it.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "protochordates",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-103",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Jawless, eel-like vertebrates with a suctorial mouth are placed in",
+      "options": ["Chondrichthyes", "Cyclostomata", "Amphibia", "Osteichthyes"],
+      "answerIndex": 1,
+      "explanation": "Petromyzon (lamprey) and Myxine (hagfish) are cyclostomes (Agnatha).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "cyclostomata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-104",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Cartilaginous fishes typically possess",
+      "options": [
+        "an operculum covering gills and a swim bladder",
+        "placoid scales and claspers in males",
+        "cycloid scales and a bony endoskeleton",
+        "feathers and a four-chambered heart"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chondrichthyes (e.g. Scoliodon) have placoid scales, exposed gill slits and pelvic claspers in males.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "chondrichthyes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-105",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "An air bladder (swim bladder) that regulates buoyancy is characteristic of",
+      "options": ["Scoliodon", "Osteichthyes such as Labeo", "Petromyzon", "Bufo"],
+      "answerIndex": 1,
+      "explanation": "Most bony fishes have a swim bladder; cartilaginous fishes lack it and must swim to avoid sinking.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "osteichthyes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-106",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Moist skin that assists cutaneous respiration is a hallmark of",
+      "options": ["Reptilia", "Amphibia", "Aves", "Chondrichthyes"],
+      "answerIndex": 1,
+      "explanation": "Amphibians have glandular skin without scales (in living forms) and often respire partly through the skin.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "amphibia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-107",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Dry cornified skin with epidermal scales and typically a three-chambered heart occur in",
+      "options": ["Amphibia", "Reptilia", "Aves", "Osteichthyes"],
+      "answerIndex": 1,
+      "explanation": "Reptiles are terrestrial amniotes with scales; crocodiles are an exception with a four-chambered heart.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "reptilia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-108",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Pneumatic bones and a covering of feathers are features of",
+      "options": ["Reptilia", "Mammalia", "Aves", "Amphibia"],
+      "answerIndex": 2,
+      "explanation": "Birds have hollow bones, feathers, a four-chambered heart and are homoiothermic.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "aves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-109",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Mammary glands and a covering of hair diagnose the class",
+      "options": ["Aves", "Reptilia", "Mammalia", "Amphibia"],
+      "answerIndex": 2,
+      "explanation": "Mammals nourish young with milk and have hair; they are homoiothermic with a four-chambered heart.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "mammalia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-110",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Vertebrates with jaws are collectively placed in",
+      "options": ["Agnatha", "Gnathostomata", "Urochordata", "Hemichordata"],
+      "answerIndex": 1,
+      "explanation": "Gnathostomata includes fishes, amphibians, reptiles, birds and mammals; cyclostomes are agnathans.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "gnathostomata-overview",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-111",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Branchiostoma (Amphioxus) is a cephalochordate because the notochord",
+      "options": [
+        "is confined to the larval tail",
+        "extends from head to tail throughout life",
+        "is replaced by a vertebral column in the adult",
+        "is absent and replaced by a stomochord"
+      ],
+      "answerIndex": 1,
+      "explanation": "In Cephalochordata the notochord persists the length of the body for life; there is no cranium.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "protochordates",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-112",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Which fish is an osteichthyan with an operculum?",
+      "options": ["Trygon", "Carcharodon", "Catla", "Pristis"],
+      "answerIndex": 2,
+      "explanation": "Catla is a bony carp; sting ray, great white shark and sawfish are cartilaginous fishes.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "osteichthyes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-e-113",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Identify the incorrect match of vertebrate and unique feature.",
+      "options": [
+        "Ornithorhynchus — oviparous mammal",
+        "Struthio — flightless bird",
+        "Crocodilus — four-chambered heart",
+        "Salamandra — epidermal feathers"
+      ],
+      "answerIndex": 3,
+      "explanation": "Salamander is an amphibian with moist skin, not feathers. Platypus is a monotreme; ostrich is a ratite; crocodiles have a four-chambered heart.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "mammalia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-101",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "The notochord of chordates is a",
+      "options": [
+        "ventral solid nerve cord",
+        "dorsal rod of vacuolated cells beneath the nerve cord",
+        "chitinous exoskeleton",
+        "water-filled tube foot"
+      ],
+      "answerIndex": 1,
+      "explanation": "The notochord is a flexible dorsal supporting rod; in vertebrates it is largely replaced by the vertebral column.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "chordate-fundamental-characters",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-102",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Salpa, Doliolum and Ascidia are",
+      "options": ["cephalochordates", "urochordates (tunicates)", "cyclostomes", "hemichordates"],
+      "answerIndex": 1,
+      "explanation": "These tunicates have a cellulose-like tunic; the notochord is larval and caudal.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "protochordates",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-103",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Petromyzon is a marine cyclostome that migrates to fresh water to",
+      "options": ["feed on plankton only", "spawn", "form a swim bladder", "grow feathers"],
+      "answerIndex": 1,
+      "explanation": "Sea lampreys are anadromous: they spawn in rivers; the larva is an ammocoete.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "cyclostomata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-104",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Which of the following is a cartilaginous fish?",
+      "options": ["Exocoetus", "Hippocampus", "Trygon", "Clarias"],
+      "answerIndex": 2,
+      "explanation": "Trygon (sting ray) is chondrichthyan; flying fish, seahorse and magur are bony fishes.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "chondrichthyes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-105",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Cycloid or ctenoid scales and a terminal mouth are typical of",
+      "options": ["Chondrichthyes", "Osteichthyes", "Cyclostomata", "Amphibia"],
+      "answerIndex": 1,
+      "explanation": "Bony fishes usually have overlapping cycloid/ctenoid scales, an operculum and a terminal mouth.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "osteichthyes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-106",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Ichthyophis, Hyla and Salamandra are",
+      "options": ["reptiles", "amphibians", "bony fishes", "mammals"],
+      "answerIndex": 1,
+      "explanation": "Limbless caecilian, tree frog and salamander are amphibians.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "amphibia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-107",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Chelone, Naja, Calotes and Crocodilus belong to",
+      "options": ["Amphibia", "Reptilia", "Aves", "Mammalia"],
+      "answerIndex": 1,
+      "explanation": "Turtle, cobra, garden lizard and crocodile are reptiles with dry scaly skin.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "reptilia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-108",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Which bird is flightless?",
+      "options": ["Columba", "Psittacula", "Struthio", "Corvus"],
+      "answerIndex": 2,
+      "explanation": "Struthio (ostrich) is a ratite; pigeon, parrot and crow are flying birds.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "aves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-109",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Macropus, Pteropus, Balaenoptera and Ornithorhynchus are all",
+      "options": ["birds", "reptiles", "mammals", "amphibians"],
+      "answerIndex": 2,
+      "explanation": "Kangaroo, bat, blue whale and platypus are mammals (marsupial, flying, aquatic and oviparous respectively).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "mammalia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-110",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Pisces in the older grouping of Gnathostomata includes",
+      "options": [
+        "only cyclostomes",
+        "Chondrichthyes and Osteichthyes",
+        "only amphibians",
+        "Aves and Mammalia"
+      ],
+      "answerIndex": 1,
+      "explanation": "Jawed fishes comprise cartilaginous and bony classes; cyclostomes are agnathous.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "gnathostomata-overview",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-111",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Which statement about amphibians is incorrect?",
+      "options": [
+        "Heart is three-chambered (two atria, one ventricle)",
+        "Tympanum represents the ear",
+        "Fertilisation is usually external in frogs",
+        "They are homoiothermic like birds"
+      ],
+      "answerIndex": 3,
+      "explanation": "Amphibians are poikilothermic (cold-blooded); only birds and mammals are typically homoiothermic.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "amphibia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-112",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "In birds, the alimentary canal has a crop and gizzard. Additional flight adaptations include",
+      "options": [
+        "teeth on both jaws and a urinary bladder",
+        "air sacs, keeled sternum and one functional ovary in females",
+        "placoid scales and claspers",
+        "moist skin without feathers"
+      ],
+      "answerIndex": 1,
+      "explanation": "Air sacs aid ventilation; a keeled sternum anchors flight muscles; most female birds have a single left ovary.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "aves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad2-n-113",
+      "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+      "stem": "Which pairing of protochordate character is wrong?",
+      "options": [
+        "Urochordata — notochord in larval tail only",
+        "Cephalochordata — notochord persistent and head-to-tail",
+        "Both groups — marine protochordates without a cranium",
+        "Urochordata — vertebral column in the adult tunicate"
+      ],
+      "answerIndex": 3,
+      "explanation": "Tunicates never develop vertebrae; Vertebrata is a separate subphylum with a cranium and usually a vertebral column.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "protochordates",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

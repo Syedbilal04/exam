@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-digestion-and-absorption",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "digestive-enzymes-site",
+      "label": "Enzyme source and site of action",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "protein-digestion",
+      "label": "Protein digestion and zymogen activation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "absorption-and-villi",
+      "label": "Absorption, villi, microvilli and lacteals",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "alimentary-canal-anatomy",
+      "label": "Alimentary canal parts, layers and dental formula",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "digestive-glands",
+      "label": "Digestive glands and composition of juices",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "bile-and-emulsification",
+      "label": "Bile, gall bladder and fat emulsification",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "carbohydrate-lipid-digestion",
+      "label": "Carbohydrate and lipid digestion",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "gi-hormones",
+      "label": "Gastrointestinal hormones controlling digestion",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "calorific-values",
+      "label": "Calorific and physiological values of foodstuffs",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "digestive-disorders",
+      "label": "Jaundice, diarrhoea, constipation and indigestion",
+      "examHot": ["neet"]
+    }
+  ]
+}

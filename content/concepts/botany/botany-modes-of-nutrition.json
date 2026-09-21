@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-modes-of-nutrition",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "autotrophic-holophytic",
+      "label": "Autotrophic and holophytic nutrition",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "heterotrophic-overview",
+      "label": "Heterotrophic modes in plants",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "total-parasites",
+      "label": "Total stem and root parasites",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "partial-parasites",
+      "label": "Partial stem and root parasites",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "saprophytes",
+      "label": "Saprophytic flowering plants",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "insectivorous-habit",
+      "label": "Insectivorous habit and nitrogen-poor soils",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "insectivorous-examples",
+      "label": "Nepenthes, Drosera, Utricularia and Dionaea",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "symbiotic-lichens",
+      "label": "Lichen mutualism as a nutritional mode",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "mycorrhiza-nodules",
+      "label": "Mycorrhiza and root-nodule symbiosis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "haustoria",
+      "label": "Haustoria as parasitic absorbing organs",
+      "examHot": ["neet"]
+    }
+  ]
+}

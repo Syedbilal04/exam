@@ -1,0 +1,376 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Body Fluids and Circulation",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-bf-e-101",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "A person of blood group AB is called a universal recipient because the plasma lacks",
+      "options": ["antigens A and B", "anti-A and anti-B antibodies", "Rh antigen only", "fibrinogen"],
+      "answerIndex": 1,
+      "explanation": "AB red cells carry both A and B antigens, so the plasma has neither anti-A nor anti-B.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "blood-groups-abo-rh",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-102",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "In a normal ECG, the P wave is produced by",
+      "options": [
+        "ventricular repolarisation",
+        "atrial depolarisation",
+        "ventricular depolarisation",
+        "closure of semilunar valves"
+      ],
+      "answerIndex": 1,
+      "explanation": "P records spread of the impulse over the atria; QRS is ventricular depolarisation; T is ventricular recovery.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ecg-waves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-103",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The sino-atrial node that starts each heartbeat lies in the wall of the",
+      "options": ["left ventricle", "right atrium", "left atrium", "interventricular septum"],
+      "answerIndex": 1,
+      "explanation": "SAN is in the upper right atrium near the opening of the superior vena cava.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "cardiac-cycle-pacemaker",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-104",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The most abundant plasma protein, which also maintains colloid osmotic pressure, is",
+      "options": ["fibrinogen", "globulin", "albumin", "haemoglobin"],
+      "answerIndex": 2,
+      "explanation": "Albumin is the chief plasma protein; globulins include antibodies; fibrinogen is for clotting.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "blood-composition-plasma",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-105",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The average life span of a circulating human erythrocyte is about",
+      "options": ["20 days", "60 days", "120 days", "365 days"],
+      "answerIndex": 2,
+      "explanation": "Mature RBCs live roughly 120 days and are then removed mainly by the spleen.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "formed-elements",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-106",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Thrombin formed during clotting converts fibrinogen into insoluble",
+      "options": ["prothrombin", "fibrin", "heparin", "plasmin"],
+      "answerIndex": 1,
+      "explanation": "Thrombin polymerises fibrinogen to fibrin threads that trap cells and seal the wound.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "coagulation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-107",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Blood from the intestine reaches the liver before the heart through the",
+      "options": ["hepatic artery", "hepatic portal vein", "pulmonary vein", "coronary sinus"],
+      "answerIndex": 1,
+      "explanation": "The hepatic portal vein carries absorbed nutrients to the liver for processing.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "lymph-and-portal",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-108",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The first heart sound (lub) is produced by the closure of the",
+      "options": ["semilunar valves", "atrioventricular valves", "eustachian valves", "thebesian veins"],
+      "answerIndex": 1,
+      "explanation": "Lub marks the start of ventricular systole when mitral and tricuspid valves shut.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "heart-structure-valves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-109",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Cardiac output is defined as the product of heart rate and",
+      "options": ["blood pressure", "stroke volume", "vital capacity", "residual volume"],
+      "answerIndex": 1,
+      "explanation": "CO = SV × HR; about 70 mL × 72/min gives roughly 5 litres per minute at rest.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "double-circulation-output",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-110",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Chest pain on exertion due to incomplete oxygen supply to the heart wall is called",
+      "options": ["angina pectoris", "emphysema", "jaundice", "tetany"],
+      "answerIndex": 0,
+      "explanation": "Angina is myocardial ischaemia, usually from narrowed coronary arteries.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "circulatory-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-111",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Erythroblastosis foetalis may occur when the mother is Rh-negative and the foetus is",
+      "options": ["Rh-negative", "Rh-positive", "blood group O only", "blood group AB only"],
+      "answerIndex": 1,
+      "explanation": "Anti-Rh antibodies from a sensitised Rh- mother can destroy Rh+ foetal RBCs.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "blood-groups-abo-rh",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-112",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The QRS complex of the ECG corresponds to",
+      "options": [
+        "atrial systole only",
+        "ventricular depolarisation",
+        "ventricular repolarisation",
+        "pause after the T wave"
+      ],
+      "answerIndex": 1,
+      "explanation": "QRS is the electrical event that triggers ventricular contraction; atrial recovery is hidden in it.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "ecg-waves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-e-113",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "A complete cardiac cycle lasts about 0.8 s at 72 beats/min. Of this, ventricular systole occupies roughly 0.3 s. The remaining 0.5 s is mainly",
+      "options": [
+        "atrial systole only",
+        "joint diastole plus atrial systole (ventricular filling)",
+        "isovolumetric contraction alone",
+        "the time taken for blood to reach the feet"
+      ],
+      "answerIndex": 1,
+      "explanation": "After ejection, both chambers relax (joint diastole) and atria then contract to finish ventricular filling.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "cardiac-cycle-pacemaker",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-101",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Red cells of blood group O can be given to A, B or AB recipients because they lack",
+      "options": [
+        "both anti-A and anti-B in the plasma only",
+        "surface antigens A and B",
+        "haemoglobin",
+        "Rh factor in every case"
+      ],
+      "answerIndex": 1,
+      "explanation": "Group O erythrocytes have no A/B antigens, so recipient antibodies do not agglutinate them.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "blood-groups-abo-rh",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-102",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The T wave of a standard ECG represents",
+      "options": [
+        "atrial depolarisation",
+        "ventricular depolarisation",
+        "ventricular repolarisation",
+        "SA node firing only"
+      ],
+      "answerIndex": 2,
+      "explanation": "T is recovery of ventricular muscle; atrial repolarisation is masked by the QRS.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ecg-waves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-103",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The correct sequence of the cardiac conducting system is",
+      "options": [
+        "AV node → SAN → Purkinje → bundle of His",
+        "SAN → AV node → bundle of His → Purkinje fibres",
+        "Purkinje → SAN → AV node → bundle of His",
+        "Bundle of His → SAN → AV node → Purkinje"
+      ],
+      "answerIndex": 1,
+      "explanation": "The impulse starts at SAN, delays at AVN, then races through the bundle and Purkinje network.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "cardiac-cycle-pacemaker",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-104",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Which plasma protein is chiefly concerned with defence (antibodies)?",
+      "options": ["Albumin", "Fibrinogen", "Globulin", "Myosin"],
+      "answerIndex": 2,
+      "explanation": "Gamma globulins are immunoglobulins; albumin is osmotic; fibrinogen is clotting.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "blood-composition-plasma",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-105",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Which formed element is a cell fragment that helps in clotting?",
+      "options": ["Erythrocyte", "Lymphocyte", "Platelet (thrombocyte)", "Monocyte"],
+      "answerIndex": 2,
+      "explanation": "Platelets are megakaryocyte fragments; they release clotting factors at injury sites.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "formed-elements",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-106",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Calcium ions and vitamin K are required in clotting because they help form",
+      "options": [
+        "albumin from globulin",
+        "thrombin from prothrombin",
+        "haemoglobin from haem",
+        "lymph from plasma"
+      ],
+      "answerIndex": 1,
+      "explanation": "Several clotting factors (including prothrombin conversion) need Ca2+; vitamin K is needed to make some of those factors.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "coagulation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-107",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Lymph differs from blood plasma mainly in having",
+      "options": [
+        "more erythrocytes",
+        "much less protein and no RBCs",
+        "more platelets than blood",
+        "no lymphocytes at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "Lymph is filtered plasma with fewer proteins and no red cells; it does carry lymphocytes.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "lymph-and-portal",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-108",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "The valve that prevents backflow from the aorta into the left ventricle is the",
+      "options": ["bicuspid (mitral) valve", "tricuspid valve", "aortic semilunar valve", "pulmonary valve"],
+      "answerIndex": 2,
+      "explanation": "Aortic semilunar cusps close at the start of ventricular diastole, producing the second heart sound.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "heart-structure-valves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-109",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "In human double circulation, the pulmonary circuit starts from the",
+      "options": [
+        "left ventricle to the body",
+        "right ventricle to the lungs",
+        "left atrium to the aorta",
+        "right atrium to the liver"
+      ],
+      "answerIndex": 1,
+      "explanation": "Deoxygenated blood is pumped by the right ventricle through pulmonary arteries to the lungs.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "double-circulation-output",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-110",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "A resting blood pressure that stays above 140/90 mm Hg is termed",
+      "options": ["hypotension", "hypertension", "anaemia", "haemophilia"],
+      "answerIndex": 1,
+      "explanation": "Sustained high arterial pressure is hypertension and strains heart and vessels.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "circulatory-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-111",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "A person of group A can safely receive packed red cells from which donor group besides A?",
+      "options": ["B only", "AB only", "O", "AB and B"],
+      "answerIndex": 2,
+      "explanation": "Group A plasma has anti-B, so B or AB cells would agglutinate; O cells lack A and B antigens.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "blood-groups-abo-rh",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-112",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "Which ECG event is incorrectly matched?",
+      "options": [
+        "P wave — atrial depolarisation",
+        "QRS complex — ventricular depolarisation",
+        "T wave — ventricular repolarisation",
+        "P wave — ventricular systole"
+      ],
+      "answerIndex": 3,
+      "explanation": "The P wave is atrial, not ventricular; ventricular systole follows the QRS.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ecg-waves",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-bf-n-113",
+      "chapterId": "zoology-body-fluids-and-circulation",
+      "stem": "During the brief AV nodal delay, blood continues to flow from atria into ventricles. This delay is useful because it",
+      "options": [
+        "prevents the SAN from firing",
+        "allows atrial systole to finish ventricular filling before ventricular contraction",
+        "closes the semilunar valves at the start of atrial systole",
+        "stops coronary flow permanently"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 0.1 s pause at the AV node lets atria empty; then the ventricles contract on a full load.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "cardiac-cycle-pacemaker",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

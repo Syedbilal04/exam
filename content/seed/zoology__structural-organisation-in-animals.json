@@ -1,0 +1,381 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Structural Organisation in Animals",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-so-e-101",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Sponges show the cellular level of organisation because their cells",
+      "options": [
+        "form true tissues with a basement membrane",
+        "remain largely independent without forming tissues",
+        "are arranged into organs such as a heart",
+        "always form an organ system"
+      ],
+      "answerIndex": 1,
+      "explanation": "In Porifera, cells cooperate but do not form true tissues; this is the cellular grade of organisation.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "levels-of-organisation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-102",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Simple squamous epithelium is typically found in the lining of",
+      "options": ["skin epidermis", "blood capillaries and alveoli", "urinary bladder mucosa", "oesophageal lining"],
+      "answerIndex": 1,
+      "explanation": "Thin flat cells of simple squamous epithelium favour diffusion in alveoli and capillary walls.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "simple-epithelium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-103",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Compound (stratified) epithelium is specialised mainly for",
+      "options": ["absorption of nutrients", "protection against abrasion", "secretion of hormones into blood", "exchange of gases"],
+      "answerIndex": 1,
+      "explanation": "Several cell layers protect surfaces such as skin and the lining of the mouth from wear.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "compound-and-glandular-epithelium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-104",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Adipose tissue stores fat and is a type of",
+      "options": ["epithelial tissue", "loose connective tissue", "skeletal muscle", "nervous tissue"],
+      "answerIndex": 1,
+      "explanation": "Adipose and areolar tissues are loose connective tissues with cells in a soft matrix.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "loose-connective-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-105",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Tendons are dense regular connective structures that connect",
+      "options": ["bone to bone", "muscle to bone", "neuron to muscle only", "epithelium to dermis"],
+      "answerIndex": 1,
+      "explanation": "Dense regular connective tissue of tendons joins skeletal muscle to bone; ligaments join bone to bone.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "dense-connective-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-106",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "The flexible skeletal tissue with chondrocytes in lacunae is",
+      "options": ["bone", "cartilage", "areolar tissue", "blood"],
+      "answerIndex": 1,
+      "explanation": "Cartilage is a specialised connective tissue; chondrocytes lie in lacunae within a firm matrix.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "cartilage-and-bone",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-107",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Blood is classified as a connective tissue because it has",
+      "options": [
+        "a hard mineral matrix of calcium",
+        "cells suspended in a fluid matrix called plasma",
+        "tight junctions like epithelium",
+        "intercalated discs"
+      ],
+      "answerIndex": 1,
+      "explanation": "Connective tissues have cells in a matrix; in blood the matrix is plasma.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "blood-fluid-connective",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-108",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Unstriated (smooth) muscle is typically found in the wall of the",
+      "options": ["biceps", "heart ventricles", "intestine", "tongue"],
+      "answerIndex": 2,
+      "explanation": "Visceral smooth muscle is involuntary and lines hollow organs such as the gut.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "skeletal-and-smooth-muscle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-109",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Cardiac muscle fibres are characterised by",
+      "options": [
+        "no nuclei and no striations",
+        "striations and intercalated discs",
+        "multinucleate peripheral nuclei only, as in skeletal fibres",
+        "attachment to bones by tendons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Heart muscle is striated, involuntary and joined by intercalated discs for coordinated contraction.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "cardiac-muscle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-110",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "The long process of a neuron that carries the impulse away from the cell body is the",
+      "options": ["dendrite", "axon", "synapse", "neuroglia"],
+      "answerIndex": 1,
+      "explanation": "Dendrites receive signals; a single axon conducts the impulse away from the cyton.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nervous-tissue-neuron",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-111",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Ciliated columnar epithelium lining the bronchi helps mainly to",
+      "options": [
+        "store fat",
+        "move mucus and trapped particles",
+        "produce bone matrix",
+        "generate action potentials"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cilia beat to clear mucus; this epithelium also lines parts of the oviduct.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "simple-epithelium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-112",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Haversian systems (osteons) are structural units of",
+      "options": ["hyaline cartilage", "compact bone", "areolar tissue", "smooth muscle"],
+      "answerIndex": 1,
+      "explanation": "Mammalian compact bone is organised into osteons with concentric lamellae around a Haversian canal.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "cartilage-and-bone",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-e-113",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Which statement about animal tissues is incorrect?",
+      "options": [
+        "Goblet cells are unicellular glands in columnar epithelium",
+        "Ligaments are elastic dense connective tissue joining bone to bone",
+        "Skeletal muscle fibres are multinucleate and voluntary",
+        "Neuroglia conduct nerve impulses faster than axons"
+      ],
+      "answerIndex": 3,
+      "explanation": "Neuroglia support and insulate neurons; they do not transmit impulses as axons do.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "nervous-tissue-neuron",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-101",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Platyhelminthes exhibit the tissue level of organisation, whereas annelids show the",
+      "options": [
+        "cellular level only",
+        "organ-system level",
+        "accellular grade",
+        "colony level of protists"
+      ],
+      "answerIndex": 1,
+      "explanation": "From Annelida onwards, animals typically have organs grouped into organ systems.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "levels-of-organisation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-102",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Cuboidal epithelium with a brush border of microvilli is found in",
+      "options": [
+        "the inner lining of blood vessels",
+        "proximal convoluted tubules of the nephron",
+        "the outer layer of skin",
+        "cardiac muscle of the atrium"
+      ],
+      "answerIndex": 1,
+      "explanation": "PCT cells are cuboidal with microvilli that increase absorptive surface.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "simple-epithelium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-103",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Glandular epithelium is modified mainly for",
+      "options": ["conduction of impulses", "secretion", "locomotion", "storage of calcium"],
+      "answerIndex": 1,
+      "explanation": "Unicellular goblet cells and multicellular glands are epithelial specialisations for secretion.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "compound-and-glandular-epithelium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-104",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Areolar tissue contains fibroblasts, macrophages and mast cells in a",
+      "options": [
+        "mineralised hard matrix",
+        "loose matrix of collagen and elastin fibres",
+        "fluid plasma without fibres",
+        "keratinised multilayered sheet"
+      ],
+      "answerIndex": 1,
+      "explanation": "Loose areolar connective tissue fills spaces and has a semi-fluid matrix with scattered fibres and cells.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "loose-connective-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-105",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Dense irregular connective tissue with fibres oriented in many directions occurs in the",
+      "options": ["tendon of biceps", "skin dermis", "hyaline cartilage of trachea", "wall of the heart"],
+      "answerIndex": 1,
+      "explanation": "Dermis has a feltwork of collagen that resists stretch in several planes; tendons have parallel fibres.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "dense-connective-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-106",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Bone differs from cartilage in having",
+      "options": [
+        "chondrocytes instead of osteocytes",
+        "a hard matrix rich in calcium salts",
+        "no blood supply in living animals",
+        "lacunae that never contain cells"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bone matrix is calcified and vascular; cartilage matrix is firm but not mineralised like bone.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "cartilage-and-bone",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-107",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "The most abundant cells in human blood by number are",
+      "options": ["leucocytes", "erythrocytes", "thrombocytes", "osteocytes"],
+      "answerIndex": 1,
+      "explanation": "Red blood cells far outnumber white cells and platelets in circulating blood.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "blood-fluid-connective",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-108",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Skeletal muscle fibres are",
+      "options": [
+        "spindle-shaped, uninucleate and involuntary",
+        "cylindrical, multinucleate, striated and voluntary",
+        "branched with intercalated discs and involuntary",
+        "non-contractile supporting cells"
+      ],
+      "answerIndex": 1,
+      "explanation": "Striated skeletal fibres are under voluntary control and have many peripheral nuclei.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "skeletal-and-smooth-muscle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-109",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Intercalated discs of cardiac muscle",
+      "options": [
+        "attach the heart to the sternum",
+        "are cell junctions that allow the fibres to act as a unit",
+        "store triglycerides",
+        "are identical to neuromuscular junctions of the limb"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gap junctions and desmosomes at intercalated discs couple cardiomyocytes electrically and mechanically.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "cardiac-muscle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-110",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Nissl's granules in a neuron are composed of",
+      "options": ["lipid droplets only", "rough endoplasmic reticulum and ribosomes", "secretory mucus", "myelin of Schwann cells"],
+      "answerIndex": 1,
+      "explanation": "Nissl bodies are RER plus ribosomes in the cyton and dendrites, absent from the axon hillock and axon.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nervous-tissue-neuron",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-111",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Transitional epithelium (urothelium) that stretches is a feature of the",
+      "options": ["alveoli of lungs", "urinary bladder", "thyroid follicle", "tendon sheath"],
+      "answerIndex": 1,
+      "explanation": "Compound transitional epithelium lines the bladder and ureters and changes shape as the organ fills.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "compound-and-glandular-epithelium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-112",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Which of the following is not a connective tissue?",
+      "options": ["Blood", "Bone", "Cartilage", "Muscular tissue of the gut"],
+      "answerIndex": 3,
+      "explanation": "Smooth muscle of the gut is muscular tissue; blood, bone and cartilage are connective tissues.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "loose-connective-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-so-n-113",
+      "chapterId": "zoology-structural-organisation-in-animals",
+      "stem": "Match the tissue with an incorrect location or feature.",
+      "options": [
+        "Ciliated epithelium — fallopian tube",
+        "Compound epithelium — dry skin surface",
+        "Hyaline cartilage — articular ends of long bones",
+        "Smooth muscle — biceps brachii"
+      ],
+      "answerIndex": 3,
+      "explanation": "Biceps is skeletal (striated voluntary) muscle; smooth muscle occurs in viscera, not in the biceps.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "skeletal-and-smooth-muscle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

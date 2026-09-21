@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-respiration-in-plants",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "rp-glycolysis",
+      "label": "Glycolysis (EMP) in the cytoplasm",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rp-fermentation",
+      "label": "Alcoholic and lactic fermentation and NAD+ regeneration",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rp-link-reaction",
+      "label": "Pyruvate to acetyl CoA (link reaction)",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rp-krebs-cycle",
+      "label": "Krebs (TCA) cycle in the mitochondrial matrix",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rp-ets-etc",
+      "label": "Electron transport chain on the inner membrane",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rp-atp-balance",
+      "label": "Substrate-level versus oxidative phosphorylation and ATP yield",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rp-rq",
+      "label": "Respiratory quotient of substrates",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rp-amphibolic",
+      "label": "Amphibolic nature of the respiratory pathway",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "rp-aerobic-vs-anaerobic",
+      "label": "Aerobic versus anaerobic oxidation of glucose",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "rp-plant-gas-exchange",
+      "label": "Stomata and lenticels as respiratory surfaces",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

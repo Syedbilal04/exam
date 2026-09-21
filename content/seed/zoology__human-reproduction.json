@@ -1,0 +1,371 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Human Reproduction",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-hr-e-101",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Interstitial cells of Leydig in the human testis secrete",
+      "options": ["testosterone", "FSH", "inhibin only", "oxytocin"],
+      "answerIndex": 0,
+      "explanation": "Leydig cells in the interstitial tissue produce testosterone under LH stimulation.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "male-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-102",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The funnel-shaped opening of the oviduct that receives the ovulated oocyte is the",
+      "options": ["infundibulum", "isthmus", "cervix", "fundus of the uterus"],
+      "answerIndex": 0,
+      "explanation": "The infundibulum, with fimbriae, collects the oocyte from the ovarian surface.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "female-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-103",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Conversion of haploid spermatids into spermatozoa is termed",
+      "options": ["spermiogenesis", "oogenesis", "spermiation", "cleavage"],
+      "answerIndex": 0,
+      "explanation": "Spermiogenesis is the morphological transformation of spermatids; spermiation is later release into the lumen.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "spermatogenesis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-104",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The first polar body in humans is extruded when the",
+      "options": [
+        "primary oocyte completes meiosis I",
+        "sperm is produced in the epididymis",
+        "blastocyst hatches",
+        "secondary oocyte is still in the fetal ovary"
+      ],
+      "answerIndex": 0,
+      "explanation": "Meiosis I of the primary oocyte yields a secondary oocyte and the first polar body, usually around ovulation.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "oogenesis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-105",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "In a typical 28-day menstrual cycle, ovulation is triggered by a mid-cycle surge of",
+      "options": ["LH", "prolactin", "oxytocin", "thyroxine"],
+      "answerIndex": 0,
+      "explanation": "A sharp LH peak from the anterior pituitary causes rupture of the mature Graafian follicle.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "menstrual-cycle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-106",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The enzyme-filled cap of the spermatozoon that helps it penetrate egg coats is the",
+      "options": ["acrosome", "midpiece", "principal piece of the tail", "corona radiata"],
+      "answerIndex": 0,
+      "explanation": "The acrosome is a Golgi-derived cap with hyaluronidase and acrosin used in the acrosome reaction.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "fertilisation-events",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-107",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The outer cellular layer of the blastocyst that later forms chorionic tissue is the",
+      "options": ["trophoblast", "inner cell mass", "zona pellucida", "corona radiata"],
+      "answerIndex": 0,
+      "explanation": "Trophoblast cells enclose the blastocoel and contribute extra-embryonic membranes and placenta.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "implantation-and-blastocyst",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-108",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "After the first trimester, progesterone needed to keep the uterus quiescent is produced mainly by the",
+      "options": ["placenta", "anterior pituitary", "adrenal medulla", "Graafian follicle"],
+      "answerIndex": 0,
+      "explanation": "The corpus luteum is the early source; later the placenta takes over progesterone secretion.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "pregnancy-and-placenta",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-109",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The three primary germ layers of the embryo are established during",
+      "options": ["gastrulation", "fertilisation", "parturition", "lactation"],
+      "answerIndex": 0,
+      "explanation": "Gastrulation rearranges the bilaminar disc into ectoderm, mesoderm and endoderm.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "embryonic-development",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-110",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The posterior-pituitary hormone that causes ejection of milk from mammary alveoli is",
+      "options": ["oxytocin", "FSH", "LH", "relaxin"],
+      "answerIndex": 0,
+      "explanation": "Oxytocin contracts myoepithelial cells around alveoli (milk ejection); prolactin drives milk synthesis.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "parturition-and-lactation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-111",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Seminal plasma in humans is contributed mainly by the",
+      "options": [
+        "seminal vesicles, prostate and bulbourethral glands",
+        "seminiferous tubules alone",
+        "epididymis alone",
+        "ureters and urinary bladder"
+      ],
+      "answerIndex": 0,
+      "explanation": "Accessory glands add fructose, prostaglandins, enzymes and mucus that make up most of the semen volume.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "male-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-112",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "If fertilisation does not occur, the corpus luteum",
+      "options": [
+        "degenerates into a corpus albicans",
+        "enlarges into the placenta",
+        "begins secreting hCG",
+        "remains active for the full nine months"
+      ],
+      "answerIndex": 0,
+      "explanation": "Without hCG support the corpus luteum regresses, progesterone falls and menstruation follows.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "menstrual-cycle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-e-113",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "A human secondary oocyte completes meiosis II",
+      "options": [
+        "only after a spermatozoon has entered",
+        "inside the fetal ovary before birth",
+        "automatically at the moment of ovulation",
+        "in the uterus after implantation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ovulation releases a secondary oocyte arrested at metaphase II; sperm entry triggers completion of meiosis II.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "oogenesis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-101",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Sertoli cells lining seminiferous tubules primarily",
+      "options": [
+        "nourish developing germ cells and form the blood–testis barrier",
+        "secrete testosterone into the interstitial fluid",
+        "construct the zona pellucida of the ovum",
+        "release LH into the bloodstream"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sertoli (nurse) cells support spermatogenesis and secrete inhibin; Leydig cells make testosterone.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "male-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-102",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The uterine layer that is shed during menstruation is the",
+      "options": ["endometrium", "myometrium", "perimetrium", "mesovarium"],
+      "answerIndex": 0,
+      "explanation": "Falling progesterone causes breakdown of the functional endometrium; myometrium is muscle, perimetrium is serosa.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "female-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-103",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "One primary spermatocyte that completes meiosis typically yields",
+      "options": ["four spermatozoa", "one spermatozoon", "two polar bodies", "eight ova"],
+      "answerIndex": 0,
+      "explanation": "Meiosis of a primary spermatocyte produces four haploid spermatids that differentiate into spermatozoa.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "spermatogenesis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-104",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "At birth, oocytes in the human ovary are arrested at",
+      "options": [
+        "diplotene of prophase I",
+        "metaphase II",
+        "anaphase I",
+        "G0 of a mitotic cycle"
+      ],
+      "answerIndex": 0,
+      "explanation": "Primary oocytes remain in dictyotene (diplotene of prophase I) until the ovulatory cycle resumes meiosis I.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "oogenesis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-105",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Menstrual bleeding begins mainly because of withdrawal of",
+      "options": ["progesterone", "FSH", "hCG", "oxytocin"],
+      "answerIndex": 0,
+      "explanation": "Regression of the corpus luteum drops progesterone (and oestrogen), so the endometrium is shed.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "menstrual-cycle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-106",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Capacitation, which makes spermatozoa competent to fertilise, occurs in the",
+      "options": [
+        "female reproductive tract",
+        "seminiferous tubule lumen",
+        "rete testis only",
+        "prostatic urethra at ejaculation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Secretions of the female tract remove inhibitory coating from sperm and enable the acrosome reaction.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "fertilisation-events",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-107",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The inner cell mass of the blastocyst gives rise to the",
+      "options": ["embryo proper", "trophoblast", "zona pellucida", "corona radiata"],
+      "answerIndex": 0,
+      "explanation": "The embryoblast (inner cell mass) forms the embryo; trophoblast forms extra-embryonic tissue.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "implantation-and-blastocyst",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-108",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Identify the incorrect statement about the human placenta.",
+      "options": [
+        "It is formed only by maternal endometrial tissue",
+        "It permits exchange of nutrients and gases",
+        "It secretes hCG in early pregnancy",
+        "It functions as a temporary endocrine gland"
+      ],
+      "answerIndex": 0,
+      "explanation": "The placenta is foeto-maternal: chorionic villi (fetal) plus decidua (maternal).",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "pregnancy-and-placenta",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-109",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "The extra-embryonic membrane that contributes most directly to the human placenta is the",
+      "options": ["chorion", "amnion alone", "yolk sac alone", "allantois of birds only"],
+      "answerIndex": 0,
+      "explanation": "Chorionic villi invade the endometrium and, with decidua, form the discoid placenta.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "embryonic-development",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-110",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Colostrum, the first milk after delivery, is especially rich in",
+      "options": ["antibodies (IgA)", "urea", "haemoglobin", "cellulose"],
+      "answerIndex": 0,
+      "explanation": "Colostrum supplies maternal antibodies, chiefly IgA, that protect the newborn gut.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "parturition-and-lactation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-111",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Fructose that spermatozoa use as an energy source is added mainly by the",
+      "options": ["seminal vesicles", "Cowper's glands", "testes", "bulbourethral mucus alone"],
+      "answerIndex": 0,
+      "explanation": "Seminal vesicles secrete a fructose-rich alkaline fluid that is the largest fraction of semen.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "male-reproductive-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-112",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Which event does not belong to the proliferative (follicular) phase of the menstrual cycle?",
+      "options": [
+        "formation of a fully developed corpus luteum",
+        "regeneration of the endometrium",
+        "rising ovarian oestrogen",
+        "FSH-supported growth of follicles"
+      ],
+      "answerIndex": 0,
+      "explanation": "The corpus luteum forms after ovulation and characterises the luteal (secretory) phase.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "menstrual-cycle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hr-n-113",
+      "chapterId": "zoology-human-reproduction",
+      "stem": "Polar bodies produced during oogenesis are",
+      "options": [
+        "haploid cells that usually degenerate",
+        "diploid nurse cells of the follicle",
+        "future granulosa cells",
+        "four functional ova from each primary oocyte"
+      ],
+      "answerIndex": 0,
+      "explanation": "Unequal cytokinesis yields one ovum and polar bodies that discard extra haploid sets and normally die.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "oogenesis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-plant-kingdom",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "algae-general",
+      "label": "Algae: thallus, pigments and habitats",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "chlorophyceae",
+      "label": "Chlorophyceae: green algae characters and examples",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phaeophyceae",
+      "label": "Phaeophyceae: brown algae pigments and storage",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "rhodophyceae",
+      "label": "Rhodophyceae: red algae and agar",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "bryophytes",
+      "label": "Bryophytes as amphibians of the plant kingdom",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pteridophytes",
+      "label": "Pteridophytes: vascular cryptogams and heterospory",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "gymnosperms",
+      "label": "Gymnosperms: naked seeds and cones",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "angiosperms",
+      "label": "Angiosperms: flowers, fruits and double fertilisation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "life-cycle-patterns",
+      "label": "Haplontic, diplontic and haplo-diplontic cycles",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "economic-algae-bryophytes",
+      "label": "Economic uses of algae and Sphagnum",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

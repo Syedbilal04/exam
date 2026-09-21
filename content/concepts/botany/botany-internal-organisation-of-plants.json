@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-internal-organisation-of-plants",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "meristematic-tissues",
+      "label": "Meristem types and locations",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "simple-permanent-tissues",
+      "label": "Parenchyma, collenchyma and sclerenchyma",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "xylem-tissue",
+      "label": "Xylem elements and protoxylem position",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phloem-tissue",
+      "label": "Phloem elements and companion cells",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "epidermal-tissue-system",
+      "label": "Epidermis, stomata and trichomes",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "root-anatomy",
+      "label": "Dicot and monocot root anatomy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "stem-anatomy",
+      "label": "Dicot and monocot stem anatomy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "leaf-anatomy",
+      "label": "Dorsiventral and isobilateral leaf",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "secondary-growth",
+      "label": "Vascular cambium, cork and wood",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "stele-and-bundles",
+      "label": "Stele types and vascular bundle arrangement",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

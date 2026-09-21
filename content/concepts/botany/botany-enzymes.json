@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-enzymes",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "enzyme-chemical-nature",
+      "label": "Protein nature of enzymes and ribozymes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "enzyme-activation-energy",
+      "label": "Activation energy and biocatalysis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "enzyme-mechanism-es",
+      "label": "Active site, ES complex, lock-and-key and induced fit",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "enzyme-factors-temp-ph",
+      "label": "Temperature and pH effects on enzyme activity",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "enzyme-km-substrate",
+      "label": "Substrate concentration, Vmax and Km",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "enzyme-inhibition",
+      "label": "Competitive and non-competitive inhibition",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "enzyme-six-classes",
+      "label": "IUB six classes of enzymes",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "enzyme-cofactors",
+      "label": "Cofactors, coenzymes and prosthetic groups",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "enzyme-allosteric-feedback",
+      "label": "Allosteric enzymes and feedback inhibition",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "enzyme-specificity",
+      "label": "Enzyme specificity and naming",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

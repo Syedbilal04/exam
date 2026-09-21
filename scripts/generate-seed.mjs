@@ -93,7 +93,7 @@ lines.push("", "-- question bank");
 
 for (const question of questions) {
   lines.push(
-    "insert into question_bank (id, chapter_id, subject_id, stem, options, answer_index, explanation, images, source) values (" +
+    "insert into question_bank (id, chapter_id, subject_id, stem, options, answer_index, explanation, images, source, difficulty, concept_id) values (" +
       [
         quote(question.id),
         quote(question.chapterId),
@@ -104,10 +104,13 @@ for (const question of questions) {
         quote(question.explanation ?? ""),
         json(question.images ?? []),
         json(question.source),
+        question.difficulty ? quote(question.difficulty) : "null",
+        question.conceptId ? quote(question.conceptId) : "null",
       ].join(", ") +
       ") on conflict (id) do update set stem = excluded.stem, options = excluded.options," +
       " answer_index = excluded.answer_index, explanation = excluded.explanation," +
-      " images = excluded.images, source = excluded.source;",
+      " images = excluded.images, source = excluded.source," +
+      " difficulty = excluded.difficulty, concept_id = excluded.concept_id;";
   );
   lines.push(
     "insert into question_pyq_meta (question_id, appear_count, years, exams, verified) values (" +

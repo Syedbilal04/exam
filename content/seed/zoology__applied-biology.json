@@ -1,0 +1,396 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Applied Biology",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-ab-e-101",
+      "chapterId": "zoology-applied-biology",
+      "stem": "The branch of agriculture concerned with the care and breeding of livestock is",
+      "options": ["animal husbandry", "sericulture", "apiculture", "pisciculture only"],
+      "answerIndex": 0,
+      "explanation": "Animal husbandry covers cattle, buffalo, sheep, goat and related farm animals.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "animal-husbandry-livestock",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-102",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Broiler poultry birds are raised primarily for",
+      "options": ["meat", "honey", "silk", "wool"],
+      "answerIndex": 0,
+      "explanation": "Broilers are meat-type chickens grown rapidly on high-protein feed; layers are kept for eggs.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "poultry-farming",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-103",
+      "chapterId": "zoology-applied-biology",
+      "stem": "The Italian honeybee widely stocked in Indian apiaries is",
+      "options": ["Apis mellifera", "Bombyx mori", "Pheretima posthuma", "Catla catla"],
+      "answerIndex": 0,
+      "explanation": "Apis mellifera is preferred for high honey yield; Apis indica is the Indian hive bee.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "apiculture",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-104",
+      "chapterId": "zoology-applied-biology",
+      "stem": "The chief food plant of the mulberry silkworm is",
+      "options": ["Morus (mulberry)", "Tectona (teak)", "Oryza (rice)", "Saccharum (sugarcane)"],
+      "answerIndex": 0,
+      "explanation": "Bombyx mori larvae feed on mulberry leaves before spinning the commercial cocoon.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "sericulture",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-105",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Stocking Catla, Rohu and Mrigal together in one pond illustrates",
+      "options": ["composite fish culture", "sericulture", "MOET", "apiculture"],
+      "answerIndex": 0,
+      "explanation": "Composite culture uses surface, column and bottom feeders so the whole pond is exploited.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "aquaculture-pisciculture",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-106",
+      "chapterId": "zoology-applied-biology",
+      "stem": "A mule is obtained by",
+      "options": [
+        "interspecific hybridisation of horse and donkey",
+        "selfing of a cattle breed",
+        "cloning of a sheep",
+        "in ovo vaccination of chicks"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mule is a sterile interspecific hybrid, usually of a male donkey and a female horse.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "animal-breeding-methods",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-107",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Superovulation of a donor cow in MOET is induced with",
+      "options": ["FSH", "insulin", "thyroxine", "ADH"],
+      "answerIndex": 0,
+      "explanation": "FSH (or related gonadotrophins) causes several follicles to mature so many embryos can be recovered.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "moet-and-embryo-transfer",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-108",
+      "chapterId": "zoology-applied-biology",
+      "stem": "A vaccine prepared from a living but weakened pathogen is described as",
+      "options": ["live attenuated", "subunit only", "toxoid only", "always DNA-free"],
+      "answerIndex": 0,
+      "explanation": "Live attenuated vaccines (for example BCG or Sabin polio) retain immunogenicity with reduced virulence.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "vaccines-and-immunization",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-109",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Spread of cancer cells from a primary tumour to distant organs is called",
+      "options": ["metastasis", "fertilisation", "inbreeding", "pasteurisation"],
+      "answerIndex": 0,
+      "explanation": "Metastasis is the hallmark of malignancy and involves invasion and colonisation of new sites.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "cancer-biology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-110",
+      "chapterId": "zoology-applied-biology",
+      "stem": "ELISA as used in diagnosis depends on",
+      "options": [
+        "antigen–antibody interaction",
+        "karyotyping of silkworms",
+        "ratios of fish in a pond",
+        "milk-fat percentage alone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Enzyme-linked immunosorbent assay detects antigen or antibody with an enzyme-tagged conjugate.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "biomedical-diagnostics",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-111",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Layer flocks in poultry farming are maintained mainly for",
+      "options": ["egg production", "silk reeling", "bee venom", "pearl culture"],
+      "answerIndex": 0,
+      "explanation": "Layers are egg-type birds; broilers are the meat-type counterpart.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "poultry-farming",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-112",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Mating of unrelated animals of the same breed is called",
+      "options": [
+        "outcrossing",
+        "inbreeding depression",
+        "interspecific hybridisation",
+        "MOET only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Outcrossing brings in unrelated animals of one breed and is used to overcome inbreeding depression.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "animal-breeding-methods",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-e-113",
+      "chapterId": "zoology-applied-biology",
+      "stem": "A cellular proto-oncogene typically becomes a cancer-causing oncogene after",
+      "options": [
+        "an activating mutation or overexpression",
+        "complete deletion of the nuclear genome",
+        "vaccination with BCG",
+        "composite fish culture"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gain-of-function changes convert proto-oncogenes into oncogenes that drive uncontrolled division.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "cancer-biology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-101",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Dairy farm management is aimed chiefly at",
+      "options": [
+        "higher yield of good-quality milk",
+        "production of raw silk",
+        "culture of marine algae only",
+        "extraction of honey"
+      ],
+      "answerIndex": 0,
+      "explanation": "Selection, feeding, housing and veterinary care are organised to raise milk yield and quality.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "animal-husbandry-livestock",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-102",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Which statement about broiler chickens is correct?",
+      "options": [
+        "They are grown for meat and need protein-rich feed",
+        "They are kept only for years of egg laying",
+        "They spin commercial silk cocoons",
+        "They are a species of honeybee"
+      ],
+      "answerIndex": 0,
+      "explanation": "Broilers are meat birds finished in weeks on high-energy, high-protein rations.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "poultry-farming",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-103",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Royal jelly and beeswax are commercial products of",
+      "options": ["apiculture", "pisciculture", "poultry", "MOET"],
+      "answerIndex": 0,
+      "explanation": "Bee keeping yields honey, wax, royal jelly, pollen and bee venom.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "apiculture",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-104",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Which statement about Bombyx mori is incorrect?",
+      "options": [
+        "Its larva feeds only on teak leaves",
+        "It is the mulberry silkworm",
+        "The larva spins a silk cocoon",
+        "It is the insect of sericulture"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bombyx mori is oligophagous on mulberry (Morus), not teak; Tasar moths use other hosts.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "sericulture",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-105",
+      "chapterId": "zoology-applied-biology",
+      "stem": "In composite fish culture, a surface feeder such as Catla is stocked with",
+      "options": [
+        "column and bottom feeders so all pond zones are used",
+        "only silkworm larvae",
+        "only layer hens",
+        "only donor cows"
+      ],
+      "answerIndex": 0,
+      "explanation": "Catla (surface), Rohu (column) and Mrigal or common carp (bottom) occupy different feeding niches.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "aquaculture-pisciculture",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-106",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Inbreeding depression in a herd is commonly reversed by",
+      "options": [
+        "outcrossing",
+        "continued full-sib mating",
+        "withdrawing all vaccines",
+        "promoting metastasis"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mating to an unrelated animal of the same breed restores heterozygosity and vigour.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "animal-breeding-methods",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-107",
+      "chapterId": "zoology-applied-biology",
+      "stem": "In MOET, fertilised eggs recovered from the donor cow are",
+      "options": [
+        "transferred to surrogate mothers",
+        "reared as silk cocoons",
+        "injected as live vaccines",
+        "used as broiler feed"
+      ],
+      "answerIndex": 0,
+      "explanation": "Embryos at 8–32 cells are flushed and implanted in foster cows so the elite donor can be superovulated again.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "moet-and-embryo-transfer",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-108",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Identify the incorrect vaccine pair.",
+      "options": [
+        "tetanus toxoid — live virus vaccine",
+        "BCG — live attenuated bacterium",
+        "Sabin polio — live attenuated virus",
+        "Salk polio — inactivated (killed) virus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tetanus vaccine is a toxoid (inactivated toxin), not a live virus.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "vaccines-and-immunization",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-109",
+      "chapterId": "zoology-applied-biology",
+      "stem": "A malignant tumour differs from a benign tumour in that it",
+      "options": [
+        "invades nearby tissue and may metastasise",
+        "always remains encapsulated",
+        "never divides",
+        "is invariably caused by a virus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Malignant cells lose contact inhibition, invade and seed secondary growths; benign masses stay localised.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "cancer-biology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-110",
+      "chapterId": "zoology-applied-biology",
+      "stem": "MRI as a diagnostic tool uses",
+      "options": [
+        "strong magnetic fields and radio waves",
+        "only ionising X-rays for every scan",
+        "only ECG electrodes on the chest",
+        "only turbidity readings of a fish pond"
+      ],
+      "answerIndex": 0,
+      "explanation": "Magnetic resonance imaging aligns nuclear spins in a magnet and reads radiofrequency signals; it is not an X-ray method.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "biomedical-diagnostics",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-111",
+      "chapterId": "zoology-applied-biology",
+      "stem": "A recommended farm practice for layer hens is",
+      "options": [
+        "adequate calcium in the feed for eggshells",
+        "feeding only mulberry leaves",
+        "housing them with honeybees in one cage",
+        "MOET of silkworm pupae"
+      ],
+      "answerIndex": 0,
+      "explanation": "Eggshells are calcium carbonate, so layers need extra dietary calcium and a suitable photoperiod.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "poultry-farming",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-112",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Mating a superior male of one breed to females of another breed is",
+      "options": ["cross-breeding", "inbreeding of clones", "apiculture", "ELISA"],
+      "answerIndex": 0,
+      "explanation": "Cross-breeding combines desirable traits of two breeds; Hisardale sheep is a textbook Indian example.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "animal-breeding-methods",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ab-n-113",
+      "chapterId": "zoology-applied-biology",
+      "stem": "Which statement about cancer is incorrect?",
+      "options": [
+        "Benign tumours always show metastasis",
+        "Malignant cells may lose contact inhibition",
+        "Oncogenes promote uncontrolled division",
+        "Ionising radiation can act as a carcinogen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Metastasis defines malignancy; benign tumours do not spread to distant sites.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "cancer-biology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

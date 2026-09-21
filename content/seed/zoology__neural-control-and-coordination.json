@@ -1,0 +1,381 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Neural Control and Coordination",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-nc-e-101",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "At a chemical synapse, neurotransmitter is released from synaptic vesicles of the",
+      "options": ["postsynaptic dendrite", "presynaptic axon terminal", "myelin sheath", "node of Ranvier only"],
+      "answerIndex": 1,
+      "explanation": "Ca2+ entry into the bouton triggers exocytosis of transmitter toward the synaptic cleft.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "synapse-neurotransmitters",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-102",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The resting membrane potential of a typical neuron is about",
+      "options": ["+40 mV", "0 mV", "-70 mV", "+70 mV"],
+      "answerIndex": 2,
+      "explanation": "The inside is negative (about -70 mV) because of the Na+/K+ pump and K+ leak.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "resting-action-potential",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-103",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The photoreceptors used for colour vision and concentrated at the fovea are",
+      "options": ["rods", "cones", "hair cells", "Pacinian corpuscles"],
+      "answerIndex": 1,
+      "explanation": "Cones contain iodopsins and work in bright light; rods (rhodopsin) serve dim-light vision.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "eye-structure-vision",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-104",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The insulating myelin sheath of a peripheral axon is formed by",
+      "options": ["astrocytes", "Schwann cells", "ependymal cells", "microglia only"],
+      "answerIndex": 1,
+      "explanation": "Schwann cells wrap PNS axons; oligodendrocytes myelinate CNS axons.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "neuron-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-105",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Balance, posture and fine timing of voluntary movement are chiefly functions of the",
+      "options": ["cerebellum", "medulla oblongata", "thalamus only", "corpus callosum"],
+      "answerIndex": 0,
+      "explanation": "The cerebellum compares intended and actual movement; medulla handles vital autonomic centres.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "cns-brain-parts",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-106",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "In a simple knee-jerk reflex the afferent neuron synapses in the",
+      "options": ["cerebral cortex only", "spinal cord", "cerebellum only", "retina"],
+      "answerIndex": 1,
+      "explanation": "The stretch reflex arc is completed in the spinal cord, often monosynaptically.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "spinal-reflex",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-107",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The sympathetic division of the autonomic nervous system is also called",
+      "options": ["craniosacral", "thoracolumbar", "enteric only", "somatic"],
+      "answerIndex": 1,
+      "explanation": "Sympathetic outflow leaves through thoracic and lumbar spinal nerves (fight-or-flight).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ans-divisions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-108",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The organ of Corti, which converts sound vibrations into nerve impulses, rests on the",
+      "options": ["tympanic membrane", "basilar membrane of the cochlea", "cornea", "semicircular canal ampulla only"],
+      "answerIndex": 1,
+      "explanation": "Hair cells of the organ of Corti sit on the basilar membrane inside the cochlear duct.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ear-hearing-balance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-109",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The outermost tough meninx covering the brain is the",
+      "options": ["pia mater", "arachnoid mater", "dura mater", "choroid plexus"],
+      "answerIndex": 2,
+      "explanation": "Dura is outer, arachnoid middle, pia inner; CSF fills the subarachnoid space.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "meninges-csf",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-110",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Saltatory conduction occurs because the action potential jumps from one",
+      "options": ["dendrite to another", "node of Ranvier to the next", "Schwann nucleus to the axon hillock", "synapse to the soma only"],
+      "answerIndex": 1,
+      "explanation": "Myelin insulates internodes so current appears only at nodes, speeding conduction.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "impulse-conduction",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-111",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The neurotransmitter at the vertebrate neuromuscular junction is",
+      "options": ["dopamine", "acetylcholine", "GABA only", "nitric oxide only"],
+      "answerIndex": 1,
+      "explanation": "Acetylcholine binds nicotinic receptors on the muscle end-plate and is then split by acetylcholinesterase.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "synapse-neurotransmitters",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-112",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Depolarisation of an axon membrane is due mainly to rapid influx of",
+      "options": ["K+", "Na+", "Cl-", "Ca2+ into the myelin"],
+      "answerIndex": 1,
+      "explanation": "Voltage-gated Na+ channels open and Na+ rushes in, reversing polarity toward +40 mV.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "resting-action-potential",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-e-113",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "A person with a long eyeball focuses distant images in front of the retina. The defect and the correcting lens are",
+      "options": [
+        "hypermetropia — convex lens",
+        "myopia — concave lens",
+        "presbyopia — cylindrical lens only",
+        "cataract — convex lens"
+      ],
+      "answerIndex": 1,
+      "explanation": "Myopia (long eyeball or strong lens) is corrected by a diverging (concave) lens.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "eye-structure-vision",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-101",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Which ion influx into the synaptic knob is immediately required for vesicle fusion?",
+      "options": ["Na+ only", "K+ only", "Ca2+", "Mg2+ exclusively"],
+      "answerIndex": 2,
+      "explanation": "Presynaptic Ca2+ triggers SNARE-mediated release of neurotransmitter.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "synapse-neurotransmitters",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-102",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Repolarisation of the axon after a spike is caused mainly by",
+      "options": [
+        "Na+ continuing to enter",
+        "K+ leaving through voltage-gated channels",
+        "Cl- entering myelin",
+        "Ca2+ binding DNA"
+      ],
+      "answerIndex": 1,
+      "explanation": "Na+ channels inactivate and K+ efflux restores the negative inside.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "resting-action-potential",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-103",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The blind spot of the retina is the region where",
+      "options": [
+        "cones are packed most densely",
+        "the optic nerve leaves and photoreceptors are absent",
+        "only rods occur in a pit",
+        "the lens is attached"
+      ],
+      "answerIndex": 1,
+      "explanation": "No rods or cones exist at the optic disc, so that point is insensitive to light.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "eye-structure-vision",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-104",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Nissl granules in a neuron cell body are",
+      "options": [
+        "lipid droplets of myelin",
+        "rough ER with ribosomes for protein synthesis",
+        "synaptic vesicles",
+        "nodes of Ranvier"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nissl substance is RER; it is absent from the axon hillock and axon.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "neuron-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-105",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The hypothalamus is an important part of the",
+      "options": [
+        "hindbrain only",
+        "forebrain that controls homeostasis and the pituitary",
+        "spinal grey matter",
+        "middle ear"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hypothalamus (diencephalon) regulates temperature, hunger, thirst and endocrine output.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "cns-brain-parts",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-106",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The correct order of a reflex arc is",
+      "options": [
+        "effector → motor neuron → receptor",
+        "receptor → sensory neuron → CNS → motor neuron → effector",
+        "CNS → receptor → effector → sensory neuron",
+        "motor neuron → receptor → sensory neuron"
+      ],
+      "answerIndex": 1,
+      "explanation": "Afferent input enters the CNS; efferent output then drives the muscle or gland.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "spinal-reflex",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-107",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Parasympathetic stimulation typically",
+      "options": [
+        "raises heart rate and dilates bronchi",
+        "slows heart rate and promotes digestion",
+        "is identical to the somatic system",
+        "arises only from the thoracic cord"
+      ],
+      "answerIndex": 1,
+      "explanation": "Craniosacral (rest-and-digest) outflow conserves energy; sympathetic does the opposite.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ans-divisions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-108",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Semicircular canals detect",
+      "options": [
+        "linear acceleration and static head position only",
+        "angular (rotational) acceleration of the head",
+        "airborne sound frequency",
+        "light intensity"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cristae in the ampullae sense rotation; maculae of utricle and saccule sense gravity and linear motion.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ear-hearing-balance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-109",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Cerebrospinal fluid is formed mainly by the",
+      "options": ["dura mater", "choroid plexuses in the ventricles", "iris", "organ of Corti"],
+      "answerIndex": 1,
+      "explanation": "Choroid plexus secretes CSF, which cushions the CNS and exchanges metabolites.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "meninges-csf",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-110",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "An electrical synapse differs from a chemical synapse in that the cells are coupled by",
+      "options": [
+        "a wide cleft and slow diffusion of ACh",
+        "gap junctions that allow direct ion flow",
+        "myelin bridges",
+        "hormones only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gap junctions give almost no synaptic delay; chemical synapses use a cleft and transmitter.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "impulse-conduction",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-111",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Which statement about chemical synaptic transmission is incorrect?",
+      "options": [
+        "Transmitter is stored in vesicles of the bouton",
+        "Receptors lie on the postsynaptic membrane",
+        "The impulse jumps the cleft as an electric spark without any chemical",
+        "Enzymes or reuptake clear transmitter from the cleft"
+      ],
+      "answerIndex": 2,
+      "explanation": "Chemical synapses use a messenger; they do not pass the spike as a spark across the cleft.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "synapse-neurotransmitters",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-112",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "The Na+/K+ pump of the axon membrane",
+      "options": [
+        "exchanges 2 Na+ out for 3 K+ in",
+        "exchanges 3 Na+ out for 2 K+ in and uses ATP",
+        "is inactive at rest",
+        "opens only during the peak of the spike"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ATPase maintains gradients that make the resting potential and recovery possible.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "resting-action-potential",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-nc-n-113",
+      "chapterId": "zoology-neural-control-and-coordination",
+      "stem": "Identify the incorrect pair of eye defect and cause.",
+      "options": [
+        "Myopia — image of a distant object in front of the retina",
+        "Hypermetropia — short eyeball or weak lens",
+        "Cataract — opaque lens",
+        "Myopia — corrected by a convex converging lens"
+      ],
+      "answerIndex": 3,
+      "explanation": "Myopia needs a concave (diverging) lens; convex lenses correct hypermetropia.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "eye-structure-vision",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

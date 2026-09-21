@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-science-of-plants-botany",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "botany-scope",
+      "label": "Scope of botany as a plant science",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "theophrastus-history",
+      "label": "Theophrastus and early botanical works",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pure-branches",
+      "label": "Pure branches: morphology, anatomy, cytology, palynology",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "applied-branches",
+      "label": "Applied botany: agriculture, horticulture, forestry",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "palaeobotany",
+      "label": "Palaeobotany and fossil plants",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "plant-characters",
+      "label": "Diagnostic characters of plants",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "economic-botany",
+      "label": "Economic importance of plants to humans",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "ethnobotany-pharmacognosy",
+      "label": "Ethnobotany and pharmacognosy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phytogeography-ecology",
+      "label": "Phytogeography and plant ecology",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "classification-approaches",
+      "label": "Artificial, natural and phylogenetic systems",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

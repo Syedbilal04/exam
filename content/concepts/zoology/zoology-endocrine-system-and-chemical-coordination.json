@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "hypothalamus-pituitary",
+      "label": "Hypothalamus and anterior/posterior pituitary",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pancreas-insulin-glucagon",
+      "label": "Islets of Langerhans, insulin and glucagon",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "thyroid-hormones",
+      "label": "Thyroid hormones, iodine and calcitonin",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "adrenal-cortex-medulla",
+      "label": "Adrenal cortex and medulla hormones",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "parathyroid-calcium",
+      "label": "PTH and calcium homeostasis",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "gonadal-pineal-thymus",
+      "label": "Gonads, pineal and thymus hormones",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "local-hormones",
+      "label": "Hormones of heart, kidney and GI tract",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "hormone-action-mechanism",
+      "label": "Membrane vs intracellular hormone action",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "endocrine-disorders",
+      "label": "Diabetes, goitre, Addison, Cushing and GH disorders",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "endocrine-glands-overview",
+      "label": "Major endocrine glands and hormone classes",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

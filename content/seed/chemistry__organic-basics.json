@@ -1,0 +1,4146 @@
+{
+  "subjectId": "chemistry",
+  "source": {
+    "name": "ASTRA chemistry practice set",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "che-ob-101",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Members of one homologous series typically differ from the next by a",
+      "options": [
+        "CH2 unit",
+        "CO2 unit",
+        "H2O molecule",
+        "nitrogen atom"
+      ],
+      "answerIndex": 0,
+      "explanation": "Adjacent homologues differ by a methylene (CH2) group.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-102",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Open-chain organic compounds that contain no rings are described as",
+      "options": [
+        "alicyclic",
+        "aromatic",
+        "acyclic",
+        "heteroaromatic"
+      ],
+      "answerIndex": 2,
+      "explanation": "Acyclic compounds have an open carbon skeleton with no carbocyclic ring.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-103",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Cyclobutane is grouped among organic compounds that are",
+      "options": [
+        "aromatic",
+        "alicyclic",
+        "proteins",
+        "acyclic alkenes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cycloalkanes have a saturated ring and are classed as alicyclic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-104",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Benzene and its typical substitution products are classified as",
+      "options": [
+        "alicyclic",
+        "acyclic alkanes",
+        "aromatic",
+        "carbohydrates"
+      ],
+      "answerIndex": 2,
+      "explanation": "Benzene has a cyclic conjugated pi system and is the parent arene.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-105",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Saturated open-chain hydrocarbons are represented by the general formula",
+      "options": [
+        "CnH2n+2",
+        "CnH2n",
+        "CnH2n-2",
+        "CnH2n+1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Alkanes are saturated and acyclic, so the hydrogen count is CnH2n+2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-106",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Going from one homologue to the next raises the molecular mass by about",
+      "options": [
+        "12 u",
+        "14 u",
+        "16 u",
+        "18 u"
+      ],
+      "answerIndex": 1,
+      "explanation": "A CH2 increment contributes 12 + 2 = 14 mass units.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-107",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Members of a homologous series are expected to show similar",
+      "options": [
+        "boiling points",
+        "melting points",
+        "chemical reactions",
+        "physical states"
+      ],
+      "answerIndex": 2,
+      "explanation": "The same functional group gives similar chemistry; physical properties change gradually.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-108",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Hydrocarbons whose carbon atoms form an open chain with only single bonds are",
+      "options": [
+        "alkenes",
+        "alkanes",
+        "alkynes",
+        "arenes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Open-chain saturated hydrocarbons are alkanes.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-109",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Which of the following hydrocarbons is alicyclic?",
+      "options": [
+        "hexane",
+        "benzene",
+        "ethyne",
+        "cyclohexane"
+      ],
+      "answerIndex": 3,
+      "explanation": "Cyclohexane has a saturated ring; hexane is acyclic and benzene is aromatic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-110",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Naphthalene is best placed in which structural class?",
+      "options": [
+        "aromatic",
+        "alicyclic",
+        "acyclic alkyne",
+        "carbohydrate"
+      ],
+      "answerIndex": 0,
+      "explanation": "Naphthalene consists of fused benzene rings and is aromatic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-111",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "easy",
+      "stem": "Open-chain hydrocarbons that contain one carbon-carbon double bond follow",
+      "options": [
+        "CnH2n+2",
+        "CnH2n-2",
+        "CnH2n",
+        "CnH2n+1OH"
+      ],
+      "answerIndex": 2,
+      "explanation": "Monoalkenes have the general formula CnH2n.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-112",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "medium",
+      "stem": "Ethanol and propan-1-ol belong to the same homologous series because they",
+      "options": [
+        "have identical boiling points",
+        "have the same functional group and differ by CH2",
+        "are both gases at room temperature",
+        "contain a benzene ring"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alcohols share the hydroxy group and successive members differ by CH2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-113",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "medium",
+      "stem": "The molecular formula C6H12 may belong to an alkene or a cycloalkane because both families",
+      "options": [
+        "are aromatic",
+        "contain a triple bond",
+        "share the formula CnH2n",
+        "must be branched"
+      ],
+      "answerIndex": 2,
+      "explanation": "Both monoalkenes and cycloalkanes are CnH2n, so the formula alone does not distinguish them.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-114",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "medium",
+      "stem": "Which pair are successive homologues?",
+      "options": [
+        "methane and ethene",
+        "benzene and cyclohexane",
+        "methanol and ethanol",
+        "ethyne and ethene"
+      ],
+      "answerIndex": 2,
+      "explanation": "Methanol and ethanol are consecutive alcohols differing by CH2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-115",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "medium",
+      "stem": "Alicyclic compounds differ from aromatic compounds in that alicyclic rings",
+      "options": [
+        "always contain nitrogen",
+        "cannot be saturated",
+        "are never hydrocarbons",
+        "lack a benzene-type conjugated sextet"
+      ],
+      "answerIndex": 3,
+      "explanation": "Alicyclic rings may be saturated or unsaturated but do not have aromatic delocalisation like benzene.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-116",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "medium",
+      "stem": "Which statement is not a general feature of a homologous series?",
+      "options": [
+        "Members share a general formula",
+        "All members have the same molecular mass",
+        "Chemical properties are similar",
+        "Physical properties show a gradation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Molecular mass increases down the series; it is not the same for every member.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-117",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "hard",
+      "stem": "A hydrocarbon C4H6 is not a monoalkene. It can still be acyclic if it contains",
+      "options": [
+        "only single bonds",
+        "a carbon-carbon triple bond",
+        "an aromatic ring",
+        "no pi bonds"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alkynes (and dienes) can have formula CnH2n-2; C4H6 fits an acyclic alkyne such as butyne.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-118",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "classification-homologous",
+      "difficulty": "hard",
+      "stem": "Among methane, cyclopropane and toluene, toluene is aromatic because it",
+      "options": [
+        "is a three-membered saturated ring",
+        "is the simplest alkane",
+        "has a benzene ring with a methyl substituent",
+        "contains only sigma bonds"
+      ],
+      "answerIndex": 2,
+      "explanation": "Toluene is methylbenzene; cyclopropane is alicyclic and methane is acyclic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-119",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "Alcohols are characterised by the presence of the",
+      "options": [
+        "formyl group",
+        "hydroxy group",
+        "cyano group",
+        "nitro group"
+      ],
+      "answerIndex": 1,
+      "explanation": "The alcoholic functional group is —OH attached to an alkyl carbon.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-120",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "An aldehyde is recognised by the formyl group written as",
+      "options": [
+        "—COOH",
+        "—CO—",
+        "—CHO",
+        "—CN"
+      ],
+      "answerIndex": 2,
+      "explanation": "The —CHO group is the aldehyde (formyl) function.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-121",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "Carboxylic acids are identified in a condensed formula by the unit",
+      "options": [
+        "—OH",
+        "—CHO",
+        "—OR",
+        "—COOH"
+      ],
+      "answerIndex": 3,
+      "explanation": "The carboxyl group —COOH is the acid function in organic chemistry.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-122",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "Primary amines carry the nitrogenous group",
+      "options": [
+        "—NH2",
+        "—NO2",
+        "—CN",
+        "—CONH2"
+      ],
+      "answerIndex": 0,
+      "explanation": "A primary amine has —NH2 attached to a carbon chain.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-123",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "The cyano (nitrile) group is represented as",
+      "options": [
+        "—NC",
+        "—CN",
+        "—NH2",
+        "—NO2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nitriles contain the —C≡N (cyano) group.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-124",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "A nitroalkane contains the nitrogen-oxygen group",
+      "options": [
+        "—NO",
+        "—NH2",
+        "—NO2",
+        "—N2"
+      ],
+      "answerIndex": 2,
+      "explanation": "The nitro functional group is —NO2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-125",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "A ketone is distinguished from an aldehyde because the carbonyl carbon is bonded to",
+      "options": [
+        "one hydrogen and one carbon",
+        "two carbon atoms",
+        "two hydrogens",
+        "a hydroxy group"
+      ],
+      "answerIndex": 1,
+      "explanation": "In a ketone the C=O carbon is attached to two carbon atoms; an aldehyde has at least one hydrogen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-126",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "An ether linkage consists of",
+      "options": [
+        "a C=O unit",
+        "an —OH on a ring",
+        "a —COOH group",
+        "an oxygen bridge between two carbon atoms"
+      ],
+      "answerIndex": 3,
+      "explanation": "Ethers have the R—O—R' grouping.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-127",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "Esters are recognised by the grouping",
+      "options": [
+        "—COOR",
+        "—COOH",
+        "—CHO",
+        "—CONH2"
+      ],
+      "answerIndex": 0,
+      "explanation": "An ester has a carbonyl attached to an alkoxy group, written —COOR.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-128",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "easy",
+      "stem": "The amide functional group contains",
+      "options": [
+        "only an —NH2 on an alkane",
+        "a nitro group",
+        "a carbonyl attached to nitrogen",
+        "an ether oxygen"
+      ],
+      "answerIndex": 2,
+      "explanation": "Amides have —CONH2 or a substituted —CONR2 unit.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-129",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "medium",
+      "stem": "The compound CH3COCH3 belongs to which class of carbonyl compounds?",
+      "options": [
+        "aldehyde",
+        "ester",
+        "ketone",
+        "carboxylic acid"
+      ],
+      "answerIndex": 2,
+      "explanation": "Acetone has a carbonyl carbon bonded to two methyl groups, so it is a ketone.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-130",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "medium",
+      "stem": "CH3CH2CN is classified as a",
+      "options": [
+        "primary amine",
+        "amide",
+        "nitro compound",
+        "nitrile"
+      ],
+      "answerIndex": 3,
+      "explanation": "The —CN group makes the molecule a nitrile (propanenitrile).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-131",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "medium",
+      "stem": "Phenol differs from an aliphatic alcohol in that the —OH is attached to",
+      "options": [
+        "an aromatic ring",
+        "a primary alkyl chain",
+        "a carbonyl carbon",
+        "a nitrogen atom"
+      ],
+      "answerIndex": 0,
+      "explanation": "In phenol the hydroxy group is bonded directly to a benzene ring.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-132",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "medium",
+      "stem": "In CH3COOCH3 the oxygen-containing function present is that of an",
+      "options": [
+        "ether only",
+        "ester",
+        "aldehyde",
+        "carboxylic acid"
+      ],
+      "answerIndex": 1,
+      "explanation": "Methyl ethanoate has the —COOCH3 ester grouping, not a free carboxyl or a simple ether.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-133",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "medium",
+      "stem": "Both ethanol and dimethyl ether have the formula C2H6O; they differ in",
+      "options": [
+        "molecular formula",
+        "functional group",
+        "being inorganic",
+        "number of carbon atoms"
+      ],
+      "answerIndex": 1,
+      "explanation": "C2H6O is an alcohol in ethanol and an ether in CH3OCH3 — functional isomers.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-134",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "functional-groups",
+      "difficulty": "hard",
+      "stem": "Which condensed formula contains both a carboxylic acid group and an amino group?",
+      "options": [
+        "CH3CONH2",
+        "H2NCH2COOH",
+        "CH3CH2NH2",
+        "CH3COOH"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aminoethanoic acid (glycine) has —NH2 and —COOH on the same molecule; CH3CONH2 is an amide.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-135",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "The unbranched four-carbon saturated hydrocarbon is named",
+      "options": [
+        "propane",
+        "butane",
+        "pentane",
+        "isobutane"
+      ],
+      "answerIndex": 1,
+      "explanation": "A straight chain of four carbons is butane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-136",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "The branched alkane (CH3)3CH is named",
+      "options": [
+        "butane",
+        "2-methylpropane",
+        "2-methylbutane",
+        "2,2-dimethylpropane"
+      ],
+      "answerIndex": 1,
+      "explanation": "The longest chain has three carbons with a methyl on carbon 2, so the name is 2-methylpropane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-137",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "While assigning an alkane name, the parent is chosen as the",
+      "options": [
+        "shortest carbon chain",
+        "longest continuous carbon chain",
+        "chain with the most hydrogens",
+        "ring only"
+      ],
+      "answerIndex": 1,
+      "explanation": "IUPAC alkane names use the longest continuous carbon chain as the parent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-138",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "The numeral 3 in 3-ethylhexane locates the",
+      "options": [
+        "length of the parent chain",
+        "number of ethyl groups",
+        "position of the ethyl substituent",
+        "number of double bonds"
+      ],
+      "answerIndex": 2,
+      "explanation": "The locant 3 is the carbon of the hexane chain that bears the ethyl group.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-139",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "In pent-2-ene the '2' indicates that the",
+      "options": [
+        "chain has two methyl groups",
+        "double bond begins at carbon 2",
+        "molecule is an alkyne",
+        "hydroxy group is at carbon 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alkene locants give the lowest number to the first carbon of the C=C bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-140",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "Substitutive names of ketones end with the suffix",
+      "options": [
+        "-al",
+        "-ol",
+        "-one",
+        "-oic acid"
+      ],
+      "answerIndex": 2,
+      "explanation": "The characteristic suffix for a ketone is -one.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-141",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "Propan-2-ol carries the hydroxy group at",
+      "options": [
+        "carbon 1 of propane",
+        "carbon 2 of propane",
+        "carbon 3 of butane",
+        "an aromatic carbon"
+      ],
+      "answerIndex": 1,
+      "explanation": "The locant 2 in propan-2-ol is the carbon that bears —OH.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-142",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "The aldehyde CH3CH2CHO is named",
+      "options": [
+        "propanal",
+        "propanone",
+        "ethanal",
+        "butanal"
+      ],
+      "answerIndex": 0,
+      "explanation": "A three-carbon chain with —CHO at the end is propanal.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-143",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "IUPAC renaming of acetic acid gives",
+      "options": [
+        "methanoic acid",
+        "ethanoic acid",
+        "propanoic acid",
+        "methanol"
+      ],
+      "answerIndex": 1,
+      "explanation": "Acetic acid is the two-carbon carboxylic acid, ethanoic acid.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-144",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "The prefix 2-methyl in 2-methylpropane means that a methyl group is",
+      "options": [
+        "the parent chain",
+        "attached to carbon 2 of a three-carbon parent",
+        "an ethyl substituent",
+        "a double bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "The parent is propane; a methyl branch sits on carbon 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-145",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "Under IUPAC, CH2=CH2 is named",
+      "options": [
+        "ethylene only",
+        "ethane",
+        "ethene",
+        "ethyne"
+      ],
+      "answerIndex": 2,
+      "explanation": "The systematic name of the two-carbon alkene is ethene.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-146",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "The three-carbon alkyne CH3C≡CH receives the name",
+      "options": [
+        "propene",
+        "propyne",
+        "propane",
+        "butyne"
+      ],
+      "answerIndex": 1,
+      "explanation": "A three-carbon chain with a triple bond is propyne.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-147",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "In 2-bromobutane the halogen is cited as a",
+      "options": [
+        "suffix -oic",
+        "parent chain name",
+        "prefix substituent",
+        "ketone ending"
+      ],
+      "answerIndex": 2,
+      "explanation": "Haloalkanes are named with bromo-, chloro- etc. as prefixes on the alkane parent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-148",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "Dimethyl ether is given the substitutive name",
+      "options": [
+        "methoxymethane",
+        "ethanol",
+        "ethanal",
+        "methoxyethane"
+      ],
+      "answerIndex": 0,
+      "explanation": "CH3OCH3 is methoxymethane (or methoxymethane as the alkoxyalkane name).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-149",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "CH3CH2CH(CH3)2 should be named",
+      "options": [
+        "2-methylbutane",
+        "3-methylbutane",
+        "pentane",
+        "2-ethylpropane"
+      ],
+      "answerIndex": 0,
+      "explanation": "The longest chain has four carbons with a methyl on carbon 2, giving 2-methylbutane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-150",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "Numbering of a monosubstituted alkane begins from the end that",
+      "options": [
+        "gives the substituent the highest locant",
+        "is nearer the substituent",
+        "has more hydrogens only",
+        "is alphabetical"
+      ],
+      "answerIndex": 1,
+      "explanation": "The chain is numbered so the substituent gets the lowest possible number.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-151",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "easy",
+      "stem": "The two-carbon alcohol CH3CH2OH is named",
+      "options": [
+        "methanol",
+        "ethanol",
+        "ethanal",
+        "propanol"
+      ],
+      "answerIndex": 1,
+      "explanation": "A two-carbon chain with —OH is ethanol.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-152",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "medium",
+      "stem": "The name 3-methylbutane is incorrect for (CH3)2CHCH2CH3 because numbering should give the methyl the locant",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "5"
+      ],
+      "answerIndex": 1,
+      "explanation": "Numbered from the nearer end, the branch is at carbon 2, so the name is 2-methylbutane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-153",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "medium",
+      "stem": "CH3CH=CHCH3 is named as a butene with the double bond beginning at carbon",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "The lowest set of locants for the C=C is 2, so the name is but-2-ene.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-154",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "medium",
+      "stem": "The hydrocarbon once called neopentane is systematically named",
+      "options": [
+        "2-methylbutane",
+        "2,2-dimethylpropane",
+        "2,3-dimethylbutane",
+        "2,2-dimethylbutane"
+      ],
+      "answerIndex": 1,
+      "explanation": "The longest chain is three carbons with two methyl groups on carbon 2: 2,2-dimethylpropane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-155",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "medium",
+      "stem": "The rejected name 2-ethylpropane actually describes the same molecule as",
+      "options": [
+        "pentane",
+        "2-methylbutane",
+        "2,2-dimethylpropane",
+        "hexane"
+      ],
+      "answerIndex": 1,
+      "explanation": "Taking the longest chain of four carbons with a methyl branch gives 2-methylbutane, not a propane parent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-156",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "medium",
+      "stem": "Between 4-methylpent-1-ene and 2-methylpent-4-ene, IUPAC prefers",
+      "options": [
+        "2-methylpent-4-ene",
+        "4-methylpent-1-ene",
+        "2-methylpentane",
+        "hex-1-ene"
+      ],
+      "answerIndex": 1,
+      "explanation": "The double bond must receive the lowest locant, so numbering from the =CH2 end gives pent-1-ene with a 4-methyl branch.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-157",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "medium",
+      "stem": "The unsaturated alcohol CH2=CHCH2OH is named",
+      "options": [
+        "propan-1-ol",
+        "prop-2-en-1-ol",
+        "propanone",
+        "propene"
+      ],
+      "answerIndex": 1,
+      "explanation": "A three-carbon chain with a double bond and a terminal —OH is prop-2-en-1-ol (allyl alcohol).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-158",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "medium",
+      "stem": "For CH3CH2CH(CH3)CH2CH2CH3 the longest chain has six carbons, so the name is",
+      "options": [
+        "2-ethylpentane",
+        "3-methylhexane",
+        "2-methylhexane",
+        "3-ethylpentane"
+      ],
+      "answerIndex": 1,
+      "explanation": "A six-carbon parent with a methyl at carbon 3 is 3-methylhexane; 2-ethylpentane uses a shorter parent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-159",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "medium",
+      "stem": "The ketone CH3CH2COCH3 is named",
+      "options": [
+        "butanal",
+        "butan-2-one",
+        "propanone",
+        "butan-1-one"
+      ],
+      "answerIndex": 1,
+      "explanation": "A four-carbon chain with C=O at carbon 2 is butan-2-one.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-160",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "hard",
+      "stem": "The correct name of CH3CH(CH3)CH(CH3)CH2CH3 among the following is",
+      "options": [
+        "2,3-dimethylpentane",
+        "3,4-dimethylpentane",
+        "2-ethyl-3-methylbutane",
+        "3-ethyl-2-methylbutane"
+      ],
+      "answerIndex": 0,
+      "explanation": "The longest chain has five carbons with methyl groups at carbons 2 and 3, giving 2,3-dimethylpentane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-161",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "hard",
+      "stem": "When ethyl and methyl compete as prefixes on a hexane chain at carbons 3 and 4, the preferred name begins",
+      "options": [
+        "4-ethyl-3-methylhexane",
+        "3-ethyl-4-methylhexane",
+        "3-methyl-4-ethylhexane",
+        "4-methyl-3-ethylhexane"
+      ],
+      "answerIndex": 1,
+      "explanation": "Substituents are cited alphabetically (ethyl before methyl) and the chain is numbered to give the first point of difference the lower set; 3-ethyl-4-methylhexane is correct.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-162",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "iupac-nomenclature",
+      "difficulty": "hard",
+      "stem": "Calling a straight five-carbon saturated chain 1-methylbutane is wrong because the parent must be",
+      "options": [
+        "propane",
+        "butane",
+        "pentane",
+        "hexane"
+      ],
+      "answerIndex": 2,
+      "explanation": "The longest chain has five carbons, so the hydrocarbon is pentane, not a methyl-substituted butane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-163",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Isomers are compounds that have the same molecular formula but differ in",
+      "options": [
+        "molecular mass only",
+        "structure or spatial arrangement",
+        "being elements",
+        "the number of protons in carbon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Isomers share a formula yet differ in how atoms are connected or arranged in space.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-164",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Chain isomerism arises from different",
+      "options": [
+        "functional groups",
+        "carbon skeletons of the same formula",
+        "positions of a C=C only",
+        "cis-trans arrangements"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chain isomers have the same formula but different branching of the carbon chain.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-165",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Position isomerism is shown when compounds of the same formula differ in the",
+      "options": [
+        "location of a functional group or multiple bond",
+        "number of carbon atoms",
+        "molecular formula",
+        "type of metal ion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Position isomers have the same carbon skeleton and functional group type, but the group sits at different carbons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-166",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Functional isomerism occurs when two compounds of the same formula have",
+      "options": [
+        "identical functional groups",
+        "different functional groups",
+        "the same boiling point",
+        "identical connectivity"
+      ],
+      "answerIndex": 1,
+      "explanation": "Functional isomers have the same molecular formula but belong to different classes (for example alcohol and ether).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-167",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Metamerism is isomerism in which alkyl groups on either side of a divalent function",
+      "options": [
+        "are identical",
+        "differ, giving the same molecular formula",
+        "must be aromatic",
+        "are replaced by metals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Metamers differ in the alkyl groups attached to a divalent group such as —O— or —CO—.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-168",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Tautomerism is a special isomerism in which isomers exist in",
+      "options": [
+        "rapid equilibrium, typically keto-enol",
+        "completely frozen cis-trans forms only",
+        "different molecular formulae",
+        "metallic lattices"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tautomers, such as keto and enol forms, interconvert readily by a proton shift.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-169",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "n-Butane and 2-methylpropane illustrate",
+      "options": [
+        "position isomerism",
+        "chain isomerism",
+        "metamerism",
+        "tautomerism"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both are C4H10; they differ only in whether the carbon chain is straight or branched.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-170",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Pentan-1-ol and pentan-2-ol are a pair of",
+      "options": [
+        "chain isomers",
+        "position isomers",
+        "metamers",
+        "geometric isomers"
+      ],
+      "answerIndex": 1,
+      "explanation": "The hydroxy group is at carbon 1 in one and carbon 2 in the other, so they are position isomers.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-171",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Ethanol and methoxymethane are classic",
+      "options": [
+        "chain isomers",
+        "position isomers",
+        "functional isomers",
+        "geometrical isomers"
+      ],
+      "answerIndex": 2,
+      "explanation": "Both are C2H6O; one is an alcohol and the other an ether.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-172",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "The saturated hydrocarbon C4H10 exists as how many chain isomers?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answerIndex": 1,
+      "explanation": "C4H10 has n-butane and 2-methylpropane only.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-173",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "The keto and enol forms of a carbonyl compound are",
+      "options": [
+        "metamers",
+        "chain isomers",
+        "tautomers",
+        "optical isomers only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Keto-enol pairs are tautomers in dynamic equilibrium.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-174",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "Structural isomers differ from each other in the",
+      "options": [
+        "connectivity of atoms",
+        "colour of light absorbed only",
+        "nuclear charge of carbon",
+        "presence of neutrons"
+      ],
+      "answerIndex": 0,
+      "explanation": "In structural (constitutional) isomerism the atoms are linked in different orders.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-175",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "easy",
+      "stem": "CH3CH2OCH2CH3 and CH3OCH2CH2CH3 are a pair of",
+      "options": [
+        "tautomers",
+        "metamers",
+        "geometrical isomers",
+        "chain isomers of an alkane"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both are C4H10O ethers that differ in the alkyl groups on either side of oxygen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-176",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "medium",
+      "stem": "Pentane, 2-methylbutane and 2,2-dimethylpropane together show that C5H12 has",
+      "options": [
+        "two chain isomers",
+        "three chain isomers",
+        "four chain isomers",
+        "no isomers"
+      ],
+      "answerIndex": 1,
+      "explanation": "Those three alkanes are the complete set of chain isomers of C5H12.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-177",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "medium",
+      "stem": "Propanal and propanone share the formula C3H6O and are therefore",
+      "options": [
+        "position isomers of one alcohol",
+        "functional isomers",
+        "metamers of an ether",
+        "geometrical isomers"
+      ],
+      "answerIndex": 1,
+      "explanation": "An aldehyde and a ketone of the same formula are functional isomers.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-178",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "medium",
+      "stem": "Which pair shows metamerism rather than tautomerism?",
+      "options": [
+        "ethanal and ethenol",
+        "propanone and prop-1-en-2-ol",
+        "methoxyethane and 1-methoxypropane",
+        "n-butane and 2-methylpropane"
+      ],
+      "answerIndex": 2,
+      "explanation": "The two ethers differ in alkyl groups about oxygen (metamers). The carbonyl-enol pairs are tautomers.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-179",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "medium",
+      "stem": "Tautomerism typically requires a mobile hydrogen together with a",
+      "options": [
+        "metal ion",
+        "pi bond that can relocate",
+        "halogen only",
+        "benzene ring in every case"
+      ],
+      "answerIndex": 1,
+      "explanation": "A proton shift and a shift of a double bond convert one tautomer into the other.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-180",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "medium",
+      "stem": "1-Chlorobutane and 2-chlorobutane differ by",
+      "options": [
+        "chain isomerism of C5 alkanes",
+        "position of the chloro group",
+        "functional group class",
+        "cis-trans geometry at C=C"
+      ],
+      "answerIndex": 1,
+      "explanation": "The same C4 skeleton bears Cl at carbon 1 or carbon 2, which is position isomerism.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-181",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "medium",
+      "stem": "Which of the following is not a type of structural isomerism?",
+      "options": [
+        "chain isomerism",
+        "functional isomerism",
+        "geometrical isomerism",
+        "metamerism"
+      ],
+      "answerIndex": 2,
+      "explanation": "Geometrical (cis-trans) isomerism is stereo isomerism, not structural isomerism.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-182",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "medium",
+      "stem": "The formula C2H6O can represent an alcohol and an ether; those two compounds are",
+      "options": [
+        "the same substance",
+        "functional isomers",
+        "geometrical isomers",
+        "homologous only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ethanol and methoxymethane have the same formula but different functional groups.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-183",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "hard",
+      "stem": "Alcohols with the formula C4H10O include butan-1-ol, butan-2-ol and the two methylpropanols, so the number of alcoholic structural isomers is",
+      "options": [
+        "two",
+        "three",
+        "four",
+        "five"
+      ],
+      "answerIndex": 2,
+      "explanation": "The four isomeric alcohols are butan-1-ol, butan-2-ol, 2-methylpropan-1-ol and 2-methylpropan-2-ol.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-184",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "structural-isomerism",
+      "difficulty": "hard",
+      "stem": "CH3COCH3 and CH2=C(OH)CH3 are related as",
+      "options": [
+        "metamers of an ether",
+        "chain isomers of pentane",
+        "keto-enol tautomers",
+        "cis-trans alkenes"
+      ],
+      "answerIndex": 2,
+      "explanation": "Propanone and its enol form interconvert by a proton shift; they are tautomers, not metamers.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-185",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "easy",
+      "stem": "Geometrical isomerism needs restricted rotation, most often about a",
+      "options": [
+        "carbon-carbon single bond in ethane",
+        "carbon-carbon double bond",
+        "C-H bond",
+        "ionic bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "The C=C bond cannot rotate freely, so different spatial arrangements can persist as cis and trans forms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-186",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "easy",
+      "stem": "In the cis isomer of an alkene the similar groups lie",
+      "options": [
+        "on opposite sides of the double bond",
+        "on the same side of the double bond",
+        "on the same carbon atom only",
+        "in different molecules"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cis means the like groups are on the same side of the C=C plane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-187",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "easy",
+      "stem": "Trans geometrical isomers have the similar groups",
+      "options": [
+        "on opposite sides of the double bond",
+        "on the same side of the double bond",
+        "always next to oxygen",
+        "free to rotate into cis instantly"
+      ],
+      "answerIndex": 0,
+      "explanation": "Trans places the similar substituents across the double bond from each other.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-188",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "easy",
+      "stem": "But-2-ene is a familiar alkene that exhibits",
+      "options": [
+        "only optical isomerism",
+        "cis-trans isomerism",
+        "no stereoisomerism",
+        "metamerism"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each carbon of the C=C in but-2-ene carries two different groups, so cis and trans forms exist.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-189",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "easy",
+      "stem": "An alkene cannot show cis-trans isomerism if one carbon of the double bond has",
+      "options": [
+        "two different groups",
+        "two identical groups",
+        "a hydrogen and an alkyl group",
+        "restricted rotation"
+      ],
+      "answerIndex": 1,
+      "explanation": "If either doubly bonded carbon has two the same substituents, cis and trans are not distinct.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-190",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "easy",
+      "stem": "Cis-trans isomers belong to the broader class of",
+      "options": [
+        "structural isomers only",
+        "functional isomers",
+        "stereoisomers",
+        "metamers"
+      ],
+      "answerIndex": 2,
+      "explanation": "Geometrical isomers have the same connectivity but different spatial arrangement, so they are stereoisomers.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-191",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "medium",
+      "stem": "Which alkene can show geometrical isomerism?",
+      "options": [
+        "propene",
+        "2-methylpropene",
+        "but-2-ene",
+        "ethene"
+      ],
+      "answerIndex": 2,
+      "explanation": "In but-2-ene each C of the double bond has H and CH3; propene and 2-methylpropene have two identical groups on one carbon.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-192",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "medium",
+      "stem": "Restricted rotation about a C=C bond allows cis-trans forms provided each doubly bonded carbon is attached to",
+      "options": [
+        "two identical groups",
+        "two different atoms or groups",
+        "four hydrogens",
+        "a metal"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both carbons of the double bond must carry two unlike substituents for geometrical isomers to exist.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-193",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "medium",
+      "stem": "A 1,2-disubstituted cycloalkane can show cis-trans isomerism because the ring",
+      "options": [
+        "rotates freely like ethane",
+        "prevents easy rotation about ring bonds",
+        "is always aromatic",
+        "contains a triple bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "The cyclic framework holds substituents on the same face (cis) or opposite faces (trans).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-194",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "geometrical-isomerism",
+      "difficulty": "hard",
+      "stem": "But-2-ene has two geometrical isomers while 2-methylpropene has none because in 2-methylpropene",
+      "options": [
+        "the double bond is absent",
+        "one alkene carbon carries two methyl groups",
+        "rotation about C=C is free",
+        "the molecule is ionic"
+      ],
+      "answerIndex": 1,
+      "explanation": "The (CH3)2C= end has two identical methyl groups, so cis and trans cannot be defined; but-2-ene has unlike groups on both carbons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-195",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "Homolytic bond fission produces",
+      "options": [
+        "a cation and an anion",
+        "free radicals",
+        "only a carbocation",
+        "only a carbanion"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each bonded atom takes one electron, giving two species with unpaired electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-196",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "Heterolytic bond fission produces",
+      "options": [
+        "two free radicals",
+        "ions",
+        "only photons",
+        "a metal lattice"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both bonding electrons stay with one atom, generating a cation and an anion.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-197",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "In homolytic cleavage each atom of the breaking bond takes",
+      "options": [
+        "both bonding electrons",
+        "one electron",
+        "no electrons",
+        "a proton only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Equal sharing of the bonding pair is the definition of homolysis.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-198",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "In heterolytic cleavage both electrons of the shared pair go to",
+      "options": [
+        "each atom equally",
+        "one of the two atoms",
+        "the solvent only",
+        "a photon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Unequal taking of the pair creates ions.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-199",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "Nucleophiles are reagents that are",
+      "options": [
+        "electron-deficient",
+        "electron-rich and seek a positive centre",
+        "always free radicals",
+        "always gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "A nucleophile donates an electron pair to an electron-poor atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-200",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "Electrophiles are reagents that are",
+      "options": [
+        "electron-rich",
+        "electron-deficient and seek electrons",
+        "always negatively charged",
+        "always hydrocarbons"
+      ],
+      "answerIndex": 1,
+      "explanation": "An electrophile accepts an electron pair at an electron-poor site.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-201",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "A free radical is a species that has",
+      "options": [
+        "a complete octet and no unpaired electron",
+        "an unpaired electron",
+        "only a negative charge",
+        "only a positive charge"
+      ],
+      "answerIndex": 1,
+      "explanation": "The unpaired electron is the hallmark of a free radical.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-202",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "The hydroxide ion OH- acts in organic reactions as a",
+      "options": [
+        "electrophile",
+        "nucleophile",
+        "free radical",
+        "Lewis acid only"
+      ],
+      "answerIndex": 1,
+      "explanation": "OH- has lone pairs and a negative charge, so it is a typical nucleophile.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-203",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "Anhydrous AlCl3 used in aromatic substitution is a typical",
+      "options": [
+        "nucleophile",
+        "free radical",
+        "electrophile (Lewis acid)",
+        "base"
+      ],
+      "answerIndex": 2,
+      "explanation": "AlCl3 has an incomplete octet and accepts an electron pair, so it is electrophilic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-204",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "Homolytic fission is often shown with a fish-hook arrow that moves",
+      "options": [
+        "a pair of electrons",
+        "a single electron",
+        "a proton only",
+        "a neutron"
+      ],
+      "answerIndex": 1,
+      "explanation": "A single-barbed (fish-hook) arrow tracks one-electron movement in radical processes.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-205",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "easy",
+      "stem": "A carbocation is classified as an",
+      "options": [
+        "nucleophile",
+        "electrophile",
+        "free radical",
+        "anion"
+      ],
+      "answerIndex": 1,
+      "explanation": "The positively charged, electron-deficient carbon seeks electrons, so it is electrophilic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-206",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "medium",
+      "stem": "Ammonia behaves as a nucleophile because nitrogen has",
+      "options": [
+        "an empty p orbital only",
+        "a lone pair of electrons",
+        "an unpaired electron",
+        "a positive charge"
+      ],
+      "answerIndex": 1,
+      "explanation": "The lone pair on N can be donated to an electrophilic carbon.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-207",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "medium",
+      "stem": "Homolytic fission of a covalent bond is favoured by",
+      "options": [
+        "a strongly polar solvent and ionic reagents",
+        "heat, light or non-polar conditions",
+        "only aqueous acid",
+        "only metal catalysts"
+      ],
+      "answerIndex": 1,
+      "explanation": "UV light, heat or a non-polar medium encourages each atom to keep one electron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-208",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "medium",
+      "stem": "Heterolytic fission is more likely in",
+      "options": [
+        "the gas phase with UV only",
+        "a polar solvent that can solvate ions",
+        "a vacuum with no solvent",
+        "solid dry ice"
+      ],
+      "answerIndex": 1,
+      "explanation": "Polar solvents stabilise the ions formed when both electrons stay on one atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-209",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "medium",
+      "stem": "Which of the following is not a nucleophile?",
+      "options": [
+        "NH3",
+        "OH-",
+        "CN-",
+        "BF3"
+      ],
+      "answerIndex": 3,
+      "explanation": "BF3 is electron-deficient (Lewis acid) and is an electrophile, unlike the lone-pair donors listed.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-210",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "medium",
+      "stem": "Chlorine atoms produced during photohalogenation of methane are",
+      "options": [
+        "carbocations",
+        "carbanions",
+        "free radicals",
+        "electrophilic AlCl3 complexes"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cl• has seven valence electrons including one unpaired electron, so it is a radical.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-211",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "hard",
+      "stem": "Heterolytic cleavage of HBr places both bonding electrons on bromine, so the fragments are",
+      "options": [
+        "H• and Br•",
+        "H+ and Br-",
+        "H- and Br+",
+        "H2 and Br2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bromine is more electronegative, so it takes the pair and becomes Br- while hydrogen becomes H+.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-212",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "fission-reagents",
+      "difficulty": "hard",
+      "stem": "In the dark ionic addition of HBr to an alkene the attacking species on carbon is an electrophile, whereas chlorination of methane in sunlight proceeds through",
+      "options": [
+        "only hydride ions",
+        "free chlorine radicals",
+        "only AlCl3",
+        "only hydroxide ions"
+      ],
+      "answerIndex": 1,
+      "explanation": "Photochemical halogenation is a radical chain; polar addition of HBr starts with electrophilic H+.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-213",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "The inductive effect is the transmission of electron displacement through",
+      "options": [
+        "pi bonds only",
+        "sigma bonds",
+        "hydrogen bonds only",
+        "metallic bonds"
+      ],
+      "answerIndex": 1,
+      "explanation": "Inductive polarisation is relayed along a chain of sigma bonds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-214",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "Alkyl groups relative to hydrogen are said to show the",
+      "options": [
+        "-I effect",
+        "+I effect",
+        "-E effect only",
+        "no electronic effect"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alkyl groups push electron density along sigma bonds and are +I groups.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-215",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "The nitro group attached to a carbon chain shows a strong",
+      "options": [
+        "+I effect",
+        "-I effect",
+        "+E effect only in alkanes",
+        "no inductive effect"
+      ],
+      "answerIndex": 1,
+      "explanation": "—NO2 withdraws electrons through sigma bonds and is strongly -I.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-216",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "The inductive effect becomes weaker as the",
+      "options": [
+        "distance from the substituent increases",
+        "chain becomes shorter only",
+        "molecule is heated slightly",
+        "bond becomes a double bond only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sigma-bond polarisation dies out after a few carbon atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-217",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "The electromeric effect is a temporary complete transfer of a shared pair of",
+      "options": [
+        "sigma electrons along a chain",
+        "pi electrons to one atom of a multiple bond",
+        "inner-shell electrons",
+        "neutrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electromeric displacement is the full shift of a pi pair when a reagent approaches.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-218",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "Unlike the inductive effect, the electromeric effect operates only in the",
+      "options": [
+        "ground state of every alkane",
+        "presence of an attacking reagent",
+        "solid lattice of NaCl",
+        "absence of any multiple bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electromeric polarisation is temporary and is called into play by a reagent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-219",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "Among the halogens attached to carbon, fluorine shows a particularly strong",
+      "options": [
+        "+I effect",
+        "-I effect",
+        "no inductive effect",
+        "+I greater than alkyl"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fluorine is the most electronegative halogen, so C—F is strongly -I.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-220",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "The tert-butyl group has a stronger +I effect than methyl because it",
+      "options": [
+        "withdraws electrons more",
+        "contains more alkyl carbon pushing electron density",
+        "is a -I group",
+        "has no C-H bonds"
+      ],
+      "answerIndex": 1,
+      "explanation": "More alkyl branching increases the electron-releasing inductive effect.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-221",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "The inductive effect is described as a",
+      "options": [
+        "temporary effect only",
+        "permanent polarisation of sigma bonds",
+        "complete transfer of a pi pair",
+        "nuclear decay"
+      ],
+      "answerIndex": 1,
+      "explanation": "The slight permanent shift of sigma electrons towards the more electronegative atom is inductive.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-222",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "easy",
+      "stem": "A +E electromeric shift means the pi electrons move",
+      "options": [
+        "away from the atom that the reagent attacks",
+        "towards the atom at which the reagent attacks",
+        "into the nucleus",
+        "only through sigma bonds"
+      ],
+      "answerIndex": 1,
+      "explanation": "In the +E effect the pi pair is transferred to the atom of the multiple bond where the attacking reagent attaches.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-223",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "medium",
+      "stem": "The usual order of -I effect among the halogens is",
+      "options": [
+        "I > Br > Cl > F",
+        "F > Cl > Br > I",
+        "Cl > F > I > Br",
+        "Br > F > I > Cl"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electronegativity falls F to I, so the electron-withdrawing inductive effect follows F > Cl > Br > I.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-224",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "medium",
+      "stem": "Which of the following groups is electron-releasing by the inductive effect?",
+      "options": [
+        "—NO2",
+        "—CN",
+        "—CH3",
+        "—F"
+      ],
+      "answerIndex": 2,
+      "explanation": "The methyl group is +I; nitro, cyano and fluoro are -I substituents.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-225",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "medium",
+      "stem": "Chloroacetic acid is a stronger acid than acetic acid mainly because chlorine",
+      "options": [
+        "shows +I and destabilises the anion",
+        "shows -I and stabilises the carboxylate anion",
+        "is a +E group in the acid only",
+        "removes the carboxyl group"
+      ],
+      "answerIndex": 1,
+      "explanation": "The -I effect of Cl withdraws electron density and stabilises CH2ClCOO- relative to CH3COO-.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-226",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "medium",
+      "stem": "A key distinction is that inductive polarisation is partial and permanent, whereas electromeric polarisation is",
+      "options": [
+        "also partial and permanent",
+        "complete and temporary",
+        "a nuclear effect",
+        "identical to hydrogen bonding"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electromeric effect is a full transfer of a pi pair while the reagent is present; it vanishes when the reagent is removed.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-227",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "medium",
+      "stem": "The +I order among the following alkyl groups is",
+      "options": [
+        "methyl > ethyl > isopropyl > tert-butyl",
+        "tert-butyl > isopropyl > ethyl > methyl",
+        "ethyl > tert-butyl > methyl > isopropyl",
+        "isopropyl > methyl > tert-butyl > ethyl"
+      ],
+      "answerIndex": 1,
+      "explanation": "More substituted alkyl groups are more electron-releasing: (CH3)3C- > (CH3)2CH- > CH3CH2- > CH3-.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-228",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "inductive-electromeric",
+      "difficulty": "hard",
+      "stem": "Formic acid is stronger than acetic acid because the methyl group in acetic acid",
+      "options": [
+        "shows -I and stabilises the anion more",
+        "shows +I and makes loss of H+ less favourable",
+        "is a nitro group",
+        "creates a double bond in the carboxyl"
+      ],
+      "answerIndex": 1,
+      "explanation": "The +I methyl increases electron density on the O-H and on the carboxylate, so acetic acid is the weaker acid.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-229",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "Resonance in an organic molecule is the delocalisation of",
+      "options": [
+        "sigma electrons only in alkanes",
+        "pi electrons (or lone pairs) over adjacent atoms",
+        "protons in the nucleus",
+        "neutrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Resonance describes spreading of pi electrons or lone pairs through a conjugated system.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-230",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "The actual molecule is better represented by the resonance hybrid than by any single",
+      "options": [
+        "molecular formula",
+        "canonical (contributing) structure",
+        "empirical formula",
+        "mass number"
+      ],
+      "answerIndex": 1,
+      "explanation": "Canonical forms are imaginary; the hybrid is the real electron distribution.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-231",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "The alternative Lewis drawings of a delocalised species are called",
+      "options": [
+        "tautomers",
+        "metamers",
+        "canonical forms",
+        "chain isomers"
+      ],
+      "answerIndex": 2,
+      "explanation": "Canonical or contributing structures differ only in electron placement, not in atom connectivity.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-232",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "Benzene is described as a resonance hybrid of two main Kekule forms, which explains its",
+      "options": [
+        "aliphatic addition chemistry only",
+        "equal C-C bond lengths and extra stability",
+        "tetrahedral geometry at every carbon",
+        "ionic bonding"
+      ],
+      "answerIndex": 1,
+      "explanation": "Delocalisation makes all six C-C bonds equivalent and lowers the energy (resonance energy).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-233",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "Hyperconjugation is often called no-bond resonance because it involves delocalisation of",
+      "options": [
+        "C-H sigma electrons of an alpha carbon into an adjacent empty or pi orbital",
+        "only lone pairs on fluorine",
+        "inner-shell electrons of carbon",
+        "metallic electrons"
+      ],
+      "answerIndex": 0,
+      "explanation": "Adjacent C-H bonds can overlap with a vacant p orbital or a pi bond; the contributing form has no bond to that hydrogen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-234",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "Hyperconjugation requires at least one hydrogen on a carbon attached to an",
+      "options": [
+        "unsaturated centre or electron-deficient carbon",
+        "isolated methane molecule only",
+        "inert gas",
+        "ionic crystal"
+      ],
+      "answerIndex": 0,
+      "explanation": "Alpha C-H bonds next to C=C, C≡C or a carbocation are the usual source of hyperconjugation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-235",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "An alkene is generally more stable when it has more hyperconjugative structures, which means more",
+      "options": [
+        "alpha hydrogens on alkyl groups attached to the C=C",
+        "halogen atoms on the double bond",
+        "nitro groups",
+        "ionic character"
+      ],
+      "answerIndex": 0,
+      "explanation": "More alkyl C-H bonds adjacent to the double bond give more hyperconjugative forms and greater stability.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-236",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "The carboxylate anion is resonance-stabilised because the negative charge is",
+      "options": [
+        "fixed on one oxygen only",
+        "shared by both oxygen atoms",
+        "on the alkyl chain only",
+        "on hydrogen"
+      ],
+      "answerIndex": 1,
+      "explanation": "The two C-O bonds of RCOO- become equivalent through resonance.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-237",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "The extra stability of a resonance hybrid compared with the most stable canonical form is the",
+      "options": [
+        "lattice energy",
+        "resonance energy",
+        "ionisation energy",
+        "nuclear binding energy"
+      ],
+      "answerIndex": 1,
+      "explanation": "Resonance energy measures how much delocalisation lowers the energy.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-238",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "Phenoxide ion is more stable than ethoxide ion mainly because phenoxide is",
+      "options": [
+        "destabilised by the ring",
+        "resonance-delocalised into the aromatic ring",
+        "a stronger base",
+        "an alkane"
+      ],
+      "answerIndex": 1,
+      "explanation": "The negative charge on phenoxide is spread over the ring by resonance; ethoxide has no such delocalisation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-239",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "easy",
+      "stem": "The allyl carbocation is unusually stable for a primary cation because it is",
+      "options": [
+        "an isolated methyl cation",
+        "resonance-stabilised",
+        "a free radical only",
+        "anti-aromatic"
+      ],
+      "answerIndex": 1,
+      "explanation": "The vacant p orbital conjugates with the C=C, spreading the positive charge over two carbons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-240",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "medium",
+      "stem": "The usual stability order of alkyl carbocations is 3° > 2° > 1° mainly because of",
+      "options": [
+        "decreasing +I and hyperconjugation as substitution falls",
+        "increasing -I of alkyl groups",
+        "aromaticity of every cation",
+        "the absence of any electronic effect"
+      ],
+      "answerIndex": 0,
+      "explanation": "More alkyl groups supply +I and more alpha C-H hyperconjugation, so a tertiary cation is the most stable.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-241",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "medium",
+      "stem": "The methyl cation cannot be stabilised by hyperconjugation because it has",
+      "options": [
+        "nine alpha hydrogens",
+        "no carbon-hydrogen bond on an adjacent carbon",
+        "a full octet",
+        "a negative charge"
+      ],
+      "answerIndex": 1,
+      "explanation": "CH3+ has no neighbouring carbon to provide C-H sigma delocalisation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-242",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "medium",
+      "stem": "Resonance differs from tautomerism because canonical forms are not real isomers, whereas tautomers are",
+      "options": [
+        "the same contributing structure",
+        "real isomers in equilibrium",
+        "identical in connectivity and in hydrogen position",
+        "always gases"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tautomers differ in the position of a hydrogen and a double bond and can be isolated in principle; resonance forms cannot.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-243",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "medium",
+      "stem": "Which species shows resonance delocalisation of a pi system?",
+      "options": [
+        "methane",
+        "ethane",
+        "nitrobenzene",
+        "methanol with no conjugation"
+      ],
+      "answerIndex": 2,
+      "explanation": "The nitro group is conjugated with the benzene ring; methane and ethane have no pi system to delocalise.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-244",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "medium",
+      "stem": "But-2-ene is more stable than but-1-ene largely because but-2-ene has",
+      "options": [
+        "fewer hyperconjugative hydrogens",
+        "more hyperconjugative structures from two alkyl groups on the C=C",
+        "an aromatic ring",
+        "a triple bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "An internal double bond is flanked by more alpha C-H bonds, so hyperconjugation is greater.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-245",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "hard",
+      "stem": "The tert-butyl carbocation is more stable than the isopropyl cation because tert-butyl has",
+      "options": [
+        "three hyperconjugative hydrogens",
+        "six hyperconjugative hydrogens",
+        "nine hyperconjugative hydrogens",
+        "zero alpha hydrogens"
+      ],
+      "answerIndex": 2,
+      "explanation": "Nine C-H bonds on the three methyl groups can hyperconjugate with the empty p orbital; isopropyl has six such hydrogens.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-246",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "resonance-hyperconjugation",
+      "difficulty": "hard",
+      "stem": "The C-Cl bond in chloroethene is shorter and less reactive than in chloroethane because a chlorine lone pair",
+      "options": [
+        "cannot overlap with the C=C",
+        "conjugates with the double bond, giving the C-Cl bond partial double-bond character",
+        "makes chlorine a +I group only",
+        "converts the molecule into an ionic salt"
+      ],
+      "answerIndex": 1,
+      "explanation": "Resonance of Cl lone pair into the C=C strengthens and shortens C-Cl and makes the halogen less labile.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-247",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "easy",
+      "stem": "In a substitution reaction an atom or group in a molecule is",
+      "options": [
+        "added without replacing anything",
+        "replaced by another atom or group",
+        "removed to form a small molecule only",
+        "rearranged into a tautomer only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Substitution swaps one atom or group for another, as in chlorination of methane.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-248",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "easy",
+      "stem": "An addition reaction is typical of unsaturated compounds because the reagent",
+      "options": [
+        "replaces a hydrogen on an alkane",
+        "adds across a multiple bond",
+        "always eliminates water",
+        "must be a free metal"
+      ],
+      "answerIndex": 1,
+      "explanation": "The pi bond opens and two new sigma bonds form to the adding reagent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-249",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "easy",
+      "stem": "Elimination creates unsaturation by the loss of",
+      "options": [
+        "a small molecule from adjacent atoms",
+        "only a neutron",
+        "the entire carbon skeleton",
+        "an aromatic ring"
+      ],
+      "answerIndex": 0,
+      "explanation": "Typical eliminations lose HX or H2O from neighbouring carbons and form a C=C bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-250",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "easy",
+      "stem": "A rearrangement reaction is one in which",
+      "options": [
+        "the molecular formula always changes by CH2",
+        "a group or the carbon skeleton migrates within the molecule",
+        "only light is absorbed",
+        "the compound is merely distilled"
+      ],
+      "answerIndex": 1,
+      "explanation": "Atoms are reorganised to a new connectivity, as in a 1,2-shift to a carbocation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-251",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "easy",
+      "stem": "Hydrogenation of ethene to ethane is classified as",
+      "options": [
+        "substitution",
+        "addition",
+        "elimination",
+        "rearrangement"
+      ],
+      "answerIndex": 1,
+      "explanation": "H2 adds across the double bond, so the reaction is addition.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-252",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "easy",
+      "stem": "Chlorination of methane in sunlight is a typical",
+      "options": [
+        "addition reaction",
+        "elimination reaction",
+        "substitution reaction",
+        "rearrangement"
+      ],
+      "answerIndex": 2,
+      "explanation": "A hydrogen of methane is replaced by chlorine.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-253",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "easy",
+      "stem": "Dehydrohalogenation of an alkyl halide with alcoholic KOH is",
+      "options": [
+        "addition",
+        "substitution on the ring only",
+        "elimination",
+        "combustion"
+      ],
+      "answerIndex": 2,
+      "explanation": "Loss of HX from the alkyl halide produces an alkene.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-254",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "easy",
+      "stem": "Hydration of ethene to ethanol in acid is an example of",
+      "options": [
+        "elimination",
+        "addition",
+        "aromatic substitution",
+        "metamerism"
+      ],
+      "answerIndex": 1,
+      "explanation": "Water adds across the C=C bond of ethene.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-255",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "medium",
+      "stem": "Aqueous KOH with bromoethane mainly gives substitution, whereas alcoholic KOH favours",
+      "options": [
+        "addition of HBr",
+        "elimination to ethene",
+        "nitration",
+        "polymerisation only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hot alcoholic KOH promotes dehydrohalogenation; aqueous KOH promotes nucleophilic substitution to the alcohol.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-256",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "medium",
+      "stem": "The reaction of ethene with bromine water, which decolourises the bromine, is",
+      "options": [
+        "free-radical substitution on methane",
+        "electrophilic addition",
+        "elimination of HBr",
+        "rearrangement to a ketone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Br2 adds across the double bond to give a vicinal dibromide.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-257",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "medium",
+      "stem": "Nitration of benzene with mixed acid replaces a ring hydrogen by NO2, so the reaction type is",
+      "options": [
+        "addition to a C=C of benzene",
+        "electrophilic substitution",
+        "elimination of water only",
+        "homolytic addition"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aromatic substitution keeps the ring intact while swapping H for the electrophile NO2+.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-258",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "medium",
+      "stem": "Pinacol converting to pinacolone is cited in Intermediate texts as a",
+      "options": [
+        "simple addition of hydrogen",
+        "rearrangement",
+        "cis-trans isomerisation only",
+        "Lassaigne test"
+      ],
+      "answerIndex": 1,
+      "explanation": "A methyl group migrates as the diol dehydrates, which is a rearrangement.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-259",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "hard",
+      "stem": "When 2-bromopropane is heated with alcoholic KOH the dominant organic product arises by",
+      "options": [
+        "nucleophilic substitution to propan-2-ol",
+        "elimination to propene",
+        "addition of HBr",
+        "nitration of the chain"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alcoholic KOH favours loss of HBr from the secondary halide, giving propene rather than the alcohol.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-260",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "reaction-types",
+      "difficulty": "hard",
+      "stem": "Aqueous silver nitrate with a tertiary alkyl halide can give an alcohol by substitution, while the same halide with strong bulky base tends to give an alkene; the two competing types are",
+      "options": [
+        "addition and rearrangement only",
+        "substitution and elimination",
+        "only tautomerism",
+        "only chromatography"
+      ],
+      "answerIndex": 1,
+      "explanation": "The carbocation (or concerted path) may be captured by water (substitution) or lose a proton (elimination).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-261",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Crystallisation is used to purify a solid that can be obtained from a",
+      "options": [
+        "gaseous mixture only",
+        "hot saturated solution on cooling",
+        "metal melt only",
+        "plasma"
+      ],
+      "answerIndex": 1,
+      "explanation": "The impure solid is dissolved in a suitable hot solvent and the pure compound crystallises on cooling.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-262",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Simple distillation separates liquids that differ sufficiently in",
+      "options": [
+        "colour only",
+        "boiling point",
+        "magnetic moment",
+        "nuclear spin"
+      ],
+      "answerIndex": 1,
+      "explanation": "The more volatile liquid distils first when boiling points are well apart.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-263",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Fractional distillation is preferred when two liquids have",
+      "options": [
+        "identical boiling points and form no mixture",
+        "close boiling points",
+        "no vapour pressure",
+        "only solid states"
+      ],
+      "answerIndex": 1,
+      "explanation": "A fractionating column gives many vaporisation-condensation cycles needed for close-boiling liquids.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-264",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Steam distillation is useful for organic liquids that are steam-volatile and",
+      "options": [
+        "completely miscible with water in all proportions as azeotropes only",
+        "immiscible (or nearly so) with water",
+        "ionic salts",
+        "metals"
+      ],
+      "answerIndex": 1,
+      "explanation": "The mixture boils below 100 °C when the compound and water are immiscible, carrying the organic vapour with steam.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-265",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Sublimation can purify a solid such as camphor or naphthalene because the solid",
+      "options": [
+        "melts and then boils only",
+        "passes directly into vapour and back to solid",
+        "is ionic",
+        "cannot be heated"
+      ],
+      "answerIndex": 1,
+      "explanation": "The impurity that does not sublime is left behind.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-266",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Chromatography separates mixture components mainly by differences in",
+      "options": [
+        "nuclear charge of carbon",
+        "adsorption (or partition) on a stationary phase",
+        "odour only",
+        "magnetic permeability"
+      ],
+      "answerIndex": 1,
+      "explanation": "Components move at different rates because they adsorb or dissolve to different extents.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-267",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "In column chromatography the mixture is usually placed on a packed column of",
+      "options": [
+        "pure sodium metal",
+        "alumina or silica as adsorbent",
+        "mercury",
+        "platinum gauze only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alumina or silica gel is a common adsorbent; a solvent elutes the components at different rates.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-268",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Thin layer chromatography uses a thin coating of adsorbent on",
+      "options": [
+        "a metal pipe under pressure",
+        "a glass, plastic or metal plate",
+        "a distillation flask only",
+        "an electrolytic cell"
+      ],
+      "answerIndex": 1,
+      "explanation": "TLC is a quick adsorption chromatographic method on a coated plate.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-269",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Paper chromatography uses paper as the",
+      "options": [
+        "mobile phase only",
+        "stationary phase (with water in the fibres)",
+        "detector lamp",
+        "vacuum pump"
+      ],
+      "answerIndex": 1,
+      "explanation": "Water held in cellulose is the stationary phase; the solvent is the mobile phase.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-270",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "easy",
+      "stem": "Differential extraction of an organic compound from water uses a",
+      "options": [
+        "separating funnel and an immiscible organic solvent",
+        "magnet",
+        "only a thermometer",
+        "Geiger counter"
+      ],
+      "answerIndex": 0,
+      "explanation": "The solute distributes into the organic layer, which is then separated in a funnel.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-271",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "medium",
+      "stem": "Aniline is commonly purified by steam distillation because it is",
+      "options": [
+        "an ionic salt insoluble in steam",
+        "steam-volatile and practically immiscible with water",
+        "a gas at room temperature",
+        "separated only by sublimation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Steam carries aniline vapour at a temperature below its normal boiling point.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-272",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "medium",
+      "stem": "Crude petroleum is separated into useful fractions by",
+      "options": [
+        "sublimation of every fraction",
+        "fractional distillation",
+        "Lassaigne fusion",
+        "paper chromatography of the whole oil"
+      ],
+      "answerIndex": 1,
+      "explanation": "The large boiling-point range of petroleum is exploited in a fractionating column.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-273",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "medium",
+      "stem": "A mixture of two solids in which only one sublimes is best separated by",
+      "options": [
+        "simple aqueous extraction of both",
+        "sublimation",
+        "steam distillation of the salt",
+        "Kjeldahl digestion"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sublimable component is vaporised and condensed as a pure solid.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-274",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "medium",
+      "stem": "The Rf value in chromatography is the ratio of the distance travelled by the",
+      "options": [
+        "solvent to the distance travelled by the solute",
+        "solute to the distance travelled by the solvent",
+        "plate to the tank",
+        "air to the paper"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rf = (distance moved by the spot) / (distance moved by the solvent front).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-275",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "medium",
+      "stem": "Simple distillation rather than fractional distillation is adequate when the two liquids have",
+      "options": [
+        "boiling points only a few degrees apart",
+        "widely different boiling points",
+        "identical vapour pressures at all temperatures",
+        "no liquid phase"
+      ],
+      "answerIndex": 1,
+      "explanation": "A large boiling-point gap lets the more volatile liquid distil without a long column.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-276",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "purification",
+      "difficulty": "hard",
+      "stem": "o-Nitrophenol can be separated from p-nitrophenol by steam distillation because intramolecular hydrogen bonding makes the ortho isomer",
+      "options": [
+        "ionic and involatile",
+        "more steam-volatile than the para isomer",
+        "a polymer",
+        "completely miscible with water as a salt"
+      ],
+      "answerIndex": 1,
+      "explanation": "Intramolecular H-bonding in o-nitrophenol reduces intermolecular association, so it is carried by steam; p-nitrophenol hydrogen-bonds intermolecularly and is less volatile.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-277",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "easy",
+      "stem": "The Lassaigne test for nitrogen, sulphur and halogen in an organic compound begins with",
+      "options": [
+        "fusion with metallic sodium",
+        "boiling with concentrated nitric acid only",
+        "ignition in a Liebig tube only",
+        "paper chromatography"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sodium fusion converts covalently bound N, S and X into ionic sodium salts that can be tested in water.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-278",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "easy",
+      "stem": "A positive Lassaigne test for nitrogen is the appearance of",
+      "options": [
+        "a yellow precipitate of AgI",
+        "Prussian blue colour",
+        "violet colour with starch",
+        "a white fumes of NH3 only"
+      ],
+      "answerIndex": 1,
+      "explanation": "NaCN from the fusion gives ferrocyanide, which with Fe3+ yields Prussian blue.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-279",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "easy",
+      "stem": "Sulphur in the sodium extract is indicated by a violet colour with",
+      "options": [
+        "silver nitrate",
+        "sodium nitroprusside",
+        "lime water",
+        "Tollens reagent"
+      ],
+      "answerIndex": 1,
+      "explanation": "Na2S and sodium nitroprusside form a violet complex.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-280",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "easy",
+      "stem": "Chlorine in Lassaigne's extract gives with acidified silver nitrate a",
+      "options": [
+        "yellow precipitate of AgI",
+        "pale yellow precipitate of AgBr",
+        "white precipitate of AgCl",
+        "Prussian blue solution"
+      ],
+      "answerIndex": 2,
+      "explanation": "AgCl is white (and soluble in dilute NH4OH).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-281",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "easy",
+      "stem": "Bromine in the sodium-fusion extract gives with AgNO3 a",
+      "options": [
+        "white AgCl-type precipitate",
+        "pale yellow precipitate of AgBr",
+        "Prussian blue",
+        "violet nitroprusside colour"
+      ],
+      "answerIndex": 1,
+      "explanation": "AgBr is pale yellow and only sparingly soluble in ammonia.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-282",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "easy",
+      "stem": "Iodine in Lassaigne's test is confirmed by a",
+      "options": [
+        "white precipitate",
+        "pale yellow precipitate",
+        "yellow precipitate of AgI",
+        "blue Prussian colour"
+      ],
+      "answerIndex": 2,
+      "explanation": "AgI is yellow and insoluble in ammonium hydroxide.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-283",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "easy",
+      "stem": "For nitrogen, the sodium extract is boiled with ferrous sulphate and then acidified with",
+      "options": [
+        "sodium hydroxide only",
+        "ferric chloride (or an oxidising acid treatment)",
+        "barium chloride",
+        "lime water"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fe2+ forms hexacyanoferrate(II); Fe3+ then produces Prussian blue.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-284",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "medium",
+      "stem": "The Prussian blue formed in the nitrogen test is essentially",
+      "options": [
+        "NaCl",
+        "ferric ferrocyanide",
+        "AgCl",
+        "Na2S"
+      ],
+      "answerIndex": 1,
+      "explanation": "The blue pigment is Fe4[Fe(CN)6]3 (ferric ferrocyanide).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-285",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "medium",
+      "stem": "When nitrogen and sulphur are both present, the sodium extract with ferric chloride often gives a blood-red colour due to",
+      "options": [
+        "NaCN only",
+        "thiocyanate ion (NaSCN)",
+        "AgBr",
+        "free sulphur"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sodium thiocyanate forms blood-red Fe(SCN)3 with Fe3+.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-286",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "medium",
+      "stem": "Metallic sodium is used in Lassaigne fusion because it converts covalently bound N, S and halogen into",
+      "options": [
+        "gases that escape unused",
+        "water-soluble ionic salts such as NaCN, Na2S and NaX",
+        "the original covalent molecule",
+        "pure carbon only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ionic sodium salts dissolve in water and then give characteristic ionic tests.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-287",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "medium",
+      "stem": "Lassaigne's sodium-fusion test is not the method used to detect",
+      "options": [
+        "nitrogen",
+        "sulphur",
+        "halogen",
+        "the carbon-hydrogen skeleton by Prussian blue"
+      ],
+      "answerIndex": 3,
+      "explanation": "Carbon and hydrogen are shown by combustion (lime-water / anhydrous copper sulphate), not by the Prussian-blue nitrogen test.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-288",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "qualitative-lassaigne",
+      "difficulty": "hard",
+      "stem": "If an organic compound contains both nitrogen and sulphur, extra care is needed in the nitrogen test because thiocyanate may form instead of cyanide; a reliable extra observation is the",
+      "options": [
+        "yellow AgI without acid",
+        "blood-red colour with FeCl3 from NaSCN",
+        "violet iodine-starch in the extract without fusion",
+        "white fumes of HCl only"
+      ],
+      "answerIndex": 1,
+      "explanation": "NaSCN gives blood red with FeCl3. If only cyanide is wanted for Prussian blue, the extract is boiled with FeSO4 and Fe3+ under the usual nitrogen procedure, sometimes after decomposing thiocyanate.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-289",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "easy",
+      "stem": "Carbon and hydrogen in an organic compound are estimated by Liebig's method, in which the sample is",
+      "options": [
+        "fused with sodium metal",
+        "combusted and the CO2 and H2O weighed",
+        "boiled with Kjeldahl acid only",
+        "titrated with AgNO3 in the cold"
+      ],
+      "answerIndex": 1,
+      "explanation": "C is converted to CO2 and H to H2O, which are absorbed and weighed.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-290",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "easy",
+      "stem": "In Dumas' method nitrogen of the organic compound is estimated as",
+      "options": [
+        "ammonia absorbed in acid",
+        "dinitrogen gas",
+        "sodium cyanide",
+        "nitric acid only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sample is heated with CuO; nitrogen is collected as N2 and its volume is measured.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-291",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "easy",
+      "stem": "Kjeldahl's method converts organic nitrogen into",
+      "options": [
+        "dinitrogen gas collected over KOH",
+        "ammonium sulphate, then ammonia",
+        "sodium nitroprusside",
+        "Prussian blue for weighing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Heating with concentrated H2SO4 gives (NH4)2SO4; alkali liberates NH3 which is estimated.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-292",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "easy",
+      "stem": "Carius method is used for the quantitative estimation of",
+      "options": [
+        "only carbon",
+        "halogen (and sulphur)",
+        "only hydrogen",
+        "only oxygen by direct weighing of O2"
+      ],
+      "answerIndex": 1,
+      "explanation": "The compound is heated with fuming HNO3 (and AgNO3 for halogen) in a sealed tube.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-293",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "easy",
+      "stem": "Oxygen in a typical Intermediate analysis is obtained",
+      "options": [
+        "by a direct Carius weighing of O2",
+        "by difference after C, H, N, X and S are known",
+        "as Prussian blue",
+        "as AgCl"
+      ],
+      "answerIndex": 1,
+      "explanation": "There is no routine school-level direct oxygen estimation; its percentage is 100 minus the other elements.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-294",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "medium",
+      "stem": "Kjeldahl's method is not reliable for compounds in which nitrogen is present as a",
+      "options": [
+        "simple aliphatic amine",
+        "nitro, azo or pyridine-type group",
+        "primary amide that digests normally",
+        "amino acid that forms ammonium sulphate"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nitro, azo and many heterocyclic nitrogens are not converted quantitatively to ammonium sulphate under the usual Kjeldahl digestion.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-295",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "medium",
+      "stem": "In Liebig combustion, carbon dioxide is absorbed in a strong alkali such as KOH, while water is absorbed in",
+      "options": [
+        "sodium metal",
+        "anhydrous calcium chloride (or similar drying agent)",
+        "silver nitrate",
+        "concentrated HNO3 in a Carius tube"
+      ],
+      "answerIndex": 1,
+      "explanation": "H2O is taken up by a drying agent and CO2 by KOH; the mass gains give %H and %C.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-296",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "medium",
+      "stem": "In the Carius estimation of chlorine the halogen is finally weighed as",
+      "options": [
+        "NaCl from Lassaigne extract only",
+        "AgCl precipitated in the sealed-tube procedure",
+        "Prussian blue",
+        "liquid Cl2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fuming nitric acid oxidises the compound; chloride is precipitated as AgCl, whose mass gives %Cl.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-ob-297",
+      "chapterId": "chemistry-organic-chemistry-some-basic-principles-and-techniques",
+      "conceptId": "quantitative-analysis",
+      "difficulty": "hard",
+      "stem": "Combustion of 0.20 g of an organic sample produced 0.44 g of carbon dioxide. Taking C in CO2 as 12/44, the mass percent of carbon in the sample is",
+      "options": [
+        "30%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mass of C = (12/44) × 0.44 = 0.12 g, so %C = (0.12/0.20) × 100 = 60.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

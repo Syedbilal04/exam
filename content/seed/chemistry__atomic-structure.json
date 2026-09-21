@@ -1,0 +1,3915 @@
+{
+  "subjectId": "chemistry",
+  "source": {
+    "name": "ASTRA chemistry practice set",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "che-as-101",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "The charge carried by one electron is",
+      "options": [
+        "+1.6 × 10⁻¹⁹ C",
+        "−1.6 × 10⁻¹⁹ C",
+        "1.6 × 10⁻¹⁹ u",
+        "zero"
+      ],
+      "answerIndex": 1,
+      "explanation": "The electron is a negatively charged particle of magnitude 1.6 × 10⁻¹⁹ C.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-102",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "Cathode rays in a discharge tube led J.J. Thomson to identify the",
+      "options": [
+        "proton",
+        "neutron",
+        "electron",
+        "nucleus"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cathode rays are streams of electrons; Thomson measured their charge-to-mass ratio.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-103",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "Positive rays (canal rays) studied by Goldstein are linked in the textbook with the discovery of the",
+      "options": [
+        "electron",
+        "proton",
+        "neutron",
+        "photon"
+      ],
+      "answerIndex": 1,
+      "explanation": "Canal rays are positively charged and the lightest such particle is identified as the proton.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-104",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "James Chadwick established the neutron by bombarding beryllium with",
+      "options": [
+        "electrons",
+        "protons",
+        "alpha particles",
+        "infrared photons"
+      ],
+      "answerIndex": 2,
+      "explanation": "Be struck by α-particles yields carbon and a penetrating neutral particle, the neutron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-105",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "Atomic number Z of an atom equals the number of",
+      "options": [
+        "neutrons in the nucleus",
+        "protons in the nucleus",
+        "nucleons only",
+        "electrons minus protons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Z is the proton count; in a neutral atom it also equals the electron count.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-106",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "Mass number A of a nuclide is the total of",
+      "options": [
+        "protons only",
+        "electrons plus protons",
+        "protons plus neutrons",
+        "neutrons only"
+      ],
+      "answerIndex": 2,
+      "explanation": "A counts nucleons: protons + neutrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-107",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "Thomson pictured the atom as",
+      "options": [
+        "a tiny positive nucleus with empty space around it",
+        "a uniform positive sphere with embedded electrons",
+        "electrons moving in fixed circular orbits",
+        "a cloud of neutrons only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The plum-pudding model spreads positive charge through the atom with electrons embedded in it.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-108",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "Rutherford inferred that an atom is mostly empty space because",
+      "options": [
+        "every alpha particle bounced straight back",
+        "most alpha particles passed through the gold foil undeflected",
+        "cathode rays bent in a magnetic field",
+        "canal rays had a large e/m value"
+      ],
+      "answerIndex": 1,
+      "explanation": "Only a few alphas were scattered strongly, so the atom is empty except for a tiny massive nucleus.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-109",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "The electrical charge on a neutron is",
+      "options": [
+        "+1 unit",
+        "−1 unit",
+        "zero",
+        "+2 units"
+      ],
+      "answerIndex": 2,
+      "explanation": "The neutron is electrically neutral.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-110",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "easy",
+      "stem": "Isobars are nuclides that share the same",
+      "options": [
+        "atomic number but different mass number",
+        "mass number but different atomic number",
+        "number of neutrons and protons",
+        "number of electrons only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Isobars have equal A but different Z (for example ⁴⁰Ar and ⁴⁰Ca).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-111",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "medium",
+      "stem": "Thomson found the specific charge of cathode-ray particles to be",
+      "options": [
+        "independent of the residual gas in the tube",
+        "proportional to the atomic mass of the gas",
+        "zero in every experiment",
+        "equal to that of the proton"
+      ],
+      "answerIndex": 0,
+      "explanation": "e/m of cathode rays is the same for all gases, showing they are a common constituent of matter.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-112",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "medium",
+      "stem": "Millikan obtained the magnitude of the electronic charge with the",
+      "options": [
+        "gold-foil scattering arrangement",
+        "oil-drop experiment",
+        "canal-ray e/m tube",
+        "X-ray powder method"
+      ],
+      "answerIndex": 1,
+      "explanation": "Charged oil droplets in an electric field gave the elementary charge 1.6 × 10⁻¹⁹ C.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-113",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "medium",
+      "stem": "The nucleus of an ordinary atom contains",
+      "options": [
+        "electrons and protons",
+        "protons and neutrons",
+        "neutrons and electrons",
+        "only electrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nucleons (protons and neutrons) sit in the nucleus; electrons occupy the extra-nuclear region.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-114",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "medium",
+      "stem": "A key failure of Rutherford's nuclear model is that it cannot explain",
+      "options": [
+        "the existence of a dense nucleus",
+        "why the atom should emit a line spectrum and remain stable",
+        "large-angle alpha scattering",
+        "why most of the mass is central"
+      ],
+      "answerIndex": 1,
+      "explanation": "A classical orbiting electron would radiate continuously and spiral in; a discrete spectrum is also unexplained.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-115",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "medium",
+      "stem": "Compared with an electron, a proton has",
+      "options": [
+        "the same mass and opposite charge",
+        "nearly 1836 times greater mass and opposite charge",
+        "smaller mass and the same charge",
+        "identical mass and charge"
+      ],
+      "answerIndex": 1,
+      "explanation": "The proton is much heavier and carries charge +e opposite to the electron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-116",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "particles-models",
+      "difficulty": "hard",
+      "stem": "Among electron, proton, neutron and α-particle, the specific charge e/m is largest for the",
+      "options": [
+        "proton",
+        "neutron",
+        "electron",
+        "α-particle"
+      ],
+      "answerIndex": 2,
+      "explanation": "The electron has the smallest mass of the charged particles listed, so e/m is greatest.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-117",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "easy",
+      "stem": "According to Planck, the energy of one quantum of radiation is",
+      "options": [
+        "h/ν",
+        "hν",
+        "h/λ",
+        "λν"
+      ],
+      "answerIndex": 1,
+      "explanation": "Planck wrote E = hν, with h Planck's constant and ν the frequency.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-118",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "easy",
+      "stem": "Energy of a photon increases when you raise its",
+      "options": [
+        "wavelength",
+        "frequency",
+        "speed in vacuum",
+        "beam intensity only"
+      ],
+      "answerIndex": 1,
+      "explanation": "E = hν, so a higher frequency (shorter wavelength) photon is more energetic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-119",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "easy",
+      "stem": "The photoelectric effect is the ejection of electrons from a metal surface by",
+      "options": [
+        "heating the metal in the dark",
+        "incident electromagnetic radiation of sufficient frequency",
+        "a beam of slow neutrons",
+        "audible sound waves"
+      ],
+      "answerIndex": 1,
+      "explanation": "Photons above the threshold frequency knock electrons out of the metal.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-120",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "easy",
+      "stem": "Below the threshold frequency, photoemission from a metal",
+      "options": [
+        "still occurs if the lamp is made extremely bright",
+        "does not occur no matter how intense the light",
+        "occurs after a long delay",
+        "occurs only for infrared lamps"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each photon must supply at least the work function; intensity cannot replace frequency.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-121",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "easy",
+      "stem": "The work function of a metal is the minimum energy needed to",
+      "options": [
+        "ionise a free gaseous atom of that element",
+        "just free an electron from the metal surface",
+        "promote an electron from n=1 to n=2 in hydrogen",
+        "break a metal–metal bond in the bulk crystal"
+      ],
+      "answerIndex": 1,
+      "explanation": "φ is the binding energy of the least tightly held conduction electron in the metal.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-122",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "easy",
+      "stem": "Einstein wrote the photoelectric energy balance as KEmax equal to",
+      "options": [
+        "hν + φ",
+        "hν − φ",
+        "φ − hν",
+        "hν × φ"
+      ],
+      "answerIndex": 1,
+      "explanation": "The leftover photon energy after paying the work function appears as kinetic energy of the photoelectron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-123",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "easy",
+      "stem": "Planck's quantum idea and the photoelectric effect together show that radiation has",
+      "options": [
+        "only wave character",
+        "particle character in addition to wave character",
+        "neither wave nor particle character",
+        "rest mass equal to an electron"
+      ],
+      "answerIndex": 1,
+      "explanation": "Photons explain discrete energy exchange, while interference still requires waves.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-124",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "medium",
+      "stem": "A photon of frequency 5.0 × 10¹⁴ Hz carries energy (h = 6.626 × 10⁻³⁴ J s) closest to",
+      "options": [
+        "3.3 × 10⁻¹⁹ J",
+        "3.3 × 10⁻¹⁵ J",
+        "1.3 × 10⁻⁴⁸ J",
+        "6.6 × 10⁻²⁰ J"
+      ],
+      "answerIndex": 0,
+      "explanation": "E = hν = 6.626 × 10⁻³⁴ × 5.0 × 10¹⁴ = 3.31 × 10⁻¹⁹ J.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-125",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "medium",
+      "stem": "Visible light of wavelength 400 nm carries energy per photon of about (use 1240 eV·nm)",
+      "options": [
+        "1.6 eV",
+        "3.1 eV",
+        "4.9 eV",
+        "6.2 eV"
+      ],
+      "answerIndex": 1,
+      "explanation": "E = 1240/400 = 3.1 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-126",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "medium",
+      "stem": "Keeping frequency above threshold, a brighter lamp mainly increases the",
+      "options": [
+        "kinetic energy of each photoelectron",
+        "number of photoelectrons emitted per second",
+        "threshold frequency of the metal",
+        "work function"
+      ],
+      "answerIndex": 1,
+      "explanation": "Intensity raises the photon arrival rate, hence the photocurrent, not KEmax.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-127",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "medium",
+      "stem": "If the fastest photoelectrons have kinetic energy 1.8 eV, the stopping potential is",
+      "options": [
+        "1.8 V",
+        "3.6 V",
+        "0.9 V",
+        "1.8 × 10⁻¹⁹ V"
+      ],
+      "answerIndex": 0,
+      "explanation": "KEmax = eVs, so Vs in volts equals the kinetic energy in electron-volts.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-128",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "planck-photoelectric",
+      "difficulty": "hard",
+      "stem": "Light of wavelength 300 nm strikes a surface whose work function is 2.0 eV. Using E(eV) = 1240/λ(nm), the maximum kinetic energy of photoelectrons is",
+      "options": [
+        "2.13 eV",
+        "4.13 eV",
+        "2.0 eV",
+        "6.13 eV"
+      ],
+      "answerIndex": 0,
+      "explanation": "Photon energy is 1240/300 = 4.13 eV, so KEmax = 4.13 − 2.0 = 2.13 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-129",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "Lyman lines of hydrogen arise from jumps that finish at",
+      "options": [
+        "n = 1",
+        "n = 2",
+        "n = 3",
+        "n = 4"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Lyman series is n₂ = 2, 3, 4, … → n₁ = 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-130",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "The Lyman series of hydrogen is observed in the",
+      "options": [
+        "visible",
+        "infrared",
+        "ultraviolet",
+        "microwave"
+      ],
+      "answerIndex": 2,
+      "explanation": "Transitions to n = 1 are high-energy and fall in the ultraviolet.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-131",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "Paschen lines correspond to electron jumps ending at",
+      "options": [
+        "n = 1",
+        "n = 2",
+        "n = 3",
+        "n = 4"
+      ],
+      "answerIndex": 2,
+      "explanation": "Paschen series: n₂ = 4, 5, 6, … → n₁ = 3, in the infrared.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-132",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "The Brackett series of hydrogen terminates at",
+      "options": [
+        "n = 2",
+        "n = 3",
+        "n = 4",
+        "n = 5"
+      ],
+      "answerIndex": 2,
+      "explanation": "Brackett lines end on n = 4.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-133",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "Pfund transitions of the hydrogen atom end on the level",
+      "options": [
+        "n = 3",
+        "n = 4",
+        "n = 5",
+        "n = 6"
+      ],
+      "answerIndex": 2,
+      "explanation": "Pfund series: n₂ → n₁ = 5.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-134",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "Wave number of a hydrogen line is given by Rydberg as",
+      "options": [
+        "R(n₁² − n₂²)",
+        "R(1/n₁² − 1/n₂²)",
+        "R(n₁ + n₂)",
+        "R n₁²/n₂²"
+      ],
+      "answerIndex": 1,
+      "explanation": "1/λ = R(1/n₁² − 1/n₂²) with n₂ > n₁.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-135",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "A hydrogen discharge tube produces",
+      "options": [
+        "a continuous rainbow with no gaps",
+        "a discrete line spectrum",
+        "only X-rays",
+        "only radio waves"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bound-level jumps give sharp lines rather than a continuum.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-136",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "An emission line appears when an electron in hydrogen",
+      "options": [
+        "jumps to a higher orbit by absorbing a photon",
+        "falls to a lower orbit and a photon is released",
+        "stays in the same orbit forever",
+        "collides with a neutron"
+      ],
+      "answerIndex": 1,
+      "explanation": "The energy difference is carried away as an emitted photon.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-137",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "Balmer lines are produced when the electron lands on",
+      "options": [
+        "the ground level n = 1",
+        "the level n = 2",
+        "the level n = 3",
+        "the ionisation continuum"
+      ],
+      "answerIndex": 1,
+      "explanation": "Balmer series terminates at n = 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-138",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "The first line of the Lyman series comes from the jump",
+      "options": [
+        "3 → 2",
+        "2 → 1",
+        "4 → 2",
+        "5 → 4"
+      ],
+      "answerIndex": 1,
+      "explanation": "The lowest-energy Lyman photon is n = 2 to n = 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-139",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "The hydrogen series found in the infrared and ending at n = 3 is called",
+      "options": [
+        "Lyman",
+        "Balmer",
+        "Paschen",
+        "Pfund"
+      ],
+      "answerIndex": 2,
+      "explanation": "Paschen is the n₁ = 3 infrared series.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-140",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "easy",
+      "stem": "The Rydberg constant R has the SI unit",
+      "options": [
+        "s⁻¹",
+        "m⁻¹",
+        "J",
+        "eV"
+      ],
+      "answerIndex": 1,
+      "explanation": "R is a wave number constant, so its SI unit is m⁻¹.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-141",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "medium",
+      "stem": "When an electron drops from n = 4 to the ground state of hydrogen, the number of possible spectral lines is",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "answerIndex": 2,
+      "explanation": "From level n the line count is n(n − 1)/2 = 4 × 3/2 = 6.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-142",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "medium",
+      "stem": "The longest-wavelength Lyman photon is emitted in the transition",
+      "options": [
+        "∞ → 1",
+        "3 → 1",
+        "2 → 1",
+        "4 → 2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Among Lyman lines, 2 → 1 has the smallest ΔE and therefore the longest λ.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-143",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "medium",
+      "stem": "The series limit of Balmer radiation corresponds to a jump from",
+      "options": [
+        "n = 3 to n = 2",
+        "n = ∞ to n = 2",
+        "n = 2 to n = 1",
+        "n = ∞ to n = 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "The series limit is ionisation into that series: n = ∞ → n = 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-144",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "medium",
+      "stem": "For hydrogen, the wave number of the 4 → 2 line equals",
+      "options": [
+        "R/4",
+        "3R/16",
+        "5R/36",
+        "15R/16"
+      ],
+      "answerIndex": 1,
+      "explanation": "ν̄ = R(1/4 − 1/16) = 3R/16.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-145",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "medium",
+      "stem": "Hydrogen atoms excited to n = 5 can emit how many different lines while returning toward n = 1?",
+      "options": [
+        "4",
+        "8",
+        "10",
+        "15"
+      ],
+      "answerIndex": 2,
+      "explanation": "Total lines = 5 × 4/2 = 10.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-146",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "medium",
+      "stem": "The red H-alpha line of the Balmer series is the",
+      "options": [
+        "3 → 2 transition",
+        "4 → 2 transition",
+        "2 → 1 transition",
+        "5 → 3 transition"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hα is the first Balmer member, n = 3 to n = 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-147",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "hard",
+      "stem": "Using 1/λ = R(1/n₁² − 1/n₂²) with R = 1.097 × 10⁷ m⁻¹, the 3 → 2 hydrogen wavelength is closest to",
+      "options": [
+        "121 nm",
+        "486 nm",
+        "656 nm",
+        "1875 nm"
+      ],
+      "answerIndex": 2,
+      "explanation": "1/λ = 5R/36 so λ = 36/(5R) ≈ 6.56 × 10⁻⁷ m = 656 nm.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-148",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "hydrogen-spectrum",
+      "difficulty": "hard",
+      "stem": "The ratio of wave numbers of the first Lyman line to the first Balmer line of hydrogen is",
+      "options": [
+        "4/5",
+        "27/5",
+        "5/27",
+        "3/4"
+      ],
+      "answerIndex": 1,
+      "explanation": "First Lyman is 3R/4 and first Balmer is 5R/36; the ratio is (3/4) ÷ (5/36) = 27/5.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-149",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "Bohr required that a stationary orbit satisfy mvr equal to",
+      "options": [
+        "nh",
+        "nh/2π",
+        "h/2πn",
+        "n²h"
+      ],
+      "answerIndex": 1,
+      "explanation": "Angular momentum is quantised as mvr = nh/2π, n = 1, 2, 3, …",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-150",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "For hydrogen, Bohr orbit radius grows with n according to",
+      "options": [
+        "n",
+        "n²",
+        "1/n",
+        "1/n²"
+      ],
+      "answerIndex": 1,
+      "explanation": "rₙ = n² a₀, so radius ∝ n².",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-151",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "Total energy of the hydrogen electron in Bohr theory varies as",
+      "options": [
+        "n²",
+        "−1/n²",
+        "1/n",
+        "−n"
+      ],
+      "answerIndex": 1,
+      "explanation": "Eₙ = −13.6/n² eV, so energy ∝ −1/n².",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-152",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "The lowest Bohr level of hydrogen lies at",
+      "options": [
+        "0 eV",
+        "−13.6 eV",
+        "−3.4 eV",
+        "+13.6 eV"
+      ],
+      "answerIndex": 1,
+      "explanation": "The n = 1 energy is −13.6 eV by definition of the Rydberg for hydrogen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-153",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "Bohr assumed that an electron in an allowed orbit",
+      "options": [
+        "radiates continuously",
+        "does not radiate energy",
+        "spirals into the nucleus",
+        "has zero angular momentum"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stationary orbits are non-radiating by postulate.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-154",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "A photon is emitted in Bohr's picture when the electron",
+      "options": [
+        "moves within one orbit",
+        "jumps from a higher orbit to a lower one",
+        "is at rest at the nucleus",
+        "absorbs a neutron"
+      ],
+      "answerIndex": 1,
+      "explanation": "hν equals the difference of the two stationary-state energies.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-155",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "The first Bohr radius of hydrogen is about",
+      "options": [
+        "0.529 Å",
+        "5.29 Å",
+        "0.0529 Å",
+        "52.9 Å"
+      ],
+      "answerIndex": 0,
+      "explanation": "a₀ = 0.529 Å (52.9 pm).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-156",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "In hydrogen, the n = 2 Bohr energy is",
+      "options": [
+        "−13.6 eV",
+        "−6.8 eV",
+        "−3.40 eV",
+        "−1.51 eV"
+      ],
+      "answerIndex": 2,
+      "explanation": "E₂ = −13.6/4 = −3.40 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-157",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "The energy of hydrogen's third Bohr orbit equals",
+      "options": [
+        "−1.51 eV",
+        "−3.4 eV",
+        "−0.85 eV",
+        "−13.6 eV"
+      ],
+      "answerIndex": 0,
+      "explanation": "E₃ = −13.6/9 ≈ −1.51 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-158",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "Speed of the electron in Bohr orbits of hydrogen falls as",
+      "options": [
+        "n",
+        "n²",
+        "1/n",
+        "1/n²"
+      ],
+      "answerIndex": 2,
+      "explanation": "vₙ ∝ Z/n, so for hydrogen v ∝ 1/n.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-159",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "To strip the electron from ground-state hydrogen you must supply",
+      "options": [
+        "3.4 eV",
+        "10.2 eV",
+        "13.6 eV",
+        "1.51 eV"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ionisation from n = 1 to n = ∞ requires 13.6 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-160",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "For a hydrogen-like ion, Eₙ is proportional to",
+      "options": [
+        "Z",
+        "Z²",
+        "1/Z",
+        "1/Z²"
+      ],
+      "answerIndex": 1,
+      "explanation": "Eₙ = −13.6 Z²/n² eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-161",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "Bohr radius of a hydrogen-like ion shrinks with atomic number as",
+      "options": [
+        "Z",
+        "Z²",
+        "1/Z",
+        "1/Z²"
+      ],
+      "answerIndex": 2,
+      "explanation": "rₙ = n² a₀/Z, so radius ∝ 1/Z.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-162",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "The hydrogen-like ion He⁺ has nuclear charge number Z equal to",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "Helium has two protons, so He⁺ is a one-electron ion with Z = 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-163",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "Bohr's theory does not succeed for",
+      "options": [
+        "the H atom",
+        "the He⁺ ion",
+        "the Li²⁺ ion",
+        "a helium atom with two electrons"
+      ],
+      "answerIndex": 3,
+      "explanation": "The simple Bohr model is for one-electron species; multi-electron atoms need a better treatment.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-164",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "In a Bohr orbit the kinetic energy of the electron equals",
+      "options": [
+        "the total energy",
+        "−(total energy)",
+        "twice the total energy",
+        "zero"
+      ],
+      "answerIndex": 1,
+      "explanation": "KE = −E and PE = 2E, so KE = +13.6 Z²/n² eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-165",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "easy",
+      "stem": "Hydrogen's n = 4 level has energy",
+      "options": [
+        "−0.85 eV",
+        "−3.4 eV",
+        "−2.27 eV",
+        "−13.6 eV"
+      ],
+      "answerIndex": 0,
+      "explanation": "E₄ = −13.6/16 = −0.85 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-166",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "medium",
+      "stem": "The third Bohr orbit of hydrogen is larger than the first by a factor of",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "27"
+      ],
+      "answerIndex": 2,
+      "explanation": "r ∝ n², so r₃/r₁ = 9.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-167",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "medium",
+      "stem": "A hydrogen electron falling from n = 2 to n = 1 releases",
+      "options": [
+        "3.4 eV",
+        "10.2 eV",
+        "13.6 eV",
+        "1.89 eV"
+      ],
+      "answerIndex": 1,
+      "explanation": "ΔE = 13.6 − 3.4 = 10.2 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-168",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "medium",
+      "stem": "Angular momentum of the electron in hydrogen's second Bohr orbit is",
+      "options": [
+        "h/2π",
+        "h/π",
+        "2h",
+        "3h/2π"
+      ],
+      "answerIndex": 1,
+      "explanation": "L = n h/2π = 2h/2π = h/π.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-169",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "medium",
+      "stem": "Ground-state energy of He⁺ is",
+      "options": [
+        "−13.6 eV",
+        "−27.2 eV",
+        "−54.4 eV",
+        "−122.4 eV"
+      ],
+      "answerIndex": 2,
+      "explanation": "E = −13.6 Z²/n² = −13.6 × 4 = −54.4 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-170",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "medium",
+      "stem": "The n = 1 radius of He⁺ compared with hydrogen's first radius is",
+      "options": [
+        "twice as large",
+        "the same",
+        "half as large",
+        "four times as large"
+      ],
+      "answerIndex": 2,
+      "explanation": "r ∝ 1/Z, so He⁺ (Z = 2) has r₁ = a₀/2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-171",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "medium",
+      "stem": "Ionisation energy of Li²⁺ in its ground state is",
+      "options": [
+        "13.6 eV",
+        "54.4 eV",
+        "122.4 eV",
+        "40.8 eV"
+      ],
+      "answerIndex": 2,
+      "explanation": "IE = 13.6 Z² = 13.6 × 9 = 122.4 eV for Z = 3.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-172",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "medium",
+      "stem": "The electron speed in hydrogen's first Bohr orbit is about",
+      "options": [
+        "2.18 × 10⁶ m s⁻¹",
+        "3.00 × 10⁸ m s⁻¹",
+        "2.18 × 10⁸ m s⁻¹",
+        "2.18 × 10⁴ m s⁻¹"
+      ],
+      "answerIndex": 0,
+      "explanation": "v₁ = 2.18 × 10⁶ m s⁻¹ (about c/137).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-173",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "medium",
+      "stem": "Potential energy of the electron in a Bohr orbit is",
+      "options": [
+        "equal to the kinetic energy",
+        "−2 times the kinetic energy",
+        "+2 times the kinetic energy",
+        "−1/2 of the kinetic energy"
+      ],
+      "answerIndex": 1,
+      "explanation": "PE = −2 KE, and total E = KE + PE = −KE.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-174",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "hard",
+      "stem": "How many times is the n = 4 hydrogen orbit farther from the nucleus than the ground orbit?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "64"
+      ],
+      "answerIndex": 2,
+      "explanation": "r₄/r₁ = 16 because radius scales as n².",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-175",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "hard",
+      "stem": "The photon emitted when hydrogen goes from n = 3 to n = 1 has energy",
+      "options": [
+        "12.09 eV",
+        "10.2 eV",
+        "1.89 eV",
+        "13.6 eV"
+      ],
+      "answerIndex": 0,
+      "explanation": "ΔE = 13.6(1 − 1/9) = 13.6 × 8/9 = 12.09 eV.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-176",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "bohr-model",
+      "difficulty": "hard",
+      "stem": "The time period of revolution in Bohr orbits of hydrogen varies as",
+      "options": [
+        "n",
+        "n²",
+        "n³",
+        "1/n"
+      ],
+      "answerIndex": 2,
+      "explanation": "T = 2πr/v with r ∝ n² and v ∝ 1/n, so T ∝ n³.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-177",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "de Broglie related wavelength of a material particle to its mass and speed by",
+      "options": [
+        "λ = mv/h",
+        "λ = h/mv",
+        "λ = hmv",
+        "λ = m/hv"
+      ],
+      "answerIndex": 1,
+      "explanation": "λ = h/p = h/mv for a non-relativistic particle.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-178",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "An electron is treated as both particle and wave because",
+      "options": [
+        "it has a rest mass of zero",
+        "it shows diffraction as well as charge and mass",
+        "it is a photon",
+        "it never has momentum"
+      ],
+      "answerIndex": 1,
+      "explanation": "Charge, mass and collisions are particle properties; crystal diffraction is wave behaviour.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-179",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "Diffraction of electrons from a nickel crystal, shown by Davisson and Germer, proved that",
+      "options": [
+        "electrons are positively charged",
+        "electrons have wave nature",
+        "protons are heavier than neutrons",
+        "photons have rest mass"
+      ],
+      "answerIndex": 1,
+      "explanation": "The observed diffraction pattern matches the de Broglie wavelength of the electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-180",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "Heisenberg's principle says one cannot simultaneously know, with arbitrary precision, a particle's",
+      "options": [
+        "mass and charge",
+        "position and momentum",
+        "energy and rest mass",
+        "spin and charge"
+      ],
+      "answerIndex": 1,
+      "explanation": "Δx · Δp ≥ h/4π; a sharp position forces a spread in momentum.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-181",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "A cricket ball has a de Broglie wavelength that is",
+      "options": [
+        "of order metres",
+        "of order ångströms",
+        "unobservably tiny",
+        "equal to its diameter"
+      ],
+      "answerIndex": 2,
+      "explanation": "Large mv makes λ = h/mv negligible, so matter waves are not seen for everyday objects.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-182",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "If the momentum of a particle is doubled, its de Broglie wavelength",
+      "options": [
+        "doubles",
+        "halves",
+        "becomes four times",
+        "is unchanged"
+      ],
+      "answerIndex": 1,
+      "explanation": "λ ∝ 1/p, so doubling p halves λ.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-183",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "Waves associated with moving material particles are called",
+      "options": [
+        "electromagnetic waves",
+        "sound waves",
+        "matter waves",
+        "thermal waves"
+      ],
+      "answerIndex": 2,
+      "explanation": "de Broglie matter waves are not electromagnetic; they are associated with the particle's momentum.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-184",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "An equivalent statement of the uncertainty principle uses the pair",
+      "options": [
+        "ΔE and Δt",
+        "Δm and Δq",
+        "ΔT and ΔV",
+        "Δn and Δl"
+      ],
+      "answerIndex": 0,
+      "explanation": "ΔE · Δt ≥ h/4π is the energy–time form of the uncertainty principle.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-185",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "de Broglie proposed wave character for",
+      "options": [
+        "only photons",
+        "all material particles in motion",
+        "only nuclei",
+        "only α-particles"
+      ],
+      "answerIndex": 1,
+      "explanation": "Any particle with momentum p has wavelength h/p.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-186",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "easy",
+      "stem": "At the same speed, a proton's de Broglie wavelength compared with an electron's is",
+      "options": [
+        "larger",
+        "smaller",
+        "equal",
+        "infinite"
+      ],
+      "answerIndex": 1,
+      "explanation": "The proton is far heavier, so at equal v its momentum is larger and λ is smaller.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-187",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "medium",
+      "stem": "An electron accelerated through 100 V has de Broglie wavelength about (λ in Å ≈ 12.27/√V)",
+      "options": [
+        "0.12 Å",
+        "1.23 Å",
+        "12.3 Å",
+        "122 Å"
+      ],
+      "answerIndex": 1,
+      "explanation": "√100 = 10, so λ ≈ 12.27/10 = 1.23 Å.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-188",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "medium",
+      "stem": "For an electron given 150 eV of kinetic energy, λ ≈ 12.27/√V Å is nearest to",
+      "options": [
+        "0.50 Å",
+        "1.00 Å",
+        "2.00 Å",
+        "12.3 Å"
+      ],
+      "answerIndex": 1,
+      "explanation": "√150 ≈ 12.25, so λ ≈ 12.27/12.25 ≈ 1.00 Å.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-189",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "medium",
+      "stem": "In Bohr's orbit of quantum number n, the circumference equals",
+      "options": [
+        "λ",
+        "nλ",
+        "λ/n",
+        "2nλ"
+      ],
+      "answerIndex": 1,
+      "explanation": "Standing-wave condition: 2πr = nλ.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-190",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "medium",
+      "stem": "If the uncertainty in position of an electron is 10⁻¹⁰ m, the minimum uncertainty in momentum is of order (use h/4π ≈ 5.3 × 10⁻³⁵ J s)",
+      "options": [
+        "5.3 × 10⁻²⁵ kg m s⁻¹",
+        "5.3 × 10⁻³⁵ kg m s⁻¹",
+        "5.3 × 10⁻⁴⁵ kg m s⁻¹",
+        "5.3 × 10⁻¹⁵ kg m s⁻¹"
+      ],
+      "answerIndex": 0,
+      "explanation": "Δp ≥ (h/4π)/Δx = 5.3 × 10⁻³⁵ / 10⁻¹⁰ = 5.3 × 10⁻²⁵ kg m s⁻¹.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-191",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "medium",
+      "stem": "Electrons leaving a 25 V gun have de Broglie wavelength close to",
+      "options": [
+        "0.49 Å",
+        "2.45 Å",
+        "12.3 Å",
+        "25 Å"
+      ],
+      "answerIndex": 1,
+      "explanation": "λ ≈ 12.27/√25 = 12.27/5 = 2.45 Å.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-192",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "debroglie-heisenberg",
+      "difficulty": "hard",
+      "stem": "A particle's position is uncertain by 0.1 Å. The minimum Δv for an electron (m ≈ 9.1 × 10⁻³¹ kg, h/4π ≈ 5.3 × 10⁻³⁵) is nearest",
+      "options": [
+        "5.8 × 10⁵ m s⁻¹",
+        "5.8 × 10⁶ m s⁻¹",
+        "5.8 × 10⁷ m s⁻¹",
+        "5.8 × 10¹ m s⁻¹"
+      ],
+      "answerIndex": 1,
+      "explanation": "Δx = 10⁻¹¹ m, so Δp ≥ 5.3 × 10⁻²⁴ kg m s⁻¹ and Δv ≥ Δp/m ≈ 5.8 × 10⁶ m s⁻¹.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-193",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-mechanical",
+      "difficulty": "easy",
+      "stem": "An orbit in Bohr theory is a definite path, whereas an orbital is",
+      "options": [
+        "also a sharp circular track",
+        "a region of space with high probability of finding the electron",
+        "a nucleus",
+        "a photon orbit"
+      ],
+      "answerIndex": 1,
+      "explanation": "Orbitals come from the wave-mechanical probability distribution, not a fixed trajectory.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-194",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-mechanical",
+      "difficulty": "easy",
+      "stem": "The quantity |ψ|² at a point gives",
+      "options": [
+        "the charge of the electron",
+        "the probability density of the electron",
+        "the mass of the nucleus",
+        "the spin only"
+      ],
+      "answerIndex": 1,
+      "explanation": "|ψ|² dV is the chance of finding the electron in that volume element.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-195",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-mechanical",
+      "difficulty": "easy",
+      "stem": "An atomic orbital may be described as",
+      "options": [
+        "a circular wire around the nucleus",
+        "the wave-mechanical region where the electron is likely to be",
+        "the path of a proton",
+        "a spectral line"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each solution of the wave equation (with quantum numbers n, l, mₗ) is an orbital.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-196",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-mechanical",
+      "difficulty": "easy",
+      "stem": "Schrödinger's wave equation is the starting point of the",
+      "options": [
+        "Bohr circular-orbit model",
+        "quantum mechanical model of the atom",
+        "plum-pudding model",
+        "canal-ray experiment"
+      ],
+      "answerIndex": 1,
+      "explanation": "The quantum mechanical model treats the electron as a wave whose allowed states solve Schrödinger's equation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-197",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-mechanical",
+      "difficulty": "easy",
+      "stem": "The quantum mechanical picture was needed because",
+      "options": [
+        "Bohr orbits could not be reconciled with the wave nature of the electron",
+        "hydrogen has no spectrum",
+        "electrons have no charge",
+        "nuclei do not exist"
+      ],
+      "answerIndex": 0,
+      "explanation": "de Broglie waves and uncertainty rule out a thin classical track around the nucleus.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-198",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-mechanical",
+      "difficulty": "medium",
+      "stem": "Unlike a Bohr orbit, a 2p orbital",
+      "options": [
+        "has a sharply fixed radius and no angular dependence",
+        "has a probability distribution with a nodal plane",
+        "is occupied by protons",
+        "cannot hold electrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "p orbitals have an angular node (a plane of zero probability) through the nucleus.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-199",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-mechanical",
+      "difficulty": "medium",
+      "stem": "The wave function ψ itself is",
+      "options": [
+        "equal to the energy in eV",
+        "not directly observable, though |ψ|² is physically meaningful",
+        "the atomic number",
+        "always zero"
+      ],
+      "answerIndex": 1,
+      "explanation": "ψ may be complex; only |ψ|² is the observable probability density.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-200",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-mechanical",
+      "difficulty": "hard",
+      "stem": "A node in an orbital is a surface where",
+      "options": [
+        "|ψ|² is maximum",
+        "the probability of finding the electron is zero",
+        "the nucleus sits only if Z > 1",
+        "spin is forced to be +1/2"
+      ],
+      "answerIndex": 1,
+      "explanation": "ψ = 0 on a node, so the electron is never found there.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-201",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "The principal quantum number n primarily indicates",
+      "options": [
+        "orbital shape",
+        "size and energy of the shell",
+        "spin direction",
+        "orientation only"
+      ],
+      "answerIndex": 1,
+      "explanation": "n labels the shell and largely sets the energy and radial size.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-202",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "For a given n, the azimuthal quantum number l may be",
+      "options": [
+        "1, 2, 3, … n",
+        "0, 1, 2, … (n − 1)",
+        "−n to +n",
+        "±1/2"
+      ],
+      "answerIndex": 1,
+      "explanation": "l runs from 0 up to n − 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-203",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "The magnetic quantum number mₗ runs over",
+      "options": [
+        "0 to n",
+        "−l through 0 to +l",
+        "1 to 2l",
+        "±1/2 only"
+      ],
+      "answerIndex": 1,
+      "explanation": "There are 2l + 1 values of mₗ for a given l.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-204",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "The spin quantum number of an electron is",
+      "options": [
+        "0 or 1",
+        "+1/2 or −1/2",
+        "1, 2 or 3",
+        "n − 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "An electron is a spin-1/2 particle, so mₛ = ±1/2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-205",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "When n = 1, the only allowed subshell is",
+      "options": [
+        "1s",
+        "1p",
+        "1d",
+        "2s"
+      ],
+      "answerIndex": 0,
+      "explanation": "For n = 1, l can only be 0, which is the 1s orbital.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-206",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "The subshell with l = 2 is labelled",
+      "options": [
+        "s",
+        "p",
+        "d",
+        "f"
+      ],
+      "answerIndex": 2,
+      "explanation": "s, p, d, f correspond to l = 0, 1, 2, 3.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-207",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "The number of orbitals in a shell of quantum number n is",
+      "options": [
+        "n",
+        "2n",
+        "n²",
+        "2n²"
+      ],
+      "answerIndex": 2,
+      "explanation": "Each shell has n² orbitals (and therefore 2n² electrons at most).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-208",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "Maximum electrons in a subshell of quantum number l equal",
+      "options": [
+        "2l + 1",
+        "4l + 2",
+        "2n²",
+        "n²"
+      ],
+      "answerIndex": 1,
+      "explanation": "A subshell has 2l + 1 orbitals and two electrons per orbital, so 4l + 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-209",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "The magnetic quantum number mₗ decides",
+      "options": [
+        "the spin of the electron",
+        "the orientation of the orbital in space",
+        "the nuclear charge",
+        "the mass number"
+      ],
+      "answerIndex": 1,
+      "explanation": "Different mₗ values are the different spatial orientations of a given subshell.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-210",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "For the L shell (n = 2), allowed l values are",
+      "options": [
+        "0 only",
+        "0 and 1",
+        "0, 1 and 2",
+        "1 and 2"
+      ],
+      "answerIndex": 1,
+      "explanation": "l = 0 (2s) and l = 1 (2p).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-211",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "A d subshell (l = 2) contains how many orbitals?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "answerIndex": 1,
+      "explanation": "2l + 1 = 5 orbitals in a d subshell.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-212",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "A 4s electron has n and l equal to",
+      "options": [
+        "4 and 0",
+        "4 and 1",
+        "3 and 0",
+        "4 and 2"
+      ],
+      "answerIndex": 0,
+      "explanation": "s means l = 0; the leading number is n = 4.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-213",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "For a 3d electron the pair (n, l) is",
+      "options": [
+        "(3, 1)",
+        "(3, 2)",
+        "(3, 3)",
+        "(4, 2)"
+      ],
+      "answerIndex": 1,
+      "explanation": "3d means n = 3 and l = 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-214",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "easy",
+      "stem": "The letter f stands for l equal to",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "f subshells have l = 3 and seven orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-215",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "medium",
+      "stem": "Possible mₗ values for a 2p electron are",
+      "options": [
+        "−1, 0, +1",
+        "−2, −1, 0, +1, +2",
+        "0, 1, 2",
+        "only 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "For l = 1, mₗ = −1, 0, +1 (the three p orbitals).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-216",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "medium",
+      "stem": "Which set (n, l, mₗ, mₛ) is not allowed?",
+      "options": [
+        "(2, 1, −1, +1/2)",
+        "(3, 2, +2, −1/2)",
+        "(2, 0, 0, +1/2)",
+        "(3, 3, 0, +1/2)"
+      ],
+      "answerIndex": 3,
+      "explanation": "l cannot equal n; the maximum l is n − 1, so (3, 3, …) is forbidden.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-217",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "medium",
+      "stem": "How many electrons can have n = 3 and l = 1?",
+      "options": [
+        "2",
+        "6",
+        "10",
+        "18"
+      ],
+      "answerIndex": 1,
+      "explanation": "That is the 3p subshell, which holds 4l + 2 = 6 electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-218",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "medium",
+      "stem": "The 4d subshell consists of",
+      "options": [
+        "3 orbitals",
+        "5 orbitals",
+        "7 orbitals",
+        "10 orbitals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Any d subshell (l = 2) has five orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-219",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "medium",
+      "stem": "A valid quantum-number set for a 4d electron is",
+      "options": [
+        "n = 4, l = 0, mₗ = 0",
+        "n = 4, l = 2, mₗ = +1",
+        "n = 4, l = 1, mₗ = 0",
+        "n = 3, l = 2, mₗ = +3"
+      ],
+      "answerIndex": 1,
+      "explanation": "4d requires n = 4 and l = 2, with mₗ between −2 and +2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-220",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "medium",
+      "stem": "How many orbitals belong to the N shell (n = 4)?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "answerIndex": 2,
+      "explanation": "Number of orbitals = n² = 16 (electron capacity would be 32).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-221",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "medium",
+      "stem": "Electrons with n = 3, l = 2 and mₛ = +1/2 cannot exceed",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "10"
+      ],
+      "answerIndex": 2,
+      "explanation": "The 3d subshell has five orbitals; each can take one electron of a given spin.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-222",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "hard",
+      "stem": "In the n = 4 shell, the number of electrons that can have mₛ = +1/2 is",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "There are n² = 16 orbitals, and each may hold one electron of spin +1/2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-223",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "hard",
+      "stem": "The set n = 2, l = 1, mₗ = +2, mₛ = +1/2 is illegal because",
+      "options": [
+        "n cannot be 2",
+        "l cannot be 1 when n = 2",
+        "mₗ exceeds l",
+        "mₛ cannot be +1/2"
+      ],
+      "answerIndex": 2,
+      "explanation": "For l = 1 the only mₗ values are −1, 0, +1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-224",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "quantum-numbers",
+      "difficulty": "hard",
+      "stem": "How many electrons in an atom may have n = 4, l = 2 and mₗ = 0?",
+      "options": [
+        "1",
+        "2",
+        "6",
+        "10"
+      ],
+      "answerIndex": 1,
+      "explanation": "Those labels pick out one 4d orbital, which holds two electrons of opposite spin.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-225",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "easy",
+      "stem": "The shape of an s orbital is",
+      "options": [
+        "dumb-bell",
+        "spherical",
+        "double dumb-bell",
+        "planar"
+      ],
+      "answerIndex": 1,
+      "explanation": "s orbitals are spherically symmetric about the nucleus.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-226",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "easy",
+      "stem": "A p orbital is typically described as",
+      "options": [
+        "spherical",
+        "dumb-bell shaped",
+        "tetrahedral",
+        "a linear nucleus"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each p orbital has two lobes on opposite sides of the nucleus.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-227",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "easy",
+      "stem": "Most d orbitals have the appearance of",
+      "options": [
+        "a sphere",
+        "a four-lobed (double dumb-bell) figure",
+        "a straight line",
+        "a cube"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four of the five d orbitals are four-lobed; d_z² is a doughnut-plus-lobes shape.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-228",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "easy",
+      "stem": "The pₓ orbital has its lobes along",
+      "options": [
+        "the y-axis",
+        "the x-axis",
+        "the z-axis",
+        "no axis"
+      ],
+      "answerIndex": 1,
+      "explanation": "The subscript names the axis along which the p orbital points.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-229",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "easy",
+      "stem": "The p subshell contains",
+      "options": [
+        "one orbital",
+        "three orbitals",
+        "five orbitals",
+        "seven orbitals"
+      ],
+      "answerIndex": 1,
+      "explanation": "pₓ, pᵧ and p_z make three orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-230",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "easy",
+      "stem": "How many orbitals are present in any d subshell?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "answerIndex": 1,
+      "explanation": "l = 2 gives 2l + 1 = 5 d orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-231",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "easy",
+      "stem": "A nodal surface is where the electron probability is",
+      "options": [
+        "maximum",
+        "zero",
+        "equal to 1",
+        "equal to 1/2"
+      ],
+      "answerIndex": 1,
+      "explanation": "On a node ψ = 0, so |ψ|² = 0.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-232",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "easy",
+      "stem": "Relative to 1s, the 2s orbital has",
+      "options": [
+        "no spherical node",
+        "one spherical node",
+        "two spherical nodes",
+        "three nodal planes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Radial nodes = n − l − 1 = 2 − 0 − 1 = 1 for 2s.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-233",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "medium",
+      "stem": "The number of radial nodes in an orbital is",
+      "options": [
+        "n − l − 1",
+        "n − 1",
+        "l",
+        "n + l"
+      ],
+      "answerIndex": 0,
+      "explanation": "Radial (spherical) nodes equal n − l − 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-234",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "medium",
+      "stem": "Angular nodes in an orbital equal",
+      "options": [
+        "n − l − 1",
+        "l",
+        "n − 1",
+        "2l"
+      ],
+      "answerIndex": 1,
+      "explanation": "The number of angular nodes is the azimuthal quantum number l.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-235",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "medium",
+      "stem": "Total nodes of an orbital (radial + angular) equal",
+      "options": [
+        "n",
+        "n − 1",
+        "l − 1",
+        "2n"
+      ],
+      "answerIndex": 1,
+      "explanation": "(n − l − 1) + l = n − 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-236",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "medium",
+      "stem": "A 3p orbital has radial and angular nodes equal to",
+      "options": [
+        "0 and 1",
+        "1 and 1",
+        "2 and 1",
+        "1 and 0"
+      ],
+      "answerIndex": 1,
+      "explanation": "Radial = 3 − 1 − 1 = 1; angular = l = 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-237",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "hard",
+      "stem": "For a 4d orbital the radial-node count is",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answerIndex": 1,
+      "explanation": "n − l − 1 = 4 − 2 − 1 = 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-238",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "orbital-shapes-nodes",
+      "difficulty": "hard",
+      "stem": "In a 3d orbital you find",
+      "options": [
+        "two radial nodes and no angular node",
+        "no radial node and two angular nodes",
+        "one radial and one angular node",
+        "three radial nodes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Radial = 3 − 2 − 1 = 0; angular = 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-239",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "The Aufbau principle says electrons occupy",
+      "options": [
+        "higher energy orbitals first",
+        "the lowest available energy orbitals first",
+        "only d orbitals",
+        "only vacant nuclei"
+      ],
+      "answerIndex": 1,
+      "explanation": "Orbitals are filled in order of increasing energy.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-240",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "Pauli's exclusion rule forbids two electrons in an atom from having",
+      "options": [
+        "the same n",
+        "all four quantum numbers identical",
+        "opposite spins",
+        "different mₗ"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each electron in an atom must have a unique (n, l, mₗ, mₛ) set.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-241",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "When degenerate orbitals are available, Hund's rule prefers",
+      "options": [
+        "pairing in one orbital first",
+        "maximum unpaired electrons with parallel spins",
+        "emptying all orbitals",
+        "opposite spins in different subshells only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electrons occupy separate equal-energy orbitals singly and with parallel spins before pairing.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-242",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "(n + l) rule is used to decide",
+      "options": [
+        "nuclear charge",
+        "the order of filling of orbitals",
+        "the mass number",
+        "the work function"
+      ],
+      "answerIndex": 1,
+      "explanation": "The subshell with smaller n + l fills first; if tied, smaller n fills first.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-243",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "In a neutral atom 4s is filled before 3d because",
+      "options": [
+        "4s has higher n + l",
+        "4s has lower energy (smaller n + l) than 3d",
+        "3d cannot hold electrons",
+        "4s is a d orbital"
+      ],
+      "answerIndex": 1,
+      "explanation": "4s has n + l = 4 while 3d has n + l = 5, so 4s lies lower for the isolated atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-244",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "Between 3p and 4s, the orbital occupied earlier is",
+      "options": [
+        "4s",
+        "3p",
+        "3d",
+        "4p"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both have n + l = 4, but 3p has smaller n, so it fills first.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-245",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "A single orbital can hold at most",
+      "options": [
+        "1 electron",
+        "2 electrons of opposite spin",
+        "2 electrons of same spin",
+        "4 electrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pauli allows two electrons per orbital only if their spins are opposite.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-246",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "Hund's rule applies to orbitals that are",
+      "options": [
+        "of widely different energy",
+        "degenerate (same energy)",
+        "in different atoms",
+        "inside the nucleus"
+      ],
+      "answerIndex": 1,
+      "explanation": "It governs filling of a set of equal-energy orbitals such as the three 2p orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-247",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "Nitrogen's 2p³ configuration, by Hund, has unpaired electrons numbering",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answerIndex": 2,
+      "explanation": "Each of the three 2p orbitals gets one electron, all with parallel spins.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-248",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "The filling sequence 1s, 2s, 2p, 3s, 3p continues with",
+      "options": [
+        "3d",
+        "4s",
+        "4p",
+        "4d"
+      ],
+      "answerIndex": 1,
+      "explanation": "After 3p comes 4s, then 3d.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-249",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "easy",
+      "stem": "Extra stability of half-filled subshells is often invoked to explain",
+      "options": [
+        "why neon is a gas",
+        "exceptions such as chromium's configuration",
+        "why hydrogen has one electron",
+        "the charge of the proton"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cr is 4s¹ 3d⁵ so that 3d is exactly half filled.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-250",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "medium",
+      "stem": "After 4s, the next subshell to fill in Aufbau order is",
+      "options": [
+        "4p",
+        "3d",
+        "5s",
+        "4d"
+      ],
+      "answerIndex": 1,
+      "explanation": "The order is 4s, 3d, 4p.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-251",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "medium",
+      "stem": "For 5s and 4d the (n + l) values are respectively",
+      "options": [
+        "5 and 6",
+        "6 and 5",
+        "5 and 5",
+        "4 and 6"
+      ],
+      "answerIndex": 0,
+      "explanation": "5s: 5 + 0 = 5; 4d: 4 + 2 = 6, so 5s fills first.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-252",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "medium",
+      "stem": "Ground-state carbon (2p²) has how many unpaired electrons according to Hund?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "The two 2p electrons occupy different orbitals with parallel spins.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-253",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "medium",
+      "stem": "Oxygen (2p⁴) has unpaired electrons equal to",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "Two 2p electrons pair in one orbital and the other two stay unpaired: ↑↓ ↑ ↑.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-254",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "medium",
+      "stem": "For carbon 2p², the Hund-violating arrangement is",
+      "options": [
+        "two electrons in different 2p orbitals with parallel spins",
+        "both electrons paired in one 2p orbital with the others empty",
+        "two electrons in different orbitals",
+        "an empty 2s orbital"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pairing in one orbital while degenerate partners are vacant violates Hund's rule.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-255",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "hard",
+      "stem": "The correct Hund filling of 2p⁴ is",
+      "options": [
+        "↑↓ ↑↓  (two orbitals only)",
+        "↑↓ ↑ ↑",
+        "↑ ↑ ↑ ↑",
+        "↑↓ ↑↓ ↑↓"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four 2p electrons: one orbital paired and two orbitals singly occupied.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-256",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "aufbau-pauli-hund",
+      "difficulty": "hard",
+      "stem": "4p and 3d have n + l equal to 5; the one filled first is",
+      "options": [
+        "4p because n is larger",
+        "3d because n is smaller",
+        "they fill together equally",
+        "4d"
+      ],
+      "answerIndex": 1,
+      "explanation": "On an (n + l) tie the subshell with smaller n is filled first, so 3d before 4p.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-257",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Ground-state hydrogen is",
+      "options": [
+        "1s¹",
+        "1s²",
+        "2s¹",
+        "1p¹"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hydrogen has a single electron in 1s.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-258",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Helium's ground configuration is",
+      "options": [
+        "1s¹",
+        "1s²",
+        "1s² 2s¹",
+        "2s²"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both electrons occupy 1s with opposite spins.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-259",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Carbon (Z = 6) has the ground configuration",
+      "options": [
+        "1s² 2s² 2p¹",
+        "1s² 2s² 2p²",
+        "1s² 2s¹ 2p³",
+        "1s² 2p⁴"
+      ],
+      "answerIndex": 1,
+      "explanation": "After 1s² 2s² the remaining two electrons enter 2p.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-260",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "The ground configuration of nitrogen (Z = 7) is",
+      "options": [
+        "1s² 2s² 2p³",
+        "1s² 2s² 2p⁴",
+        "1s² 2s¹ 2p⁴",
+        "1s² 2p⁵"
+      ],
+      "answerIndex": 0,
+      "explanation": "Seven electrons: 1s² 2s² 2p³ (half-filled 2p).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-261",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Oxygen (Z = 8) is represented in the ground state by",
+      "options": [
+        "1s² 2s² 2p³",
+        "1s² 2s² 2p⁴",
+        "1s² 2s² 2p⁵",
+        "1s² 2p⁶"
+      ],
+      "answerIndex": 1,
+      "explanation": "Eight electrons give 1s² 2s² 2p⁴.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-262",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Neon (Z = 10) has the closed-shell configuration",
+      "options": [
+        "1s² 2s² 2p⁴",
+        "1s² 2s² 2p⁶",
+        "1s² 2s² 2p⁶ 3s¹",
+        "2p⁸"
+      ],
+      "answerIndex": 1,
+      "explanation": "Neon completes the n = 2 shell: 1s² 2s² 2p⁶.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-263",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Sodium (Z = 11) is written as",
+      "options": [
+        "[Ne] 3s¹",
+        "[Ne] 3s²",
+        "[He] 2s¹",
+        "[Ar] 4s¹"
+      ],
+      "answerIndex": 0,
+      "explanation": "The extra electron beyond neon occupies 3s.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-264",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Chlorine (Z = 17) has the valence configuration",
+      "options": [
+        "3s² 3p³",
+        "3s² 3p⁵",
+        "3s² 3p⁶",
+        "3s¹ 3p⁶"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cl is [Ne] 3s² 3p⁵, one electron short of argon.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-265",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Potassium (Z = 19) places its last electron in",
+      "options": [
+        "3d",
+        "4s",
+        "4p",
+        "3p"
+      ],
+      "answerIndex": 1,
+      "explanation": "After argon, 4s fills before 3d, so K is [Ar] 4s¹.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-266",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Calcium (Z = 20) has the condensed ground configuration",
+      "options": [
+        "[Ar] 4s¹",
+        "[Ar] 4s²",
+        "[Ar] 3d²",
+        "[Ar] 4s² 3d¹"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both extra electrons occupy 4s: [Ar] 4s².",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-267",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Chromium (Z = 24) is an exception with configuration",
+      "options": [
+        "[Ar] 4s² 3d⁴",
+        "[Ar] 4s¹ 3d⁵",
+        "[Ar] 4s² 3d⁵",
+        "[Ar] 3d⁶"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cr is 4s¹ 3d⁵, giving a half-filled d set.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-268",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "easy",
+      "stem": "Copper (Z = 29) is correctly written as",
+      "options": [
+        "[Ar] 4s² 3d⁹",
+        "[Ar] 4s¹ 3d¹⁰",
+        "[Ar] 4s² 3d¹⁰",
+        "[Ar] 3d⁹"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cu is 4s¹ 3d¹⁰, a fully filled d subshell.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-269",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "medium",
+      "stem": "Iron (Z = 26) has the ground configuration",
+      "options": [
+        "[Ar] 4s² 3d⁶",
+        "[Ar] 4s¹ 3d⁷",
+        "[Ar] 4s² 3d⁵",
+        "[Ar] 3d⁸"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fe follows Aufbau as 4s² 3d⁶.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-270",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "medium",
+      "stem": "Manganese (Z = 25) is",
+      "options": [
+        "[Ar] 4s² 3d⁴",
+        "[Ar] 4s² 3d⁵",
+        "[Ar] 4s¹ 3d⁶",
+        "[Ar] 3d⁷"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mn is 4s² 3d⁵.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-271",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "medium",
+      "stem": "The ground configuration of zinc (Z = 30) is",
+      "options": [
+        "[Ar] 4s¹ 3d¹⁰",
+        "[Ar] 4s² 3d¹⁰",
+        "[Ar] 4s² 3d⁸",
+        "[Ar] 3d¹⁰ 4p²"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zn completes 3d and 4s: [Ar] 4s² 3d¹⁰.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-272",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "medium",
+      "stem": "Fe²⁺ is formed from Fe by loss of two 4s electrons, leaving",
+      "options": [
+        "3d⁶",
+        "3d⁴",
+        "3d⁶ 4s²",
+        "3d⁵ 4s¹"
+      ],
+      "answerIndex": 0,
+      "explanation": "Transition-metal cations lose ns electrons first; Fe²⁺ is 3d⁶.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-273",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "medium",
+      "stem": "The cuprous ion Cu⁺ has the configuration",
+      "options": [
+        "3d⁹",
+        "3d¹⁰",
+        "3d⁸ 4s²",
+        "3d⁹ 4s¹"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cu is 4s¹ 3d¹⁰; losing the 4s electron leaves 3d¹⁰.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-274",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "medium",
+      "stem": "Cr³⁺ has how many 3d electrons?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "6"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cr is 4s¹ 3d⁵; Cr³⁺ loses 4s¹ and two 3d electrons, leaving 3d³.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-275",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "hard",
+      "stem": "Chromium prefers 4s¹ 3d⁵ rather than 4s² 3d⁴ because",
+      "options": [
+        "4s cannot hold two electrons",
+        "a half-filled 3d⁵ set is extra stable",
+        "3d is always filled before 4s in every atom",
+        "Z = 24 is a noble gas"
+      ],
+      "answerIndex": 1,
+      "explanation": "Exchange energy / half-filled subshell stability favours 3d⁵ 4s¹.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-276",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "configuration-exceptions",
+      "difficulty": "hard",
+      "stem": "Copper(II) ion Cu²⁺ has the d-electron count",
+      "options": [
+        "d⁸",
+        "d⁹",
+        "d¹⁰",
+        "d⁷"
+      ],
+      "answerIndex": 1,
+      "explanation": "From 4s¹ 3d¹⁰, Cu²⁺ loses the 4s electron and one 3d electron, leaving 3d⁹.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-277",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "easy",
+      "stem": "A species is paramagnetic when it has",
+      "options": [
+        "all electrons paired",
+        "one or more unpaired electrons",
+        "no electrons",
+        "only protons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Unpaired spins give a net magnetic moment and paramagnetism.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-278",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "easy",
+      "stem": "A diamagnetic atom or ion has",
+      "options": [
+        "unpaired electrons",
+        "all electrons paired",
+        "an odd atomic number always",
+        "a half-filled d shell"
+      ],
+      "answerIndex": 1,
+      "explanation": "Paired electrons cancel magnetic moments, producing diamagnetism.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-279",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "easy",
+      "stem": "Ground-state nitrogen atom is paramagnetic with unpaired electrons numbering",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "answerIndex": 2,
+      "explanation": "2p³ with Hund filling leaves three unpaired electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-280",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "easy",
+      "stem": "Neon is diamagnetic because",
+      "options": [
+        "it has three unpaired electrons",
+        "its 2p subshell is completely filled and paired",
+        "it has 10 neutrons",
+        "it is a gas"
+      ],
+      "answerIndex": 1,
+      "explanation": "1s² 2s² 2p⁶ has no unpaired electron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-281",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "easy",
+      "stem": "The oxygen atom (2p⁴) is paramagnetic with",
+      "options": [
+        "0 unpaired electrons",
+        "1 unpaired electron",
+        "2 unpaired electrons",
+        "4 unpaired electrons"
+      ],
+      "answerIndex": 2,
+      "explanation": "2p⁴ is ↑↓ ↑ ↑, so two electrons remain unpaired.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-282",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "easy",
+      "stem": "The Zn²⁺ ion with a 3d¹⁰ set is",
+      "options": [
+        "strongly paramagnetic",
+        "diamagnetic",
+        "has five unpaired electrons",
+        "a 3d⁹ ion"
+      ],
+      "answerIndex": 1,
+      "explanation": "A filled 3d¹⁰ set is fully paired, so Zn²⁺ is diamagnetic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-283",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "medium",
+      "stem": "Mn²⁺ (d⁵) has unpaired electrons equal to",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "answerIndex": 2,
+      "explanation": "High-spin d⁵ places one electron in each of the five 3d orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-284",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "medium",
+      "stem": "Cu⁺ is diamagnetic because its configuration is",
+      "options": [
+        "3d⁹",
+        "3d¹⁰",
+        "3d⁸ 4s¹",
+        "4s¹ 3d⁹"
+      ],
+      "answerIndex": 1,
+      "explanation": "3d¹⁰ has all electrons paired.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-285",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "medium",
+      "stem": "Co²⁺ (3d⁷) has unpaired electrons",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "answerIndex": 1,
+      "explanation": "d⁷ high-spin is ↑↓ ↑↓ ↑ ↑ ↑, leaving three unpaired electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-as-286",
+      "chapterId": "chemistry-atomic-structure",
+      "conceptId": "unpaired-magnetic",
+      "difficulty": "hard",
+      "stem": "Ni²⁺ (3d⁸) is paramagnetic. Its spin-only magnetic moment √n(n+2) BM with n unpaired is",
+      "options": [
+        "1.73",
+        "2.83",
+        "3.87",
+        "4.90"
+      ],
+      "answerIndex": 1,
+      "explanation": "3d⁸ has two unpaired electrons, so μ = √(2 × 4) = √8 = 2.83 BM.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

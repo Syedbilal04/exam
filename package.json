@@ -11,6 +11,9 @@
     "bank:build": "node scripts/build-bank.mjs",
     "check:paper": "node scripts/check-paper-engine.mjs",
     "check:bank": "node scripts/check-bank-text.mjs",
+    "check:stems": "node scripts/check-stems.mjs",
+    "check:authored": "node scripts/check-authored.mjs",
+    "check:authored-chem": "node scripts/check-authored-chem.mjs",
     "seed:sql": "node scripts/generate-seed.mjs",
     "import:pyq": "node scripts/import-pyq.mjs"
   },

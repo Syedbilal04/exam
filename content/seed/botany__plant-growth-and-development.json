@@ -1,0 +1,376 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Plant Growth and Development",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-pg-e-101",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Primary growth in length of a stem is produced mainly by the",
+      "options": ["cork cambium", "apical meristem", "phelloderm", "mature xylem"],
+      "answerIndex": 1,
+      "explanation": "Shoot and root apical meristems add cells at the tips and elongate the axis.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-meristems-open-growth",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-102",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "The exponential (log) phase of a sigmoid growth curve is the phase of",
+      "options": ["little growth", "rapid growth", "zero cell division", "only death"],
+      "answerIndex": 1,
+      "explanation": "After a lag, cells divide and expand rapidly; later the curve levels into a stationary phase.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-growth-curve-phases",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-103",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Formation of interfascicular cambium from parenchyma is an example of",
+      "options": ["senescence", "dedifferentiation", "fertilisation", "transpiration"],
+      "answerIndex": 1,
+      "explanation": "Living differentiated cells regain meristematic activity (dedifferentiation) to form cambium.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-differentiation-plasticity",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-104",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Apical dominance is maintained chiefly by",
+      "options": [
+        "cytokinin from roots only",
+        "auxin from the shoot apex",
+        "ethylene in fruits only",
+        "ABA in seeds only"
+      ],
+      "answerIndex": 1,
+      "explanation": "IAA from the terminal bud suppresses axillary buds; removing the tip releases them.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-auxin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-105",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Bolting of rosette plants is promoted by",
+      "options": ["ABA", "gibberellin", "ethylene", "jasmonic acid only"],
+      "answerIndex": 1,
+      "explanation": "GA stretches internodes so a rosette shoots up and flowers (bolting).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-gibberellin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-106",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Cytokinins are best known for promoting",
+      "options": [
+        "fruit ripening",
+        "cell division",
+        "leaf abscission",
+        "stomatal closure in drought"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cytokinins (kinetin, zeatin) stimulate cytokinesis and are used in tissue culture with auxin.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-cytokinin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-107",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "The gaseous PGR that promotes fruit ripening is",
+      "options": ["IAA", "ethylene", "gibberellin", "zeatin"],
+      "answerIndex": 1,
+      "explanation": "Ethylene is the ripening hormone of climacteric fruits such as banana and tomato.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-ethylene",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-108",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Closure of stomata during water stress is induced by",
+      "options": ["gibberellin", "abscisic acid", "cytokinin", "florigen"],
+      "answerIndex": 1,
+      "explanation": "ABA is the stress hormone that closes stomata and also helps impose seed dormancy.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-aba",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-109",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "The plant organ that perceives photoperiod for flowering is the",
+      "options": ["root apex", "leaf", "xylem vessel", "pollen grain"],
+      "answerIndex": 1,
+      "explanation": "Leaves measure day/night length; a floral stimulus then moves to the shoot apex.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pg-photoperiodism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-110",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Vernalisation is the promotion of flowering by",
+      "options": [
+        "a period of low temperature",
+        "continuous darkness only",
+        "high salt",
+        "ethylene gas"
+      ],
+      "answerIndex": 0,
+      "explanation": "A chilling treatment of the seedling or soaked seed induces flowering in winter cereals and biennials.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "pg-vernalisation-dormancy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-111",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Which is a synthetic auxin used as a herbicide?",
+      "options": ["Zeatin", "2,4-D", "Ethylene", "ABA"],
+      "answerIndex": 1,
+      "explanation": "2,4-dichlorophenoxyacetic acid kills broad-leaved weeds and is also used to induce parthenocarpy.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "pg-auxin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-112",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "A short-day plant flowers when the photoperiod is",
+      "options": [
+        "longer than a critical day length",
+        "shorter than a critical day length",
+        "exactly 24 hours of light",
+        "independent of night length"
+      ],
+      "answerIndex": 1,
+      "explanation": "SDP (actually long-night plants) flower when the day is shorter than a critical length.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "pg-photoperiodism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-e-113",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "The triple response of etiolated seedlings to ethylene includes",
+      "options": [
+        "longer roots, free elongation and no hook",
+        "inhibited elongation, stem swelling and an exaggerated hook",
+        "only leaf expansion",
+        "only flowering"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ethylene shortens and thickens the hypocotyl and tightens the apical hook.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "pg-ethylene",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-101",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Plant growth is said to be open or indeterminate because",
+      "options": [
+        "meristems add cells throughout life",
+        "animals also grow at meristems",
+        "growth stops after germination",
+        "only fruits grow"
+      ],
+      "answerIndex": 0,
+      "explanation": "Apical and lateral meristems keep producing new cells, so the plant body has no fixed adult size.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-meristems-open-growth",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-102",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "The three phases of a sigmoid growth curve are",
+      "options": [
+        "lag, log and stationary",
+        "only mitosis and meiosis",
+        "day and night",
+        "only senescence"
+      ],
+      "answerIndex": 0,
+      "explanation": "Slow start (lag), exponential rise (log) and levelling (stationary) give the S-shaped curve.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-growth-curve-phases",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-103",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Heterophylly in coriander or larkspur is an example of",
+      "options": [
+        "photoperiodism",
+        "plasticity of development",
+        "vernalisation",
+        "double fertilisation"
+      ],
+      "answerIndex": 1,
+      "explanation": "The same genotype makes different leaf shapes in air versus water or at different ages.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-differentiation-plasticity",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-104",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "The principal natural auxin of higher plants is",
+      "options": ["IAA (indole-3-acetic acid)", "ABA", "GA3", "kinetin"],
+      "answerIndex": 0,
+      "explanation": "Went’s Avena test and later chemistry identified IAA as the main native auxin.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-auxin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-105",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Foolish-seedling (bakanae) disease of rice led to the discovery of",
+      "options": ["auxins", "gibberellins", "ethylene", "florigen"],
+      "answerIndex": 1,
+      "explanation": "Gibberella fujikuroi infection overproduced GA and made rice seedlings elongate wildly.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-gibberellin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-106",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "The natural cytokinin first obtained from maize grains is",
+      "options": ["kinetin", "zeatin", "2,4-D", "NAA"],
+      "answerIndex": 1,
+      "explanation": "Zeatin was isolated from Zea mays; kinetin was first obtained from herring-sperm DNA.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-cytokinin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-107",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Which PGR is used to initiate flowering and synchronise fruit set in pineapple?",
+      "options": ["ABA", "ethylene", "cytokinin", "phytochrome"],
+      "answerIndex": 1,
+      "explanation": "Ethylene (or ethephon) induces pineapple flowering and can also promote female flowers in cucumber.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-ethylene",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-108",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Seed dormancy is often maintained by high levels of",
+      "options": ["gibberellin", "abscisic acid", "cytokinin", "ethylene only"],
+      "answerIndex": 1,
+      "explanation": "ABA keeps the embryo quiescent; GA later antagonises ABA and promotes germination.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-aba",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-109",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Phytochrome exists in two interconvertible forms known as",
+      "options": ["P680 and P700", "Pr and Pfr", "PSI and PSII", "IAA and GA"],
+      "answerIndex": 1,
+      "explanation": "Red light converts Pr to Pfr; far-red converts Pfr back to Pr and can cancel a long-night interruption.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pg-photoperiodism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-110",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Which statement about seed dormancy is incorrect?",
+      "options": [
+        "A hard seed coat can impose dormancy",
+        "ABA can inhibit germination",
+        "Scarification may break coat dormancy",
+        "Vernalisation always means boiling the seed"
+      ],
+      "answerIndex": 3,
+      "explanation": "Vernalisation is a cold treatment for flowering, not boiling; heat/scarification are other dormancy-breaking methods.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "pg-vernalisation-dormancy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-111",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Cytokinins delay senescence of leaves mainly by",
+      "options": [
+        "promoting chlorophyll breakdown",
+        "preventing nutrient mobilisation out of the leaf",
+        "closing all stomata permanently",
+        "ripening the fruit"
+      ],
+      "answerIndex": 1,
+      "explanation": "They keep the leaf a nutrient sink, so chlorophyll and protein persist longer (Richmond–Lang effect).",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "pg-cytokinin",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-112",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Which plant is a classical short-day (long-night) example?",
+      "options": ["Spinach", "Xanthium (cocklebur)", "Radish", "Sugar beet"],
+      "answerIndex": 1,
+      "explanation": "Xanthium, soybean and chrysanthemum are SDP; spinach, radish and sugar beet are long-day plants.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "pg-photoperiodism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pg-n-113",
+      "chapterId": "botany-plant-growth-and-development",
+      "stem": "Which statement about cell-fate changes in plants is correct?",
+      "options": [
+        "Dedifferentiation cannot produce meristem",
+        "Cork cambium arises by dedifferentiation of cortex or parenchyma",
+        "Redifferentiation never follows cambial activity",
+        "Differentiation occurs only in animals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cork cambium (phellogen) is a secondary meristem formed from differentiated living cells.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "pg-differentiation-plasticity",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

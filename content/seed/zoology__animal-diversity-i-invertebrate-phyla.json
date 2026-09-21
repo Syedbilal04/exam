@@ -1,0 +1,356 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Animal Diversity I: Invertebrate Phyla",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-ad1-e-101",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Animals in which the body cavity is lined on all sides by mesoderm are described as",
+      "options": ["acoelomates", "pseudocoelomates", "eucoelomates", "diploblastic only"],
+      "answerIndex": 2,
+      "explanation": "A true coelom (eucoelom) is a mesoderm-lined cavity, as in annelids, arthropods and chordates.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "symmetry-germ-layers-coelom",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-102",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Choanocytes (collar cells) that drive the water current occur in",
+      "options": ["Cnidaria", "Porifera", "Annelida", "Mollusca"],
+      "answerIndex": 1,
+      "explanation": "Flagellated choanocytes line sponge canals and trap food particles.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phylum-porifera",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-103",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Stinging cells used for offence and defence in Hydra are called",
+      "options": ["choanocytes", "cnidoblasts (nematocysts)", "flame cells", "statocysts"],
+      "answerIndex": 1,
+      "explanation": "Cnidoblasts containing nematocysts are the diagnostic cells of Cnidaria.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phylum-cnidaria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-104",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Eight external comb plates used in locomotion are characteristic of",
+      "options": ["Porifera", "Ctenophora", "Nematoda", "Echinodermata"],
+      "answerIndex": 1,
+      "explanation": "Ctenophores (comb jellies) swim with eight rows of ciliated comb plates.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phylum-ctenophora",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-105",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Flame cells (protonephridia) for osmoregulation and excretion are found in",
+      "options": ["Ascaris", "Taenia and other flatworms", "Pheretima", "Pila"],
+      "answerIndex": 1,
+      "explanation": "Platyhelminthes are acoelomate and use flame cells; earthworms have nephridia.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phylum-platyhelminthes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-106",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Roundworms such as Ascaris possess a body cavity that is",
+      "options": [
+        "absent (acoelomate)",
+        "a pseudocoelom not fully lined by mesoderm",
+        "a true coelom with peritoneum",
+        "a water vascular system"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aschelminthes (Nematoda) are pseudocoelomate; the cavity is a persistent blastocoel.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phylum-aschelminthes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-107",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Metameric segmentation and a closed blood vascular system occur together in",
+      "options": ["Arthropoda", "Annelida", "Mollusca", "Porifera"],
+      "answerIndex": 1,
+      "explanation": "Annelids (e.g. Pheretima, Nereis) are metameric eucoelomates with closed circulation.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phylum-annelida",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-108",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Jointed appendages and a chitinous exoskeleton are diagnostic of",
+      "options": ["Annelida", "Arthropoda", "Echinodermata", "Hemichordata"],
+      "answerIndex": 1,
+      "explanation": "Arthropoda is the largest phylum; the name means jointed legs, and the cuticle is chitinous.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phylum-arthropoda",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-109",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "The rasping feeding organ called a radula is present in",
+      "options": ["Asterias", "Pila and most molluscs", "Ascaris", "Hydra"],
+      "answerIndex": 1,
+      "explanation": "A chitinous radula is the typical molluscan feeding structure (absent in bivalves).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phylum-mollusca",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-110",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "The water vascular (ambulacral) system used in locomotion is unique to",
+      "options": ["Mollusca", "Arthropoda", "Echinodermata", "Cnidaria"],
+      "answerIndex": 2,
+      "explanation": "Tube feet of starfish and other echinoderms are operated by the water vascular system.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "phylum-echinodermata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-111",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "The stomochord of Balanoglossus is a structure of the",
+      "options": ["water vascular system", "proboscis (collar region support)", "cnidoblast", "radula ribbon"],
+      "answerIndex": 1,
+      "explanation": "Hemichordates have a buccal diverticulum (stomochord) in the proboscis, not a true notochord.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "phylum-hemichordata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-112",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Alternation of a sessile polyp and a free-swimming medusa generation (metagenesis) is typical of",
+      "options": ["Sycon", "Obelia", "Ascaris", "Pheretima"],
+      "answerIndex": 1,
+      "explanation": "Obelia (Cnidaria) shows metagenesis: asexual polyps and sexual medusae in the life cycle.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "phylum-cnidaria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-e-113",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Which combination of phylum and distinctive feature is incorrect?",
+      "options": [
+        "Porifera — canal system and spicules",
+        "Ctenophora — bioluminescence and comb plates",
+        "Arthropoda — haemocoel and Malpighian tubules in many insects",
+        "Echinodermata — closed circulation and bilateral adult"
+      ],
+      "answerIndex": 3,
+      "explanation": "Adult echinoderms are pentamerous radial; larvae are bilateral. Circulation is not a typical closed blood system like annelids.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "phylum-echinodermata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-101",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Triploblastic, bilateral, acoelomate animals belong to",
+      "options": ["Cnidaria", "Platyhelminthes", "Porifera", "Echinodermata adults"],
+      "answerIndex": 1,
+      "explanation": "Flatworms have three germ layers and no body cavity; cnidarians are diploblastic.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "symmetry-germ-layers-coelom",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-102",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Sycon, Spongilla and Euspongia are examples of",
+      "options": ["Cnidaria", "Porifera", "Ctenophora", "Hemichordata"],
+      "answerIndex": 1,
+      "explanation": "These genera are sponges with a canal system and skeleton of spicules or spongin.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phylum-porifera",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-103",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Physalia, Adamsia, Pennatula and Meandrina are placed in",
+      "options": ["Porifera", "Cnidaria", "Mollusca", "Echinodermata"],
+      "answerIndex": 1,
+      "explanation": "Portuguese man-of-war, sea anemone, sea pen and brain coral are cnidarians.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phylum-cnidaria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-104",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Pleurobrachia and Ctenoplana are marine animals that exhibit",
+      "options": [
+        "cnidoblasts and a polyp stage",
+        "bioluminescence and eight comb plates",
+        "a water vascular system",
+        "jointed legs and trachea"
+      ],
+      "answerIndex": 1,
+      "explanation": "These are ctenophores; they lack nematocysts of cnidarians and swim with comb plates.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phylum-ctenophora",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-105",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Planaria, Fasciola and Taenia share which feature?",
+      "options": [
+        "Pseudocoelom and complete gut always",
+        "Dorsoventrally flattened, mostly parasitic or free-living acoelomates",
+        "Jointed chitinous legs",
+        "Calcareous endoskeleton of ossicles"
+      ],
+      "answerIndex": 1,
+      "explanation": "They are platyhelminths: flat, triploblastic and without a coelom; many are parasites.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phylum-platyhelminthes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-106",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Ancylostoma and Wuchereria are members of",
+      "options": ["Platyhelminthes", "Aschelminthes (Nematoda)", "Annelida", "Arthropoda"],
+      "answerIndex": 1,
+      "explanation": "Hookworm and filarial worm are roundworms with a pseudocoelom and a complete alimentary canal.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phylum-aschelminthes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-107",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Nereis, Pheretima and Hirudinaria belong to a phylum that is",
+      "options": [
+        "pseudocoelomate and unsegmented",
+        "metamerically segmented and eucoelomate",
+        "diploblastic with nematocysts",
+        "radial as adults with tube feet"
+      ],
+      "answerIndex": 1,
+      "explanation": "Clamworm, earthworm and leech are annelids with true coelom and serial segmentation.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phylum-annelida",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-108",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Limulus, Locusta, Apis and Palaemon are all",
+      "options": ["molluscs", "arthropods", "annelids", "echinoderms"],
+      "answerIndex": 1,
+      "explanation": "King crab, locust, honeybee and prawn have jointed legs and a chitinous exoskeleton.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phylum-arthropoda",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-109",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Sepia, Octopus, Pinctada and Dentalium are examples of",
+      "options": ["Echinodermata", "Mollusca", "Hemichordata", "Ctenophora"],
+      "answerIndex": 1,
+      "explanation": "Cuttlefish, octopus, pearl oyster and tusk shell are molluscs with a mantle covering the visceral mass.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phylum-mollusca",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-110",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Asterias, Echinus, Antedon and Cucumaria belong to a phylum whose adults are",
+      "options": [
+        "bilaterally symmetrical with a radula",
+        "pentamerous radial with a calcareous endoskeleton",
+        "segmented with nephridia",
+        "diploblastic with a canal system"
+      ],
+      "answerIndex": 1,
+      "explanation": "Starfish, sea urchin, sea lily and sea cucumber are echinoderms; larvae are bilateral.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "phylum-echinodermata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-111",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "The larva of Balanoglossus that resembles an echinoderm larva is the",
+      "options": ["trochophore", "tornaria", "nauplius", "glochidium"],
+      "answerIndex": 1,
+      "explanation": "Tornaria of hemichordates is similar to the bipinnaria of echinoderms, supporting a deuterostome link.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "phylum-hemichordata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-112",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Open circulatory system with haemocoel is a feature of",
+      "options": ["Annelida and Chordata", "Arthropoda and Mollusca", "Porifera only", "Platyhelminthes"],
+      "answerIndex": 1,
+      "explanation": "Arthropods and most molluscs have an open system; annelids and vertebrates have a closed system.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "phylum-arthropoda",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ad1-n-113",
+      "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+      "stem": "Among invertebrate phyla, which statement is incorrect?",
+      "options": [
+        "Sponges are hermaphrodite and show internal fertilisation in many species",
+        "Cnidarians are diploblastic with a gastrovascular cavity",
+        "Nematodes are dioecious with sexual dimorphism often marked",
+        "Hemichordates possess a true notochord throughout life"
+      ],
+      "answerIndex": 3,
+      "explanation": "The stomochord is not a notochord; hemichordates are a separate invertebrate phylum.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "phylum-hemichordata",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

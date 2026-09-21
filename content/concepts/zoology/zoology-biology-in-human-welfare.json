@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-biology-in-human-welfare",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "pathogens-and-parasites",
+      "label": "Pathogens, parasites and modes of transmission",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "entamoeba-amoebiasis",
+      "label": "Entamoeba histolytica and amoebiasis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "plasmodium-malaria",
+      "label": "Plasmodium life cycle and malaria",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ascaris-ascariasis",
+      "label": "Ascaris lumbricoides and ascariasis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "wuchereria-filariasis",
+      "label": "Wuchereria bancrofti and filariasis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "bacterial-diseases",
+      "label": "Typhoid, pneumonia and other bacterial diseases",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "viral-diseases",
+      "label": "Common cold, AIDS and other viral diseases",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "fungal-ringworm",
+      "label": "Ringworm and fungal skin infections",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "vectors-and-hosts",
+      "label": "Insect vectors and intermediate hosts",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "immunity-and-vaccines",
+      "label": "Immunity, antibodies and vaccination",
+      "examHot": ["neet"]
+    }
+  ]
+}

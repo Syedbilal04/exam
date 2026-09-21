@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-neural-control-and-coordination",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "synapse-neurotransmitters",
+      "label": "Chemical synapse and neurotransmitters",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "resting-action-potential",
+      "label": "Resting membrane and action potential",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "eye-structure-vision",
+      "label": "Eye parts, photoreceptors and common defects",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "neuron-structure",
+      "label": "Neuron parts, myelin and nodes of Ranvier",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "cns-brain-parts",
+      "label": "Forebrain, midbrain and hindbrain functions",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "spinal-reflex",
+      "label": "Spinal cord and reflex arc",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "ans-divisions",
+      "label": "Sympathetic and parasympathetic divisions",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "ear-hearing-balance",
+      "label": "Ear parts, organ of Corti and equilibrium",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "meninges-csf",
+      "label": "Meninges and cerebrospinal fluid",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "impulse-conduction",
+      "label": "Saltatory conduction and synapse types",
+      "examHot": ["neet"]
+    }
+  ]
+}

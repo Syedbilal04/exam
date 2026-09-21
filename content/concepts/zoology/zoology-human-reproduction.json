@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-human-reproduction",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "male-reproductive-system",
+      "label": "Male reproductive organs, accessory glands and testicular cells",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "female-reproductive-system",
+      "label": "Female reproductive organs and uterine layers",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "spermatogenesis",
+      "label": "Spermatogenesis, spermiogenesis and sperm structure",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "oogenesis",
+      "label": "Oogenesis, polar bodies and meiotic arrest",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "menstrual-cycle",
+      "label": "Menstrual cycle hormones, ovulation and corpus luteum",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "fertilisation-events",
+      "label": "Capacitation, acrosome reaction and fusion of gametes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "implantation-and-blastocyst",
+      "label": "Cleavage, blastocyst layers and implantation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pregnancy-and-placenta",
+      "label": "Placenta as an endocrine organ and maintenance of pregnancy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "embryonic-development",
+      "label": "Gastrulation, germ layers and extra-embryonic membranes",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "parturition-and-lactation",
+      "label": "Parturition hormones, lactation and colostrum",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

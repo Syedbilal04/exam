@@ -1,0 +1,406 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Organic Evolution",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-ev-e-101",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "In the Miller–Urey spark-discharge experiment the simulated atmosphere included",
+      "options": [
+        "methane, ammonia, hydrogen and water vapour",
+        "only oxygen and nitrogen",
+        "only carbon dioxide and ozone",
+        "glucose and starch vapours"
+      ],
+      "answerIndex": 0,
+      "explanation": "Miller passed sparks through a reducing mix of CH4, NH3, H2 and steam and recovered amino acids.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "origin-of-life",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-102",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Lamarck's idea that organs used become stronger and unused ones weaken is called",
+      "options": ["use and disuse", "natural selection", "genetic drift", "Hardy–Weinberg equilibrium"],
+      "answerIndex": 0,
+      "explanation": "Use and disuse, plus inheritance of the resulting acquired characters, is the core of Lamarckism.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "lamarckism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-103",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "According to Darwin, populations become better matched to their environment mainly by",
+      "options": [
+        "natural selection",
+        "inheritance of stretched organs",
+        "directed mutation toward a need",
+        "sudden saltation alone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Individuals with heritable advantages leave more offspring, so adaptive traits increase.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "darwin-natural-selection",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-104",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Hugo de Vries proposed that new species can arise suddenly through",
+      "options": ["mutation (saltation)", "gradual use of organs", "continental drift", "Batesian mimicry"],
+      "answerIndex": 0,
+      "explanation": "De Vries, working on evening primrose, treated large mutations as the origin of species.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "mutation-and-synthetic-theory",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-105",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Homologous organs are taken as evidence of",
+      "options": [
+        "common ancestry even if functions differ",
+        "identical function with no shared origin",
+        "no evolutionary relationship",
+        "vestigial status in every case"
+      ],
+      "answerIndex": 0,
+      "explanation": "Similar plan and embryonic origin (for example pentadactyl limbs) indicate divergence from a common ancestor.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "homologous-organs",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-106",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Wings of a butterfly and a bird are classified as",
+      "options": [
+        "analogous organs",
+        "homologous bones of identical origin",
+        "vestigial structures in both groups",
+        "connecting-link fossils"
+      ],
+      "answerIndex": 0,
+      "explanation": "They serve flight but arise from different structures, a case of analogy.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "analogous-and-convergent",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-107",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Archaeopteryx is treated as a connecting link between",
+      "options": ["reptiles and birds", "fishes and amphibians", "amphibians and reptiles", "monkeys and apes"],
+      "answerIndex": 0,
+      "explanation": "It combined feathers and wings with teeth, a long tail and claws on the forelimb.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "vestigial-and-fossils",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-108",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "For a two-allele autosomal locus in Hardy–Weinberg equilibrium, allele frequencies satisfy",
+      "options": ["p + q = 1", "p + q = 0", "p squared always equals q", "2pq is always 1"],
+      "answerIndex": 0,
+      "explanation": "The two alleles exhaust the gene pool, so their frequencies sum to one; genotypes are p², 2pq and q².",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "hardy-weinberg",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-109",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Origin of new species after a geographic barrier splits a population is called",
+      "options": [
+        "allopatric speciation",
+        "sympatric polyploidy only",
+        "Lamarckian use of organs",
+        "Hardy–Weinberg stasis"
+      ],
+      "answerIndex": 0,
+      "explanation": "Physical isolation allows independent genetic change until reproductive isolation is complete.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "speciation-and-isolation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-110",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Darwin's finches of the Galápagos Islands are a textbook case of",
+      "options": ["adaptive radiation", "Lamarckism", "Hardy–Weinberg stasis", "vestigial organs"],
+      "answerIndex": 0,
+      "explanation": "One ancestral stock diversified into many beak types occupying different niches.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "adaptive-radiation-and-human-evolution",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-111",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Oparin and Haldane independently suggested that life began in a",
+      "options": [
+        "reducing atmosphere of primitive Earth",
+        "oxygen-rich atmosphere like today's",
+        "dry surface of the Moon",
+        "boiling atmosphere of pure oxygen"
+      ],
+      "answerIndex": 0,
+      "explanation": "A reducing mix allowed abiotic synthesis of organic monomers that accumulated in a 'soup'.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "origin-of-life",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-112",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Which claim would Lamarck have accepted but modern genetics rejects?",
+      "options": [
+        "acquired characters are inherited",
+        "mutation supplies heritable variation",
+        "natural selection can change populations",
+        "fossils record past life"
+      ],
+      "answerIndex": 0,
+      "explanation": "Stretching or use during an individual's life does not rewrite the germline DNA passed to offspring.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "lamarckism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-e-113",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "If q squared equals 0.16 for an autosomal recessive trait at equilibrium, the frequency of heterozygotes is",
+      "options": ["0.48", "0.16", "0.04", "0.84"],
+      "answerIndex": 0,
+      "explanation": "q = 0.4, so p = 0.6 and 2pq = 2 × 0.6 × 0.4 = 0.48.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "hardy-weinberg",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-101",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Amino acids appeared in Miller's apparatus because the experimental atmosphere lacked",
+      "options": ["free oxygen", "water vapour", "methane", "hydrogen"],
+      "answerIndex": 0,
+      "explanation": "Free O2 would have oxidised precursors; the classic mix was reducing (CH4, NH3, H2, steam).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "origin-of-life",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-102",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Explaining a giraffe's long neck by stretching during life and then passing that length to offspring is",
+      "options": [
+        "a Lamarckian argument",
+        "Darwinian selection of preexisting variants",
+        "a Hardy–Weinberg identity",
+        "a method of radiometric dating"
+      ],
+      "answerIndex": 0,
+      "explanation": "Inheritance of acquired characters is Lamarck's mechanism, not selection among heritable variants.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "lamarckism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-103",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Industrial melanism in Biston betularia is cited as field evidence for",
+      "options": [
+        "natural selection",
+        "inheritance of soot particles",
+        "Lamarckian stretching of wings",
+        "de Vries saltation as the only cause"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dark moths were better camouflaged on sooty bark and increased under selection by birds.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "darwin-natural-selection",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-104",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "The modern synthetic theory of evolution combines Darwinian selection with",
+      "options": [
+        "Mendelian genetics and mutation",
+        "catastrophism alone",
+        "use and disuse of organs",
+        "panspermia from comets only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Neo-Darwinism treats mutation, recombination, selection, drift and isolation as joint causes.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "mutation-and-synthetic-theory",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-105",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Forelimbs of whale, bat and cheetah share a pentadactyl skeleton and are therefore",
+      "options": ["homologous", "analogous", "vestigial in all three", "acquired characters"],
+      "answerIndex": 0,
+      "explanation": "The same bone plan modified for swimming, flying and running is homology (divergent evolution).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "homologous-organs",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-106",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Analogous organs arise mainly through",
+      "options": [
+        "convergent evolution",
+        "divergent evolution of one ancestral organ",
+        "genetic drift in infinite populations",
+        "vestigial reduction of unused parts"
+      ],
+      "answerIndex": 0,
+      "explanation": "Unrelated lineages facing similar demands evolve similar functions from different origins.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "analogous-and-convergent",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-107",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "The human vermiform appendix is commonly cited as a",
+      "options": [
+        "vestigial organ",
+        "homologous gill slit of fishes",
+        "analogous insect wing",
+        "connecting-link fossil"
+      ],
+      "answerIndex": 0,
+      "explanation": "It is a reduced remnant of a larger caecum and has no essential digestive role in humans.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "vestigial-and-fossils",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-108",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Random mating in a very large population with no selection, mutation or migration tends to keep",
+      "options": [
+        "allele frequencies constant",
+        "only dominant alleles in the pool",
+        "the mutation rate infinite",
+        "gene flow mandatory every generation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Those are the Hardy–Weinberg conditions under which p and q do not change.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "hardy-weinberg",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-109",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Reproductive isolation is essential for the",
+      "options": [
+        "completion of speciation",
+        "inheritance of acquired characters",
+        "Miller synthesis of amino acids",
+        "industrial melanism of a single gene pool"
+      ],
+      "answerIndex": 0,
+      "explanation": "Once gene flow is blocked, diverging populations become separate biological species.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "speciation-and-isolation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-110",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Australopithecus is placed on the human evolutionary line mainly because it",
+      "options": [
+        "walked upright and had a larger brain than contemporary apes",
+        "possessed flight feathers",
+        "was fully aquatic",
+        "lacked a cranium"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bipedal australopithecines are early hominins connecting ape-like ancestors to later Homo.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "adaptive-radiation-and-human-evolution",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-111",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "According to Oparin, the atmosphere of primitive Earth was",
+      "options": ["reducing", "strongly oxidising", "identical to today's air", "rich only in ozone"],
+      "answerIndex": 0,
+      "explanation": "A reducing mix of hydrogen-rich gases was postulated to allow abiotic organic synthesis.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "origin-of-life",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-112",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Which of the following is not a tenet of Lamarckism?",
+      "options": [
+        "survival of the fittest among preexisting heritable variants",
+        "use and disuse of organs",
+        "inheritance of acquired characters",
+        "an inner vital force driving greater complexity"
+      ],
+      "answerIndex": 0,
+      "explanation": "Differential survival of preexisting variants is Darwinian; Lamarck invoked use, disuse and acquired inheritance.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "lamarckism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ev-n-113",
+      "chapterId": "zoology-organic-evolution",
+      "stem": "Random change of allele frequencies is strongest in",
+      "options": [
+        "small populations",
+        "infinitely large panmictic populations",
+        "clones that have no genetic variation",
+        "ideal Hardy–Weinberg populations of infinite size"
+      ],
+      "answerIndex": 0,
+      "explanation": "Genetic drift (sampling error) has large effects when N is small.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "hardy-weinberg",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

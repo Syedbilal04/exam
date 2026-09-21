@@ -1,0 +1,381 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Endocrine System and Chemical Coordination",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-en-e-101",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Oxytocin and ADH are synthesised in the hypothalamus and released from the",
+      "options": ["anterior pituitary", "posterior pituitary", "pineal gland", "adrenal cortex"],
+      "answerIndex": 1,
+      "explanation": "The neurohypophysis stores and secretes hypothalamic ADH and oxytocin; it does not make them.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "hypothalamus-pituitary",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-102",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Insulin is secreted by the beta cells of the islets of Langerhans and it",
+      "options": [
+        "raises blood glucose",
+        "lowers blood glucose",
+        "stimulates glucagon release only",
+        "is a steroid from the adrenal cortex"
+      ],
+      "answerIndex": 1,
+      "explanation": "Insulin promotes glucose uptake and glycogen storage, reducing plasma glucose.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pancreas-insulin-glucagon",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-103",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Thyroxine (T4) and tri-iodothyronine (T3) are iodinated hormones of the",
+      "options": ["parathyroid chief cells", "thyroid follicles", "adrenal medulla", "posterior pituitary"],
+      "answerIndex": 1,
+      "explanation": "Follicular cells make T3/T4; C cells make calcitonin; iodine is essential for T3/T4.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "thyroid-hormones",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-104",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "The emergency hormones adrenaline and noradrenaline are secreted by the",
+      "options": ["adrenal cortex", "adrenal medulla", "thyroid C cells", "thymus"],
+      "answerIndex": 1,
+      "explanation": "Medullary chromaffin cells release catecholamines during fight-or-flight.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "adrenal-cortex-medulla",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-105",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Parathyroid hormone raises blood calcium mainly by stimulating",
+      "options": [
+        "bone deposition and more renal Ca2+ loss",
+        "bone resorption and renal Ca2+ reabsorption",
+        "calcitonin secretion from beta cells",
+        "iodine uptake by the thyroid"
+      ],
+      "answerIndex": 1,
+      "explanation": "PTH mobilises bone Ca2+, saves Ca2+ in the kidney and activates vitamin D.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "parathyroid-calcium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-106",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Melatonin, which influences the diurnal rhythm, is secreted by the",
+      "options": ["thymus", "pineal gland", "parathyroid", "gastric mucosa"],
+      "answerIndex": 1,
+      "explanation": "The pineal gland releases melatonin in darkness and helps set sleep–wake cycles.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "gonadal-pineal-thymus",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-107",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Erythropoietin, which stimulates RBC formation, is produced mainly by the",
+      "options": ["spleen", "kidney", "thyroid", "pancreas"],
+      "answerIndex": 1,
+      "explanation": "Renal erythropoietin rises when oxygen delivery to the kidney is low.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "local-hormones",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-108",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Peptide hormones typically act by binding receptors on the cell membrane and generating",
+      "options": [
+        "a second messenger such as cAMP",
+        "a new gene inside the nucleus without any receptor",
+        "iodine from tyrosine only",
+        "an action potential in bone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Water-soluble hormones use membrane receptors and intracellular messengers; steroids enter the cell.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "hormone-action-mechanism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-109",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Deficiency of insulin leading to high blood sugar is called",
+      "options": ["diabetes insipidus", "diabetes mellitus", "cretinism", "Addison's disease"],
+      "answerIndex": 1,
+      "explanation": "Diabetes mellitus is insulin lack or resistance; diabetes insipidus is ADH deficiency.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "endocrine-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-110",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Steroid hormones such as cortisol and testosterone are chemically derived from",
+      "options": ["amino acids only", "cholesterol", "nucleotides", "iodine"],
+      "answerIndex": 1,
+      "explanation": "Adrenal cortical and gonadal steroids share a cholesterol skeleton.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "endocrine-glands-overview",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-111",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Growth hormone (somatotropin) is secreted by the",
+      "options": ["posterior pituitary", "anterior pituitary", "adrenal medulla", "pineal only"],
+      "answerIndex": 1,
+      "explanation": "Adenohypophysis secretes GH, PRL, TSH, ACTH, FSH, LH and MSH.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "hypothalamus-pituitary",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-112",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Glucagon from pancreatic alpha cells",
+      "options": [
+        "lowers blood glucose by promoting glycogenesis",
+        "raises blood glucose by promoting glycogenolysis",
+        "is identical in action to insulin",
+        "is stored in the gall bladder"
+      ],
+      "answerIndex": 1,
+      "explanation": "Glucagon is insulin's antagonist: it frees glucose from liver glycogen.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "pancreas-insulin-glucagon",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-e-113",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Calcitonin from thyroid C cells lowers plasma Ca2+, whereas PTH raises it. After a calcium-rich meal one would expect",
+      "options": [
+        "more PTH and less calcitonin",
+        "more calcitonin and less PTH",
+        "more ADH and less oxytocin",
+        "more glucagon and no change in Ca2+ hormones"
+      ],
+      "answerIndex": 1,
+      "explanation": "High blood Ca2+ stimulates C cells and suppresses parathyroid secretion.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "thyroid-hormones",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-101",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Releasing and inhibiting hormones reach the anterior pituitary through the",
+      "options": [
+        "systemic aorta only",
+        "hypothalamo-hypophyseal portal veins",
+        "bile duct",
+        "ureter"
+      ],
+      "answerIndex": 1,
+      "explanation": "A portal system carries hypothalamic peptides to adenohypophyseal cells.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "hypothalamus-pituitary",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-102",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Which pancreatic cell type secretes somatostatin?",
+      "options": ["Alpha cells", "Beta cells", "Delta cells", "Acinar cells"],
+      "answerIndex": 2,
+      "explanation": "Delta cells make somatostatin, which inhibits both insulin and glucagon; acini are exocrine.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pancreas-insulin-glucagon",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-103",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "A dietary iodine deficiency commonly produces",
+      "options": ["exophthalmic goitre from excess T4 only", "simple (endemic) goitre", "diabetes mellitus", "tetany"],
+      "answerIndex": 1,
+      "explanation": "Low iodine cuts T3/T4, TSH rises, and the thyroid enlarges (colloid goitre).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "thyroid-hormones",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-104",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Aldosterone, a mineralocorticoid that saves Na+ and raises blood volume, is produced in the",
+      "options": ["zona glomerulosa of the adrenal cortex", "adrenal medulla", "posterior pituitary", "pineal"],
+      "answerIndex": 0,
+      "explanation": "Zona glomerulosa makes aldosterone; fasciculata makes cortisol; reticularis makes androgens.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "adrenal-cortex-medulla",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-105",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Hypoparathyroidism can cause tetany because of a fall in",
+      "options": ["blood glucose", "plasma Ca2+", "plasma Na+ only", "iodine"],
+      "answerIndex": 1,
+      "explanation": "Low Ca2+ increases neuromuscular excitability, producing painful spasms.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "parathyroid-calcium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-106",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Thymosins from the thymus are important for",
+      "options": [
+        "maturation of T-lymphocytes",
+        "milk ejection",
+        "dark-adaptation of rods",
+        "concentrating urine"
+      ],
+      "answerIndex": 0,
+      "explanation": "The thymus is large in children and programs cell-mediated immunity.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "gonadal-pineal-thymus",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-107",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Atrial natriuretic factor is a hormone of the heart that",
+      "options": [
+        "raises blood pressure by saving Na+",
+        "lowers blood pressure by promoting Na+ excretion",
+        "stimulates RBC formation",
+        "causes milk ejection"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stretched atria release ANF, which is natriuretic and vasodilator.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "local-hormones",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-108",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Steroid and thyroid hormones typically act by",
+      "options": [
+        "binding intracellular receptors that alter gene transcription",
+        "opening only ligand-gated Na+ channels at the NMJ",
+        "being stored in synaptic vesicles",
+        "activating carbonic anhydrase in RBCs"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lipid-soluble hormones cross membranes and regulate DNA transcription.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "hormone-action-mechanism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-109",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Excess GH after epiphyseal closure produces",
+      "options": ["dwarfism", "gigantism", "acromegaly", "cretinism"],
+      "answerIndex": 2,
+      "explanation": "In adults GH overgrowth thickens hands, feet and face (acromegaly); before puberty it causes gigantism.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "endocrine-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-110",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Which of the following is not an endocrine gland?",
+      "options": ["Pituitary", "Adrenal", "Salivary gland", "Thyroid"],
+      "answerIndex": 2,
+      "explanation": "Salivary glands are exocrine; they pour saliva through ducts, not hormones into blood.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "endocrine-glands-overview",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-111",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Which anterior-pituitary hormone is incorrectly matched with its target?",
+      "options": [
+        "TSH — thyroid",
+        "ACTH — adrenal cortex",
+        "FSH — gonads",
+        "ADH — kidney collecting duct (from adenohypophysis)"
+      ],
+      "answerIndex": 3,
+      "explanation": "ADH is released from the posterior pituitary, not manufactured as an anterior-lobe tropic hormone.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "hypothalamus-pituitary",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-112",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Which statement about insulin and glucagon is incorrect?",
+      "options": [
+        "They are peptide hormones of the islets",
+        "They have opposite effects on blood glucose",
+        "Insulin is from beta cells and glucagon from alpha cells",
+        "Both are secreted by the adrenal medulla"
+      ],
+      "answerIndex": 3,
+      "explanation": "Islet hormones are pancreatic; the medulla secretes catecholamines.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "pancreas-insulin-glucagon",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-en-n-113",
+      "chapterId": "zoology-endocrine-system-and-chemical-coordination",
+      "stem": "Identify the incorrect hormone–gland–action set.",
+      "options": [
+        "T3/T4 — thyroid follicle — raise BMR",
+        "Calcitonin — C cells — lower plasma Ca2+",
+        "PTH — parathyroid — raise plasma Ca2+",
+        "T3/T4 — parathyroid — lower plasma iodine by depositing bone"
+      ],
+      "answerIndex": 3,
+      "explanation": "T3/T4 come from thyroid follicles and control metabolism, not from parathyroids or bone deposition.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "thyroid-hormones",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Enzymes",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-enz-e-101",
+      "chapterId": "botany-enzymes",
+      "stem": "Almost all enzymes in living cells are chemically",
+      "options": ["proteins", "simple lipids", "free mineral salts", "storage starch"],
+      "answerIndex": 0,
+      "explanation": "Most enzymes are proteins; a few catalytic RNAs (ribozymes) are the exception.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-chemical-nature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-102",
+      "chapterId": "botany-enzymes",
+      "stem": "An enzyme speeds a metabolic reaction mainly by",
+      "options": [
+        "raising the activation energy",
+        "lowering the activation energy",
+        "changing the overall equilibrium constant",
+        "adding heat until the mixture boils"
+      ],
+      "answerIndex": 1,
+      "explanation": "The catalyst lowers the energy barrier so more molecules react at cell temperature.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-activation-energy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-103",
+      "chapterId": "botany-enzymes",
+      "stem": "The pocket on an enzyme that binds the substrate is called the",
+      "options": ["allosteric groove", "active site", "nuclear pore", "plasmodesma"],
+      "answerIndex": 1,
+      "explanation": "Substrate binds at the active site to form a transient enzyme–substrate complex.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-mechanism-es",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-104",
+      "chapterId": "botany-enzymes",
+      "stem": "Above a high temperature, enzyme activity falls sharply because the protein is",
+      "options": ["activated", "denatured", "phosphorylated", "diluted"],
+      "answerIndex": 1,
+      "explanation": "Heat unfolds the tertiary structure, so the active site is lost.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-factors-temp-ph",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-105",
+      "chapterId": "botany-enzymes",
+      "stem": "Km of an enzyme is the substrate concentration at which velocity is",
+      "options": ["zero", "equal to Vmax", "half of Vmax", "twice Vmax"],
+      "answerIndex": 2,
+      "explanation": "Michaelis constant Km equals [S] at 1/2 Vmax and is an inverse measure of affinity.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-km-substrate",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-106",
+      "chapterId": "botany-enzymes",
+      "stem": "A competitive inhibitor usually resembles the enzyme's",
+      "options": ["product only", "prosthetic metal", "substrate", "ribosome"],
+      "answerIndex": 2,
+      "explanation": "It occupies the active site because it is structurally similar to the substrate.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-inhibition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-107",
+      "chapterId": "botany-enzymes",
+      "stem": "Enzymes that catalyse hydrolysis of bonds are placed in the class",
+      "options": ["ligases", "lyases", "hydrolases", "isomerases"],
+      "answerIndex": 2,
+      "explanation": "Hydrolases add water to cleave bonds (e.g. peptidases, amylase).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-six-classes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-108",
+      "chapterId": "botany-enzymes",
+      "stem": "A loosely bound organic helper that leaves after catalysis is a",
+      "options": ["prosthetic group", "apoenzyme", "coenzyme", "holoenzyme"],
+      "answerIndex": 2,
+      "explanation": "Coenzymes such as NAD, NADP and CoA bind transiently; prosthetic groups stay tightly attached.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-cofactors",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-109",
+      "chapterId": "botany-enzymes",
+      "stem": "The suffix commonly used in systematic enzyme names is",
+      "options": ["-ose", "-ase", "-in", "-ol"],
+      "answerIndex": 1,
+      "explanation": "Enzyme names typically end in -ase (hexokinase, dehydrogenase).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-specificity",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-110",
+      "chapterId": "botany-enzymes",
+      "stem": "Feedback inhibition typically means the end product of a pathway",
+      "options": [
+        "activates the last enzyme only",
+        "inhibits an earlier enzyme of the same path",
+        "destroys the original substrate",
+        "raises Km of every enzyme in the cell"
+      ],
+      "answerIndex": 1,
+      "explanation": "The end product binds an early (often allosteric) enzyme and slows its own synthesis.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "enzyme-allosteric-feedback",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-111",
+      "chapterId": "botany-enzymes",
+      "stem": "Competitive inhibition of an enzyme can be overcome by",
+      "options": [
+        "raising the substrate concentration",
+        "removing every cofactor",
+        "boiling the reaction mixture",
+        "dropping the pH to 1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Extra substrate outcompetes the inhibitor at the active site; Vmax can still be reached.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "enzyme-inhibition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-112",
+      "chapterId": "botany-enzymes",
+      "stem": "Each enzyme has a characteristic pH optimum because",
+      "options": [
+        "pH never affects protein charge",
+        "ionisation of active-site residues changes with pH",
+        "enzymes work only at pH 7 in every tissue",
+        "pH replaces the need for a substrate"
+      ],
+      "answerIndex": 1,
+      "explanation": "Charge on catalytic residues and the substrate depends on pH, so binding and catalysis peak at one value.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "enzyme-factors-temp-ph",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-e-113",
+      "chapterId": "botany-enzymes",
+      "stem": "A low Km value for a given substrate indicates that the enzyme has",
+      "options": [
+        "low affinity for that substrate",
+        "high affinity for that substrate",
+        "no active site",
+        "infinite Vmax only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Half-maximal speed is reached at a low [S], so the enzyme binds that substrate tightly.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "enzyme-km-substrate",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-101",
+      "chapterId": "botany-enzymes",
+      "stem": "Ribozymes differ from most cellular enzymes because they are",
+      "options": [
+        "catalytic RNA molecules",
+        "always lipid catalysts",
+        "inorganic metal crystals",
+        "carbohydrate hydrolases only"
+      ],
+      "answerIndex": 0,
+      "explanation": "23S rRNA and RNase P are RNA catalysts; nearly all other enzymes are proteins.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-chemical-nature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-102",
+      "chapterId": "botany-enzymes",
+      "stem": "On an energy-profile diagram the enzyme-catalysed path shows a",
+      "options": [
+        "higher activation barrier",
+        "lower activation barrier",
+        "changed overall free-energy difference of the reaction",
+        "need for boiling the reactants"
+      ],
+      "answerIndex": 1,
+      "explanation": "Enzymes lower Ea but do not alter ΔG or the equilibrium position of the reaction.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-activation-energy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-103",
+      "chapterId": "botany-enzymes",
+      "stem": "According to the induced-fit idea, substrate binding",
+      "options": [
+        "never changes enzyme shape",
+        "slightly alters the active-site conformation",
+        "destroys the enzyme permanently",
+        "occurs only on membranes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Koshland’s induced fit: the active site moulds around the substrate for better catalysis.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-mechanism-es",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-104",
+      "chapterId": "botany-enzymes",
+      "stem": "A typical human enzyme shows peak activity near",
+      "options": ["0 °C", "body temperature (about 37 °C)", "100 °C", "−20 °C"],
+      "answerIndex": 1,
+      "explanation": "Animal enzymes are usually optimised near 37 °C; higher heat denatures them.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-factors-temp-ph",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-105",
+      "chapterId": "botany-enzymes",
+      "stem": "If substrate is increased while enzyme amount is fixed, velocity",
+      "options": [
+        "rises then plateaus at Vmax",
+        "falls linearly to zero",
+        "stays exactly constant from the start",
+        "becomes infinite"
+      ],
+      "answerIndex": 0,
+      "explanation": "Once every active site is occupied, extra substrate cannot raise the rate further.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-km-substrate",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-106",
+      "chapterId": "botany-enzymes",
+      "stem": "A non-competitive inhibitor typically binds",
+      "options": [
+        "only to free substrate",
+        "at a site other than the active site",
+        "exclusively to the product",
+        "to DNA instead of protein"
+      ],
+      "answerIndex": 1,
+      "explanation": "It changes enzyme shape from a second site, so Vmax falls and extra substrate cannot fully rescue activity.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-inhibition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-107",
+      "chapterId": "botany-enzymes",
+      "stem": "Transferases are enzymes that",
+      "options": [
+        "join two molecules using ATP",
+        "move a group from one molecule to another",
+        "hydrolyse peptide bonds",
+        "rearrange atoms within one molecule"
+      ],
+      "answerIndex": 1,
+      "explanation": "Transferases shift a functional group (e.g. kinases transfer phosphate).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-six-classes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-108",
+      "chapterId": "botany-enzymes",
+      "stem": "The complete catalytically active enzyme plus its cofactor is the",
+      "options": ["apoenzyme", "holoenzyme", "zymogen only", "ribozyme"],
+      "answerIndex": 1,
+      "explanation": "Apoenzyme is the protein alone; holoenzyme is protein + cofactor.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-cofactors",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-109",
+      "chapterId": "botany-enzymes",
+      "stem": "Lock-and-key specificity means an enzyme",
+      "options": [
+        "acts equally on many unrelated substrates",
+        "acts on one substrate or a few closely related ones",
+        "has no active site",
+        "works only in ice"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fischer’s lock-and-key picture explains why each enzyme recognises a particular substrate shape.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "enzyme-specificity",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-110",
+      "chapterId": "botany-enzymes",
+      "stem": "An allosteric modulator binds",
+      "options": [
+        "covalently to every peptide bond",
+        "reversibly at a site distinct from the active site",
+        "only to the substrate in free solution",
+        "exclusively to ribosomes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Allosteric effectors change activity by binding a regulatory site, not the catalytic pocket.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "enzyme-allosteric-feedback",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-111",
+      "chapterId": "botany-enzymes",
+      "stem": "Which statement about competitive inhibition is correct?",
+      "options": [
+        "Vmax decreases and Km is unchanged",
+        "Vmax is unchanged but apparent Km increases",
+        "both Vmax and Km fall to zero",
+        "the inhibitor binds only after the product leaves"
+      ],
+      "answerIndex": 1,
+      "explanation": "More substrate is needed to reach the same Vmax, so apparent Km rises; Vmax itself is unchanged.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "enzyme-inhibition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-112",
+      "chapterId": "botany-enzymes",
+      "stem": "Haem that remains tightly attached to catalase is best called a",
+      "options": [
+        "loosely bound coenzyme",
+        "prosthetic group",
+        "metal-free apoenzyme",
+        "competitive inhibitor"
+      ],
+      "answerIndex": 1,
+      "explanation": "A prosthetic group is an organic cofactor bound permanently (or very tightly) to the protein.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "enzyme-cofactors",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-enz-n-113",
+      "chapterId": "botany-enzymes",
+      "stem": "Which pairing of enzyme class and reaction type is incorrect?",
+      "options": [
+        "Ligases — bond formation coupled to ATP",
+        "Lyases — group removal without hydrolysis",
+        "Isomerases — intramolecular rearrangement",
+        "Hydrolases — oxidation–reduction of substrates"
+      ],
+      "answerIndex": 3,
+      "explanation": "Redox reactions are catalysed by oxidoreductases; hydrolases cleave bonds by adding water.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "enzyme-six-classes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

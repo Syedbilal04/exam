@@ -1,0 +1,2966 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "ASTRA physics spread set",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "phy-osc-101",
+      "chapterId": "physics-oscillations",
+      "stem": "The time period of a simple pendulum of length L on Earth is T. On a planet where g is four times that on Earth, the period becomes",
+      "options": [
+        "T/2",
+        "T/4",
+        "2T",
+        "4T"
+      ],
+      "answerIndex": 0,
+      "explanation": "T = 2π√(L/g). If g → 4g, T → T/2.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-osc-102",
+      "chapterId": "physics-oscillations",
+      "stem": "For a particle in SHM, the acceleration is maximum when the displacement from the mean position is",
+      "options": [
+        "zero",
+        "maximum",
+        "half the amplitude",
+        "one-fourth the amplitude"
+      ],
+      "answerIndex": 1,
+      "explanation": "a = −ω²x, so |a| is largest at extreme displacement.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-osc-103",
+      "chapterId": "physics-oscillations",
+      "stem": "The phase difference between displacement and velocity in SHM is",
+      "options": [
+        "0",
+        "π/4",
+        "π/2",
+        "π"
+      ],
+      "answerIndex": 2,
+      "explanation": "v = ω√(A² − x²); velocity leads displacement by π/2.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2015,
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-osc-104",
+      "chapterId": "physics-oscillations",
+      "stem": "A spring of force constant k is cut into two equal parts. The force constant of each part is",
+      "options": [
+        "k/2",
+        "k",
+        "2k",
+        "4k"
+      ],
+      "answerIndex": 2,
+      "explanation": "For series halves, each has length L/2 so k' = 2k.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2019,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-osc-105",
+      "chapterId": "physics-oscillations",
+      "stem": "In damped oscillations, the amplitude decreases exponentially with time because of",
+      "options": [
+        "increasing mass",
+        "decreasing spring constant",
+        "dissipative forces",
+        "increasing driving frequency"
+      ],
+      "answerIndex": 2,
+      "explanation": "Friction/viscous drag remove energy, so amplitude decays.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-kt-101",
+      "chapterId": "physics-kinetic-theory",
+      "stem": "The rms speed of oxygen molecules at temperature T is v. At temperature 4T it becomes",
+      "options": [
+        "v/2",
+        "v",
+        "2v",
+        "4v"
+      ],
+      "answerIndex": 2,
+      "explanation": "v_rms ∝ √T, so at 4T the rms speed is 2v.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-kt-102",
+      "chapterId": "physics-kinetic-theory",
+      "stem": "According to the kinetic theory of gases, the absolute temperature of an ideal gas is proportional to the",
+      "options": [
+        "average potential energy of molecules",
+        "average kinetic energy of molecules",
+        "total number of molecules only",
+        "volume occupied by molecules"
+      ],
+      "answerIndex": 1,
+      "explanation": "(1/2)m⟨v²⟩ = (3/2)kT for translational KE.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-kt-103",
+      "chapterId": "physics-kinetic-theory",
+      "stem": "The pressure exerted by an ideal gas is proportional to",
+      "options": [
+        "mean speed of molecules",
+        "mean square speed of molecules",
+        "square of mean speed of molecules",
+        "root mean square of reciprocal speeds"
+      ],
+      "answerIndex": 1,
+      "explanation": "P = (1/3)ρ⟨v²⟩, so P ∝ mean square speed.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-kt-104",
+      "chapterId": "physics-kinetic-theory",
+      "stem": "The degrees of freedom for a diatomic gas molecule at room temperature (ignoring vibration) is",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 1,
+      "explanation": "3 translational + 2 rotational = 5.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-kt-105",
+      "chapterId": "physics-kinetic-theory",
+      "stem": "Mean free path of gas molecules is inversely proportional to",
+      "options": [
+        "square of molecular diameter and number density",
+        "temperature only",
+        "molecular mass only",
+        "rms speed only"
+      ],
+      "answerIndex": 0,
+      "explanation": "λ = 1/(√2 π d² n), so λ ∝ 1/(d² n).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-se-101",
+      "chapterId": "physics-semiconductor-electronics",
+      "stem": "In an n-type semiconductor, the majority charge carriers are",
+      "options": [
+        "holes",
+        "electrons",
+        "protons",
+        "ions"
+      ],
+      "answerIndex": 1,
+      "explanation": "Donor impurities provide extra electrons as majority carriers.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-se-102",
+      "chapterId": "physics-semiconductor-electronics",
+      "stem": "A p-n junction diode is forward biased when",
+      "options": [
+        "p-side is connected to negative and n-side to positive of the battery",
+        "p-side is connected to positive and n-side to negative of the battery",
+        "both sides are at the same potential",
+        "only the n-side is grounded"
+      ],
+      "answerIndex": 1,
+      "explanation": "Forward bias: p positive, n negative relative to each other.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-se-103",
+      "chapterId": "physics-semiconductor-electronics",
+      "stem": "The output of a NOT gate is HIGH when its input is",
+      "options": [
+        "HIGH",
+        "LOW",
+        "either HIGH or LOW",
+        "floating"
+      ],
+      "answerIndex": 1,
+      "explanation": "NOT inverts: Y = Ā.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-se-104",
+      "chapterId": "physics-semiconductor-electronics",
+      "stem": "Zener diodes are primarily used as",
+      "options": [
+        "amplifiers",
+        "voltage regulators",
+        "oscillators",
+        "demodulators"
+      ],
+      "answerIndex": 1,
+      "explanation": "In reverse breakdown they hold nearly constant voltage.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-se-105",
+      "chapterId": "physics-semiconductor-electronics",
+      "stem": "In a common-emitter transistor amplifier, the phase difference between input and output signals is",
+      "options": [
+        "0°",
+        "90°",
+        "180°",
+        "270°"
+      ],
+      "answerIndex": 2,
+      "explanation": "CE amplifier inverts the signal (180° phase shift).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-td-101",
+      "chapterId": "physics-thermodynamics",
+      "stem": "In an isothermal process for an ideal gas, the change in internal energy is",
+      "options": [
+        "positive",
+        "negative",
+        "zero",
+        "equal to the heat absorbed"
+      ],
+      "answerIndex": 2,
+      "explanation": "U depends only on T for an ideal gas; ΔT = 0 ⇒ ΔU = 0.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-td-102",
+      "chapterId": "physics-thermodynamics",
+      "stem": "First law of thermodynamics is a statement of conservation of",
+      "options": [
+        "momentum",
+        "charge",
+        "energy",
+        "mass"
+      ],
+      "answerIndex": 2,
+      "explanation": "ΔQ = ΔU + ΔW expresses energy conservation.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-td-103",
+      "chapterId": "physics-thermodynamics",
+      "stem": "For an adiabatic process on an ideal gas, which relation is correct?",
+      "options": [
+        "PV = constant",
+        "TV^(γ−1) = constant",
+        "P/T = constant",
+        "V/T = constant"
+      ],
+      "answerIndex": 1,
+      "explanation": "Adiabatic: TV^(γ−1) = constant (also PV^γ = constant).",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2017,
+          2019,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-td-104",
+      "chapterId": "physics-thermodynamics",
+      "stem": "The efficiency of a Carnot engine operating between 327°C and 27°C is",
+      "options": [
+        "50%",
+        "75%",
+        "25%",
+        "100%"
+      ],
+      "answerIndex": 0,
+      "explanation": "η = 1 − T2/T1 = 1 − 300/600 = 0.5.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2021,
+          2023,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-td-105",
+      "chapterId": "physics-thermodynamics",
+      "stem": "In a cyclic process, the change in internal energy of the system is",
+      "options": [
+        "equal to heat absorbed",
+        "equal to work done",
+        "zero",
+        "equal to PΔV"
+      ],
+      "answerIndex": 2,
+      "explanation": "State function U returns to its initial value after a cycle.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-pw-101",
+      "chapterId": "physics-physical-world",
+      "stem": "Which of the following is NOT one of the four fundamental forces?",
+      "options": [
+        "Gravitational",
+        "Electromagnetic",
+        "Frictional",
+        "Strong nuclear"
+      ],
+      "answerIndex": 2,
+      "explanation": "Friction is electromagnetic in origin, not a fundamental force.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-pw-102",
+      "chapterId": "physics-physical-world",
+      "stem": "A hypothesis becomes a scientific theory when it",
+      "options": [
+        "is proposed by a famous scientist",
+        "is repeatedly verified by experiments",
+        "cannot be tested",
+        "is written in a textbook"
+      ],
+      "answerIndex": 1,
+      "explanation": "Theories rest on extensive experimental support.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2020,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-pw-103",
+      "chapterId": "physics-physical-world",
+      "stem": "The unification of electricity and magnetism was largely due to the work of",
+      "options": [
+        "Newton",
+        "Maxwell",
+        "Faraday alone",
+        "Bohr"
+      ],
+      "answerIndex": 1,
+      "explanation": "Maxwell’s equations unify electric and magnetic fields.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2016,
+          2019,
+          2022
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-pw-104",
+      "chapterId": "physics-physical-world",
+      "stem": "Conservation laws in physics are closely linked to",
+      "options": [
+        "random experimental errors",
+        "symmetries of nature",
+        "choice of units only",
+        "human conventions alone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Noether’s theorem links symmetries to conserved quantities.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-tpm-101",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "stem": "The coefficient of linear expansion α and volume expansion γ for an isotropic solid are related by",
+      "options": [
+        "γ = α",
+        "γ = 2α",
+        "γ = 3α",
+        "γ = α/3"
+      ],
+      "answerIndex": 2,
+      "explanation": "For isotropic solids, γ = 3α.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-tpm-102",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "stem": "Newton’s law of cooling states that the rate of heat loss is proportional to",
+      "options": [
+        "the absolute temperature of the body",
+        "the excess temperature of the body over surroundings",
+        "the square of the absolute temperature",
+        "the heat capacity only"
+      ],
+      "answerIndex": 1,
+      "explanation": "dθ/dt ∝ (θ − θ0) for moderate excess temperatures.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-tpm-103",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "stem": "Latent heat of vaporisation is the heat required to",
+      "options": [
+        "raise temperature of unit mass by 1°C",
+        "change unit mass from liquid to vapour at constant temperature",
+        "melt unit mass of solid",
+        "change unit mass from solid to vapour directly"
+      ],
+      "answerIndex": 1,
+      "explanation": "L_v is heat for liquid ↔ vapour phase change at boiling point.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2017,
+          2020,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-tpm-104",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "stem": "Among copper, water and air (typical values), the best conductor of heat is",
+      "options": [
+        "air",
+        "water",
+        "copper",
+        "all equal"
+      ],
+      "answerIndex": 2,
+      "explanation": "Metals like copper have very high thermal conductivity.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-tpm-105",
+      "chapterId": "physics-thermal-properties-of-matter",
+      "stem": "A bimetallic strip bends on heating because the two metals have different",
+      "options": [
+        "densities",
+        "specific heats",
+        "coefficients of linear expansion",
+        "Young’s moduli only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Unequal expansion causes curvature of the strip.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emi-101",
+      "chapterId": "physics-electromagnetic-induction",
+      "stem": "Faraday’s law states that induced emf is equal to the negative rate of change of",
+      "options": [
+        "electric flux",
+        "magnetic flux",
+        "electric charge",
+        "magnetic moment"
+      ],
+      "answerIndex": 1,
+      "explanation": "ε = −dΦ_B/dt.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emi-102",
+      "chapterId": "physics-electromagnetic-induction",
+      "stem": "Lenz’s law is a consequence of conservation of",
+      "options": [
+        "charge",
+        "momentum",
+        "energy",
+        "mass"
+      ],
+      "answerIndex": 2,
+      "explanation": "Induced current opposes the change, consistent with energy conservation.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emi-103",
+      "chapterId": "physics-electromagnetic-induction",
+      "stem": "The SI unit of self-inductance is the",
+      "options": [
+        "weber",
+        "tesla",
+        "henry",
+        "farad"
+      ],
+      "answerIndex": 2,
+      "explanation": "L is measured in henry (H).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2017,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emi-104",
+      "chapterId": "physics-electromagnetic-induction",
+      "stem": "Eddy currents can be reduced by using",
+      "options": [
+        "thick solid metal cores",
+        "laminated cores",
+        "only ferromagnetic solid blocks",
+        "superconducting rings only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Lamination increases resistance path and cuts eddy losses.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emi-105",
+      "chapterId": "physics-electromagnetic-induction",
+      "stem": "Mutual inductance between two coils depends on",
+      "options": [
+        "relative orientation and number of turns",
+        "only the resistance of the wires",
+        "only the frequency of AC used",
+        "only the colour of insulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "M depends on geometry, orientation, turns, and core.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emw-101",
+      "chapterId": "physics-electromagnetic-waves",
+      "stem": "Electromagnetic waves are produced by",
+      "options": [
+        "charges at rest",
+        "charges moving with constant velocity",
+        "accelerated charges",
+        "neutrons only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Accelerating charges radiate EM waves.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emw-102",
+      "chapterId": "physics-electromagnetic-waves",
+      "stem": "In free space, the speed of EM waves is",
+      "options": [
+        "√(μ0/ε0)",
+        "√(ε0/μ0)",
+        "1/√(μ0ε0)",
+        "μ0ε0"
+      ],
+      "answerIndex": 2,
+      "explanation": "c = 1/√(μ0ε0).",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emw-103",
+      "chapterId": "physics-electromagnetic-waves",
+      "stem": "In an electromagnetic wave, the electric and magnetic fields are",
+      "options": [
+        "parallel and in phase",
+        "perpendicular and in phase",
+        "perpendicular and out of phase by π/2",
+        "antiparallel always"
+      ],
+      "answerIndex": 1,
+      "explanation": "E ⊥ B and both are perpendicular to propagation; they are in phase in plane waves.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emw-104",
+      "chapterId": "physics-electromagnetic-waves",
+      "stem": "Which has the longest wavelength among the following?",
+      "options": [
+        "X-rays",
+        "Ultraviolet",
+        "Microwaves",
+        "Gamma rays"
+      ],
+      "answerIndex": 2,
+      "explanation": "Among the listed, microwaves have the longest wavelength.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2017,
+          2019,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-emw-105",
+      "chapterId": "physics-electromagnetic-waves",
+      "stem": "The ozone layer is important because it absorbs",
+      "options": [
+        "infrared radiation",
+        "microwaves",
+        "ultraviolet radiation",
+        "radio waves"
+      ],
+      "answerIndex": 2,
+      "explanation": "Stratospheric ozone strongly absorbs harmful UV.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-dn-101",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "stem": "In the photoelectric effect, the maximum kinetic energy of photoelectrons depends on",
+      "options": [
+        "intensity of light only",
+        "frequency of light and work function",
+        "only the work function",
+        "only the wavelength of light, not the metal"
+      ],
+      "answerIndex": 1,
+      "explanation": "K_max = hν − φ.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-dn-102",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "stem": "de Broglie wavelength of a particle of momentum p is",
+      "options": [
+        "p/h",
+        "h/p",
+        "hp",
+        "h/p²"
+      ],
+      "answerIndex": 1,
+      "explanation": "λ = h/p.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-dn-103",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "stem": "Increasing the intensity of incident light in a photoelectric experiment increases the",
+      "options": [
+        "stopping potential",
+        "work function",
+        "number of photoelectrons emitted per second",
+        "threshold frequency"
+      ],
+      "answerIndex": 2,
+      "explanation": "Intensity raises photon flux; stopping potential depends on frequency.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-dn-104",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "stem": "The work function of a metal is 2 eV. The threshold frequency is (take h = 4.14 × 10^−15 eV s)",
+      "options": [
+        "about 4.8 × 10^14 Hz",
+        "about 2.0 × 10^14 Hz",
+        "about 1.0 × 10^15 Hz",
+        "about 6.6 × 10^15 Hz"
+      ],
+      "answerIndex": 0,
+      "explanation": "ν0 = φ/h ≈ 2/(4.14×10^−15) ≈ 4.8×10^14 Hz.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-dn-105",
+      "chapterId": "physics-dual-nature-of-radiation-and-matter",
+      "stem": "Davisson–Germer experiment confirmed",
+      "options": [
+        "particle nature of light",
+        "wave nature of electrons",
+        "charge quantisation",
+        "nuclear fission"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electron diffraction from a crystal showed de Broglie waves.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-cs-101",
+      "chapterId": "physics-communication-systems",
+      "stem": "The bandwidth required for amplitude modulation with message bandwidth fm is about",
+      "options": [
+        "fm",
+        "2fm",
+        "fm/2",
+        "4fm"
+      ],
+      "answerIndex": 1,
+      "explanation": "AM DSB needs roughly twice the message bandwidth.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-cs-102",
+      "chapterId": "physics-communication-systems",
+      "stem": "Sky-wave propagation relies mainly on reflection from the",
+      "options": [
+        "troposphere only",
+        "ionosphere",
+        "Earth’s core",
+        "ozone hole"
+      ],
+      "answerIndex": 1,
+      "explanation": "HF sky waves bounce off ionospheric layers.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-cs-103",
+      "chapterId": "physics-communication-systems",
+      "stem": "In space-wave propagation, the signals travel essentially",
+      "options": [
+        "along the ground surface only",
+        "in a straight line in the troposphere / LOS",
+        "through the Earth’s mantle",
+        "only via optical fibre"
+      ],
+      "answerIndex": 1,
+      "explanation": "Space/LOS waves travel nearly in straight lines (TV, microwave links).",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-cs-104",
+      "chapterId": "physics-communication-systems",
+      "stem": "The process of recovering the original message signal from a modulated wave is called",
+      "options": [
+        "modulation",
+        "demodulation",
+        "attenuation",
+        "amplification"
+      ],
+      "answerIndex": 1,
+      "explanation": "Demodulation (detection) extracts the baseband message.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2020,
+          2022
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-rm-101",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "stem": "Moment of inertia of a thin ring of mass M and radius R about its central axis perpendicular to its plane is",
+      "options": [
+        "(1/2)MR²",
+        "MR²",
+        "(2/5)MR²",
+        "(1/4)MR²"
+      ],
+      "answerIndex": 1,
+      "explanation": "All mass is at distance R: I = MR².",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-rm-102",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "stem": "Torque is equal to the rate of change of",
+      "options": [
+        "linear momentum",
+        "angular momentum",
+        "kinetic energy",
+        "force"
+      ],
+      "answerIndex": 1,
+      "explanation": "τ = dL/dt.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-rm-103",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "stem": "A rigid body is in pure rolling without slipping when",
+      "options": [
+        "v = ωR",
+        "v = 2ωR",
+        "v = ωR/2",
+        "ω = 0"
+      ],
+      "answerIndex": 0,
+      "explanation": "No slip: v_cm = ωR for a wheel of radius R.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-rm-104",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "stem": "The centre of mass of a uniform triangular lamina lies at the",
+      "options": [
+        "intersection of medians (centroid)",
+        "orthocentre only",
+        "midpoint of any side",
+        "vertex of largest angle"
+      ],
+      "answerIndex": 0,
+      "explanation": "For a uniform triangle, CM coincides with the centroid.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-rm-105",
+      "chapterId": "physics-systems-of-particles-and-rotational-motion",
+      "stem": "By the parallel-axis theorem, I = I_cm + Md². Here d is the distance between",
+      "options": [
+        "any two points on the body",
+        "the CM axis and a parallel axis",
+        "two perpendicular axes",
+        "the body and the Earth"
+      ],
+      "answerIndex": 1,
+      "explanation": "d separates the CM axis from the parallel axis of interest.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-at-101",
+      "chapterId": "physics-atoms",
+      "stem": "In Bohr’s model, the angular momentum of an electron in the nth orbit is",
+      "options": [
+        "nh",
+        "nh/2π",
+        "n²h",
+        "h/2πn"
+      ],
+      "answerIndex": 1,
+      "explanation": "L = nħ = nh/2π.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-at-102",
+      "chapterId": "physics-atoms",
+      "stem": "The spectral series of hydrogen that lies in the visible region is the",
+      "options": [
+        "Lyman series",
+        "Balmer series",
+        "Paschen series",
+        "Brackett series"
+      ],
+      "answerIndex": 1,
+      "explanation": "Balmer transitions (to n=2) fall in the visible.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-at-103",
+      "chapterId": "physics-atoms",
+      "stem": "Rutherford’s alpha-scattering experiment concluded that",
+      "options": [
+        "atoms are indivisible",
+        "most of the atom’s mass and positive charge is in a tiny nucleus",
+        "electrons are in definite orbits only",
+        "neutrons exist in the nucleus"
+      ],
+      "answerIndex": 1,
+      "explanation": "Large-angle scattering implied a compact positive nucleus.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-at-104",
+      "chapterId": "physics-atoms",
+      "stem": "The ionisation energy of hydrogen atom in the ground state is",
+      "options": [
+        "3.4 eV",
+        "13.6 eV",
+        "10.2 eV",
+        "1.5 eV"
+      ],
+      "answerIndex": 1,
+      "explanation": "E1 = −13.6 eV; ionisation needs +13.6 eV.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-at-105",
+      "chapterId": "physics-atoms",
+      "stem": "In the Bohr model, the radius of the nth orbit is proportional to",
+      "options": [
+        "n",
+        "n²",
+        "1/n",
+        "1/n²"
+      ],
+      "answerIndex": 1,
+      "explanation": "r_n = n² a0 for hydrogen.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-um-101",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "If the percentage errors in measurement of mass and velocity are 2% and 3%, the percentage error in kinetic energy is",
+      "options": [
+        "5%",
+        "8%",
+        "11%",
+        "1%"
+      ],
+      "answerIndex": 1,
+      "explanation": "KE = (1/2)mv² ⇒ % error ≈ %m + 2(%v) = 2 + 6 = 8%.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-um-102",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "Dimensional formula of Planck’s constant is the same as that of",
+      "options": [
+        "force",
+        "angular momentum",
+        "power",
+        "energy"
+      ],
+      "answerIndex": 1,
+      "explanation": "h has dimensions of angular momentum: ML²T⁻¹.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-um-103",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "1 light year is a unit of",
+      "options": [
+        "time",
+        "distance",
+        "speed",
+        "acceleration"
+      ],
+      "answerIndex": 1,
+      "explanation": "A light year is the distance light travels in one year.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2020,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-um-104",
+      "chapterId": "physics-units-and-measurements",
+      "stem": "The number of significant figures in 6.022 × 10^23 is",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "23"
+      ],
+      "answerIndex": 2,
+      "explanation": "6.022 has four significant figures.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2017,
+          2019,
+          2022
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mip-101",
+      "chapterId": "physics-motion-in-a-plane",
+      "stem": "For a projectile launched with speed u at angle θ on level ground, the maximum height is",
+      "options": [
+        "u² sin²θ / (2g)",
+        "u² sin 2θ / g",
+        "u² / g",
+        "u sinθ / g"
+      ],
+      "answerIndex": 0,
+      "explanation": "H = (u sinθ)² / (2g).",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mip-102",
+      "chapterId": "physics-motion-in-a-plane",
+      "stem": "The horizontal range of a projectile is maximum when the angle of projection is",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "answerIndex": 1,
+      "explanation": "R = u² sin2θ / g is max at θ = 45°.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mip-103",
+      "chapterId": "physics-motion-in-a-plane",
+      "stem": "In uniform circular motion, the centripetal acceleration is directed",
+      "options": [
+        "along the velocity",
+        "opposite to the velocity",
+        "towards the centre",
+        "away from the centre"
+      ],
+      "answerIndex": 2,
+      "explanation": "a = v²/r radially inward.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mip-104",
+      "chapterId": "physics-motion-in-a-plane",
+      "stem": "Two vectors of equal magnitude A have a resultant of magnitude A. The angle between them is",
+      "options": [
+        "0°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "answerIndex": 3,
+      "explanation": "|R|² = 2A²(1+cosθ) = A² ⇒ cosθ = −1/2 ⇒ θ = 120°.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mip-105",
+      "chapterId": "physics-motion-in-a-plane",
+      "stem": "The relative velocity of A with respect to B is",
+      "options": [
+        "v_A + v_B",
+        "v_A − v_B",
+        "v_B − v_A",
+        "|v_A| |v_B|"
+      ],
+      "answerIndex": 1,
+      "explanation": "v_AB = v_A − v_B by definition.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mps-101",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "Stress is defined as",
+      "options": [
+        "force per unit area",
+        "force per unit length",
+        "extension per unit length",
+        "energy per unit volume"
+      ],
+      "answerIndex": 0,
+      "explanation": "Stress = F/A.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mps-102",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "The breaking stress of a wire depends on",
+      "options": [
+        "length of the wire",
+        "material of the wire",
+        "cross-sectional radius only, not material",
+        "applied voltage"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ultimate strength is a material property.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2017,
+          2020,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mps-103",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "Shear modulus is the ratio of",
+      "options": [
+        "longitudinal stress to longitudinal strain",
+        "volume stress to volume strain",
+        "tangential stress to shear strain",
+        "tensile force to extension"
+      ],
+      "answerIndex": 2,
+      "explanation": "η = shear stress / shear strain.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2018,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mps-104",
+      "chapterId": "physics-mechanical-properties-of-solids",
+      "stem": "Elastic potential energy density stored in a stretched wire is",
+      "options": [
+        "(1/2) × stress × strain",
+        "stress × strain",
+        "stress / strain",
+        "Y × strain"
+      ],
+      "answerIndex": 0,
+      "explanation": "u = (1/2) × stress × strain.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mpf-101",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "stem": "Pascal’s law states that pressure applied to an enclosed fluid is",
+      "options": [
+        "transmitted undiminished in all directions",
+        "transmitted only downwards",
+        "absorbed by the fluid",
+        "inversely proportional to depth"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hydraulic machines rely on undiminished pressure transmission.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mpf-102",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "stem": "Bernoulli’s equation is a statement of conservation of",
+      "options": [
+        "mass",
+        "momentum",
+        "energy",
+        "charge"
+      ],
+      "answerIndex": 2,
+      "explanation": "It equates mechanical energy per unit volume along a streamline.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mpf-103",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "stem": "The excess pressure inside a soap bubble of radius R and surface tension T is",
+      "options": [
+        "T/R",
+        "2T/R",
+        "4T/R",
+        "8T/R"
+      ],
+      "answerIndex": 2,
+      "explanation": "Soap bubble has two surfaces: ΔP = 4T/R.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mpf-104",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "stem": "Terminal velocity of a small sphere falling in a viscous fluid is proportional to",
+      "options": [
+        "r",
+        "r²",
+        "1/r",
+        "1/r²"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stokes: v_t ∝ r² (for given densities and η).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mpf-105",
+      "chapterId": "physics-mechanical-properties-of-fluids",
+      "stem": "Archimedes’ principle states that the buoyant force equals the",
+      "options": [
+        "weight of the object",
+        "weight of the fluid displaced",
+        "volume of the object",
+        "density of the object"
+      ],
+      "answerIndex": 1,
+      "explanation": "Buoyancy = weight of displaced fluid.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mm-101",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "Magnetic susceptibility χ for a diamagnetic substance is",
+      "options": [
+        "large and positive",
+        "small and positive",
+        "small and negative",
+        "infinite"
+      ],
+      "answerIndex": 2,
+      "explanation": "Diamagnets have χ slightly negative.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mm-102",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "The magnetic meridian at a place is",
+      "options": [
+        "a horizontal plane",
+        "the vertical plane containing the Earth’s magnetic axis direction",
+        "the geographic equator",
+        "the plane of the ecliptic"
+      ],
+      "answerIndex": 1,
+      "explanation": "Magnetic meridian is the vertical plane through B_H.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2020,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mm-103",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "Curie temperature is the temperature above which a ferromagnetic material becomes",
+      "options": [
+        "diamagnetic",
+        "paramagnetic",
+        "superconducting",
+        "permanently magnetised"
+      ],
+      "answerIndex": 1,
+      "explanation": "Above T_C, spontaneous magnetisation vanishes → paramagnetic.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mm-104",
+      "chapterId": "physics-magnetism-and-matter",
+      "stem": "The SI unit of magnetic field strength H is",
+      "options": [
+        "tesla",
+        "weber",
+        "ampere per metre",
+        "henry"
+      ],
+      "answerIndex": 2,
+      "explanation": "H is measured in A m⁻¹.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-ac-101",
+      "chapterId": "physics-alternating-current",
+      "stem": "In a series LCR circuit, resonance occurs when",
+      "options": [
+        "XL > XC",
+        "XL < XC",
+        "XL = XC",
+        "R = 0 only"
+      ],
+      "answerIndex": 2,
+      "explanation": "At resonance XL = XC so X = 0 and Z = R.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-ac-102",
+      "chapterId": "physics-alternating-current",
+      "stem": "Average power consumed in a pure capacitor over a full AC cycle is",
+      "options": [
+        "VI",
+        "VIcosφ",
+        "zero",
+        "I²R"
+      ],
+      "answerIndex": 2,
+      "explanation": "Current leads voltage by 90°; average power is zero.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-ac-103",
+      "chapterId": "physics-alternating-current",
+      "stem": "Quality factor Q of a series LCR circuit is",
+      "options": [
+        "R/ω0L",
+        "ω0L/R",
+        "ω0RC",
+        "R/ω0C"
+      ],
+      "answerIndex": 1,
+      "explanation": "Q = ω0L/R = (1/R)√(L/C).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-ac-104",
+      "chapterId": "physics-alternating-current",
+      "stem": "An ideal transformer cannot change",
+      "options": [
+        "voltage",
+        "current",
+        "power (ideally)",
+        "turns ratio"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ideal transformer conserves power: VpIp = VsIs.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-nu-101",
+      "chapterId": "physics-nuclei",
+      "stem": "Binding energy per nucleon is maximum for nuclei near",
+      "options": [
+        "hydrogen",
+        "iron (A ≈ 56)",
+        "uranium",
+        "helium only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stability peaks near ⁵⁶Fe.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-nu-102",
+      "chapterId": "physics-nuclei",
+      "stem": "In beta-minus decay, the mass number A of the nucleus",
+      "options": [
+        "increases by 1",
+        "decreases by 1",
+        "remains unchanged",
+        "decreases by 4"
+      ],
+      "answerIndex": 2,
+      "explanation": "n → p + e⁻ + ν̄; A unchanged, Z increases by 1.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-nu-103",
+      "chapterId": "physics-nuclei",
+      "stem": "The activity of a radioactive sample after two half-lives becomes",
+      "options": [
+        "half",
+        "one-fourth",
+        "one-eighth",
+        "unchanged"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each half-life halves activity: after 2 → 1/4.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-nu-104",
+      "chapterId": "physics-nuclei",
+      "stem": "Nuclear fission is typically initiated in reactors by",
+      "options": [
+        "alpha particles",
+        "thermal neutrons",
+        "gamma rays alone",
+        "protons only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Slow neutrons efficiently induce fission in ²³⁵U.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-nu-105",
+      "chapterId": "physics-nuclei",
+      "stem": "Mass defect is converted into binding energy according to",
+      "options": [
+        "E = mc",
+        "E = mc²",
+        "E = m/c²",
+        "E = p²/2m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Einstein’s E = mc² relates mass defect to BE.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-gr-101",
+      "chapterId": "physics-gravitation",
+      "stem": "Acceleration due to gravity at height h (h ≪ R) above Earth’s surface is approximately",
+      "options": [
+        "g(1 + h/R)",
+        "g(1 − 2h/R)",
+        "g(1 − h/R)",
+        "g(1 + 2h/R)"
+      ],
+      "answerIndex": 1,
+      "explanation": "g(h) ≈ g(1 − 2h/R) for h ≪ R.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-gr-102",
+      "chapterId": "physics-gravitation",
+      "stem": "Escape speed from Earth’s surface is",
+      "options": [
+        "√(gR)",
+        "√(2gR)",
+        "2√(gR)",
+        "gR"
+      ],
+      "answerIndex": 1,
+      "explanation": "v_esc = √(2GM/R) = √(2gR).",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-gr-103",
+      "chapterId": "physics-gravitation",
+      "stem": "Kepler’s second law is a consequence of conservation of",
+      "options": [
+        "energy",
+        "linear momentum",
+        "angular momentum",
+        "mass"
+      ],
+      "answerIndex": 2,
+      "explanation": "Equal areas in equal times follow from central-force angular momentum conservation.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-gr-104",
+      "chapterId": "physics-gravitation",
+      "stem": "Gravitational potential at a distance r from a point mass M is",
+      "options": [
+        "−GM/r",
+        "GM/r",
+        "−GM/r²",
+        "GM/r²"
+      ],
+      "answerIndex": 0,
+      "explanation": "V = −GM/r (zero at infinity).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-gr-105",
+      "chapterId": "physics-gravitation",
+      "stem": "Orbital speed of a satellite in a circular orbit of radius r about Earth is",
+      "options": [
+        "√(GM/r)",
+        "√(2GM/r)",
+        "GM/r",
+        "gR²/r"
+      ],
+      "answerIndex": 0,
+      "explanation": "Centripetal requirement: v = √(GM/r).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-wo-101",
+      "chapterId": "physics-wave-optics",
+      "stem": "In Young’s double-slit experiment, fringe width β is",
+      "options": [
+        "λD/d",
+        "λd/D",
+        "d/λD",
+        "D/λd"
+      ],
+      "answerIndex": 0,
+      "explanation": "β = λD/d.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-wo-102",
+      "chapterId": "physics-wave-optics",
+      "stem": "Brewster’s law states that tan ip equals",
+      "options": [
+        "μ",
+        "1/μ",
+        "μ²",
+        "√μ"
+      ],
+      "answerIndex": 0,
+      "explanation": "tan ip = μ (relative refractive index).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-wo-103",
+      "chapterId": "physics-wave-optics",
+      "stem": "For constructive interference in a thin soap film in reflected light (near normal incidence), 2μt equals",
+      "options": [
+        "nλ",
+        "(n+1/2)λ",
+        "nλ/μ",
+        "λ/2 only always"
+      ],
+      "answerIndex": 1,
+      "explanation": "Extra π phase from front reflection ⇒ bright for 2μt = (n+1/2)λ.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-wo-104",
+      "chapterId": "physics-wave-optics",
+      "stem": "The resolving power of a telescope is increased by increasing the",
+      "options": [
+        "focal length of eyepiece only",
+        "aperture of objective",
+        "magnifying power only",
+        "length of tube only"
+      ],
+      "answerIndex": 1,
+      "explanation": "RP ∝ D/λ; larger objective aperture helps.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2018,
+          2020,
+          2022
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-wo-105",
+      "chapterId": "physics-wave-optics",
+      "stem": "Huygens’ principle is used to explain",
+      "options": [
+        "only reflection",
+        "wavefront propagation, reflection and refraction",
+        "only photoelectric effect",
+        "only nuclear decay"
+      ],
+      "answerIndex": 1,
+      "explanation": "Secondary wavelets explain reflection, refraction and diffraction qualitatively.",
+      "pyq": {
+        "appearCount": 3,
+        "years": [
+          2019,
+          2021,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-epc-101",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "stem": "Electric potential due to a point charge q at distance r is",
+      "options": [
+        "q/(4πε0r²)",
+        "q/(4πε0r)",
+        "q²/(4πε0r)",
+        "4πε0q/r"
+      ],
+      "answerIndex": 1,
+      "explanation": "V = q/(4πε0r).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-epc-102",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "stem": "Capacitance of a parallel-plate capacitor with plate area A and separation d (vacuum) is",
+      "options": [
+        "ε0A/d",
+        "ε0d/A",
+        "A/(ε0d)",
+        "ε0Ad"
+      ],
+      "answerIndex": 0,
+      "explanation": "C = ε0A/d.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-epc-103",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "stem": "Two capacitors C and 2C in series have equivalent capacitance",
+      "options": [
+        "3C",
+        "2C/3",
+        "C/2",
+        "C"
+      ],
+      "answerIndex": 1,
+      "explanation": "1/Ceq = 1/C + 1/(2C) = 3/(2C) ⇒ Ceq = 2C/3.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-epc-104",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "stem": "Energy stored in a capacitor is",
+      "options": [
+        "CV",
+        "(1/2)CV²",
+        "C²V",
+        "2CV²"
+      ],
+      "answerIndex": 1,
+      "explanation": "U = (1/2)CV² = Q²/(2C) = (1/2)QV.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2019,
+          2021,
+          2023,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-epc-105",
+      "chapterId": "physics-electrostatic-potential-and-capacitance",
+      "stem": "Inserting a dielectric of constant K between plates of an isolated charged capacitor",
+      "options": [
+        "increases potential difference",
+        "decreases potential difference",
+        "leaves charge and potential unchanged",
+        "makes capacitance zero"
+      ],
+      "answerIndex": 1,
+      "explanation": "C → KC; Q fixed ⇒ V = Q/C decreases.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mcm-101",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "stem": "Force on a charge q moving with velocity v in magnetic field B is",
+      "options": [
+        "q(v · B)",
+        "q(v × B)",
+        "qB/v",
+        "qv/B"
+      ],
+      "answerIndex": 1,
+      "explanation": "F = q(v × B).",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2015,
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mcm-102",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "stem": "Magnetic field at the centre of a current-carrying circular loop of radius R is",
+      "options": [
+        "μ0I/(2R)",
+        "μ0I/(4πR)",
+        "μ0I/(2πR)",
+        "μ0IR/2"
+      ],
+      "answerIndex": 0,
+      "explanation": "B = μ0I/(2R) at the centre.",
+      "pyq": {
+        "appearCount": 5,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2022,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mcm-103",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "stem": "A charged particle moving parallel to a uniform magnetic field experiences",
+      "options": [
+        "maximum force",
+        "zero magnetic force",
+        "force opposite to velocity",
+        "centripetal force always"
+      ],
+      "answerIndex": 1,
+      "explanation": "v ∥ B ⇒ |v × B| = 0.",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2017,
+          2019,
+          2021,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "NEET"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mcm-104",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "stem": "Ampere’s circuital law relates ∮ B·dl to",
+      "options": [
+        "enclosed electric charge",
+        "enclosed current",
+        "electric flux",
+        "magnetic flux"
+      ],
+      "answerIndex": 1,
+      "explanation": "∮ B·dl = μ0 I_enclosed (magnetostatics).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2016,
+          2018,
+          2020,
+          2023
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    },
+    {
+      "id": "phy-mcm-105",
+      "chapterId": "physics-moving-charges-and-magnetism",
+      "stem": "The path of a charged particle in a uniform magnetic field perpendicular to its velocity is",
+      "options": [
+        "straight line",
+        "parabola",
+        "circle",
+        "helix with changing pitch"
+      ],
+      "answerIndex": 2,
+      "explanation": "Perpendicular B gives uniform circular motion (constant speed).",
+      "pyq": {
+        "appearCount": 4,
+        "years": [
+          2018,
+          2020,
+          2022,
+          2024
+        ],
+        "exams": [
+          "TS EAMCET",
+          "JEE Main"
+        ],
+        "verified": false
+      }
+    }
+  ]
+}

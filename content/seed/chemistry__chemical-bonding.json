@@ -1,0 +1,3705 @@
+{
+  "subjectId": "chemistry",
+  "source": {
+    "name": "ASTRA chemistry practice set",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "che-cb-101",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "An ionic bond is formed primarily by",
+      "options": [
+        "transfer of electrons from a metal atom to a non-metal atom",
+        "equal sharing of an electron pair between identical atoms",
+        "overlap of only d orbitals on neighbouring metals",
+        "proton transfer between two nuclei"
+      ],
+      "answerIndex": 0,
+      "explanation": "The metal loses valence electrons and the non-metal gains them, giving ions that attract electrostatically.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-102",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "A covalent bond between two atoms arises when",
+      "options": [
+        "electrons are transferred completely from one atom to the other",
+        "a shared pair of electrons occupies the internuclear region",
+        "the two nuclei fuse into one",
+        "only London dispersion forces operate"
+      ],
+      "answerIndex": 1,
+      "explanation": "Covalent bonding is mutual sharing of electron pairs that sit between the bonded nuclei.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-103",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "In a coordinate (dative) covalent bond, the shared electron pair",
+      "options": [
+        "is contributed equally, one electron from each atom",
+        "is donated entirely by one of the two atoms",
+        "is lost from both atoms into the crystal lattice",
+        "must occupy an antibonding orbital"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both electrons of a coordinate bond come from the donor atom; after formation the link looks like an ordinary covalent bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-104",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "Formation of NH4+ from ammonia and H+ involves",
+      "options": [
+        "a purely ionic NaCl-type lattice with no sharing",
+        "a coordinate bond in which nitrogen donates a lone pair to H+",
+        "a metallic bond between nitrogen atoms",
+        "replacement of all N-H covalent links by hydrogen bonds"
+      ],
+      "answerIndex": 1,
+      "explanation": "The lone pair on nitrogen is donated to the bare proton, giving a coordinate N→H link in ammonium.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-105",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "The Lewis octet rule states that many main-group atoms tend to",
+      "options": [
+        "empty every valence orbital",
+        "attain eight electrons in the valence shell",
+        "keep an odd number of valence electrons",
+        "occupy only d orbitals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Atoms of the second period especially share or transfer electrons so that eight valence electrons surround each atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-106",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "Which of these species has an incomplete octet on the central atom?",
+      "options": [
+        "CF4",
+        "BF3",
+        "SF6",
+        "PCl5"
+      ],
+      "answerIndex": 1,
+      "explanation": "Boron in BF3 is surrounded by only six valence electrons after three B-F bonds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-107",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "SF6 is a textbook example of a molecule with",
+      "options": [
+        "an incomplete octet on sulphur",
+        "an expanded octet on sulphur",
+        "an unpaired electron on fluorine",
+        "no covalent bonds at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sulphur uses vacant 3d orbitals and is surrounded by twelve electrons from six S-F bonds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-108",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "Nitric oxide (NO) is called an odd-electron molecule because",
+      "options": [
+        "nitrogen expands its octet to ten electrons",
+        "the molecule contains one unpaired electron",
+        "both atoms already have complete octets with no leftover electron",
+        "the bonding is purely ionic"
+      ],
+      "answerIndex": 1,
+      "explanation": "NO has eleven valence electrons, so one electron remains unpaired in a Lewis picture.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-109",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "Crystalline sodium chloride is held together mainly by",
+      "options": [
+        "covalent sharing of a Na-Cl electron pair",
+        "electrostatic attraction between Na+ and Cl- ions",
+        "hydrogen bonds between neighbouring cells",
+        "a metallic sea of electrons from chlorine"
+      ],
+      "answerIndex": 1,
+      "explanation": "After electron transfer, the ionic lattice is stabilised by Coulomb attraction of opposite charges.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-110",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "easy",
+      "stem": "The adduct H3N→BF3 is a classic illustration of",
+      "options": [
+        "ionic lattice energy of a salt",
+        "a coordinate covalent bond from nitrogen to boron",
+        "a metallic crystal of boron",
+        "resonance of the ozone molecule"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ammonia donates its nitrogen lone pair into the empty orbital of boron trifluoride.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-111",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "medium",
+      "stem": "Ionic character is favoured when the metal has",
+      "options": [
+        "high ionisation enthalpy and the non-metal has low electron-gain enthalpy",
+        "low ionisation enthalpy and the non-metal has high electron-gain enthalpy",
+        "electronegativity identical to that of the non-metal",
+        "a very large cation and a tiny anion as the only requirement"
+      ],
+      "answerIndex": 1,
+      "explanation": "Easy loss of electrons by the metal and easy gain by the non-metal promote ion formation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-112",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "medium",
+      "stem": "The dimer Al2Cl6 contains, in addition to ordinary Al-Cl covalent bonds,",
+      "options": [
+        "only ionic Al3+ and Cl- with no sharing",
+        "coordinate bonds from bridging chlorine atoms to aluminium",
+        "metallic Al-Al bonds like in aluminium metal",
+        "hydrogen bonds between chlorine atoms"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each aluminium is electron-deficient; a lone pair on a bridging chlorine is donated to the neighbouring Al.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-113",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "medium",
+      "stem": "Phosphorus pentachloride violates a strict octet because",
+      "options": [
+        "phosphorus uses empty 3d orbitals and is surrounded by ten electrons",
+        "each chlorine atom expands its octet to ten electrons",
+        "the formula is ionic P5+ with five Cl- and no covalency",
+        "the molecule has one unpaired electron"
+      ],
+      "answerIndex": 0,
+      "explanation": "P in PCl5 has five bond pairs (ten electrons). Third-period elements can expand the octet using 3d orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-114",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "medium",
+      "stem": "Gaseous BeCl2 is described as electron-deficient because beryllium then has",
+      "options": [
+        "only four valence electrons after forming two Be-Cl covalent bonds",
+        "a complete octet of eight electrons",
+        "an incomplete octet on chlorine rather than on beryllium",
+        "an unpaired electron and is therefore a radical"
+      ],
+      "answerIndex": 0,
+      "explanation": "Be starts with two valence electrons and shares them in two bonds, leaving only four electrons around Be.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-115",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "medium",
+      "stem": "Molten NaCl conducts electricity, whereas solid sucrose does not, mainly because",
+      "options": [
+        "sucrose molecules carry a net charge in the crystal",
+        "NaCl supplies mobile ions while sucrose is a molecular covalent solid",
+        "sucrose is a metallic conductor when cold",
+        "both solids are equally ionic"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ionic melts have free ions that carry current; molecular covalent sucrose has no mobile charged particles.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-116",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "lewis-bond-types",
+      "difficulty": "hard",
+      "stem": "Among gaseous BeCl2, solid NaCl and diamond, the dominant bonding types are respectively",
+      "options": [
+        "electron-deficient covalent, ionic, giant covalent network",
+        "ionic, covalent molecular, metallic",
+        "metallic, ionic, ionic",
+        "coordinate only, ionic, hydrogen-bonded"
+      ],
+      "answerIndex": 0,
+      "explanation": "BeCl2(g) has two covalent bonds and an incomplete octet; NaCl is ionic; diamond is a covalent network of sp3 carbon.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-117",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "easy",
+      "stem": "Formal charge on an atom in a Lewis structure equals",
+      "options": [
+        "valence electrons minus lone-pair electrons minus half the shared electrons",
+        "atomic number minus mass number",
+        "the oxidation number in every case",
+        "the molecular dipole moment in debye"
+      ],
+      "answerIndex": 0,
+      "explanation": "FC = V − N − B/2, where V is valence electrons, N is non-bonding electrons and B is bonding electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-118",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "easy",
+      "stem": "In a common canonical form of ozone, the central oxygen atom carries a formal charge of",
+      "options": [
+        "0",
+        "+1",
+        "−2",
+        "+2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Central O has six valence electrons, one lone pair and three bonds, so FC = 6 − 2 − 3 = +1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-119",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "easy",
+      "stem": "Resonance in the carbonate ion means that",
+      "options": [
+        "the carbon atom physically jumps among the three oxygens",
+        "the real ion is a hybrid of three equivalent Lewis forms",
+        "only one C=O double bond exists as a fixed localisation",
+        "the ion is paramagnetic with an unpaired electron"
+      ],
+      "answerIndex": 1,
+      "explanation": "The three C-O bonds are identical; the pi electron pair is delocalised over the whole ion.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-120",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "easy",
+      "stem": "All N-O linkages in the nitrate ion are equivalent because of",
+      "options": [
+        "purely ionic attraction with no pi bonding",
+        "resonance delocalisation of the pi bond over the three oxygens",
+        "hydrogen bonding between nitrate ions",
+        "hybridisation of oxygen alone with no delocalisation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three canonical forms share the double bond equally, so every N-O bond is the same.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-121",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "easy",
+      "stem": "Canonical (resonating) structures of a hybrid",
+      "options": [
+        "exist as rapidly interconverting real molecules that can be isolated",
+        "are imaginary contributing drawings, not separately existing species",
+        "must have different nuclear positions from one another",
+        "always violate conservation of charge"
+      ],
+      "answerIndex": 1,
+      "explanation": "Resonance forms are bookkeeping pictures; the molecule has one blended electronic structure.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-122",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "easy",
+      "stem": "The more acceptable Lewis structure is generally the one with",
+      "options": [
+        "the largest possible formal charges",
+        "formal charges closest to zero, with any negative charge on the more electronegative atom",
+        "the greatest number of unpaired electrons",
+        "an expanded octet on hydrogen"
+      ],
+      "answerIndex": 1,
+      "explanation": "Low formal charges and placing negative charge on F, O or N give a better description.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-123",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "easy",
+      "stem": "Benzene is more stable than a hypothetical localised cyclohexatriene mainly because of",
+      "options": [
+        "ionic bonding between carbon and hydrogen",
+        "resonance energy from delocalised pi electrons",
+        "intermolecular hydrogen bonding",
+        "metallic bonding in the ring"
+      ],
+      "answerIndex": 1,
+      "explanation": "Delocalisation of six pi electrons over the ring lowers the energy relative to three isolated double bonds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-124",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "easy",
+      "stem": "A satisfactory Lewis picture of carbon monoxide places",
+      "options": [
+        "a C≡O triple bond with formal charges −1 on carbon and +1 on oxygen",
+        "only a C-O single bond and no lone pairs",
+        "a complete octet on carbon with no lone pair on carbon",
+        "an ionic pair C4+ O4-"
+      ],
+      "answerIndex": 0,
+      "explanation": ":C≡O: gives carbon an octet. Formal charges are −1 (C) and +1 (O), which matches the small dipole with carbon at the negative end.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-125",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "medium",
+      "stem": "Resonance in ozone explains why",
+      "options": [
+        "the two O-O distances are equal and lie between single- and double-bond lengths",
+        "one O-O link is a pure single bond and the other a pure triple bond",
+        "the molecule is linear like CO2",
+        "ozone is diamagnetic with a bond order of three"
+      ],
+      "answerIndex": 0,
+      "explanation": "Two equivalent forms average the bonds, so both O-O links are identical and of intermediate length.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-126",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "medium",
+      "stem": "The average N-O bond order in NO3- is",
+      "options": [
+        "1",
+        "4/3",
+        "2",
+        "3"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four bonding pairs are shared among three N-O links, so the bond order is 4/3.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-127",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "medium",
+      "stem": "The formal charge on nitrogen in the ammonium ion is",
+      "options": [
+        "+1",
+        "0",
+        "−1",
+        "+2"
+      ],
+      "answerIndex": 0,
+      "explanation": "FC = 5 − 0 − 8/2 = +1; nitrogen still has an octet but the ion carries the extra positive charge.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-128",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "medium",
+      "stem": "In carbonate ion the carbon-oxygen bond order is",
+      "options": [
+        "1",
+        "1.33",
+        "2",
+        "3"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four electron pairs are delocalised over three C-O bonds, giving bond order 4/3 ≈ 1.33.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-129",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "hard",
+      "stem": "For N2O the skeleton N-N-O is preferred over N-O-N because",
+      "options": [
+        "it allows smaller formal charges on the atoms",
+        "oxygen must occupy the central position in every triatomic",
+        "N2O is an ionic lattice of N2+ and O-",
+        "resonance is impossible for an N-N-O arrangement"
+      ],
+      "answerIndex": 0,
+      "explanation": "N-N-O drawings give formal charges near zero; N-O-N forces large, less acceptable charges.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-130",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "formal-charge-resonance",
+      "difficulty": "hard",
+      "stem": "An ozone canonical form that puts like charges on adjacent oxygen atoms is",
+      "options": [
+        "the major contributor",
+        "only a minor contributor, because adjacent like charges raise the energy",
+        "the only structure that actually exists",
+        "required by the octet rule and therefore dominant"
+      ],
+      "answerIndex": 1,
+      "explanation": "Structures with neighbouring +/+ or −/− charges are high in energy and contribute little to the hybrid.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-131",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "easy",
+      "stem": "Bond length between a given pair of atoms generally decreases as",
+      "options": [
+        "bond order decreases",
+        "bond order increases",
+        "atomic size increases with nothing else changed",
+        "temperature is lowered with no change in bonding"
+      ],
+      "answerIndex": 1,
+      "explanation": "More shared electron pairs pull the nuclei closer, so a triple bond is shorter than a double or single bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-132",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "easy",
+      "stem": "Bond enthalpy is defined as the energy needed to",
+      "options": [
+        "form one mole of bonds from gaseous atoms with no other change",
+        "break one mole of a specified bond in gaseous molecules",
+        "melt a covalent network solid",
+        "ionise a molecule to a cation"
+      ],
+      "answerIndex": 1,
+      "explanation": "It is the enthalpy change for homolytic cleavage of that bond in the gas phase.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-133",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "easy",
+      "stem": "Compared with a carbon-carbon single bond, a carbon-carbon triple bond is",
+      "options": [
+        "longer and weaker",
+        "shorter and stronger",
+        "longer and stronger",
+        "identical in length and strength"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bond order 3 means greater electron density between the carbons, so the link is both shorter and stronger.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-134",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "easy",
+      "stem": "The H-C-H bond angle in methane is approximately",
+      "options": [
+        "90°",
+        "109.5°",
+        "120°",
+        "180°"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four equivalent C-H bonds around carbon give the tetrahedral angle of about 109.5°.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-135",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "easy",
+      "stem": "Among single, double and triple bonds between the same two atoms, the triple bond has the",
+      "options": [
+        "smallest bond enthalpy",
+        "largest bond enthalpy",
+        "greatest internuclear distance",
+        "same strength as the single bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "Higher bond order raises the energy required to separate the atoms.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-136",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "easy",
+      "stem": "The covalent radius of an atom is taken as roughly",
+      "options": [
+        "half the internuclear distance in a homonuclear single-bonded molecule",
+        "the van der Waals radius of the isolated atom",
+        "always equal to the metallic radius",
+        "the ionic radius of the corresponding cation"
+      ],
+      "answerIndex": 0,
+      "explanation": "For X2, r_cov ≈ (X-X single-bond length)/2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-137",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "easy",
+      "stem": "Bond angle means the angle between",
+      "options": [
+        "a nucleus and a lone pair with no bonded atom",
+        "two bond axes that originate from the same atom",
+        "the two ends of the molecular dipole vector",
+        "hybrid orbitals belonging to two different atoms"
+      ],
+      "answerIndex": 1,
+      "explanation": "It is the internuclear angle A-B-C at the central atom B.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-138",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "medium",
+      "stem": "The H-O-H angle in water is less than the tetrahedral angle mainly because",
+      "options": [
+        "oxygen is sp hybridised",
+        "lone-pair–bond-pair repulsion compresses the bond angle",
+        "hydrogen is more electronegative than oxygen",
+        "the water molecule is linear"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two lone pairs on oxygen occupy more space than bond pairs, so the H-O-H angle falls to about 104.5°.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-139",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "medium",
+      "stem": "The F-F bond dissociation enthalpy is lower than that of Cl-Cl largely because",
+      "options": [
+        "fluorine is less electronegative than chlorine",
+        "lone-pair repulsion is severe in the small F2 molecule",
+        "F2 is an ionic compound",
+        "chlorine atoms have no lone pairs"
+      ],
+      "answerIndex": 1,
+      "explanation": "The short F-F distance forces non-bonding pairs to crowd, weakening the bond despite fluorine’s high electronegativity.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-140",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "medium",
+      "stem": "In the hydrogen halide series, H-F has the",
+      "options": [
+        "longest bond and the lowest bond enthalpy",
+        "shortest bond and the highest bond enthalpy",
+        "same length as H-I",
+        "purely ionic character with no covalent radius"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fluorine is the smallest halogen, so H-F is the shortest and strongest of the H-X bonds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-141",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "medium",
+      "stem": "Increasing s-character in a hybrid orbital of carbon",
+      "options": [
+        "lengthens the bond and lowers its enthalpy",
+        "shortens the bond and raises bond enthalpy",
+        "leaves bond length unchanged",
+        "converts every sigma bond into a pi bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "An sp carbon (50% s) holds electrons closer than sp3 (25% s), so C-H and C-C bonds become shorter and stronger.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-142",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "bond-parameters",
+      "difficulty": "hard",
+      "stem": "The observed H-N-H angle in ammonia is about 107° rather than 109.5° because",
+      "options": [
+        "nitrogen remains completely unhybridised",
+        "the lone pair occupies more space than a bond pair and compresses the angles",
+        "the molecule is trigonal planar",
+        "hydrogen bonding forces NH3 to become linear"
+      ],
+      "answerIndex": 1,
+      "explanation": "lp-bp repulsion > bp-bp repulsion, so the three N-H bonds are squeezed slightly below the tetrahedral value.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-143",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "A polar covalent bond develops when the bonded atoms",
+      "options": [
+        "have identical electronegativity",
+        "differ in electronegativity so the shared pair is displaced",
+        "must belong to a linear molecule",
+        "are both metals"
+      ],
+      "answerIndex": 1,
+      "explanation": "The more electronegative atom draws the shared pair closer and acquires a partial negative charge.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-144",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "According to Fajan’s rules, a cation polarises an anion more strongly if the cation is",
+      "options": [
+        "large and of low charge",
+        "small and of high charge",
+        "isoelectronic with neon and nothing else",
+        "colourless in aqueous solution"
+      ],
+      "answerIndex": 1,
+      "explanation": "High charge density on a small, highly charged cation distorts the anion’s electron cloud.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-145",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "Polarisability of an anion increases with",
+      "options": [
+        "decreasing size and decreasing charge",
+        "increasing size and increasing charge",
+        "increasing ionisation enthalpy of the parent atom",
+        "decreasing atomic number at constant size"
+      ],
+      "answerIndex": 1,
+      "explanation": "A large, highly charged anion holds its outer electrons loosely, so they are easily distorted.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-146",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "Among the alkali-metal chlorides, covalent character is greatest in",
+      "options": [
+        "LiCl",
+        "NaCl",
+        "KCl",
+        "CsCl"
+      ],
+      "answerIndex": 0,
+      "explanation": "Li+ is the smallest alkali cation and therefore the most polarising, so LiCl is the most covalent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-147",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "The unit commonly used for molecular dipole moment is the",
+      "options": [
+        "newton",
+        "debye",
+        "tesla",
+        "pascal"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dipole moment is quoted in debye (D); 1 D = 3.33564 × 10^−30 C m.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-148",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "Water has a permanent dipole moment because the molecule is",
+      "options": [
+        "linear, so the two O-H bond dipoles cancel",
+        "bent, so the two O-H bond dipoles do not cancel",
+        "built from oxygen and hydrogen of equal electronegativity",
+        "an ionic crystal like NaCl"
+      ],
+      "answerIndex": 1,
+      "explanation": "The bent shape leaves a net dipole pointing toward oxygen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-149",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "Polarising power of a cation increases with its",
+      "options": [
+        "ionic radius at constant charge",
+        "charge density (charge divided by size)",
+        "number of neutrons",
+        "mass number alone"
+      ],
+      "answerIndex": 1,
+      "explanation": "A high charge on a small cation gives a strong polarising field.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-150",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "AgCl is more covalent than NaCl because Ag+",
+      "options": [
+        "is larger than Na+ and therefore less polarising",
+        "has a pseudo noble-gas (18-electron) configuration that polarises Cl- strongly",
+        "has charge +2 in the chloride",
+        "cannot polarise any anion"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cations with an 18-electron outer shell polarise anions more than noble-gas cations of similar size.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-151",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "The dipole moment of a bond equals the product of",
+      "options": [
+        "the magnitude of the separated charges and the internuclear distance",
+        "mass and velocity of the molecule",
+        "electronegativity and atomic number only",
+        "bond order and bond enthalpy only"
+      ],
+      "answerIndex": 0,
+      "explanation": "μ = q × d for a charge separation q over distance d.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-152",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "easy",
+      "stem": "Boron trifluoride has a net dipole of zero because",
+      "options": [
+        "the B-F bonds are completely nonpolar",
+        "the molecule is trigonal planar and the three bond dipoles cancel",
+        "the molecule is tetrahedral",
+        "fluorine is electropositive relative to boron"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three equal B-F dipoles at 120° in a plane sum to zero, even though each bond is polar.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-153",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "medium",
+      "stem": "Carbon dioxide is nonpolar while sulphur dioxide is polar because",
+      "options": [
+        "CO2 is linear so bond dipoles cancel, whereas SO2 is bent",
+        "both molecules are linear",
+        "both molecules are bent",
+        "CO2 contains only ionic bonds"
+      ],
+      "answerIndex": 0,
+      "explanation": "Opposite C=O dipoles cancel in linear CO2; the bent SO2 molecule has a net dipole toward sulphur’s lone pair.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-154",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "medium",
+      "stem": "Percentage ionic character from measured dipole moment is given by",
+      "options": [
+        "(μ_observed / μ_calculated for 100% ionic) × 100",
+        "μ_ionic / μ_observed with no factor of 100",
+        "bond order × 100",
+        "a constant 50% for every heteronuclear bond"
+      ],
+      "answerIndex": 0,
+      "explanation": "Comparing the observed μ with q × d for full charge transfer estimates the ionic contribution.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-155",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "medium",
+      "stem": "NH3 has a dipole moment whereas BF3 does not, mainly because",
+      "options": [
+        "NH3 is pyramidal with a lone pair, while BF3 is trigonal planar",
+        "both molecules are planar",
+        "both molecules are pyramidal",
+        "boron is more electronegative than nitrogen"
+      ],
+      "answerIndex": 0,
+      "explanation": "The lone pair on nitrogen and the unsymmetrical shape give NH3 a net dipole; BF3’s planar bond dipoles cancel.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-156",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "medium",
+      "stem": "NF3 has a smaller dipole moment than NH3 because",
+      "options": [
+        "fluorine is less electronegative than hydrogen",
+        "N-F bond dipoles oppose the lone-pair moment, whereas N-H dipoles reinforce it",
+        "NF3 is linear",
+        "NH3 is a nonpolar molecule"
+      ],
+      "answerIndex": 1,
+      "explanation": "In NF3 the bond dipoles point toward fluorine, partly cancelling the lone-pair contribution; in NH3 they add to it.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-157",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "medium",
+      "stem": "BeCl2 is more covalent than BaCl2 because",
+      "options": [
+        "Be2+ is much smaller and more polarising than Ba2+",
+        "Ba2+ is smaller than Be2+",
+        "chlorine is a different element in the two chlorides",
+        "BeCl2 is purely ionic with an exceptionally high lattice energy"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fajan: the tiny, highly polarising Be2+ distorts Cl- and the chloride is largely covalent.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-158",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "fajan-dipole",
+      "difficulty": "hard",
+      "stem": "CCl4 has zero net dipole whereas CHCl3 does not, because",
+      "options": [
+        "C-Cl bonds in CCl4 are nonpolar",
+        "tetrahedral CCl4 bond dipoles cancel, while CHCl3 is unsymmetrical",
+        "CHCl3 is a linear molecule",
+        "carbon cannot form polar bonds at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four identical C-Cl dipoles arranged tetrahedrally sum to zero; replacing one Cl by H destroys that cancellation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-159",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "VSEPR theory predicts molecular geometry from",
+      "options": [
+        "nuclear spin of the central atom",
+        "repulsion among valence electron pairs around the central atom",
+        "lattice energy of the crystal",
+        "the colour of the compound"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electron pairs stay as far apart as possible; the resulting arrangement is the observed shape.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-160",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "The water molecule is best described as",
+      "options": [
+        "linear",
+        "angular (V-shaped)",
+        "trigonal planar",
+        "octahedral"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two bond pairs and two lone pairs on oxygen give a tetrahedral electron geometry and a bent molecular shape.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-161",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "Gaseous beryllium chloride has the molecular shape",
+      "options": [
+        "tetrahedral",
+        "linear",
+        "T-shaped",
+        "square planar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Be has two bond pairs and no lone pair, so the molecule is linear (180°).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-162",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "The molecular shape of boron trifluoride is",
+      "options": [
+        "pyramidal",
+        "trigonal planar",
+        "linear",
+        "octahedral"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three bond pairs and no lone pair on boron give a trigonal planar molecule.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-163",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "Methane has the molecular geometry",
+      "options": [
+        "square planar",
+        "tetrahedral",
+        "trigonal bipyramidal",
+        "T-shaped"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four bond pairs around carbon point toward the corners of a tetrahedron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-164",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "Gaseous phosphorus pentachloride is",
+      "options": [
+        "octahedral",
+        "trigonal bipyramidal",
+        "square planar",
+        "linear"
+      ],
+      "answerIndex": 1,
+      "explanation": "Five bond pairs around phosphorus adopt a trigonal bipyramid (three equatorial, two axial).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-165",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "The molecular geometry of sulphur hexafluoride is",
+      "options": [
+        "tetrahedral",
+        "octahedral",
+        "trigonal planar",
+        "T-shaped"
+      ],
+      "answerIndex": 1,
+      "explanation": "Six S-F bond pairs and no lone pair give a regular octahedron.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-166",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "Chlorine trifluoride has the molecular shape",
+      "options": [
+        "trigonal planar",
+        "T-shaped",
+        "linear",
+        "tetrahedral"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three bond pairs and two lone pairs around chlorine give the T-shape (AX3E2).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-167",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "The molecular shape of xenon difluoride is",
+      "options": [
+        "bent like water",
+        "linear",
+        "T-shaped",
+        "tetrahedral"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two bond pairs and three lone pairs around Xe give a linear molecule (lone pairs equatorial in the TBP electron set).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-168",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "Xenon tetrafluoride has the molecular shape",
+      "options": [
+        "tetrahedral",
+        "square planar",
+        "see-saw",
+        "linear"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four bond pairs and two lone pairs (opposite each other) in an octahedral electron set give square planar XeF4.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-169",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "Carbon dioxide is linear because the central carbon has",
+      "options": [
+        "two bond domains and no lone pair",
+        "two lone pairs and no bonds",
+        "four lone pairs",
+        "an unpaired electron"
+      ],
+      "answerIndex": 0,
+      "explanation": "Two regions of electron density (the two C=O bonds) lie 180° apart.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-170",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "Sulphur dioxide is bent because sulphur has",
+      "options": [
+        "no lone pair",
+        "one lone pair besides two bonding domains",
+        "three lone pairs and no bonds",
+        "zero electron pairs"
+      ],
+      "answerIndex": 1,
+      "explanation": "The SO2 electron geometry is trigonal planar; one corner is a lone pair, so the molecule is angular.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-171",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "In PCl5 the axial P-Cl bonds, compared with the equatorial P-Cl bonds, are",
+      "options": [
+        "shorter",
+        "longer",
+        "identical in every respect",
+        "purely ionic"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each axial bond has three 90° neighbours, so it is longer and weaker than an equatorial bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-172",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "easy",
+      "stem": "Repulsion between electron pairs decreases in the order",
+      "options": [
+        "bond pair-bond pair > lone pair-lone pair > lone pair-bond pair",
+        "lone pair-lone pair > lone pair-bond pair > bond pair-bond pair",
+        "lone pair-bond pair > lone pair-lone pair > bond pair-bond pair",
+        "all three interactions equal"
+      ],
+      "answerIndex": 1,
+      "explanation": "Lone pairs sit closer to the nucleus and occupy more space than bond pairs.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-173",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "medium",
+      "stem": "SF4 has a see-saw shape because sulphur is surrounded by",
+      "options": [
+        "four bond pairs and one lone pair",
+        "five bond pairs and no lone pair",
+        "two lone pairs and three bond pairs",
+        "six bond pairs"
+      ],
+      "answerIndex": 0,
+      "explanation": "Steric number 5 with one lone pair (equatorial) leaves a see-saw of four fluorines.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-174",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "medium",
+      "stem": "The molecular shape of BrF5 is",
+      "options": [
+        "octahedral",
+        "square pyramidal",
+        "linear",
+        "tetrahedral"
+      ],
+      "answerIndex": 1,
+      "explanation": "Five bond pairs and one lone pair in an octahedral electron set give a square pyramid.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-175",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "medium",
+      "stem": "The molecular shape of the triiodide ion I3- is",
+      "options": [
+        "bent",
+        "linear",
+        "T-shaped like a triangle",
+        "tetrahedral"
+      ],
+      "answerIndex": 1,
+      "explanation": "The central iodine has two bond pairs and three lone pairs; the ion is linear like XeF2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-176",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "medium",
+      "stem": "The molecular shape of XeO3 is",
+      "options": [
+        "trigonal planar",
+        "pyramidal",
+        "linear",
+        "octahedral"
+      ],
+      "answerIndex": 1,
+      "explanation": "Xenon has three Xe=O bonds and one lone pair, so XeO3 is pyramidal (like NH3 in electron count of four domains).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-177",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "medium",
+      "stem": "The H-O-H angle is smaller than the H-N-H angle because",
+      "options": [
+        "oxygen has two lone pairs while nitrogen has one",
+        "nitrogen has two lone pairs",
+        "both molecules are linear",
+        "oxygen is sp hybridised"
+      ],
+      "answerIndex": 0,
+      "explanation": "Two lone pairs on oxygen compress the bond angle more than the single lone pair on nitrogen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-178",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "medium",
+      "stem": "In a trigonal bipyramidal electron arrangement, a lone pair prefers",
+      "options": [
+        "an axial site",
+        "an equatorial site",
+        "the nucleus of the central atom",
+        "a d orbital of a ligand atom"
+      ],
+      "answerIndex": 1,
+      "explanation": "Equatorial lone pairs have only two 90° neighbours instead of three, so they experience less repulsion.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-179",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "medium",
+      "stem": "The number of lone pairs on chlorine in ClF3 is",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answerIndex": 2,
+      "explanation": "Chlorine has seven valence electrons; three are used in Cl-F bonds, leaving two lone pairs (AX3E2).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-180",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "hard",
+      "stem": "The VSEPR notation AX3E2 corresponds to the molecular shape",
+      "options": [
+        "trigonal planar",
+        "T-shaped",
+        "tetrahedral",
+        "linear"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three bonded atoms and two lone pairs give the T-shape, as in ClF3.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-181",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "hard",
+      "stem": "[PCl4]+ is tetrahedral whereas [PCl6]- is octahedral because",
+      "options": [
+        "both ions have the same steric number",
+        "the steric numbers are 4 and 6 respectively",
+        "phosphorus is unhybridised in both ions",
+        "the two ions are isoelectronic"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four bond pairs around P in [PCl4]+; six bond pairs around P in [PCl6]-.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-182",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vsepr",
+      "difficulty": "hard",
+      "stem": "The equatorial F-S-F angle in SF4 is less than 120° because",
+      "options": [
+        "the axial bonds occupy more space than lone pairs",
+        "the equatorial lone pair compresses the adjacent F-S-F angle",
+        "SF4 is octahedral",
+        "fluorine atoms have no lone pairs"
+      ],
+      "answerIndex": 1,
+      "explanation": "lp-bp repulsion in the equatorial plane pushes the two equatorial fluorines together.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-183",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "Hybridisation is the mixing of",
+      "options": [
+        "atomic orbitals of similar energy on the same atom",
+        "nuclei of two different atoms",
+        "molecular orbitals belonging to two different molecules",
+        "only d orbitals located on neighbouring atoms"
+      ],
+      "answerIndex": 0,
+      "explanation": "Atomic orbitals on one atom combine to give new hybrid orbitals used in bonding.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-184",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "The hybridisation of carbon in methane is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "sp3d"
+      ],
+      "answerIndex": 2,
+      "explanation": "Four C-H sigma bonds require four equivalent sp3 hybrids.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-185",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "Each carbon atom of ethene is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "completely unhybridised"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three sigma bonds (and one leftover p orbital for the pi bond) mean sp2 hybridisation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-186",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "Each carbon atom of ethyne is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "sp3d2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Two sigma bonds at 180° leave two p orbitals for the two pi bonds of the triple bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-187",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "The hybridisation of boron in BF3 is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "dsp2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three B-F sigma bonds and no lone pair give steric number 3 and sp2 hybrids.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-188",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "The hybridisation of beryllium in gaseous BeCl2 is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "sp3d"
+      ],
+      "answerIndex": 0,
+      "explanation": "Two Be-Cl bonds and no lone pair: steric number 2, sp hybridisation, linear molecule.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-189",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "The hybridisation of phosphorus in PCl5 is",
+      "options": [
+        "sp3",
+        "sp3d",
+        "sp3d2",
+        "sp2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Five P-Cl bonds require five hybrids: one 3s, three 3p and one 3d combine to give sp3d.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-190",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "Steric number of a central atom equals",
+      "options": [
+        "its atomic number",
+        "the number of sigma-bonded atoms plus the number of lone pairs",
+        "its mass number",
+        "its oxidation number"
+      ],
+      "answerIndex": 1,
+      "explanation": "Steric number is the count of electron domains and it fixes the hybridisation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-191",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "The hybridisation of nitrogen in ammonia is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "sp3d"
+      ],
+      "answerIndex": 2,
+      "explanation": "Three N-H bonds plus one lone pair give steric number 4, so nitrogen is sp3.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-192",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "The hybridisation of oxygen in the water molecule is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "unhybridised p only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Two O-H bonds and two lone pairs: steric number 4, sp3 hybridisation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-193",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "The hybridisation of xenon in xenon difluoride is",
+      "options": [
+        "sp2",
+        "sp3",
+        "sp3d",
+        "sp3d2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Two Xe-F bonds and three lone pairs give steric number 5 and sp3d hybrids.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-194",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "The number of hybrid orbitals produced equals",
+      "options": [
+        "the number of atomic orbitals that were mixed",
+        "twice the atomic number of the central atom",
+        "the number of pi bonds in the molecule",
+        "always exactly four"
+      ],
+      "answerIndex": 0,
+      "explanation": "n atomic orbitals mix to give n hybrids; none are created or destroyed.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-195",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "Two sp hybrid orbitals on an atom are oriented at",
+      "options": [
+        "90°",
+        "109.5°",
+        "120°",
+        "180°"
+      ],
+      "answerIndex": 3,
+      "explanation": "sp hybrids lie along a line, matching linear molecules such as BeCl2 and ethyne.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-196",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "easy",
+      "stem": "Three sp2 hybrid orbitals lie in a plane at angles of",
+      "options": [
+        "90°",
+        "109.5°",
+        "120°",
+        "180°"
+      ],
+      "answerIndex": 2,
+      "explanation": "sp2 hybrids point toward the corners of an equilateral triangle.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-197",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "medium",
+      "stem": "See-saw SF4 uses which hybrid set on sulphur?",
+      "options": [
+        "sp3",
+        "sp3d",
+        "sp3d2",
+        "sp2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four S-F bonds and one lone pair: steric number 5, sp3d, see-saw shape.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-198",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "medium",
+      "stem": "Chlorine in ClF3 uses the hybridisation",
+      "options": [
+        "sp2",
+        "sp3",
+        "sp3d",
+        "sp3d2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Three bonds and two lone pairs on chlorine give steric number 5 and sp3d hybrids.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-199",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "medium",
+      "stem": "The hybridisation of carbon in carbon dioxide is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "sp3d"
+      ],
+      "answerIndex": 0,
+      "explanation": "Carbon forms two sigma bonds and no lone pair (steric number 2), so it is sp hybridised.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-200",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "medium",
+      "stem": "The hybridisation of nitrogen in NH4+ is",
+      "options": [
+        "sp2",
+        "sp3",
+        "sp",
+        "unhybridised"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four N-H sigma bonds and no lone pair: steric number 4, tetrahedral sp3 nitrogen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-201",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "medium",
+      "stem": "A steric number of six on the central atom corresponds to",
+      "options": [
+        "sp3",
+        "sp3d",
+        "sp3d2",
+        "sp2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Six electron domains require six hybrids: s + p + p + p + d + d = sp3d2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-202",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "medium",
+      "stem": "Square planar XeF4 requires xenon hybridisation of",
+      "options": [
+        "sp3",
+        "sp3d",
+        "sp3d2",
+        "sp2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Four bonds and two lone pairs give steric number 6, so xenon is sp3d2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-203",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "medium",
+      "stem": "The hybridisation of sulphur in SO2 is",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "sp3d2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two S-O bonding domains and one lone pair: steric number 3, sp2 sulphur.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-204",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "hard",
+      "stem": "Carbon is sp3 in diamond but sp2 in graphite because",
+      "options": [
+        "each carbon has four sigma neighbours in diamond and three planar sigma neighbours in graphite",
+        "both allotropes have the same hybridisation",
+        "graphite is an ionic solid",
+        "diamond contains pi bonds between carbons"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tetrahedral four-coordinate carbon is sp3; sheet-like three-coordinate carbon with a leftover p orbital is sp2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-205",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "hard",
+      "stem": "The hybridisation of iodine in IF5 is",
+      "options": [
+        "sp3d",
+        "sp3d2",
+        "sp3",
+        "sp2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Five I-F bonds and one lone pair give steric number 6 and sp3d2 (square pyramidal molecule).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-206",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hybridisation",
+      "difficulty": "hard",
+      "stem": "In ethyne, each C-H bond is formed by overlap of",
+      "options": [
+        "an sp hybrid on carbon with the 1s orbital of hydrogen",
+        "an sp2 hybrid on carbon with hydrogen 1s",
+        "an sp3 hybrid on carbon with hydrogen 1s",
+        "two unhybridised p orbitals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each carbon is sp; the two sp hybrids make the C-C sigma and the C-H sigma bonds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-207",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vbt-mot-intro",
+      "difficulty": "easy",
+      "stem": "Valence bond theory describes a covalent bond as",
+      "options": [
+        "an electrostatic ionic lattice",
+        "overlap of half-filled atomic orbitals on adjacent atoms",
+        "a sea of completely free electrons",
+        "a resonance hybrid of ions only"
+      ],
+      "answerIndex": 1,
+      "explanation": "VBT pictures a bond as shared electron density where two half-filled orbitals overlap.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-208",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vbt-mot-intro",
+      "difficulty": "easy",
+      "stem": "Molecular orbital theory constructs MOs by",
+      "options": [
+        "ignoring the atomic orbitals of the atoms",
+        "linear combination of atomic orbitals (LCAO)",
+        "transferring protons between nuclei",
+        "counting only lone pairs"
+      ],
+      "answerIndex": 1,
+      "explanation": "Atomic orbitals of similar energy and symmetry mix to give bonding and antibonding molecular orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-209",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vbt-mot-intro",
+      "difficulty": "easy",
+      "stem": "A well-known failure of simple VBT is that it cannot easily explain",
+      "options": [
+        "the tetrahedral shape of methane",
+        "the paramagnetism of the oxygen molecule",
+        "the existence of H2",
+        "head-on sigma overlap"
+      ],
+      "answerIndex": 1,
+      "explanation": "A simple Lewis/VBT double bond in O2 has all electrons paired, but liquid oxygen is attracted into a magnet.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-210",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vbt-mot-intro",
+      "difficulty": "easy",
+      "stem": "A bonding molecular orbital, compared with the parent atomic orbitals, is",
+      "options": [
+        "higher in energy",
+        "lower in energy",
+        "identical in energy",
+        "always antibonding in character"
+      ],
+      "answerIndex": 1,
+      "explanation": "Constructive overlap lowers the energy; electrons in the bonding MO stabilise the molecule.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-211",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vbt-mot-intro",
+      "difficulty": "easy",
+      "stem": "An antibonding MO is characterised by",
+      "options": [
+        "electron density concentrated between the nuclei",
+        "a nodal plane between the nuclei",
+        "lower energy than the corresponding bonding MO",
+        "the complete absence of nodes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Destructive interference puts a node between the atoms and raises the orbital energy.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-212",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vbt-mot-intro",
+      "difficulty": "medium",
+      "stem": "MOT is especially useful, compared with simple VBT, when one needs",
+      "options": [
+        "only a name for the hybridisation of methane",
+        "bond order and magnetic behaviour of diatomic species",
+        "the lattice energy of NaCl",
+        "the colour of gemstones"
+      ],
+      "answerIndex": 1,
+      "explanation": "Filling MOs immediately gives (Nb − Na)/2 and the number of unpaired electrons.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-213",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vbt-mot-intro",
+      "difficulty": "medium",
+      "stem": "According to the LCAO method, two atomic orbitals combine to give",
+      "options": [
+        "one molecular orbital",
+        "two molecular orbitals, one bonding and one antibonding",
+        "three molecular orbitals",
+        "no molecular orbitals"
+      ],
+      "answerIndex": 1,
+      "explanation": "The number of MOs equals the number of AOs mixed: a bonding–antibonding pair from two AOs.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-214",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "vbt-mot-intro",
+      "difficulty": "hard",
+      "stem": "A limitation of simple VBT relative to MOT is that VBT",
+      "options": [
+        "does not naturally give fractional bond orders or the unpaired electrons of O2-like molecules",
+        "cannot describe methane at all",
+        "forbids the existence of pi bonds",
+        "requires molecular group theory"
+      ],
+      "answerIndex": 0,
+      "explanation": "MOT filling yields bond orders such as 2.5 and explains why O2 is paramagnetic; elementary VBT does not.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-215",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "Bond order in molecular orbital theory is given by",
+      "options": [
+        "Nb + Na",
+        "(Nb − Na)/2",
+        "Nb − Na",
+        "Na / Nb"
+      ],
+      "answerIndex": 1,
+      "explanation": "Half the difference between bonding and antibonding electrons is the MOT bond order.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-216",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "Nitrogen molecule is assigned a MOT bond order of",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answerIndex": 2,
+      "explanation": "N2 has eight bonding and two antibonding valence electrons in the 2s/2p set, so bond order is (8 − 2)/2 = 3.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-217",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "The fluorine molecule has a MOT bond order of",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0.5"
+      ],
+      "answerIndex": 0,
+      "explanation": "F2 fills π* with four electrons; (8 − 6)/2 = 1, matching a single F-F bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-218",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "Dioxygen is paramagnetic because MOT places",
+      "options": [
+        "all electrons in paired sets",
+        "two unpaired electrons in the π* orbitals",
+        "three unpaired electrons in σ*",
+        "no electrons in any antibonding orbital"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hund filling of degenerate π*2p orbitals leaves two unpaired electrons, so O2 is attracted into a magnetic field.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-219",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "Dinitrogen is diamagnetic because",
+      "options": [
+        "it has two unpaired electrons",
+        "all electrons are paired in its MO configuration",
+        "the molecule is ionic",
+        "its bond order is 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "The configuration of N2 has every MO either empty or doubly occupied.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-220",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "For O2 and F2 the valence MO energy order has",
+      "options": [
+        "π2p below σ2p",
+        "σ2p below π2p",
+        "all π* orbitals below σ2s",
+        "no σ orbitals at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "From O2 onwards the σ2pz orbital drops below the π2p pair.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-221",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "B2 is paramagnetic according to MOT because",
+      "options": [
+        "it has two unpaired electrons in the π2p set",
+        "its bond order is zero",
+        "all of its electrons are paired",
+        "it is a noble-gas dimer"
+      ],
+      "answerIndex": 0,
+      "explanation": "For B2 the π2p orbitals fill before σ2p; Hund’s rule puts one electron in each π orbital.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-222",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "Dicarbon C2 has a MOT bond order of",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answerIndex": 1,
+      "explanation": "C2 has eight valence electrons in bonding MOs of the 2s/2p set after cancelling σ2s/σ*2s, giving bond order 2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-223",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "He2 is not a stable molecule because its MOT bond order is",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "answerIndex": 2,
+      "explanation": "Both bonding and antibonding 1s MOs are filled: (2 − 2)/2 = 0, so there is no net bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-224",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "The superoxide ion is paramagnetic because MOT gives it",
+      "options": [
+        "one unpaired electron in a π* orbital",
+        "no antibonding electrons",
+        "the same configuration as N2",
+        "a bond order of 3"
+      ],
+      "answerIndex": 0,
+      "explanation": "O2- has one more electron than O2, so π* holds three electrons — one remains unpaired.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-225",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "A higher MOT bond order generally means",
+      "options": [
+        "a longer, weaker bond",
+        "a shorter, stronger bond",
+        "no change in internuclear distance",
+        "that the species must be paramagnetic"
+      ],
+      "answerIndex": 1,
+      "explanation": "More net bonding electrons pull the nuclei closer and raise the dissociation enthalpy.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-226",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "F2 is diamagnetic; its valence MO diagram contains",
+      "options": [
+        "two unpaired electrons",
+        "zero unpaired electrons",
+        "three unpaired electrons",
+        "an odd total number of electrons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Eighteen electrons (or 14 valence) fill every occupied MO in pairs, including the filled π* set.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-227",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "The hydrogen molecule H2 has a MOT bond order of",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "0.5"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two electrons occupy σ1s and none occupy σ*1s, so bond order is 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-228",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "The number of unpaired electrons in O2 according to MOT is",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "The two π*2p orbitals each hold one electron with parallel spins.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-229",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "The number of valence electrons placed in the MOT of F2 is",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "answerIndex": 2,
+      "explanation": "Each fluorine contributes seven valence electrons, so fourteen electrons fill the 2s/2p MO set.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-230",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "N2 is more stable than O2 partly because",
+      "options": [
+        "N2 has the higher bond order",
+        "O2 has bond order 3",
+        "N2 is paramagnetic",
+        "O2 has no antibonding electrons"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bond order 3 (N2) versus 2 (O2) means a stronger, shorter bond in dinitrogen.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-231",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "easy",
+      "stem": "KO2 contains the superoxide ion, which MOT treats as",
+      "options": [
+        "O2 with one extra electron in a π* orbital",
+        "a species with bond order 3",
+        "diamagnetic peroxide O2^2-",
+        "an analogue of N2"
+      ],
+      "answerIndex": 0,
+      "explanation": "Potassium superoxide is K+ O2-; the extra electron enters π*, leaving the ion paramagnetic.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-232",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "medium",
+      "stem": "Bond order of O2+ is greater than that of O2 because ionisation",
+      "options": [
+        "removes an electron from an antibonding π* orbital",
+        "removes an electron from a bonding orbital",
+        "adds antibonding electrons",
+        "changes the oxygen nuclei"
+      ],
+      "answerIndex": 0,
+      "explanation": "Taking an electron from π* raises bond order from 2 to 2.5, so O2+ is more tightly bound than O2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-233",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "medium",
+      "stem": "N2+ has a lower bond order than N2 because the electron is lost from",
+      "options": [
+        "a bonding molecular orbital",
+        "an antibonding π* orbital",
+        "a fluorine-like configuration",
+        "the nitrogen 1s core"
+      ],
+      "answerIndex": 0,
+      "explanation": "The HOMO of N2 is the bonding σ2p orbital; removing that electron drops bond order from 3 to 2.5.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-234",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "medium",
+      "stem": "Among O2, O2+ and O2-, the longest bond is expected for",
+      "options": [
+        "O2+",
+        "O2",
+        "O2-",
+        "all three equally"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bond orders are 2.5, 2 and 1.5 respectively, so superoxide has the weakest, longest link.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-235",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "medium",
+      "stem": "C2 is diamagnetic because its MOT configuration fills",
+      "options": [
+        "the π2p set with four electrons and no unpaired electron",
+        "π2p with two unpaired electrons",
+        "σ*2p with two electrons",
+        "only 1s orbitals"
+      ],
+      "answerIndex": 0,
+      "explanation": "For C2 the π2p orbitals are fully occupied (four electrons) and σ2p is empty, so all spins are paired.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-236",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "medium",
+      "stem": "Compared with F2, the cation F2+ has a",
+      "options": [
+        "smaller bond order",
+        "larger bond order, because an antibonding electron is removed",
+        "bond order that is unchanged",
+        "bond order that cannot be defined"
+      ],
+      "answerIndex": 1,
+      "explanation": "F2 bond order is 1; removing a π* electron gives F2+ bond order 1.5.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-237",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "medium",
+      "stem": "MOT predicts B2 to be paramagnetic while C2 is not because",
+      "options": [
+        "B2 places two electrons in degenerate π2p orbitals, whereas C2 fills that set",
+        "C2 has unpaired electrons and B2 does not",
+        "B2 has bond order zero",
+        "both molecules are noble-gas dimers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Two π2p electrons (B2) remain unpaired; four π2p electrons (C2) are paired.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-238",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "medium",
+      "stem": "The peroxide ion is assigned a MOT bond order of",
+      "options": [
+        "1",
+        "1.5",
+        "2",
+        "3"
+      ],
+      "answerIndex": 0,
+      "explanation": "O2^2- has two more electrons than O2, both in π*; bond order falls from 2 to 1.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-239",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "medium",
+      "stem": "Which of N2, O2 and F2 has the largest MOT bond order?",
+      "options": [
+        "N2",
+        "O2",
+        "F2",
+        "they are equal"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bond orders are 3, 2 and 1 respectively, so dinitrogen is the most strongly bound.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-240",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "hard",
+      "stem": "Ionisation of O2 to O2+ is expected to",
+      "options": [
+        "increase the bond order and shorten the bond",
+        "decrease the bond order",
+        "unpair every remaining electron",
+        "add an extra antibonding electron"
+      ],
+      "answerIndex": 0,
+      "explanation": "Loss of a π* electron raises bond order (2 → 2.5), so the cation has a shorter, stronger bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-241",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "hard",
+      "stem": "Nitric oxide has an odd electron and a MOT bond order of",
+      "options": [
+        "2",
+        "2.5",
+        "3",
+        "1"
+      ],
+      "answerIndex": 1,
+      "explanation": "NO has 15 electrons; after filling, bond order is 2.5 and one electron remains unpaired.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-242",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "mot-diatomics",
+      "difficulty": "hard",
+      "stem": "For B2, C2 and N2 the valence MO order places",
+      "options": [
+        "σ2p below π2p",
+        "π2p below σ2p",
+        "all antibonding orbitals first",
+        "no π orbitals in the scheme"
+      ],
+      "answerIndex": 1,
+      "explanation": "Molecules with Z ≤ 7 for each atom have the inverted order: (π2p) then (σ2p).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-243",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "easy",
+      "stem": "Intermolecular hydrogen bonding is possible when hydrogen is bonded to",
+      "options": [
+        "C, Si or P",
+        "F, O or N",
+        "Na or K",
+        "only a noble-gas atom"
+      ],
+      "answerIndex": 1,
+      "explanation": "A highly electronegative F, O or N polarises H and can accept a hydrogen bond through a lone pair.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-244",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "easy",
+      "stem": "Hydrogen fluoride has an unusually high boiling point for its molecular mass mainly because of",
+      "options": [
+        "metallic bonding",
+        "intermolecular hydrogen bonding",
+        "an ionic lattice of HF units",
+        "London forces only"
+      ],
+      "answerIndex": 1,
+      "explanation": "HF molecules associate through F-H···F links, so extra energy is needed to boil the liquid.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-245",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "easy",
+      "stem": "Ice floats on liquid water because hydrogen bonding in ice",
+      "options": [
+        "packs the molecules more densely than in the liquid",
+        "creates an open cage, so ice is less dense than water",
+        "breaks every covalent O-H bond",
+        "makes ice metallic"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each oxygen in ice is tetrahedrally hydrogen-bonded, leaving empty space in the lattice.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-246",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "easy",
+      "stem": "Water boils much higher than H2S mainly because",
+      "options": [
+        "water molecules form hydrogen bonds",
+        "sulphur is more electronegative than oxygen",
+        "H2S is an ionic salt",
+        "water has the lower molecular mass and nothing else differs"
+      ],
+      "answerIndex": 0,
+      "explanation": "O-H···O hydrogen bonds are strong in water; S-H bonds are too weakly polar for comparable H-bonding.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-247",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "easy",
+      "stem": "Intermolecular hydrogen bonds occur",
+      "options": [
+        "only within a single molecule",
+        "between neighbouring molecules",
+        "only inside metals",
+        "only in diamond"
+      ],
+      "answerIndex": 1,
+      "explanation": "They link one molecule’s δ+ hydrogen to a lone pair on F, O or N of another molecule.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-248",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "easy",
+      "stem": "Ammonia can take part in hydrogen bonding because",
+      "options": [
+        "nitrogen is electronegative, bears a lone pair, and is bonded to hydrogen",
+        "carbon is bonded to hydrogen in ammonia",
+        "the molecule is linear",
+        "ammonia is the ionic salt NH4Cl"
+      ],
+      "answerIndex": 0,
+      "explanation": "N-H bonds are polar and the nitrogen lone pair can accept a hydrogen bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-249",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "easy",
+      "stem": "Methane does not form hydrogen bonds because",
+      "options": [
+        "C-H bonds are not polar enough and carbon has no lone pair to accept H-bonds",
+        "methane is heavier than water",
+        "methane is an ionic crystal",
+        "the molecule contains no hydrogen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hydrogen bonding needs H attached to F, O or N and a lone pair on a similar atom.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-250",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "easy",
+      "stem": "o-Nitrophenol boils lower than p-nitrophenol mainly because the ortho isomer has",
+      "options": [
+        "intramolecular hydrogen bonding, which reduces intermolecular association",
+        "no hydrogen-bonding ability at all",
+        "no nitro group",
+        "a fully ionic structure"
+      ],
+      "answerIndex": 0,
+      "explanation": "The ortho OH and NO2 groups H-bond within the molecule, so molecules attract each other less strongly.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-251",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "medium",
+      "stem": "Among NH3, H2O and HF, the highest boiling point belongs to",
+      "options": [
+        "NH3",
+        "H2O",
+        "HF",
+        "all three equal"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each water molecule can form up to four hydrogen bonds, giving the most extensive network and bp 100 °C.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-252",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "medium",
+      "stem": "Ethanol boils higher than dimethyl ether of the same formula mass because",
+      "options": [
+        "ethanol molecules form intermolecular hydrogen bonds",
+        "the ether is ionic",
+        "ethanol is nonpolar",
+        "the ether has stronger hydrogen bonds than ethanol"
+      ],
+      "answerIndex": 0,
+      "explanation": "The OH group of ethanol H-bonds to neighbouring molecules; ether oxygen has no H attached for donation.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-253",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "medium",
+      "stem": "In ice, each oxygen is hydrogen-bonded in a",
+      "options": [
+        "close-packed fcc arrangement",
+        "tetrahedral arrangement to four hydrogens (two covalent, two H-bonds)",
+        "linear chain with no branches",
+        "metallic lattice"
+      ],
+      "answerIndex": 1,
+      "explanation": "The open hexagonal ice structure has every O tetrahedrally surrounded, which lowers the density.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-254",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "medium",
+      "stem": "The strongest individual hydrogen bond among HF, H2O and NH3 is found in",
+      "options": [
+        "NH3",
+        "H2O",
+        "HF",
+        "CH4"
+      ],
+      "answerIndex": 2,
+      "explanation": "Fluorine is the most electronegative, so the H-bond in hydrogen fluoride is the strongest of the three.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-255",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "hard",
+      "stem": "Glycerol is highly viscous chiefly because of",
+      "options": [
+        "its purely hydrocarbon skeleton",
+        "extensive intermolecular hydrogen bonding among three OH groups per molecule",
+        "metallic bonding",
+        "the complete absence of hydroxyl groups"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three hydroxyl groups per molecule create a dense H-bond network that resists flow.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-256",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "hydrogen-bonding",
+      "difficulty": "hard",
+      "stem": "The hydrogen difluoride ion HF2- exists because",
+      "options": [
+        "fluorine is unable to form hydrogen bonds",
+        "a strong, nearly symmetric hydrogen bond holds F-H-F together",
+        "HF is a metal",
+        "hydrogen is covalently divalent like oxygen"
+      ],
+      "answerIndex": 1,
+      "explanation": "The very strong F-H···F interaction in HF2- is a classic strong hydrogen bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-257",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "metallic-bonding",
+      "difficulty": "easy",
+      "stem": "In the electron-sea model of metals, valence electrons are",
+      "options": [
+        "localised in covalent pairs between two atoms",
+        "delocalised over the whole cation lattice",
+        "transferred to non-metal anions",
+        "absent from the solid"
+      ],
+      "answerIndex": 1,
+      "explanation": "Metal atoms contribute valence electrons to a mobile sea that binds the cations together.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-258",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "metallic-bonding",
+      "difficulty": "easy",
+      "stem": "Metals conduct electricity because",
+      "options": [
+        "cations hop through empty space",
+        "delocalised electrons are free to move under an applied field",
+        "they are always molten at room temperature",
+        "they contain hydride ions"
+      ],
+      "answerIndex": 1,
+      "explanation": "The electron sea provides mobile charge carriers, so current flows easily.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-259",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "metallic-bonding",
+      "difficulty": "easy",
+      "stem": "Malleability of metals is explained by",
+      "options": [
+        "rigid, highly directional covalent bonds",
+        "layers of cations sliding while the electron sea still holds the crystal",
+        "hydrogen bonding between metal atoms",
+        "the Lewis octet rule"
+      ],
+      "answerIndex": 1,
+      "explanation": "Non-directional metallic bonding survives deformation, so metals can be hammered into sheets.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-260",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "metallic-bonding",
+      "difficulty": "easy",
+      "stem": "Metallic lustre arises because",
+      "options": [
+        "electrons in the sea absorb and re-emit visible light",
+        "metals are always coated with paint",
+        "ionic bonds reflect only X-rays",
+        "metals have no electrons"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oscillating surface electrons interact with visible photons, giving the characteristic shine.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-261",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "metallic-bonding",
+      "difficulty": "easy",
+      "stem": "Metallic bonding is typical of elements that have",
+      "options": [
+        "closed-shell noble-gas configuration at room temperature",
+        "low ionisation enthalpy and vacant orbitals, i.e. metals",
+        "very high electronegativity, i.e. non-metals",
+        "only hydrogen-bonded molecular lattices"
+      ],
+      "answerIndex": 1,
+      "explanation": "Easy loss of valence electrons into a delocalised sea is the hallmark of metallic elements.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-262",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "metallic-bonding",
+      "difficulty": "medium",
+      "stem": "Thermal conductivity of metals is high because",
+      "options": [
+        "mobile electrons (and phonons) transport kinetic energy through the lattice",
+        "metals are electrical insulators",
+        "heat travels only by radiation inside a metal",
+        "cations are fixed and electrons are absent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Energetic electrons drift and collide, carrying heat from the hot end to the cold end.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-263",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "metallic-bonding",
+      "difficulty": "medium",
+      "stem": "The strength of metallic bonding generally increases with",
+      "options": [
+        "fewer valence electrons and a larger atomic radius",
+        "more valence electrons and a smaller atom",
+        "decreasing charge on the metal cation",
+        "replacement of the electron sea by hydrogen bonds"
+      ],
+      "answerIndex": 1,
+      "explanation": "A higher electron density in a smaller cation lattice binds the metal more tightly (e.g. Cr, Fe vs Na).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-264",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "metallic-bonding",
+      "difficulty": "hard",
+      "stem": "A metal conducts in the solid state, whereas a typical ionic crystal does not, because",
+      "options": [
+        "ionic solids already have free electrons",
+        "metals have a delocalised electron sea, while ions in a crystal are locked in place",
+        "both solids have free electrons",
+        "ionic solids are always molten at room temperature"
+      ],
+      "answerIndex": 1,
+      "explanation": "Current in metals is carried by the electron sea; solid ionic lattices have no mobile charges until they melt.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-265",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "easy",
+      "stem": "A sigma bond is formed by",
+      "options": [
+        "sideways overlap of orbitals",
+        "head-on (axial) overlap of orbitals",
+        "transfer of a proton",
+        "hydrogen bonding"
+      ],
+      "answerIndex": 1,
+      "explanation": "Head-on overlap concentrates electron density along the internuclear axis and gives a sigma bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-266",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "easy",
+      "stem": "A pi bond is formed by",
+      "options": [
+        "head-on overlap of s orbitals",
+        "lateral (sideways) overlap of p orbitals",
+        "s-s overlap only",
+        "purely ionic attraction"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sideways overlap of two p orbitals produces electron density above and below the axis — a pi bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-267",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "easy",
+      "stem": "A triple bond between two atoms consists of",
+      "options": [
+        "three sigma bonds",
+        "one sigma bond and two pi bonds",
+        "three pi bonds",
+        "two sigma bonds and one pi bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "The first link is always sigma; the remaining two are pi bonds from leftover p orbitals.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-268",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "easy",
+      "stem": "A double bond consists of",
+      "options": [
+        "two sigma bonds",
+        "one sigma bond and one pi bond",
+        "two pi bonds only",
+        "four electrons placed only in sigma orbitals"
+      ],
+      "answerIndex": 1,
+      "explanation": "One pair is shared end-on (σ) and one pair is shared sideways (π).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-269",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "easy",
+      "stem": "In ethyne (C2H2) the number of sigma bonds is",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "1"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two C-H sigma bonds plus one C-C sigma bond give three sigma bonds (the triple bond also has two pi bonds).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-270",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "easy",
+      "stem": "A carbon dioxide molecule contains",
+      "options": [
+        "two sigma bonds and two pi bonds",
+        "four sigma bonds and no pi bond",
+        "no pi bonds",
+        "six pi bonds"
+      ],
+      "answerIndex": 0,
+      "explanation": "O=C=O has a sigma and a pi in each C=O unit, totalling 2σ + 2π.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-271",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "easy",
+      "stem": "In the Kekule description, benzene (C6H6) contains how many pi bonds?",
+      "options": [
+        "1",
+        "3",
+        "6",
+        "12"
+      ],
+      "answerIndex": 1,
+      "explanation": "Three alternating C=C double bonds contribute three pi bonds (six delocalised pi electrons).",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-272",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "medium",
+      "stem": "Ethene has how many pi bonds?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "5"
+      ],
+      "answerIndex": 1,
+      "explanation": "The C=C double bond contributes one pi bond; the five C-H/C-C single links are all sigma.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-273",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "medium",
+      "stem": "Counting the ring and the C-H links, benzene contains how many sigma bonds?",
+      "options": [
+        "6",
+        "9",
+        "12",
+        "3"
+      ],
+      "answerIndex": 2,
+      "explanation": "Six C-C sigma bonds in the ring plus six C-H sigma bonds give twelve sigma bonds.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-274",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "medium",
+      "stem": "The dinitrogen molecule contains",
+      "options": [
+        "one sigma bond and two pi bonds",
+        "three sigma bonds",
+        "two sigma bonds and one pi bond",
+        "no sigma bond"
+      ],
+      "answerIndex": 0,
+      "explanation": "N≡N is a triple bond: one head-on overlap and two sideways overlaps.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-275",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "medium",
+      "stem": "Allene H2C=C=CH2 contains",
+      "options": [
+        "four sigma bonds and two pi bonds",
+        "six sigma bonds and two pi bonds",
+        "two sigma bonds and four pi bonds",
+        "eight sigma bonds and no pi bond"
+      ],
+      "answerIndex": 1,
+      "explanation": "Four C-H sigma + two C-C sigma = six sigma; each of the two double bonds adds one pi bond.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    },
+    {
+      "id": "che-cb-276",
+      "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+      "conceptId": "sigma-pi-counts",
+      "difficulty": "hard",
+      "stem": "In carbon dioxide, each C=O unit contributes",
+      "options": [
+        "two sigma bonds and no pi bond",
+        "one sigma and one pi, so the molecule has two sigma and two pi bonds overall",
+        "only pi bonds",
+        "a C≡O triple bond on each side"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each double bond is 1σ + 1π; two of them give the familiar 2σ + 2π count for CO2.",
+      "pyq": {
+        "appearCount": 0,
+        "years": [],
+        "exams": [],
+        "verified": false
+      }
+    }
+  ]
+}

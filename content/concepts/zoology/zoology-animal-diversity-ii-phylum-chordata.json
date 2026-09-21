@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-animal-diversity-ii-phylum-chordata",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "chordate-fundamental-characters",
+      "label": "Fundamental characters of Chordata",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "protochordates",
+      "label": "Urochordata and Cephalochordata",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "cyclostomata",
+      "label": "Class Cyclostomata (jawless vertebrates)",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "chondrichthyes",
+      "label": "Class Chondrichthyes — cartilaginous fishes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "osteichthyes",
+      "label": "Class Osteichthyes — bony fishes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "amphibia",
+      "label": "Class Amphibia",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "reptilia",
+      "label": "Class Reptilia",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "aves",
+      "label": "Class Aves",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "mammalia",
+      "label": "Class Mammalia",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "gnathostomata-overview",
+      "label": "Gnathostomata and vertebrate grouping",
+      "examHot": ["neet"]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Transport in Plants",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-tp-e-101",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Passive movement of a solute from higher to lower concentration without a carrier is",
+      "options": ["active transport", "simple diffusion", "phagocytosis", "translocation in phloem"],
+      "answerIndex": 1,
+      "explanation": "Simple diffusion is downhill and carrier-independent; facilitated diffusion still needs a protein but no ATP.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "diffusion-facilitated",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-102",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Uphill pumping of mineral ions across a membrane with expenditure of ATP is",
+      "options": ["osmosis", "imbibition", "active transport", "simple diffusion"],
+      "answerIndex": 2,
+      "explanation": "Active transport uses metabolic energy to move solutes against their electrochemical gradient.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "active-transport",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-103",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Water potential of a plant cell is the algebraic sum of",
+      "options": [
+        "only turgor pressure",
+        "solute potential and pressure potential",
+        "only gravitational potential of the soil",
+        "ATP yield of respiration"
+      ],
+      "answerIndex": 1,
+      "explanation": "ψw = ψs + ψp (plus a small gravity term in tall columns); solute potential is negative.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "water-potential-osmosis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-104",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Shrinkage of the protoplast from the cell wall after a cell is placed in a hypertonic solution is",
+      "options": ["imbibition", "plasmolysis", "guttation", "deplasmolysis only"],
+      "answerIndex": 1,
+      "explanation": "Hypertonic external solution draws water out; the protoplast pulls away from the wall (plasmolysis).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "plasmolysis-imbibition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-105",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Water moving through cell walls and intercellular spaces without crossing the plasma membrane follows the",
+      "options": ["symplast", "apoplast", "phloem sieve tube", "nuclear pore"],
+      "answerIndex": 1,
+      "explanation": "The apoplast is the non-living wall continuum; the symplast is the cytoplasm linked by plasmodesmata.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "apoplast-symplast",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-106",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Loss of water vapour from aerial plant parts, mainly through stomata, is",
+      "options": ["guttation", "transpiration", "imbibition", "bleeding of latex"],
+      "answerIndex": 1,
+      "explanation": "Transpiration is evaporative loss; stomatal transpiration accounts for most of it in land plants.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "transpiration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-107",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Influx of potassium ions into guard cells typically causes stomata to",
+      "options": ["close in light", "open as turgor rises", "become permanently lignified", "disappear from the leaf"],
+      "answerIndex": 1,
+      "explanation": "K+ uptake lowers guard-cell water potential, water enters, turgor rises and the pore opens.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "stomatal-mechanism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-108",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "The cohesion–tension mechanism of ascent of sap was put forward by",
+      "options": ["Münch", "Dixon and Joly", "Calvin and Benson", "Went"],
+      "answerIndex": 1,
+      "explanation": "Dixon and Joly explained continuous water columns held by cohesion and pulled by transpiration.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ascent-of-sap",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-109",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Guttation droplets appear at hydathodes mainly when",
+      "options": [
+        "root pressure is high and transpiration is low",
+        "the plant is fully plasmolysed",
+        "phloem is ringed and dry",
+        "stomata are the only exit and air is very dry"
+      ],
+      "answerIndex": 0,
+      "explanation": "At night, low transpiration lets root pressure force liquid water out of hydathodes.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "root-pressure-guttation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-110",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "The mass-flow (pressure-flow) hypothesis of phloem transport is associated with",
+      "options": ["Dixon", "Münch", "Sachs", "Hooke"],
+      "answerIndex": 1,
+      "explanation": "Münch proposed that source loading raises turgor and drives bulk flow toward the sink.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "phloem-translocation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-111",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Facilitated diffusion of a polar solute across the plasma membrane requires",
+      "options": [
+        "ATP hydrolysis at every step",
+        "a membrane protein but no metabolic energy",
+        "a completely impermeable cuticle",
+        "rupture of the cell wall"
+      ],
+      "answerIndex": 1,
+      "explanation": "Carriers or channels speed downhill movement; the process is passive and saturates.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "diffusion-facilitated",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-112",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Casparian strips force inward water movement to switch from the apoplast to the",
+      "options": ["atmosphere", "symplast of the endodermis", "leaf cuticle", "root cap slime"],
+      "answerIndex": 1,
+      "explanation": "Suberised strips block the wall path, so water and ions must cross endodermal membranes.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "apoplast-symplast",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-e-113",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Choose the correct statements. I. Imbibition is the adsorption of water by hydrophilic colloids such as cellulose. II. A flaccid cell has zero pressure potential. III. Phloem sap always moves only upward from root to leaf.",
+      "options": ["I and II only", "I and III only", "II and III only", "I, II and III"],
+      "answerIndex": 0,
+      "explanation": "Imbibition and ψp = 0 in a flaccid cell are correct; phloem transport is source to sink and can be downward.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "plasmolysis-imbibition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-101",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Which property is shared by simple diffusion and facilitated diffusion?",
+      "options": [
+        "Both require ATP at the membrane",
+        "Both move solutes down a concentration gradient",
+        "Both occur only in phloem",
+        "Both always move water against osmosis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both are passive (downhill); only facilitated diffusion uses a specific membrane protein.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "diffusion-facilitated",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-102",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "A proton pump in the plant plasma membrane is an example of",
+      "options": [
+        "simple diffusion of H+",
+        "primary active transport",
+        "imbibition of dry seeds",
+        "guttation through hydathodes"
+      ],
+      "answerIndex": 1,
+      "explanation": "H+-ATPases hydrolyse ATP to export protons and build the electrochemical gradient used for secondary transport.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "active-transport",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-103",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Pure water at atmospheric pressure is assigned a water potential of",
+      "options": ["+1 MPa", "0 MPa", "−2 MPa", "+100 kPa always"],
+      "answerIndex": 1,
+      "explanation": "By convention ψw of pure water at standard pressure is zero; solutes make ψs and ψw negative.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "water-potential-osmosis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-104",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Dry seeds swell by taking up water through",
+      "options": ["guttation", "imbibition", "transpiration pull only", "Münch flow in phloem"],
+      "answerIndex": 1,
+      "explanation": "Hydrophilic colloids (cellulose, proteins) imbibe water and generate imbibition pressure.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "plasmolysis-imbibition",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-105",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "The symplast pathway of water movement depends on",
+      "options": [
+        "continuous cell walls only",
+        "cytoplasm and plasmodesmata",
+        "open xylem vessels alone",
+        "cuticular pores of the fruit"
+      ],
+      "answerIndex": 1,
+      "explanation": "Symplastic flow is through living protoplasts connected by plasmodesmata.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "apoplast-symplast",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-106",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Which condition generally lowers the rate of transpiration?",
+      "options": [
+        "high wind speed around the leaf",
+        "very high relative humidity of the air",
+        "bright sunlight opening stomata",
+        "high temperature increasing vapour deficit"
+      ],
+      "answerIndex": 1,
+      "explanation": "Humid air reduces the vapour-pressure gradient from the substomatal cavity to the atmosphere.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "transpiration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-107",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Abscisic acid accumulated during water stress typically causes stomata to",
+      "options": ["open widely", "close", "turn into hydathodes", "lose their cuticle"],
+      "answerIndex": 1,
+      "explanation": "ABA triggers K+ efflux from guard cells, turgor falls and the pore closes, saving water.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "stomatal-mechanism",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-108",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "A continuous water column in xylem is maintained largely by",
+      "options": [
+        "cohesion among water molecules and adhesion to walls",
+        "active pumping by sieve tubes",
+        "imbibition in the leaf mesophyll only",
+        "root pressure throughout a tall tree every noon"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hydrogen bonding holds the column together and to lignified walls under transpiration tension.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ascent-of-sap",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-109",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Root pressure can be demonstrated experimentally as",
+      "options": [
+        "exudation of sap from a freshly cut stump",
+        "wilting of a leaf in dry wind",
+        "plasmolysis of onion peel in sugar",
+        "opening of stomata in darkness only"
+      ],
+      "answerIndex": 0,
+      "explanation": "A detopped well-watered plant may bleed xylem sap, evidence of positive root pressure.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "root-pressure-guttation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-110",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "According to the pressure-flow model, phloem loading at the source",
+      "options": [
+        "lowers turgor so sap is sucked from the sink",
+        "raises solute content and turgor, pushing sap toward the sink",
+        "occurs only in xylem vessels",
+        "requires stomata on the root"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sugar loading makes ψs more negative, water enters, turgor rises and bulk flow proceeds to the sink.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "phloem-translocation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-111",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Which statement about osmosis in plant cells is incorrect?",
+      "options": [
+        "Water moves toward the more negative water potential.",
+        "A turgid cell in pure water has high pressure potential.",
+        "Solute potential of a solution is usually negative.",
+        "A hypertonic external solution always raises the cell’s turgor."
+      ],
+      "answerIndex": 3,
+      "explanation": "A hypertonic bath draws water out, so turgor falls and plasmolysis may follow.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "water-potential-osmosis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-112",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Antitranspirants are substances applied to leaves mainly to",
+      "options": [
+        "increase stomatal opening in drought",
+        "reduce transpirational water loss",
+        "block phloem loading at the source",
+        "convert xylem into aerenchyma"
+      ],
+      "answerIndex": 1,
+      "explanation": "Films or metabolic antitranspirants cut water loss; they are used under water-limited conditions.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "transpiration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-tp-n-113",
+      "chapterId": "botany-transport-in-plants",
+      "stem": "Identify the incorrect statement about long-distance transport.",
+      "options": [
+        "Xylem sap is under tension during rapid transpiration.",
+        "Root pressure can cause guttation at night.",
+        "Phloem translocation is bidirectional in the plant as a whole.",
+        "Ascent of sap in tall trees is explained solely by root pressure every afternoon."
+      ],
+      "answerIndex": 3,
+      "explanation": "Root pressure is too small and often absent at midday; cohesion–tension accounts for tall-tree ascent.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "ascent-of-sap",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

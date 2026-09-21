@@ -1,0 +1,18 @@
+{
+  "chapterId": "chemistry-chemical-equilibrium-and-acids-bases",
+  "subjectId": "chemistry",
+  "concepts": [
+    { "id": "dynamic-equilibrium", "label": "Dynamic equilibrium", "examHot": true, "quota": 10 },
+    { "id": "kc-kp", "label": "Kc, Kp and Kp = Kc(RT)^Δn", "examHot": true, "quota": 24 },
+    { "id": "homo-hetero-k", "label": "Homogeneous vs heterogeneous K", "examHot": true, "quota": 8 },
+    { "id": "degree-dissociation", "label": "Degree of dissociation and K", "examHot": true, "quota": 12 },
+    { "id": "le-chatelier", "label": "Le Chatelier and Haber/Contact", "examHot": true, "quota": 20 },
+    { "id": "acid-base-theories", "label": "Arrhenius, Brønsted and Lewis theories", "examHot": true, "quota": 14 },
+    { "id": "ph-strong", "label": "pH, pOH and Kw of strong acids/bases", "examHot": true, "quota": 20 },
+    { "id": "weak-ka-kb", "label": "Weak acids/bases, Ka, Kb, Ostwald", "examHot": true, "quota": 16 },
+    { "id": "conjugate-pairs", "label": "Conjugate acid-base pairs", "examHot": true, "quota": 10 },
+    { "id": "buffer-henderson", "label": "Buffer and Henderson-Hasselbalch", "examHot": true, "quota": 12 },
+    { "id": "salt-hydrolysis", "label": "Salt hydrolysis", "examHot": true, "quota": 10 },
+    { "id": "ksp-common-ion", "label": "Ksp and common ion", "examHot": true, "quota": 10 }
+  ]
+}

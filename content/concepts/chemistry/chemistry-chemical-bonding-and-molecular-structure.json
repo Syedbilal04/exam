@@ -1,0 +1,17 @@
+{
+  "chapterId": "chemistry-chemical-bonding-and-molecular-structure",
+  "subjectId": "chemistry",
+  "concepts": [
+    { "id": "lewis-bond-types", "label": "Ionic, covalent, coordinate; Lewis; octet", "examHot": true, "quota": 16 },
+    { "id": "formal-charge-resonance", "label": "Formal charge and resonance", "examHot": true, "quota": 14 },
+    { "id": "bond-parameters", "label": "Bond length, energy and angle", "examHot": true, "quota": 12 },
+    { "id": "fajan-dipole", "label": "Fajan rules, polarity and dipole moment", "examHot": true, "quota": 16 },
+    { "id": "vsepr", "label": "VSEPR shapes", "examHot": true, "quota": 24 },
+    { "id": "hybridisation", "label": "Hybridisation", "examHot": true, "quota": 24 },
+    { "id": "vbt-mot-intro", "label": "VBT vs MOT introduction", "examHot": false, "quota": 8 },
+    { "id": "mot-diatomics", "label": "MOT of diatomics, bond order, magnetism", "examHot": true, "quota": 28 },
+    { "id": "hydrogen-bonding", "label": "Hydrogen bonding", "examHot": true, "quota": 14 },
+    { "id": "metallic-bonding", "label": "Metallic bonding", "examHot": false, "quota": 8 },
+    { "id": "sigma-pi-counts", "label": "Sigma and pi bond counts", "examHot": true, "quota": 12 }
+  ]
+}

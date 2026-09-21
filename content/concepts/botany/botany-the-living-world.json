@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-the-living-world",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "binomial-nomenclature",
+      "label": "Binomial nomenclature and scientific names",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "taxonomic-hierarchy",
+      "label": "Taxonomic categories and hierarchy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "species-concept",
+      "label": "Species as the basic unit of classification",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "herbarium-and-keys",
+      "label": "Herbarium sheets and identification keys",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "botanical-gardens-museums",
+      "label": "Botanical gardens and museums",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "taxonomic-aids",
+      "label": "Taxonomic aids as a set",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "icbn-iczn",
+      "label": "ICBN / ICN and ICZN naming codes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "systematics-vs-taxonomy",
+      "label": "Systematics versus taxonomy",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "growth-reproduction-as-criteria",
+      "label": "Growth and reproduction as living criteria",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "diversity-and-nomenclature",
+      "label": "Why scientific names and nomenclature",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-diversity-in-the-living-world",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "living-defining-properties",
+      "label": "Defining properties of living organisms",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "biodiversity-and-classification-need",
+      "label": "Biodiversity and need for classification",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "taxonomy-versus-systematics",
+      "label": "Taxonomy versus systematics",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "taxonomic-categories-hierarchy",
+      "label": "Taxonomic categories and hierarchy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "species-as-basic-unit",
+      "label": "Species as the basic unit of classification",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "binomial-nomenclature-animals",
+      "label": "Binomial nomenclature of animals",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "iczn-zoological-code",
+      "label": "ICZN rules for animal names",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "museums-and-zoological-parks",
+      "label": "Museums and zoological parks as taxonomic aids",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "keys-and-taxonomic-literature",
+      "label": "Identification keys, manuals and monographs",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "scientific-name-conventions",
+      "label": "Writing and printing conventions for scientific names",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

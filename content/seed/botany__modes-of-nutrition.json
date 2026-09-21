@@ -1,0 +1,426 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Modes of Nutrition",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-mn-e-101",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Green plants that synthesise food from CO2 and water using sunlight show",
+      "options": [
+        "holophytic (autotrophic) nutrition",
+        "holozoic nutrition",
+        "saprophytic nutrition only",
+        "total parasitism"
+      ],
+      "answerIndex": 0,
+      "explanation": "Holophytic nutrition is photosynthetic autotrophy typical of green plants.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "autotrophic-holophytic",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-102",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Plants that cannot prepare their own food and depend on other organisms are",
+      "options": ["heterotrophs", "holophytes only", "always nitrogen-fixers", "always hydrophytes"],
+      "answerIndex": 0,
+      "explanation": "Heterotrophic plants include parasites, saprophytes and insectivores.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "heterotrophic-overview",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-103",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Orobanche, which lacks chlorophyll and draws food from host roots, is a",
+      "options": [
+        "total root parasite",
+        "partial stem parasite",
+        "insectivorous plant",
+        "free-living autotroph"
+      ],
+      "answerIndex": 0,
+      "explanation": "Broomrape (Orobanche) is a holoparasite on roots; Rafflesia is another total root parasite.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "total-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-104",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Viscum (mistletoe), which is green yet taps the host stem, is a",
+      "options": [
+        "partial stem parasite",
+        "total root parasite",
+        "saprophyte",
+        "free-living insectivore"
+      ],
+      "answerIndex": 0,
+      "explanation": "Viscum and Loranthus photosynthesise but take water and minerals from the host stem.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "partial-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-105",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Monotropa, a flowering plant without chlorophyll, obtains food from",
+      "options": [
+        "dead organic matter (saprophytic habit)",
+        "insects captured in pitchers",
+        "only living host xylem",
+        "atmospheric nitrogen alone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Indian pipe (Monotropa) and bird’s-nest orchid (Neottia) are textbook saprophytes.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "saprophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-106",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Insectivorous plants digest trapped insects chiefly to obtain",
+      "options": ["nitrogenous compounds", "carbon dioxide", "molecular oxygen", "cellulose"],
+      "answerIndex": 0,
+      "explanation": "They still photosynthesise; insect prey supplements nitrogen on poor soils.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "insectivorous-habit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-107",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Drosera (sundew) traps insects with",
+      "options": [
+        "sticky glandular tentacles",
+        "an underwater bladder",
+        "a snap-trap of two hinged lobes only",
+        "root haustoria"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sundew leaves bear mucilaginous tentacles that bend over the prey.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "insectivorous-examples",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-108",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "In a lichen the alga supplies food while the fungus mainly provides",
+      "options": [
+        "protection and absorption of water",
+        "only insect enzymes",
+        "only xylem vessels",
+        "only seeds"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mycobiont shelters the phycobiont and absorbs minerals; the alga photosynthesises.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "symbiotic-lichens",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-109",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Root nodules of legumes harbour bacteria of the genus",
+      "options": ["Rhizobium", "Nitrosomonas only", "Lactobacillus", "Clostridium only"],
+      "answerIndex": 0,
+      "explanation": "Rhizobium fixes N2 in a mutualism with legume roots.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "mycorrhiza-nodules",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-110",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "The specialised sucking organs of Cuscuta that penetrate the host are",
+      "options": ["haustoria", "pneumatophores", "stilt roots", "heterocysts"],
+      "answerIndex": 0,
+      "explanation": "Haustoria of dodder tap host xylem and phloem.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "haustoria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-111",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Santalum (sandalwood), which is green but attached to host roots, is a",
+      "options": [
+        "partial root parasite",
+        "total stem parasite",
+        "saprophyte",
+        "insectivorous hydrophyte"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sandal is a hemiparasite on roots; it photosynthesises but draws water and minerals from hosts.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "partial-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-112",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Utricularia (bladderwort) captures prey in",
+      "options": [
+        "tiny submerged bladders",
+        "a tall leafy pitcher only",
+        "sticky aerial tentacles only",
+        "root nodules"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bladderwort is an aquatic insectivore with suction bladders on the submerged shoots.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "insectivorous-examples",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-e-113",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Rafflesia, famous for its huge flower, is nutritionally a",
+      "options": [
+        "total root parasite",
+        "partial stem parasite",
+        "free-living saprophyte",
+        "green holophyte"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rafflesia lacks chlorophyll and vegetative shoots and lives as a holoparasite on Tetrastigma roots.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "total-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-101",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Which statement about holophytic nutrition is incorrect?",
+      "options": [
+        "It uses chlorophyll and sunlight",
+        "Carbon dioxide and water are raw materials",
+        "Organic food is synthesised by the plant",
+        "The plant must always feed on a living host"
+      ],
+      "answerIndex": 3,
+      "explanation": "Holophytes are autotrophs; dependence on a living host is parasitism.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "autotrophic-holophytic",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-102",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Which of the following is not a heterotrophic mode in plants?",
+      "options": [
+        "Parasitism",
+        "Saprophytism",
+        "Insectivory",
+        "Holophytic photosynthesis"
+      ],
+      "answerIndex": 3,
+      "explanation": "Holophytic photosynthesis is autotrophy; the other three are heterotrophic habits.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "heterotrophic-overview",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-103",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Which plant is a total (holo-) parasite?",
+      "options": ["Cuscuta", "Viscum", "Loranthus", "Santalum"],
+      "answerIndex": 0,
+      "explanation": "Dodder lacks chlorophyll and is a total stem parasite; the others are hemiparasites.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "total-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-104",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Which statement about Loranthus is correct?",
+      "options": [
+        "It is a green partial stem parasite",
+        "It is a total root parasite without chlorophyll",
+        "It is a free-living saprophyte",
+        "It captures insects in bladders"
+      ],
+      "answerIndex": 0,
+      "explanation": "Loranthus (like Viscum) is a leafy hemiparasite on tree branches.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "partial-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-105",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Neottia (bird’s-nest orchid) is cited in textbooks as a",
+      "options": [
+        "saprophytic angiosperm",
+        "total stem parasite",
+        "green holophyte of deserts",
+        "nitrogen-fixing alga"
+      ],
+      "answerIndex": 0,
+      "explanation": "Neottia lives on decaying organic matter, often via mycorrhizal fungi.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "saprophytes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-106",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Insectivorous plants are still green because they",
+      "options": [
+        "photosynthesise and only supplement nitrogen from prey",
+        "lack chlorophyll completely",
+        "never use sunlight",
+        "feed only by haustoria on trees"
+      ],
+      "answerIndex": 0,
+      "explanation": "They are mixotrophic: carbon from photosynthesis, extra N (and minerals) from insects.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "insectivorous-habit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-107",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Dionaea (Venus flytrap) captures insects by",
+      "options": [
+        "rapid closure of a two-lobed leaf trap",
+        "a passive hanging pitcher only",
+        "root haustoria",
+        "an underwater bladder only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Touch-sensitive lobes snap shut; pitchers are Nepenthes and bladders are Utricularia.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "insectivorous-examples",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-108",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Which statement about lichen nutrition is incorrect?",
+      "options": [
+        "It is a mutualistic dual organism",
+        "The algal partner is the phycobiont",
+        "The fungal partner is the mycobiont",
+        "Both partners are always total parasites of a third plant"
+      ],
+      "answerIndex": 3,
+      "explanation": "A lichen is alga + fungus living together, not a holoparasite on a third host.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "symbiotic-lichens",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-109",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Which association is incorrectly matched?",
+      "options": [
+        "Pinus roots — mycorrhiza",
+        "Pea roots — Rhizobium nodules",
+        "Azolla — Anabaena",
+        "Cuscuta — free-living Rhizobium only"
+      ],
+      "answerIndex": 3,
+      "explanation": "Cuscuta is a stem parasite with haustoria, not a nodule symbiosis.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "mycorrhiza-nodules",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-110",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Haustoria of a parasitic angiosperm are meant to",
+      "options": [
+        "absorb water and food from the host",
+        "fix nitrogen in air",
+        "trap insects in bladders",
+        "store starch as a potato tuber"
+      ],
+      "answerIndex": 0,
+      "explanation": "Haustoria are absorbing outgrowths that connect parasite tissues to host vascular strands.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "haustoria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-111",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Which plant is incorrectly classified by nutritional mode?",
+      "options": [
+        "Cuscuta — total stem parasite",
+        "Orobanche — total root parasite",
+        "Viscum — partial stem parasite",
+        "Monotropa — total stem parasite"
+      ],
+      "answerIndex": 3,
+      "explanation": "Monotropa is saprophytic, not a stem parasite.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "heterotrophic-overview",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-112",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "The pitcher of Nepenthes functions in nutrition as a",
+      "options": [
+        "leaf trap that digests insects",
+        "root haustorium",
+        "nitrogen-fixing nodule",
+        "saprophytic rhizomorph"
+      ],
+      "answerIndex": 0,
+      "explanation": "The pitcher is a modified leaf that holds digestive fluid and insect prey.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "insectivorous-examples",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mn-n-113",
+      "chapterId": "botany-modes-of-nutrition",
+      "stem": "Identify the incorrect pair of plant and nutritional habit.",
+      "options": [
+        "Rafflesia — total root parasite",
+        "Santalum — partial root parasite",
+        "Drosera — insectivorous",
+        "Loranthus — saprophyte on rotting logs"
+      ],
+      "answerIndex": 3,
+      "explanation": "Loranthus is a green partial stem parasite, not a saprophyte.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "partial-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

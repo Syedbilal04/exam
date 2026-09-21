@@ -1,0 +1,356 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Internal Organisation of Plants",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-io-e-101",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Intercalary meristems that restore growth after grazing are typical of",
+      "options": ["the tips of dicot roots", "nodes of grasses", "cork of woody stems", "palisade of leaves"],
+      "answerIndex": 1,
+      "explanation": "Grasses keep intercalary meristems at internodes/nodes, so shoots elongate after the tip is removed.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "meristematic-tissues",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-102",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Living mechanical tissue with irregularly thickened cellulose walls at the corners is",
+      "options": ["sclerenchyma", "collenchyma", "xylem fibre", "cork"],
+      "answerIndex": 1,
+      "explanation": "Collenchyma cells are living and provide flexible support; sclerenchyma fibres are typically dead and lignified.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "simple-permanent-tissues",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-103",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "In a typical dicot root, protoxylem lies toward the periphery. This xylem is",
+      "options": ["endarch", "exarch", "mesarch", "centrarch"],
+      "answerIndex": 1,
+      "explanation": "Roots have exarch xylem (protoxylem outside, metaxylem inside); stems are usually endarch.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "xylem-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-104",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Sieve-tube members of angiosperm phloem are metabolically supported by",
+      "options": ["companion cells", "guard cells", "vessel elements", "cork cells"],
+      "answerIndex": 0,
+      "explanation": "Companion cells are sister cells of sieve-tube elements and keep them alive through plasmodesmata.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "phloem-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-105",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Stomatal pores are bounded by specialised epidermal cells called",
+      "options": ["companion cells", "guard cells", "sieve cells", "passage cells"],
+      "answerIndex": 1,
+      "explanation": "A stoma is a pore between two guard cells that regulate gas exchange and transpiration.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "epidermal-tissue-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-106",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Casparian strips of suberin occur in the",
+      "options": ["epidermis of a dicot leaf", "endodermis of the root", "pith of a monocot stem", "cork cambium"],
+      "answerIndex": 1,
+      "explanation": "Endodermal radial and transverse walls bear Casparian strips that force water into the symplast.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "root-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-107",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Scattered closed vascular bundles with a sclerenchymatous bundle sheath are typical of",
+      "options": ["dicot root", "dicot stem", "monocot stem", "dicot leaf midrib"],
+      "answerIndex": 2,
+      "explanation": "Monocot stems have many scattered, usually closed (no cambium) vascular bundles.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "stem-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-108",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Palisade parenchyma is usually well developed on the adaxial side of a",
+      "options": ["isobilateral monocot leaf", "dorsiventral dicot leaf", "typical dicot root", "young woody twig"],
+      "answerIndex": 1,
+      "explanation": "Dorsiventral (dicot) leaves have palisade toward the upper surface and spongy tissue below.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "leaf-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-109",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "The lateral meristem that produces secondary xylem and secondary phloem is the",
+      "options": ["apical meristem", "intercalary meristem", "vascular cambium", "root cap"],
+      "answerIndex": 2,
+      "explanation": "Vascular cambium is a lateral meristem: inner derivatives become wood, outer derivatives become bast.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "secondary-growth",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-110",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "A siphonostele differs from a protostele because the vascular cylinder",
+      "options": [
+        "lacks xylem entirely",
+        "surrounds a central pith",
+        "is confined to the leaf only",
+        "has no phloem"
+      ],
+      "answerIndex": 1,
+      "explanation": "Protosteles have a solid xylem core; siphonosteles are tubular with a pith in the centre.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "stele-and-bundles",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-111",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Which simple tissue is typically dead at maturity and has uniformly lignified thick walls?",
+      "options": ["parenchyma", "collenchyma", "sclerenchyma", "chlorenchyma"],
+      "answerIndex": 2,
+      "explanation": "Sclerenchyma (fibres and sclereids) is usually dead and lignified; collenchyma remains living.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "simple-permanent-tissues",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-112",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Bicollateral open vascular bundles, with phloem on both sides of xylem, are a textbook feature of",
+      "options": ["maize stem", "Cucurbita stem", "wheat root", "Pinus needle"],
+      "answerIndex": 1,
+      "explanation": "Cucurbit stems have bicollateral bundles (outer phloem–xylem–inner phloem) with cambium.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "stem-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-e-113",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Choose the correct pair about secondary growth. I. Phellogen produces phellem toward the outside. II. Heartwood is the outer living xylem that conducts sap. III. Annual rings reflect seasonal activity of vascular cambium.",
+      "options": ["I and III only", "I and II only", "II and III only", "I, II and III"],
+      "answerIndex": 0,
+      "explanation": "Phellogen cuts off cork outward; heartwood is the inner non-conducting wood, not the living sapwood.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "secondary-growth",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-101",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Apical meristems responsible for primary growth are located at the",
+      "options": [
+        "root and shoot tips",
+        "vascular cambium only",
+        "cork of old stems only",
+        "centre of mature pith"
+      ],
+      "answerIndex": 0,
+      "explanation": "Shoot and root apices bear apical meristems that add primary tissues and length.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "meristematic-tissues",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-102",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Chlorenchyma is a photosynthetic form of",
+      "options": ["sclerenchyma fibre", "parenchyma", "cork", "tracheid"],
+      "answerIndex": 1,
+      "explanation": "Parenchyma with chloroplasts is called chlorenchyma and is common in leaf mesophyll.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "simple-permanent-tissues",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-103",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "The only living component among typical xylem elements is",
+      "options": ["vessel element", "tracheid", "xylem parenchyma", "xylem fibre"],
+      "answerIndex": 2,
+      "explanation": "Tracheary elements and most xylem fibres die at maturity; xylem parenchyma remains living.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "xylem-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-104",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Which phloem cell is absent in most gymnosperms but present in angiosperms?",
+      "options": ["sieve cell", "albuminous cell", "sieve tube with companion cell", "phloem parenchyma"],
+      "answerIndex": 2,
+      "explanation": "Angiosperms have sieve tubes plus companion cells; gymnosperms have sieve cells and albuminous cells.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "phloem-tissue",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-105",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Unicellular or multicellular outgrowths of the epidermis such as hairs are collectively called",
+      "options": ["lenticels", "trichomes", "hydathodes", "plasmodesmata"],
+      "answerIndex": 1,
+      "explanation": "Trichomes are epidermal appendages; they may reduce transpiration or secrete substances.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "epidermal-tissue-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-106",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "A polyarch, usually more than six, xylem-phloem arrangement with a large pith is typical of",
+      "options": ["dicot root", "monocot root", "dicot stem", "gymnosperm leaf"],
+      "answerIndex": 1,
+      "explanation": "Monocot roots are polyarch with a well-developed pith; dicot roots are usually tetrarch or pentarch with little pith.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "root-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-107",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Open vascular bundles arranged in a ring around a pith characterise a typical",
+      "options": ["monocot stem", "dicot stem", "monocot root", "isobilateral leaf"],
+      "answerIndex": 1,
+      "explanation": "Dicot stems have a eustele: bundles in a ring, usually open (cambium present).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "stem-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-108",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "An isobilateral leaf, as in many grasses, typically has stomata",
+      "options": [
+        "only on the adaxial surface",
+        "on both surfaces in similar numbers",
+        "only on the root epidermis",
+        "absent from the lamina"
+      ],
+      "answerIndex": 1,
+      "explanation": "Isobilateral leaves are amphistomatic; dorsiventral dicot leaves are often hypostomatic.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "leaf-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-109",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Cork cambium (phellogen) and its products phellem and phelloderm together form the",
+      "options": ["stele", "periderm", "primary xylem", "mesophyll"],
+      "answerIndex": 1,
+      "explanation": "Periderm = phellem + phellogen + phelloderm, the protective secondary covering after epidermis is lost.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "secondary-growth",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-110",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Conjoint, collateral and closed vascular bundles means",
+      "options": [
+        "xylem and phloem on the same radius, cambium absent",
+        "xylem and phloem on opposite radii, cambium present",
+        "phloem surrounding xylem on all sides",
+        "only phloem present in the bundle"
+      ],
+      "answerIndex": 0,
+      "explanation": "Collateral: phloem outside xylem on one radius; closed: no intrafascicular cambium (typical monocot stem).",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "stele-and-bundles",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-111",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Which statement about meristems is incorrect?",
+      "options": [
+        "Lateral meristems increase girth.",
+        "Apical meristems increase length.",
+        "Intercalary meristems occur at grass nodes.",
+        "The root cap itself is a permanent lateral meristem."
+      ],
+      "answerIndex": 3,
+      "explanation": "The root cap is a protective tissue produced by the root apical meristem, not a lateral meristem.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "meristematic-tissues",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-112",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Passage cells in the root endodermis are",
+      "options": [
+        "thin-walled cells opposite protoxylem poles",
+        "dead cork cells of the periderm",
+        "lignified fibres of the pith",
+        "companion cells of the leaf phloem"
+      ],
+      "answerIndex": 0,
+      "explanation": "Opposite protoxylem, some endodermal cells stay thin-walled and permit radial transport.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "root-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-io-n-113",
+      "chapterId": "botany-internal-organisation-of-plants",
+      "stem": "Identify the incorrect match of organ and anatomical feature.",
+      "options": [
+        "Dicot root — exarch xylem, usually tetrarch",
+        "Monocot stem — scattered closed bundles",
+        "Dicot stem — open bundles in a ring",
+        "Monocot root — typically diarch xylem and no pith"
+      ],
+      "answerIndex": 3,
+      "explanation": "Monocot roots are polyarch with a large pith; a diarch pattern with little pith is a dicot-root type.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "root-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

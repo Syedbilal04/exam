@@ -1,0 +1,366 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Cell: The Unit of Life",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-cl-e-101",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Rudolf Virchow completed the classical cell theory by adding that",
+      "options": [
+        "all cells arise from pre-existing cells",
+        "plants alone are made of cells",
+        "the nucleus is absent in animals",
+        "viruses are the smallest cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Schleiden and Schwann stated that plants and animals are cellular; Virchow added omnis cellula e cellula.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "cell-theory",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-102",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "A typical bacterial nucleoid differs from a plant nucleus because the nucleoid",
+      "options": [
+        "is bounded by a double membrane",
+        "lacks a nuclear envelope",
+        "contains many linear chromosomes with histones",
+        "is always 80S in size"
+      ],
+      "answerIndex": 1,
+      "explanation": "Prokaryotic DNA lies in a nucleoid region without a nuclear envelope or nucleolus.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "prokaryote-vs-eukaryote",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-103",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The middle lamella that cements neighbouring plant cells is rich in",
+      "options": ["cellulose microfibrils", "calcium pectate", "chitin", "peptidoglycan"],
+      "answerIndex": 1,
+      "explanation": "The middle lamella is a pectin-rich layer, mainly calcium pectate, deposited at the cell plate.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "cell-wall",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-104",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Singer and Nicolson described the plasma membrane as a",
+      "options": [
+        "rigid protein sandwich around lipid",
+        "fluid mosaic of lipids and proteins",
+        "pure cellulose sheet",
+        "static phospholipid bilayer without proteins"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 1972 fluid mosaic model treats the membrane as a fluid lipid bilayer with embedded proteins.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "plasma-membrane",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-105",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The outer membrane of the nuclear envelope is typically continuous with the",
+      "options": ["Golgi cisternae", "rough endoplasmic reticulum", "thylakoid membrane", "tonoplast"],
+      "answerIndex": 1,
+      "explanation": "The nuclear envelope’s outer membrane joins the RER, linking the nucleoplasm with the ER lumen.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "nucleus",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-106",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "A chromosome with the centromere almost at one end, giving one very short arm, is",
+      "options": ["metacentric", "submetacentric", "acrocentric", "isocentric"],
+      "answerIndex": 2,
+      "explanation": "Acrocentric chromosomes have a terminal-near centromere; metacentric ones have a median centromere.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "chromosomes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-107",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Colourless plastids specialised for storing starch grains are called",
+      "options": ["chromoplasts", "amyloplasts", "elaioplasts", "chloroplasts"],
+      "answerIndex": 1,
+      "explanation": "Amyloplasts are leucoplasts that store starch; elaioplasts store oils and chromoplasts hold pigments.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "plastids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-108",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The inner mitochondrial membrane is folded into",
+      "options": ["thylakoids", "cristae", "cisternae", "tonoplasts"],
+      "answerIndex": 1,
+      "explanation": "Cristae increase the surface area that bears the electron-transport chain and ATP synthase.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "mitochondria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-109",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Smooth endoplasmic reticulum is the main site of",
+      "options": [
+        "peptide-bond formation",
+        "lipid synthesis and detoxification",
+        "rRNA transcription",
+        "photolysis of water"
+      ],
+      "answerIndex": 1,
+      "explanation": "SER lacks ribosomes and handles lipid metabolism, steroid synthesis and detoxification.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "endomembrane-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-110",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Eukaryotic cytosolic ribosomes are 80S and are built from",
+      "options": ["50S and 30S subunits", "60S and 40S subunits", "70S and 20S subunits", "55S and 25S subunits"],
+      "answerIndex": 1,
+      "explanation": "80S ribosomes = 60S large + 40S small subunits; 70S (50S + 30S) occur in prokaryotes and organelles.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "ribosomes-cytoskeleton",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-111",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Proteins that span the lipid bilayer from one face to the other are called",
+      "options": ["peripheral proteins", "integral proteins", "histones", "pectins"],
+      "answerIndex": 1,
+      "explanation": "Integral (intrinsic) proteins are embedded in or across the bilayer; peripheral proteins are loosely attached.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "plasma-membrane",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-112",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The protein disc at the centromere to which spindle microtubules attach is the",
+      "options": ["nucleosome", "kinetochore", "satellite", "telomere"],
+      "answerIndex": 1,
+      "explanation": "The kinetochore assembles on the centromere and is the attachment point for kinetochore microtubules.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "chromosomes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-e-113",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Choose the correct combination about plastids. I. Chromoplasts may develop from chloroplasts in ripening fruit. II. Chloroplast stroma houses the enzymes of the Calvin cycle. III. All leucoplasts contain chlorophyll a only.",
+      "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+      "answerIndex": 0,
+      "explanation": "Plastids interconvert and the Calvin cycle is stromal; leucoplasts are colourless and lack chlorophyll.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "plastids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-101",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The term ‘cell’ was first used after observing box-like compartments in cork by",
+      "options": ["Anton van Leeuwenhoek", "Robert Hooke", "Robert Brown", "Matthias Schleiden"],
+      "answerIndex": 1,
+      "explanation": "Hooke (1665) named the empty cork chambers ‘cells’; Leeuwenhoek later saw living microbes.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "cell-theory",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-102",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Which structure is present in a typical plant cell but absent from a prokaryotic cell?",
+      "options": ["70S ribosomes", "plasma membrane", "membrane-bound plastids", "circular DNA"],
+      "answerIndex": 2,
+      "explanation": "Plastids are eukaryotic organelles; prokaryotes may photosynthesize with thylakoids but lack plastids.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "prokaryote-vs-eukaryote",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-103",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Cytoplasmic strands that pass through pores in the plant cell wall and join adjacent protoplasts are",
+      "options": ["desmosomes", "plasmodesmata", "tight junctions", "flagella"],
+      "answerIndex": 1,
+      "explanation": "Plasmodesmata are lined cytoplasmic channels through the wall; they unify the symplast.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "cell-wall",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-104",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "In the fluid mosaic model, the lipid molecules of the plasma membrane are",
+      "options": [
+        "fixed in a rigid crystalline lattice",
+        "able to move laterally within each leaflet",
+        "always covalently bound to cellulose",
+        "absent from eukaryotic cells"
+      ],
+      "answerIndex": 1,
+      "explanation": "Phospholipids diffuse in the plane of the bilayer, giving the membrane its fluidity.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "plasma-membrane",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-105",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Most ribosomal RNA of a eukaryotic cell is transcribed in the",
+      "options": ["nucleolus", "Golgi apparatus", "peroxisome", "middle lamella"],
+      "answerIndex": 0,
+      "explanation": "The nucleolus is the site of rRNA synthesis and assembly of ribosomal subunits.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "nucleus",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-106",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "A chromosome with a median centromere and two equal arms is described as",
+      "options": ["telocentric", "acrocentric", "metacentric", "holocentric"],
+      "answerIndex": 2,
+      "explanation": "Metacentric chromosomes have a mid-placed centromere; telocentric ones have a terminal centromere.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "chromosomes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-107",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Stacked disc-like thylakoids inside a chloroplast form a",
+      "options": ["crista", "granum", "cisterna", "nucleoid"],
+      "answerIndex": 1,
+      "explanation": "A granum is a stack of thylakoids; stroma lamellae connect neighbouring grana.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "plastids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-108",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Mitochondrial DNA of plants is typically",
+      "options": [
+        "linear and histone-packaged like nuclear DNA",
+        "circular and present in the matrix",
+        "absent in all living plant cells",
+        "stored only in the nucleolus"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mitochondria have their own circular DNA and 70S ribosomes in the matrix.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "mitochondria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-109",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "The membrane that bounds the large central vacuole of a plant cell is the",
+      "options": ["tonoplast", "nuclear lamina", "mesosome", "glyoxysomal coat"],
+      "answerIndex": 0,
+      "explanation": "The tonoplast is the vacuolar membrane and controls transport into the cell sap.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "endomembrane-system",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-110",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Microtubules of the eukaryotic cytoskeleton are polymers of",
+      "options": ["actin", "tubulin", "keratin only", "cellulose"],
+      "answerIndex": 1,
+      "explanation": "Microtubules are α/β-tubulin polymers; microfilaments are actin and many intermediate filaments are keratins.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ribosomes-cytoskeleton",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-111",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Which statement about the plasma membrane is incorrect?",
+      "options": [
+        "It is selectively permeable.",
+        "It is a fluid lipid bilayer with proteins.",
+        "It is made chiefly of cellulose microfibrils.",
+        "It can house transport proteins."
+      ],
+      "answerIndex": 2,
+      "explanation": "Cellulose is the wall polymer; the plasma membrane is a phospholipid–protein bilayer.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "plasma-membrane",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-112",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Secondary constrictions that produce a satellite (SAT chromosome) are typically associated with",
+      "options": [
+        "nucleolar organiser regions",
+        "centriolar basal bodies",
+        "cristae of mitochondria",
+        "middle lamella pectins"
+      ],
+      "answerIndex": 0,
+      "explanation": "SAT chromosomes carry nucleolar organiser regions at a secondary constriction.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "chromosomes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-cl-n-113",
+      "chapterId": "botany-cell-the-unit-of-life",
+      "stem": "Identify the incorrect statement regarding cell organisation.",
+      "options": [
+        "Mesosomes in some bacteria are plasma-membrane infoldings.",
+        "Higher plant cells generally lack centrioles.",
+        "The middle lamella is mainly calcium pectate.",
+        "Every living plant cell contains a pair of centrioles in a centrosome."
+      ],
+      "answerIndex": 3,
+      "explanation": "Angiosperm cells lack centrioles; the mitotic spindle is organised without a centrosome of the animal type.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "prokaryote-vs-eukaryote",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

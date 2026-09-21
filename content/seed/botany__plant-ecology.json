@@ -1,0 +1,366 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Plant Ecology",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-pe-e-101",
+      "chapterId": "botany-plant-ecology",
+      "stem": "The branch of ecology that studies a single species in relation to its environment is",
+      "options": ["synecology", "autecology", "palaeoecology", "limnology only"],
+      "answerIndex": 1,
+      "explanation": "Autecology is species-level ecology; synecology deals with communities and ecosystems.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "autecology-synecology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-102",
+      "chapterId": "botany-plant-ecology",
+      "stem": "The physical place where an organism lives is its habitat, whereas its functional role is its",
+      "options": ["biome", "niche", "ecotone", "climax"],
+      "answerIndex": 1,
+      "explanation": "Habitat is the address; the niche is the profession — resources used and interactions performed.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "habitat-and-niche",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-103",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Among climatic factors, photoperiod mainly influences",
+      "options": [
+        "soil cation-exchange capacity",
+        "flowering time in many plants",
+        "the number of soil horizons",
+        "slope aspect only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Day length is a climatic cue that induces flowering in short-day and long-day plants.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "climatic-factors",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-104",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Soil texture, pH and mineral content are grouped as",
+      "options": ["climatic factors", "edaphic factors", "biotic factors", "topographic factors only"],
+      "answerIndex": 1,
+      "explanation": "Edaphic factors are soil properties; slope and altitude are topographic.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "edaphic-topographic",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-105",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Aerenchyma that creates air channels in stems and roots is a hallmark of many",
+      "options": ["xerophytes", "hydrophytes", "lithophytes only", "epiphytes only"],
+      "answerIndex": 1,
+      "explanation": "Aquatic plants develop aerenchyma for buoyancy and oxygen movement through submerged organs.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "hydrophyte-adaptations",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-106",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Sunken stomata overarched by hairs are a typical anatomical feature of",
+      "options": ["submerged hydrophytes", "xerophytes", "mesophytes of wet meadows", "free-floating aquatics"],
+      "answerIndex": 1,
+      "explanation": "Sunken stomata sit in pits that trap humid air and cut transpiration in dry habitats.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "xerophyte-adaptations",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-107",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Vivipary, in which seeds germinate on the parent plant, is well known in",
+      "options": ["desert succulents", "mangrove halophytes such as Rhizophora", "alpine mosses", "submerged Vallisneria"],
+      "answerIndex": 1,
+      "explanation": "Many mangroves show vivipary so seedlings are established before they drop into saline mud.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "mesophyte-halophyte",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-108",
+      "chapterId": "botany-plant-ecology",
+      "stem": "The transition zone between two adjacent communities is called an",
+      "options": ["ecotype", "ecotone", "niche", "sere"],
+      "answerIndex": 1,
+      "explanation": "An ecotone is the edge community; species richness is often high there (edge effect).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "plant-community",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-109",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Primary succession on bare rock typically begins with",
+      "options": ["climax oak forest", "crustose lichens as pioneers", "large herbivores", "peat accumulation"],
+      "answerIndex": 1,
+      "explanation": "Lichens weather rock and add organic matter, starting a xerosere toward a climax community.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ecological-succession",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-110",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Mycorrhizal association between a fungus and a plant root is an example of",
+      "options": ["predation", "mutualism", "amensalism", "competition"],
+      "answerIndex": 1,
+      "explanation": "The fungus gains carbon and the plant gains mineral uptake; both partners benefit.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "biotic-interactions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-111",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Plants that complete their life cycle in the brief wet spell of a desert and persist as seeds are",
+      "options": ["succulent perennials", "drought evaders (ephemerals)", "hydrophytic emergents", "mangrove trees"],
+      "answerIndex": 1,
+      "explanation": "Desert ephemerals avoid drought as dormant seeds rather than enduring it as vegetative plants.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "xerophyte-adaptations",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-112",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Secondary succession differs from primary succession mainly because it starts on",
+      "options": [
+        "sterile bare rock with no soil",
+        "a site that already has soil after a disturbance",
+        "the Moon’s surface",
+        "only deep ocean vents"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fire, flood or abandonment leaves soil and propagules, so secondary seres proceed faster.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "ecological-succession",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-e-113",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Choose the correct set. I. Synecology studies groups of organisms. II. A hydrosere begins in water and may end in a forest climax. III. Halophytes always lack any salt-excreting glands.",
+      "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+      "answerIndex": 0,
+      "explanation": "Community ecology and hydrosere are correctly stated; many mangroves have salt glands or succulent leaves.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "autecology-synecology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-101",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Synecology is best defined as the study of",
+      "options": [
+        "one organism in isolation from all others",
+        "communities and their interactions with the environment",
+        "only laboratory enzyme kinetics",
+        "mineral deficiency symptoms of a single crop"
+      ],
+      "answerIndex": 1,
+      "explanation": "Synecology (community ecology) deals with groups of species and their environment.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "autecology-synecology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-102",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Two plant species can share a habitat yet avoid competitive exclusion if they occupy",
+      "options": ["identical niches", "different niches", "the same climax only", "no trophic level"],
+      "answerIndex": 1,
+      "explanation": "Gause’s idea: complete niche overlap leads to exclusion; niche differentiation allows coexistence.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "habitat-and-niche",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-103",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Wind as a climatic factor is especially important for",
+      "options": [
+        "anemophily and seed dispersal",
+        "forming Casparian strips",
+        "fixing atmospheric nitrogen in nodules",
+        "producing annual rings in roots only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Wind pollinates many grasses and trees and also carries winged or plumed diaspores.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "climatic-factors",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-104",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Altitude and slope aspect that change local climate are classified as",
+      "options": ["edaphic factors", "topographic factors", "biotic factors", "autogenic factors only"],
+      "answerIndex": 1,
+      "explanation": "Topography (height, slope, aspect) modifies temperature, rainfall and insolation.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "edaphic-topographic",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-105",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Highly dissected or finely divided leaves in submerged aquatics mainly help to",
+      "options": [
+        "reduce the surface available for gas exchange",
+        "increase surface area and reduce tearing by currents",
+        "store starch in amyloplasts of the fruit",
+        "form sunken stomatal pits"
+      ],
+      "answerIndex": 1,
+      "explanation": "Filamentous submerged leaves raise the exchange surface and flex with flowing water.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "hydrophyte-adaptations",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-106",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Succulent xerophytes such as Opuntia store water chiefly in",
+      "options": ["lignified fibres of the seed", "fleshy stems or leaves", "dead xylem vessels only", "root nodules"],
+      "answerIndex": 1,
+      "explanation": "Succulents accumulate water in parenchyma of swollen stems (cladodes) or leaves.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "xerophyte-adaptations",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-107",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Mesophytes are plants that grow typically in",
+      "options": [
+        "habitats of moderate water supply",
+        "permanently submerged freshwater only",
+        "saturated saline mud only",
+        "rainless true deserts only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mesophytes occupy mesic sites; they lack the extreme aerenchyma of hydrophytes or the strong xeromorphy of xerophytes.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "mesophyte-halophyte",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-108",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Vertical layering of vegetation in a forest (trees, shrubs, herbs) is called",
+      "options": ["zonation along a seashore only", "stratification", "eutrophication", "vivipary"],
+      "answerIndex": 1,
+      "explanation": "Stratification is the vertical structure of a community; zonation is horizontal banding.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "plant-community",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-109",
+      "chapterId": "botany-plant-ecology",
+      "stem": "The relatively stable end community of a sere is the",
+      "options": ["pioneer stage", "climax community", "ecotone only", "bare substratum"],
+      "answerIndex": 1,
+      "explanation": "Succession proceeds through seral stages to a self-replacing climax under the regional climate.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ecological-succession",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-110",
+      "chapterId": "botany-plant-ecology",
+      "stem": "An epiphyte such as an orchid growing on a tree without parasitising it illustrates",
+      "options": ["commensalism", "predation", "mutualism with Rhizobium", "amensalism by antibiotics"],
+      "answerIndex": 0,
+      "explanation": "The epiphyte gains a perch; the tree is typically neither helped nor harmed (commensalism).",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "biotic-interactions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-111",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Which statement about hydrophytes is incorrect?",
+      "options": [
+        "Submerged leaves may be highly dissected.",
+        "Mechanical tissue is often reduced.",
+        "Aerenchyma is commonly well developed.",
+        "They typically possess a very thick, multi-layered cuticle and dense sunken stomata on submerged leaves."
+      ],
+      "answerIndex": 3,
+      "explanation": "Submerged organs usually have a thin cuticle and lack stomata; sunken stomata are a xerophyte trait.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "hydrophyte-adaptations",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-112",
+      "chapterId": "botany-plant-ecology",
+      "stem": "A hydrosere in a freshwater pond is expected to pass from submerged plants toward",
+      "options": [
+        "crustose lichens on bare rock",
+        "floating, then reed-swamp and woodland stages",
+        "only desert succulents",
+        "a purely plankton climax with no rooted plants ever"
+      ],
+      "answerIndex": 1,
+      "explanation": "A classic hydrosere: submerged → floating → reed swamp → marsh → woodland climax as the basin fills.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ecological-succession",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-pe-n-113",
+      "chapterId": "botany-plant-ecology",
+      "stem": "Identify the incorrect pairing.",
+      "options": [
+        "Autecology — single-species ecology",
+        "Ecotone — junction of two communities",
+        "Xerosere — succession starting on dry bare rock",
+        "Halophyte — plant confined to permanently dark caves"
+      ],
+      "answerIndex": 3,
+      "explanation": "Halophytes inhabit saline soils or waters; cave plants are shade/sciophytes, not defined by salt.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "mesophyte-halophyte",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

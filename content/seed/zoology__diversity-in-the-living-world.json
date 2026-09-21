@@ -1,0 +1,376 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Diversity in the Living World",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-dv-e-101",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "The property of living organisms that is regarded as the most unique and defining is",
+      "options": ["increase in mass", "consciousness", "growth by accretion", "ability to form crystals"],
+      "answerIndex": 1,
+      "explanation": "Consciousness (self-awareness and response to stimuli at the organism level) is treated as the defining feature of living beings.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "living-defining-properties",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-102",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Classification of animals is essential mainly because it",
+      "options": [
+        "reduces the number of species on Earth",
+        "helps study the enormous diversity in an orderly way",
+        "replaces the need for scientific names",
+        "stops evolution of new forms"
+      ],
+      "answerIndex": 1,
+      "explanation": "Millions of species cannot be studied one by one; grouping by characters makes identification and comparison possible.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "biodiversity-and-classification-need",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-103",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "The branch that includes identification, nomenclature and classification of organisms is",
+      "options": ["ecology", "physiology", "taxonomy", "embryology"],
+      "answerIndex": 2,
+      "explanation": "Taxonomy is the practice of identifying, naming and classifying organisms.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "taxonomy-versus-systematics",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-104",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "In animals, related families are grouped together into a",
+      "options": ["genus", "species", "order", "phylum"],
+      "answerIndex": 2,
+      "explanation": "The hierarchy is species → genus → family → order → class → phylum → kingdom.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "taxonomic-categories-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-105",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "The basic unit used in the classification of animals is the",
+      "options": ["phylum", "species", "class", "kingdom"],
+      "answerIndex": 1,
+      "explanation": "Species is the lowest and fundamental unit of taxonomic classification.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "species-as-basic-unit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-106",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "In the scientific name Panthera leo, the word Panthera stands for the",
+      "options": ["species", "family", "genus", "order"],
+      "answerIndex": 2,
+      "explanation": "The first word of a binomial is the genus; leo is the specific epithet of the lion.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "binomial-nomenclature-animals",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-107",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Scientific names of animals are framed according to the",
+      "options": ["ICBN (ICN)", "ICZN", "IUPAC", "IUCN Red List"],
+      "answerIndex": 1,
+      "explanation": "The International Code of Zoological Nomenclature governs animal names; plants follow ICN.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "iczn-zoological-code",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-108",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Living wild animals kept for public education and study are maintained in a",
+      "options": ["herbarium", "zoological park", "museum cabinet", "botanical garden"],
+      "answerIndex": 1,
+      "explanation": "Zoological parks (zoos) house living animals; museums store preserved specimens.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "museums-and-zoological-parks",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-109",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "A taxonomic monograph differs from a flora because a monograph",
+      "options": [
+        "lists only local common names",
+        "gives a comprehensive account of a single taxon",
+        "identifies plants solely by flower colour",
+        "is used only in zoos"
+      ],
+      "answerIndex": 1,
+      "explanation": "A monograph treats one taxon in depth; a flora catalogues plants of a region.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "keys-and-taxonomic-literature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-110",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "In print, the two words of an animal's binomial should appear in",
+      "options": ["bold roman type", "italics", "quotation marks", "capital letters throughout"],
+      "answerIndex": 1,
+      "explanation": "Printed scientific names are italicised; the genus starts with a capital letter.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "scientific-name-conventions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-111",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Isolated enzyme reactions in a test tube are not considered living because they lack",
+      "options": ["substrates", "cellular organisation", "energy change", "catalysts"],
+      "answerIndex": 1,
+      "explanation": "Metabolism of life occurs inside organised cells; a cell-free mixture is not an organism.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "living-defining-properties",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-112",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Among class, order, family and genus of animals, the rank that is immediately above family is",
+      "options": ["genus", "species", "order", "class"],
+      "answerIndex": 2,
+      "explanation": "Ascending order: genus → family → order → class.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "taxonomic-categories-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-e-113",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Which statement about the name Homo sapiens is incorrect?",
+      "options": [
+        "Homo is the genus and is capitalised",
+        "sapiens is the specific epithet and is not capitalised",
+        "Both words together denote the species",
+        "sapiens alone is a valid name of the species"
+      ],
+      "answerIndex": 3,
+      "explanation": "A species name is binomial; the specific epithet sapiens is not used alone as a scientific name.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "binomial-nomenclature-animals",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-101",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Growth by accumulation of material on the surface can occur in mountains. Living growth differs because it is",
+      "options": [
+        "always decrease in mass",
+        "from inside, by cell division",
+        "independent of metabolism",
+        "seen only in fossils"
+      ],
+      "answerIndex": 1,
+      "explanation": "Living organisms grow by internal cell division, not by external deposition.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "living-defining-properties",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-102",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "The known number of animal species is far larger than that of plants. This fact mainly emphasises the need for",
+      "options": [
+        "stopping all field collection",
+        "a standardised system of classification and naming",
+        "using only vernacular names",
+        "placing all animals in one genus"
+      ],
+      "answerIndex": 1,
+      "explanation": "Great diversity requires agreed names and hierarchical grouping so species can be identified worldwide.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "biodiversity-and-classification-need",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-103",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Systematics is broader than taxonomy because it also considers",
+      "options": [
+        "only the local common name",
+        "evolutionary relationships among organisms",
+        "only museum catalogue numbers",
+        "only the economic value of animals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Systematics includes phylogeny in addition to identification, naming and classification.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "taxonomy-versus-systematics",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-104",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Which taxonomic category of animals includes all the others listed here?",
+      "options": ["Genus", "Family", "Order", "Phylum"],
+      "answerIndex": 3,
+      "explanation": "Phylum is the highest of these ranks and contains many classes, orders, families and genera.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "taxonomic-categories-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-105",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Two animals that can interbreed in nature and produce fertile young belong to the same",
+      "options": ["genus only if they look identical", "family irrespective of reproduction", "biological species", "phylum only"],
+      "answerIndex": 2,
+      "explanation": "The biological species concept groups organisms that actually or potentially interbreed and yield fertile offspring.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "species-as-basic-unit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-106",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Linnaeus established the practice of naming each organism with",
+      "options": [
+        "a single vernacular word",
+        "two Latinised words, genus and specific epithet",
+        "the family name followed by a number",
+        "an English common name only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Binomial nomenclature uses Genus + specific epithet as the scientific name.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "binomial-nomenclature-animals",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-107",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "ICZN does not apply to the naming of",
+      "options": ["insects", "fishes", "flowering plants", "birds"],
+      "answerIndex": 2,
+      "explanation": "Animal names follow ICZN; plant names follow the International Code of Nomenclature for algae, fungi and plants.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "iczn-zoological-code",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-108",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Preserved skins, skeletons and stuffed animals used as taxonomic references are stored in a",
+      "options": ["zoological park", "botanical garden", "museum", "herbarium"],
+      "answerIndex": 2,
+      "explanation": "Museums keep dead, preserved animal specimens; zoos keep living animals.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "museums-and-zoological-parks",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-109",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "A dichotomous taxonomic key identifies an unknown animal by",
+      "options": [
+        "DNA sequencing only",
+        "successive pairs of contrasting characters",
+        "the year it was collected",
+        "its market price"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each couplet offers two opposite choices that lead to the next step or the name.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "keys-and-taxonomic-literature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-110",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "When handwritten, each of the two words of a binomial should be",
+      "options": [
+        "placed in inverted commas",
+        "separately underlined",
+        "written entirely in capitals",
+        "abbreviated to one letter"
+      ],
+      "answerIndex": 1,
+      "explanation": "Handwritten scientific names are underlined separately in place of italics.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "scientific-name-conventions",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-111",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Reproduction cannot be treated as an exclusive defining feature of living organisms because",
+      "options": [
+        "all animals reproduce sexually only",
+        "many organisms such as mules and sterile worker bees do not reproduce",
+        "plants never reproduce",
+        "reproduction always equals growth"
+      ],
+      "answerIndex": 1,
+      "explanation": "Infertile organisms are still living; some non-living systems can also 'multiply' in a trivial sense.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "living-defining-properties",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-112",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Identify the incorrect pairing of rank and example.",
+      "options": [
+        "Genus — Panthera",
+        "Family — Felidae",
+        "Order — Carnivora",
+        "Class — leo"
+      ],
+      "answerIndex": 3,
+      "explanation": "leo is a specific epithet, not a class. Lion: genus Panthera, family Felidae, order Carnivora, class Mammalia.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "taxonomic-categories-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dv-n-113",
+      "chapterId": "zoology-diversity-in-the-living-world",
+      "stem": "Which of the following is not a taxonomic aid used in zoology?",
+      "options": ["Museum", "Zoological park", "Spectrophotometer", "Taxonomic key"],
+      "answerIndex": 2,
+      "explanation": "Museums, zoos and keys help identification; a spectrophotometer is a laboratory instrument, not a taxonomic aid.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "museums-and-zoological-parks",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

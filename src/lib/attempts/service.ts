@@ -64,6 +64,7 @@ export async function startAttempt(input: StartAttemptInput): Promise<Attempt> {
   ]);
 
   const { questionIds } = selectPaper({
+    examId: exam.id,
     quotas: quotas.map((q) => ({ subjectId: q.subjectId, count: q.count })),
     pool,
     seenIds,

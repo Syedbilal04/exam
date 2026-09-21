@@ -1,0 +1,366 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Digestion and Absorption",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-dig-e-101",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "The proteolytic enzyme trypsin is released from the pancreas and becomes active in the",
+      "options": ["buccal cavity", "stomach lumen", "small intestine", "large intestine"],
+      "answerIndex": 2,
+      "explanation": "Trypsinogen is activated in the duodenum; trypsin then digests proteins in the small intestine.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "digestive-enzymes-site",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-102",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Enterokinase of the intestinal mucosa converts trypsinogen into",
+      "options": ["pepsin", "trypsin", "chymotrypsin", "carboxypeptidase"],
+      "answerIndex": 1,
+      "explanation": "Enterokinase (enteropeptidase) clips trypsinogen to trypsin, which then activates other pancreatic zymogens.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "protein-digestion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-103",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Reconstituted triglycerides leave the villus mainly as chylomicrons into the",
+      "options": ["hepatic artery", "lacteal lymph vessel", "portal venule only", "central vein of liver"],
+      "answerIndex": 1,
+      "explanation": "Long-chain fats are packaged as chylomicrons and enter the lacteal, not the villus blood capillary.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "absorption-and-villi",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-104",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "The dental formula of a permanent human dentition is written as",
+      "options": ["2102/2102", "2123/2123", "2033/2033", "3131/3131"],
+      "answerIndex": 1,
+      "explanation": "Each half-jaw has 2 incisors, 1 canine, 2 premolars and 3 molars (32 teeth in all).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "alimentary-canal-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-105",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Brunner's glands that pour an alkaline mucus into the gut lie in the submucosa of the",
+      "options": ["ileum", "colon", "duodenum", "oesophagus"],
+      "answerIndex": 2,
+      "explanation": "Duodenal (Brunner's) glands protect the mucosa from acidic chyme entering from the stomach.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "digestive-glands",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-106",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Bile salts aid fat digestion chiefly by",
+      "options": [
+        "hydrolysing ester bonds of triglycerides",
+        "emulsifying fats into fine droplets",
+        "activating pepsinogen",
+        "digesting cellulose"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bile has no digestive enzyme; bile salts emulsify fats so lipase can act on a larger surface.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "bile-and-emulsification",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-107",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Emulsified dietary fats are hydrolysed mainly by",
+      "options": ["salivary amylase", "pepsin", "pancreatic lipase", "enterokinase"],
+      "answerIndex": 2,
+      "explanation": "Pancreatic lipase is the principal enzyme that splits triglycerides in the small intestine.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "carbohydrate-lipid-digestion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-108",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Secretin released from the duodenal mucosa mainly stimulates the pancreas to secrete",
+      "options": [
+        "enzyme-rich juice",
+        "bicarbonate-rich watery juice",
+        "bile pigments",
+        "pepsinogen"
+      ],
+      "answerIndex": 1,
+      "explanation": "Secretin raises pancreatic HCO3- output so acidic chyme is neutralised; CCK drives enzyme release.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "gi-hormones",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-109",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Among the three major foodstuffs, the highest bomb-calorimeter value (kcal/g) belongs to",
+      "options": ["carbohydrates (4.1)", "proteins (5.65)", "fats (9.45)", "vitamins (7.0)"],
+      "answerIndex": 2,
+      "explanation": "Fats yield about 9.45 kcal/g in a bomb calorimeter, far more than carbohydrates or proteins.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "calorific-values",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-110",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Yellowing of skin and sclera in jaundice is caused by deposition of",
+      "options": ["melanin", "haemoglobin", "bile pigments", "carotene only"],
+      "answerIndex": 2,
+      "explanation": "Bilirubin and related bile pigments accumulate in blood and tissues when bile flow or liver function fails.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "digestive-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-111",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Maltase, sucrase and lactase that complete sugar digestion are secreted in the",
+      "options": ["saliva", "gastric juice", "intestinal juice", "bile"],
+      "answerIndex": 2,
+      "explanation": "These disaccharidases occur in succus entericus on the small-intestinal brush border.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "digestive-enzymes-site",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-112",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Hydrochloric acid of gastric juice is secreted by the",
+      "options": ["chief (peptic) cells", "parietal (oxyntic) cells", "goblet cells", "Paneth cells"],
+      "answerIndex": 1,
+      "explanation": "Oxyntic cells secrete HCl and Castle's intrinsic factor; chief cells secrete pepsinogen.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "protein-digestion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-e-113",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Glucose and amino acids leave the villus through blood capillaries, whereas most long-chain fats leave through lacteals. The blood from the gut then reaches the liver first via the",
+      "options": ["hepatic artery", "hepatic portal vein", "inferior vena cava directly", "thoracic duct"],
+      "answerIndex": 1,
+      "explanation": "Absorbed monosaccharides and amino acids travel in the hepatic portal vein; chylomicrons travel in lymph to the thoracic duct.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "absorption-and-villi",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-101",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Which enzyme is absent from pancreatic juice but present in intestinal juice?",
+      "options": ["Amylase", "Lipase", "Sucrase", "Nuclease"],
+      "answerIndex": 2,
+      "explanation": "Pancreas secretes amylase, lipase and nucleases; sucrase is a brush-border intestinal enzyme.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "digestive-enzymes-site",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-102",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Which of the following is secreted as an inactive zymogen?",
+      "options": ["Salivary amylase", "Pepsinogen", "Sucrase", "Enterokinase"],
+      "answerIndex": 1,
+      "explanation": "Pepsinogen is the inactive precursor; HCl converts it to pepsin so the stomach does not digest itself.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "protein-digestion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-103",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Fructose is absorbed from the small intestine mainly by",
+      "options": [
+        "simple diffusion only",
+        "facilitated diffusion",
+        "Na+-coupled active transport like glucose",
+        "endocytosis into lacteals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fructose uses facilitated carriers; glucose and galactose use secondary active transport with sodium.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "absorption-and-villi",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-104",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "A digestive enzyme is not secreted by the wall of the",
+      "options": ["stomach", "duodenum", "oesophagus", "ileum"],
+      "answerIndex": 2,
+      "explanation": "The oesophagus only conducts the bolus by peristalsis; it does not produce digestive enzymes.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "alimentary-canal-anatomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-105",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "The pancreas is described as a mixed gland because it secretes",
+      "options": [
+        "only enzymes into blood",
+        "both an exocrine juice and endocrine hormones",
+        "only insulin into the duodenum",
+        "bile and pancreatic juice together"
+      ],
+      "answerIndex": 1,
+      "explanation": "Acini pour digestive juice into the duodenum; islets release insulin and glucagon into blood.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "digestive-glands",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-106",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Which statement about human bile is correct?",
+      "options": [
+        "It contains lipase as its main enzyme",
+        "It is stored and concentrated in the gall bladder",
+        "It is produced by the pancreas",
+        "It activates pepsinogen in the stomach"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hepatocytes make bile; the gall bladder stores it. Bile salts emulsify fats and do not digest protein.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "bile-and-emulsification",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-107",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Salivary amylase stops acting soon after the bolus reaches the stomach because",
+      "options": [
+        "the enzyme is digested by lipase",
+        "gastric pH is too low for its activity",
+        "bile salts denature it instantly",
+        "starch is already fully hydrolysed in the mouth"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ptyalin works near neutrality; HCl of gastric juice inactivates it.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "carbohydrate-lipid-digestion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-108",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Cholecystokinin (CCK) released from the small intestine causes",
+      "options": [
+        "contraction of the gall bladder and enzyme-rich pancreatic secretion",
+        "only HCl secretion by parietal cells",
+        "closure of the pyloric sphincter permanently",
+        "release of ADH from the pituitary"
+      ],
+      "answerIndex": 0,
+      "explanation": "CCK empties stored bile and stimulates pancreatic acinar enzymes when fatty chyme arrives.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "gi-hormones",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-109",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "The physiological fuel value assigned to dietary protein (kcal/g) is about",
+      "options": ["9.0", "5.65", "4.0", "1.0"],
+      "answerIndex": 2,
+      "explanation": "Bomb value of protein is 5.65 kcal/g, but incomplete oxidation in the body gives a physiological value of 4.0.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "calorific-values",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-110",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Which condition is not classed as a primary disorder of the digestive tract?",
+      "options": ["Constipation", "Diarrhoea", "Emphysema", "Indigestion"],
+      "answerIndex": 2,
+      "explanation": "Emphysema is a lung disease; the others are listed digestive disorders in the chapter.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "digestive-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-111",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "In infants, the gastric enzyme that curdles milk protein is",
+      "options": ["rennin (chymosin)", "trypsin", "amylase", "nuclease"],
+      "answerIndex": 0,
+      "explanation": "Rennin coagulates casein so it stays longer in the stomach for pepsin to act.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "digestive-enzymes-site",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-112",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Which statement about pepsin is incorrect?",
+      "options": [
+        "It is formed from pepsinogen by HCl",
+        "It acts best in a strongly acidic medium",
+        "It hydrolyses proteins to proteoses and peptones",
+        "It is the main proteolytic enzyme of pancreatic juice"
+      ],
+      "answerIndex": 3,
+      "explanation": "Pepsin is gastric; pancreatic juice uses trypsin, chymotrypsin and carboxypeptidases.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "protein-digestion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-dig-n-113",
+      "chapterId": "zoology-digestion-and-absorption",
+      "stem": "Identify the incorrect pairing of nutrient and route of absorption from a villus.",
+      "options": [
+        "Glucose — blood capillary (active transport)",
+        "Amino acids — blood capillary",
+        "Long-chain fatty acids — lacteal as chylomicrons",
+        "Vitamin B12 — lacteal without any intrinsic factor"
+      ],
+      "answerIndex": 3,
+      "explanation": "Vitamin B12 binds Castle's intrinsic factor and is absorbed in the ileum into blood, not freely into lacteals.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "absorption-and-villi",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

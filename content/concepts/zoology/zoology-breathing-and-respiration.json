@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-breathing-and-respiration",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "lung-volumes-capacities",
+      "label": "Respiratory volumes and capacities",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "oxygen-transport",
+      "label": "Oxygen transport and haemoglobin dissociation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "co2-transport-chloride-shift",
+      "label": "Carbon dioxide transport and chloride shift",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "respiratory-system-anatomy",
+      "label": "Human respiratory tract and alveoli",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "breathing-mechanism",
+      "label": "Inspiration, expiration and respiratory muscles",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pulmonary-gas-exchange",
+      "label": "Partial pressures and alveolar gas exchange",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "respiratory-regulation",
+      "label": "Neural and chemical control of breathing",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "respiratory-disorders",
+      "label": "Asthma, emphysema and occupational lung disease",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "respiratory-quotient",
+      "label": "Respiratory quotient of foodstuffs",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "transport-and-bohr",
+      "label": "Bohr effect and factors shifting the O2 curve",
+      "examHot": ["neet"]
+    }
+  ]
+}

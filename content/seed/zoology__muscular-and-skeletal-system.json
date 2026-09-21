@@ -1,0 +1,401 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Muscular and Skeletal System",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-ms-e-101",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "According to the sliding filament theory, contraction shortens a sarcomere because",
+      "options": [
+        "actin and myosin filaments themselves shorten",
+        "thin filaments slide over thick filaments",
+        "Z lines move farther apart",
+        "the A band disappears completely"
+      ],
+      "answerIndex": 1,
+      "explanation": "Filament lengths stay the same; actin slides on myosin so I and H bands narrow.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "sliding-filament",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-102",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "A sarcomere is the segment of a myofibril lying between two successive",
+      "options": ["M lines only", "Z lines", "H zones", "A bands of different fibres"],
+      "answerIndex": 1,
+      "explanation": "Z lines (Z discs) bound each sarcomere, the functional unit of striated muscle.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "sarcomere-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-103",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Calcium ions released from the sarcoplasmic reticulum bind to",
+      "options": ["tropomyosin", "troponin", "myosin ATPase directly without protein", "collagen"],
+      "answerIndex": 1,
+      "explanation": "Ca2+–troponin shifts tropomyosin so myosin-binding sites on actin are exposed.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "excitation-contraction",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-104",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Amoeboid movement in humans is typically shown by",
+      "options": ["spermatozoa", "macrophages and some WBCs", "ciliated tracheal cells", "cardiac myocytes"],
+      "answerIndex": 1,
+      "explanation": "Phagocytes crawl by pseudopodia; sperm use flagella and the trachea uses cilia.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "types-of-movement",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-105",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Human cardiac muscle fibres are",
+      "options": [
+        "striated and voluntary",
+        "unstriated and voluntary",
+        "striated and involuntary",
+        "smooth and attached to bones"
+      ],
+      "answerIndex": 2,
+      "explanation": "Heart muscle has striations and intercalated discs but is not under conscious control.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "muscle-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-106",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Red skeletal muscle fibres appear dark because they are rich in",
+      "options": ["myoglobin and mitochondria", "uric acid", "keratin", "bile pigments"],
+      "answerIndex": 0,
+      "explanation": "Myoglobin stores O2 and many mitochondria support aerobic, fatigue-resistant contraction.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "red-white-muscle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-107",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "The adult human skeleton contains about 206 bones. The axial skeleton includes the",
+      "options": [
+        "girdles and limb bones",
+        "skull, vertebral column, sternum and ribs",
+        "only carpals and tarsals",
+        "patella and clavicle only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Axial = skull + vertebral column + sternum + ribs (80 bones); the rest is appendicular.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "axial-appendicular-skeleton",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-108",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "The shoulder joint is an example of a",
+      "options": ["fibrous suture", "cartilaginous joint", "ball-and-socket synovial joint", "pivot only in the wrist"],
+      "answerIndex": 2,
+      "explanation": "The humeral head fits the glenoid cavity, allowing movement in many planes.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "joints-classification",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-109",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Gouty arthritis is caused by accumulation of crystals of",
+      "options": ["calcium carbonate", "uric acid", "cholesterol only", "keratin"],
+      "answerIndex": 1,
+      "explanation": "Urate crystals inflame joints, classically the great toe.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "muscle-skeletal-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-110",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Of the twelve pairs of ribs, the last two pairs are called floating ribs because they",
+      "options": [
+        "attach directly to the sternum",
+        "do not attach to the sternum even through cartilage",
+        "are fused to the cervical vertebrae",
+        "lie inside the lungs"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pairs 11 and 12 have no sternal attachment; 1–7 are true ribs and 8–10 are false (vertebrochondral).",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "ribs-and-vertebrae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-111",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "During contraction the A band length remains almost constant while the H zone",
+      "options": ["widens", "narrows or disappears", "becomes the new Z line", "fills with DNA"],
+      "answerIndex": 1,
+      "explanation": "A band is the myosin length; H is the myosin-only middle that is covered as actin slides in.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "sliding-filament",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-112",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "The I band of a sarcomere contains",
+      "options": [
+        "only myosin filaments",
+        "only actin filaments (plus Z line)",
+        "only mitochondria",
+        "overlapping actin and myosin throughout"
+      ],
+      "answerIndex": 1,
+      "explanation": "I (isotropic) band is thin filaments on either side of the Z line; A is the anisotropic myosin-containing band.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "sarcomere-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-e-113",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Rigor mortis occurs after death because ATP is no longer available to",
+      "options": [
+        "synthesise actin",
+        "detach myosin heads from actin",
+        "pump Ca2+ into the extracellular fluid only",
+        "form new Z lines"
+      ],
+      "answerIndex": 1,
+      "explanation": "Without ATP, cross-bridges stay locked; muscles stiffen until proteins begin to decay.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "excitation-contraction",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-101",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Which event is essential for the power stroke of a myosin head?",
+      "options": [
+        "Hydrolysis of ATP and release of ADP + Pi after binding actin",
+        "Binding of Ca2+ to myosin directly",
+        "Shortening of the myosin thick filament",
+        "Removal of all ATP from the fibre"
+      ],
+      "answerIndex": 0,
+      "explanation": "ATP hydrolysis cocks the head; actin binding and product release produce the stroke.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "sliding-filament",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-102",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "The M line of a sarcomere is the",
+      "options": [
+        "boundary between two fibres",
+        "mid-line that holds thick filaments in the A band",
+        "attachment of thin filaments only",
+        "same structure as a Z line"
+      ],
+      "answerIndex": 1,
+      "explanation": "M-line proteins interconnect myosin filaments at the centre of the A band.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "sarcomere-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-103",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "An action potential spreading into T-tubules causes the sarcoplasmic reticulum to",
+      "options": [
+        "take up all Na+ from the fibre",
+        "release stored Ca2+ into the sarcoplasm",
+        "destroy troponin",
+        "synthesise new actin"
+      ],
+      "answerIndex": 1,
+      "explanation": "Voltage sensors on T-tubules open SR Ca2+ channels, starting contraction.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "excitation-contraction",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-104",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Ciliary movement in humans helps to",
+      "options": [
+        "propel mucus in the respiratory tract and ova in the oviduct",
+        "contract the biceps",
+        "pump blood in the aorta",
+        "slide actin on myosin in the heart"
+      ],
+      "answerIndex": 0,
+      "explanation": "Coordinated cilia clear the airways and move the egg toward the uterus.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "types-of-movement",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-105",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Smooth muscle differs from skeletal muscle in being",
+      "options": [
+        "striated and multinucleate",
+        "unstriated, spindle-shaped and involuntary",
+        "attached to bones by tendons only",
+        "under conscious control"
+      ],
+      "answerIndex": 1,
+      "explanation": "Visceral muscle has no sarcomere striations and is autonomic.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "muscle-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-106",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "White muscle fibres, compared with red fibres, typically",
+      "options": [
+        "have more myoglobin and tire slowly",
+        "have less myoglobin and tire quickly",
+        "lack actin and myosin",
+        "are found only in the heart"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pale fibres rely more on anaerobic glycolysis and are used for short, fast bursts.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "red-white-muscle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-107",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "The pectoral girdle of each side is formed by the",
+      "options": ["ilium and ischium", "clavicle and scapula", "tibia and fibula", "radius and ulna"],
+      "answerIndex": 1,
+      "explanation": "Collar bone and shoulder blade suspend the upper limb; the pelvic girdle is hip bones.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "axial-appendicular-skeleton",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-108",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Sutures of the skull are examples of",
+      "options": ["synovial joints", "fibrous joints", "ball-and-socket joints", "hinge joints"],
+      "answerIndex": 1,
+      "explanation": "Fibrous joints allow almost no movement; synovial joints have a fluid-filled cavity.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "joints-classification",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-109",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Myasthenia gravis is an autoimmune disorder that affects",
+      "options": [
+        "neuromuscular junctions",
+        "only osteoblasts of the femur",
+        "the cornea",
+        "renal glomeruli"
+      ],
+      "answerIndex": 0,
+      "explanation": "Antibodies impair acetylcholine receptors, causing muscle weakness and fatigue.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "muscle-skeletal-disorders",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-110",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "The vertebral formula of the adult human column (cervical–thoracic–lumbar–sacral–coccygeal bones) is",
+      "options": ["C8 T10 L5 S4 Co5", "C7 T12 L5 S1 Co1 (26 bones)", "C5 T15 L3 S6 Co2", "C12 T7 L7 S5 Co5"],
+      "answerIndex": 1,
+      "explanation": "Seven cervical, twelve thoracic and five lumbar vertebrae plus fused sacrum and coccyx give 26 bones.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ribs-and-vertebrae",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-111",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Which statement about sliding filaments is correct?",
+      "options": [
+        "Both A and I bands shorten equally",
+        "Thin filaments slide inward; A band width stays the same",
+        "Thick filaments slide into the Z line and vanish",
+        "Contraction lengthens the H zone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Myosin length (A) is constant; overlap increases so I and H shrink.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "sliding-filament",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-112",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Which pairing of sarcomere region and contents is incorrect?",
+      "options": [
+        "A band — myosin with overlapping actin in parts",
+        "I band — actin only",
+        "H zone — actin only",
+        "Z line — attachment of thin filaments"
+      ],
+      "answerIndex": 2,
+      "explanation": "The H zone is the central myosin-only part of the A band, not actin.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "sarcomere-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-ms-n-113",
+      "chapterId": "zoology-muscular-and-skeletal-system",
+      "stem": "Identify the incorrect step in excitation–contraction coupling.",
+      "options": [
+        "Acetylcholine at the motor end-plate depolarises the fibre",
+        "T-tubules carry the impulse inward",
+        "Ca2+ binds tropomyosin directly and covers the active sites",
+        "ATP is needed both for the power stroke cycle and to pump Ca2+ back"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ca2+ binds troponin, not tropomyosin; tropomyosin then moves off the active sites.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "excitation-contraction",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-ecology-and-environment",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "habitat-niche-environment",
+      "label": "Habitat, niche and organism–environment relation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "population-attributes",
+      "label": "Population attributes: natality, mortality, age pyramids",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "population-growth",
+      "label": "Exponential and logistic growth, carrying capacity",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "species-interactions",
+      "label": "Community interactions: predation, mutualism, competition",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ecosystem-productivity",
+      "label": "Ecosystem structure and primary productivity",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "energy-flow-food-chains",
+      "label": "Energy flow, food chains and food webs",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ecological-pyramids",
+      "label": "Ecological pyramids of number, biomass and energy",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "biodiversity-conservation",
+      "label": "Biodiversity levels and in-situ / ex-situ conservation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pollution-and-bod",
+      "label": "Air, water and soil pollution; BOD",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "greenhouse-ozone",
+      "label": "Greenhouse effect, global warming and ozone depletion",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

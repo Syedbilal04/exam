@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-plant-growth-and-development",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "pg-meristems-open-growth",
+      "label": "Meristems and open (indeterminate) growth",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pg-growth-curve-phases",
+      "label": "Sigmoid growth curve and phases of growth",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "pg-differentiation-plasticity",
+      "label": "Differentiation, dedifferentiation and plasticity",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "pg-auxin",
+      "label": "Auxin: apical dominance, tropism and 2,4-D",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pg-gibberellin",
+      "label": "Gibberellin: bolting and foolish-seedling",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pg-cytokinin",
+      "label": "Cytokinin: cell division and delay of senescence",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pg-ethylene",
+      "label": "Ethylene: ripening and triple response",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pg-aba",
+      "label": "ABA: stress, stomata and seed dormancy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pg-photoperiodism",
+      "label": "Photoperiodism, SDP/LDP and phytochrome",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "pg-vernalisation-dormancy",
+      "label": "Vernalisation and breaking of seed dormancy",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

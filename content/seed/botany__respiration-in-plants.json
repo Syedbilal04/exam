@@ -1,0 +1,391 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Respiration in Plants",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-rp-e-101",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Glycolysis (EMP pathway) in plant cells takes place in the",
+      "options": ["mitochondrial matrix", "cytoplasm", "thylakoid lumen", "nucleus"],
+      "answerIndex": 1,
+      "explanation": "The ten glycolytic enzymes are cytosolic; mitochondria are used later in aerobic respiration.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-glycolysis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-102",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Alcoholic fermentation in yeast converts pyruvate ultimately into",
+      "options": ["lactic acid only", "ethanol and CO2", "acetyl CoA", "citrate"],
+      "answerIndex": 1,
+      "explanation": "Pyruvate is decarboxylated to acetaldehyde, which is reduced to ethanol, regenerating NAD+.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-fermentation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-103",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Oxidative decarboxylation of pyruvate to acetyl CoA is catalysed by",
+      "options": [
+        "hexokinase",
+        "pyruvate dehydrogenase complex",
+        "RuBisCO",
+        "pepsin"
+      ],
+      "answerIndex": 1,
+      "explanation": "The PDH complex in the matrix links glycolysis to the Krebs cycle and also yields NADH and CO2.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-link-reaction",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-104",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "The first stable tricarboxylic acid formed in the Krebs cycle is",
+      "options": ["oxaloacetate", "citrate", "succinate", "pyruvate"],
+      "answerIndex": 1,
+      "explanation": "Acetyl CoA (2C) condenses with oxaloacetate (4C) to give citrate (6C).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-krebs-cycle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-105",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "The final electron acceptor of the mitochondrial electron transport chain is",
+      "options": ["NAD+", "molecular oxygen", "pyruvate", "water"],
+      "answerIndex": 1,
+      "explanation": "Complex IV reduces O2 to water; without oxygen the chain backs up.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-ets-etc",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-106",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Substrate-level phosphorylation means ATP is formed",
+      "options": [
+        "only by ATP synthase and a proton gradient",
+        "directly from a high-energy metabolic intermediate",
+        "only in the thylakoid lumen",
+        "without any enzyme"
+      ],
+      "answerIndex": 1,
+      "explanation": "Examples are pyruvate kinase in glycolysis and succinyl-CoA synthetase in the Krebs cycle.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-atp-balance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-107",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Respiratory quotient (RQ) of a typical carbohydrate is",
+      "options": ["0.7", "1.0", "0.5", "4.0"],
+      "answerIndex": 1,
+      "explanation": "For glucose, CO2 released equals O2 consumed, so RQ = 1.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-rq",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-108",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "The respiratory pathway is called amphibolic because it",
+      "options": [
+        "occurs only in animals",
+        "has both catabolic and anabolic roles",
+        "never uses oxygen",
+        "produces only heat"
+      ],
+      "answerIndex": 1,
+      "explanation": "Intermediates are oxidised for energy and also withdrawn to build amino acids, fats and other compounds.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-amphibolic",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-109",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "In woody stems, gaseous exchange for respiration occurs mainly through",
+      "options": ["stomata only", "lenticels", "root hairs exclusively", "hydathodes only"],
+      "answerIndex": 1,
+      "explanation": "Lenticels in the bark allow O2 in and CO2 out when a periderm replaces the epidermis.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rp-plant-gas-exchange",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-110",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Complete oxidation of glucose to CO2 and H2O requires",
+      "options": [
+        "glycolysis only",
+        "fermentation only",
+        "aerobic respiration including Krebs cycle and ETS",
+        "photorespiration"
+      ],
+      "answerIndex": 2,
+      "explanation": "Only the aerobic path fully oxidises pyruvate; fermentation leaves energy in ethanol or lactate.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "rp-aerobic-vs-anaerobic",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-111",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "The Krebs cycle of plant cells operates in the",
+      "options": [
+        "cytosol of all cells",
+        "mitochondrial matrix",
+        "thylakoid lumen",
+        "Golgi lumen"
+      ],
+      "answerIndex": 1,
+      "explanation": "TCA-cycle enzymes (except succinate dehydrogenase) are matrix proteins.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "rp-krebs-cycle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-112",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "The essential cellular role of fermentation is to",
+      "options": [
+        "produce the maximum possible ATP",
+        "regenerate NAD+ so glycolysis can continue",
+        "fix carbon dioxide",
+        "synthesise starch"
+      ],
+      "answerIndex": 1,
+      "explanation": "Without NAD+ regeneration, GAP dehydrogenase stops and net ATP from glycolysis ceases.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "rp-fermentation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-e-113",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "In eukaryotic plants, complete aerobic oxidation of one glucose is often stated to yield about",
+      "options": ["2 ATP only", "36 ATP", "1 ATP", "100 ATP"],
+      "answerIndex": 1,
+      "explanation": "Textbooks commonly quote ~36 ATP in eukaryotes (2 from glycolysis + shuttle costs + oxidative phosphorylation).",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "rp-atp-balance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-101",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "In glycolysis, one glucose molecule is split into",
+      "options": [
+        "two molecules of pyruvate",
+        "six molecules of CO2",
+        "two molecules of acetyl CoA only",
+        "one molecule of citrate"
+      ],
+      "answerIndex": 0,
+      "explanation": "The EMP path yields 2 pyruvate, net 2 ATP and 2 NADH per glucose.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-glycolysis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-102",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Lactic acid fermentation occurs in",
+      "options": [
+        "yeast cytosol producing ethanol",
+        "some animal muscle cells when oxygen is scarce",
+        "chloroplast stroma",
+        "xylem vessels"
+      ],
+      "answerIndex": 1,
+      "explanation": "Lactate dehydrogenase reduces pyruvate to lactate and regenerates NAD+; yeast uses the alcohol path.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-fermentation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-103",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "The link reaction between glycolysis and the Krebs cycle occurs in the",
+      "options": ["cytosol", "mitochondrial matrix", "intermembrane space only", "nucleus"],
+      "answerIndex": 1,
+      "explanation": "Pyruvate enters the matrix and is oxidatively decarboxylated to acetyl CoA.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-link-reaction",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-104",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Which intermediate accepts acetyl CoA as the Krebs cycle turns?",
+      "options": ["citrate", "oxaloacetate", "RuBP", "PEP"],
+      "answerIndex": 1,
+      "explanation": "Oxaloacetate is regenerated each turn so the cycle can continue.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-krebs-cycle",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-105",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Mitochondrial electron carriers are located mainly in the",
+      "options": [
+        "outer membrane",
+        "inner membrane (cristae)",
+        "matrix soluble fraction only",
+        "nuclear envelope"
+      ],
+      "answerIndex": 1,
+      "explanation": "Complexes I–IV and ATP synthase are inner-membrane proteins folded into cristae.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-ets-etc",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-106",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Most ATP of aerobic respiration is generated by",
+      "options": [
+        "glycolysis alone",
+        "oxidative phosphorylation",
+        "alcoholic fermentation",
+        "the C2 photorespiratory cycle"
+      ],
+      "answerIndex": 1,
+      "explanation": "The proton-motive force at the inner membrane makes far more ATP than substrate-level steps.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-atp-balance",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-107",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "RQ is defined as the ratio of",
+      "options": [
+        "O2 consumed to CO2 released",
+        "CO2 released to O2 consumed",
+        "ATP to NADH",
+        "water to glucose"
+      ],
+      "answerIndex": 1,
+      "explanation": "RQ = volume of CO2 evolved / volume of O2 consumed during respiration.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-rq",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-108",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Acetyl CoA can leave the respiratory path to form",
+      "options": [
+        "fatty acids",
+        "atmospheric N2",
+        "cellulose only in animals",
+        "chlorophyll without enzymes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Withdrawing acetyl CoA for fatty-acid synthesis is a classic anabolic use of an amphibolic path.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-amphibolic",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-109",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Leaves exchange respiratory gases chiefly through",
+      "options": ["lenticels of the stem", "stomata", "root-cap cells", "sieve plates"],
+      "answerIndex": 1,
+      "explanation": "Stomatal pores serve both photosynthesis and respiration in the leaf.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rp-plant-gas-exchange",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-110",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Which comparison of glucose oxidation is correct?",
+      "options": [
+        "Anaerobic respiration yields far more ATP than aerobic",
+        "Aerobic respiration fully oxidises glucose and yields much more ATP",
+        "Fermentation requires oxygen as the acceptor",
+        "The Krebs cycle runs in the cytosol under anaerobiosis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aerobic respiration oxidises glucose completely and nets far more ATP than fermentation.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "rp-aerobic-vs-anaerobic",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-111",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Which statement about the mitochondrial ETS is incorrect?",
+      "options": [
+        "Oxygen is reduced to water",
+        "Protons are pumped to form a gradient",
+        "NADH donates electrons at Complex I",
+        "Glucose is the direct electron donor to Complex IV"
+      ],
+      "answerIndex": 3,
+      "explanation": "Glucose is broken down first; NADH and FADH2, not glucose, feed the chain.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "rp-ets-etc",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-112",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Oxidation of fats typically gives an RQ that is",
+      "options": ["equal to 1", "less than 1", "exactly 4", "infinite"],
+      "answerIndex": 1,
+      "explanation": "Fats are highly reduced, so more O2 is used than CO2 released (RQ about 0.7).",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "rp-rq",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rp-n-113",
+      "chapterId": "botany-respiration-in-plants",
+      "stem": "Which of the following is not a net product of glycolysis from one glucose?",
+      "options": ["2 pyruvate", "2 ATP", "2 NADH", "2 FADH2"],
+      "answerIndex": 3,
+      "explanation": "FADH2 is formed in the Krebs cycle (succinate dehydrogenase), not in glycolysis.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "rp-glycolysis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

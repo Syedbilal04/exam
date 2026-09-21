@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-morphology-of-flowering-plants",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "root-types-modifications",
+      "label": "Tap, fibrous and adventitious roots and modifications",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "stem-modifications",
+      "label": "Underground and aerial stem modifications",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "leaf-venation-phyllotaxy",
+      "label": "Venation and phyllotaxy",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "leaf-modifications",
+      "label": "Leaf tendrils, spines, pitchers and phyllodes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "inflorescence",
+      "label": "Racemose versus cymose inflorescence",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "flower-symmetry-position",
+      "label": "Floral symmetry and ovary position",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "aestivation",
+      "label": "Valvate, twisted, imbricate and vexillary aestivation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "androecium-gynoecium",
+      "label": "Stamen cohesion and apocarpous versus syncarpous ovary",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "placentation-fruit",
+      "label": "Types of placentation and fruits",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "diagnostic-families",
+      "label": "Fabaceae, Solanaceae and Liliaceae characters",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

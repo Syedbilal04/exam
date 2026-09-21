@@ -1,0 +1,391 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Biological Classification",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-bc-e-101",
+      "chapterId": "botany-biological-classification",
+      "stem": "Whittaker published the five-kingdom classification of organisms in the year",
+      "options": ["1969", "1758", "1866", "1990"],
+      "answerIndex": 0,
+      "explanation": "R.H. Whittaker proposed Monera, Protista, Fungi, Plantae and Animalia in 1969.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "classification-systems",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-102",
+      "chapterId": "botany-biological-classification",
+      "stem": "Besides cell structure and nutrition, Whittaker used phylogenetic relationships and",
+      "options": [
+        "body organisation and reproduction",
+        "only chromosome number",
+        "only type of locomotion",
+        "only fossil age"
+      ],
+      "answerIndex": 0,
+      "explanation": "His criteria were cell type, thallus organisation, nutrition, reproduction and phylogeny.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "whittaker-criteria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-103",
+      "chapterId": "botany-biological-classification",
+      "stem": "Rod-shaped bacteria are termed",
+      "options": ["bacilli", "cocci", "vibrios", "spirilla"],
+      "answerIndex": 0,
+      "explanation": "Cocci are spherical, bacilli rod-like, vibrios comma-shaped and spirilla spiral.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "monera-bacteria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-104",
+      "chapterId": "botany-biological-classification",
+      "stem": "Methanogens that release methane in marshy habitats belong to",
+      "options": ["archaebacteria", "cyanobacteria", "mycoplasma", "basidiomycetes"],
+      "answerIndex": 0,
+      "explanation": "Archaebacteria include methanogens, extreme halophiles and thermoacidophiles.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "archaebacteria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-105",
+      "chapterId": "botany-biological-classification",
+      "stem": "Heterocysts of Nostoc and Anabaena are specialised for",
+      "options": ["nitrogen fixation", "photosynthesis only", "spore formation", "locomotion"],
+      "answerIndex": 0,
+      "explanation": "Thick-walled heterocysts fix atmospheric nitrogen in many filamentous cyanobacteria.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "cyanobacteria-mycoplasma",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-106",
+      "chapterId": "botany-biological-classification",
+      "stem": "Diatomaceous earth is formed from the siliceous walls of",
+      "options": ["diatoms", "euglenoids", "slime moulds", "yeasts"],
+      "answerIndex": 0,
+      "explanation": "Chrysophyte diatoms have silica frustules that accumulate as diatomite.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "protista-groups",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-107",
+      "chapterId": "botany-biological-classification",
+      "stem": "The cell wall of typical fungi is chemically made of",
+      "options": ["chitin", "peptidoglycan", "cellulose only", "lignin only"],
+      "answerIndex": 0,
+      "explanation": "Fungal walls contain chitin (N-acetylglucosamine polymer), not bacterial peptidoglycan.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "fungi-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-108",
+      "chapterId": "botany-biological-classification",
+      "stem": "Rhizopus (bread mould) is placed in the fungal class",
+      "options": ["Phycomycetes", "Ascomycetes", "Basidiomycetes", "Deuteromycetes"],
+      "answerIndex": 0,
+      "explanation": "Phycomycetes have aseptate coenocytic mycelium; Mucor and Rhizopus are standard examples.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "fungal-classes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-109",
+      "chapterId": "botany-biological-classification",
+      "stem": "A viroid is composed of",
+      "options": [
+        "naked infectious RNA",
+        "DNA enclosed in a capsid",
+        "protein only",
+        "RNA plus a lipid envelope"
+      ],
+      "answerIndex": 0,
+      "explanation": "Viroids (Diener) are free low-molecular-weight RNA without a protein coat.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "viruses-viroids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-110",
+      "chapterId": "botany-biological-classification",
+      "stem": "In a lichen the fungal partner is called the",
+      "options": ["mycobiont", "phycobiont", "host thallus only", "heterocyst"],
+      "answerIndex": 0,
+      "explanation": "Mycobiont is the fungus; phycobiont is the algal or cyanobacterial partner.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "lichens-indicators",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-111",
+      "chapterId": "botany-biological-classification",
+      "stem": "The three-kingdom system that first recognised Protista was proposed by",
+      "options": ["Haeckel", "Linnaeus", "Copeland", "Woese"],
+      "answerIndex": 0,
+      "explanation": "Ernst Haeckel added Kingdom Protista to Linnaeus’s Plantae and Animalia.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "classification-systems",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-112",
+      "chapterId": "botany-biological-classification",
+      "stem": "Red tides in marine waters are commonly caused by blooms of",
+      "options": ["Gonyaulax", "Nostoc", "Agaricus", "Marchantia"],
+      "answerIndex": 0,
+      "explanation": "Dinoflagellates such as Gonyaulax colour the sea red and may release toxins.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "protista-groups",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-e-113",
+      "chapterId": "botany-biological-classification",
+      "stem": "The historically correct order of classification systems is",
+      "options": [
+        "two-kingdom → three-kingdom → four-kingdom → five-kingdom",
+        "five-kingdom → four-kingdom → three-kingdom → two-kingdom",
+        "four-kingdom → two-kingdom → five-kingdom → three-kingdom",
+        "three-domain → two-kingdom → five-kingdom → four-kingdom"
+      ],
+      "answerIndex": 0,
+      "explanation": "Linnaeus (2) → Haeckel (3) → Copeland (4) → Whittaker (5); Woese’s domains came later.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "classification-systems",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-101",
+      "chapterId": "botany-biological-classification",
+      "stem": "Which of the following was not placed as a kingdom in Whittaker’s system?",
+      "options": ["Monera", "Protista", "Fungi", "Virus"],
+      "answerIndex": 3,
+      "explanation": "Viruses are acellular and were left outside the five kingdoms.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "classification-systems",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-102",
+      "chapterId": "botany-biological-classification",
+      "stem": "Which statement about Whittaker’s criteria is incorrect?",
+      "options": [
+        "Cell type (prokaryotic or eukaryotic) was used",
+        "Mode of nutrition was used",
+        "Phylogenetic relationships were considered",
+        "Type of locomotion was the chief dividing character"
+      ],
+      "answerIndex": 3,
+      "explanation": "Locomotion was not a primary Whittaker criterion; cell structure, organisation, nutrition, reproduction and phylogeny were.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "whittaker-criteria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-103",
+      "chapterId": "botany-biological-classification",
+      "stem": "Which bacterial shape is incorrectly matched?",
+      "options": [
+        "Coccus — spherical",
+        "Bacillus — rod-shaped",
+        "Vibrio — comma-shaped",
+        "Spirillum — filamentous without a curve"
+      ],
+      "answerIndex": 3,
+      "explanation": "Spirilla are rigid spiral (helical) cells, not simple uncurved filaments.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "monera-bacteria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-104",
+      "chapterId": "botany-biological-classification",
+      "stem": "Thermoacidophiles among archaebacteria typically inhabit",
+      "options": [
+        "hot sulphur springs",
+        "the human small intestine",
+        "cold ocean surface waters",
+        "dry desert sand only"
+      ],
+      "answerIndex": 0,
+      "explanation": "They tolerate high temperature and low pH, as in volcanic sulphur springs.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "archaebacteria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-105",
+      "chapterId": "botany-biological-classification",
+      "stem": "Mycoplasma are unique among prokaryotes because they",
+      "options": [
+        "lack a cell wall",
+        "possess 80S ribosomes",
+        "have membrane-bound chloroplasts",
+        "always form endospores"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mycoplasmas (PPLO) are the smallest living cells and have no cell wall.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "cyanobacteria-mycoplasma",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-106",
+      "chapterId": "botany-biological-classification",
+      "stem": "Which protistan group is incorrectly paired with a feature?",
+      "options": [
+        "Diatoms — silica walls",
+        "Dinoflagellates — two flagella",
+        "Euglenoids — proteinaceous pellicle",
+        "Slime moulds — peptidoglycan cell wall"
+      ],
+      "answerIndex": 3,
+      "explanation": "Slime moulds are amoeboid protists without a bacterial peptidoglycan wall.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "protista-groups",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-107",
+      "chapterId": "botany-biological-classification",
+      "stem": "Dikaryophase (n + n) is a characteristic intervening stage in",
+      "options": [
+        "ascomycetes and basidiomycetes",
+        "all cyanobacteria",
+        "mycoplasma only",
+        "all phycomycetes"
+      ],
+      "answerIndex": 0,
+      "explanation": "After plasmogamy, ascomycetes and basidiomycetes keep paired nuclei before karyogamy.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "fungi-structure",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-108",
+      "chapterId": "botany-biological-classification",
+      "stem": "Which of the following is a deuteromycete (imperfect fungus)?",
+      "options": ["Alternaria", "Agaricus", "Mucor", "Saccharomyces"],
+      "answerIndex": 0,
+      "explanation": "Deuteromycetes lack a known sexual stage; Alternaria and Colletotrichum are textbook examples.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "fungal-classes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-109",
+      "chapterId": "botany-biological-classification",
+      "stem": "Select the wrong statement regarding viruses, viroids and prions.",
+      "options": [
+        "TMV contains RNA as genetic material",
+        "Many bacteriophages contain DNA",
+        "Viroids were discovered by T.O. Diener",
+        "Prions contain both DNA and RNA"
+      ],
+      "answerIndex": 3,
+      "explanation": "Prions are infectious proteins and have no nucleic acid.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "viruses-viroids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-110",
+      "chapterId": "botany-biological-classification",
+      "stem": "Lichens are widely used as indicators of atmospheric",
+      "options": [
+        "sulphur dioxide pollution",
+        "soil salinity only",
+        "the ozone hole over Antarctica",
+        "noise levels in cities"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lichens are highly sensitive to SO2 and disappear from polluted air.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "lichens-indicators",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-111",
+      "chapterId": "botany-biological-classification",
+      "stem": "Carl Woese’s three-domain system separates living organisms into",
+      "options": [
+        "Bacteria, Archaea and Eukarya",
+        "Monera, Protista and Fungi",
+        "Plantae, Animalia and Virus",
+        "Prokaryota, Fungi and Plantae"
+      ],
+      "answerIndex": 0,
+      "explanation": "rRNA studies led Woese to split prokaryotes into Bacteria and Archaea plus Eukarya.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "classification-systems",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-112",
+      "chapterId": "botany-biological-classification",
+      "stem": "Identify the incorrect match of fungus and class.",
+      "options": [
+        "Neurospora — Ascomycetes",
+        "Puccinia — Basidiomycetes",
+        "Albugo — Phycomycetes",
+        "Agaricus — Deuteromycetes"
+      ],
+      "answerIndex": 3,
+      "explanation": "Agaricus (mushroom) is a basidiomycete, not an imperfect fungus.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "fungal-classes",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-bc-n-113",
+      "chapterId": "botany-biological-classification",
+      "stem": "Identify the incorrect pair.",
+      "options": [
+        "Gonyaulax — red tides",
+        "Nostoc — nitrogen-fixing heterocysts",
+        "Neurospora — ascomycete used in genetic studies",
+        "Mycoplasma — rigid peptidoglycan cell wall"
+      ],
+      "answerIndex": 3,
+      "explanation": "Mycoplasma lack a cell wall; the other three pairings are standard textbook facts.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "cyanobacteria-mycoplasma",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Science of Plants: Botany",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-sp-e-101",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "The branch of biology that deals exclusively with plants is called",
+      "options": ["botany", "zoology", "geology", "mycology only"],
+      "answerIndex": 0,
+      "explanation": "Botany (plant science) studies structure, function, diversity and uses of plants.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "botany-scope",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-102",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Historia Plantarum, an early systematic account of plants, was written by",
+      "options": ["Theophrastus", "Mendel", "Darwin", "Hooke"],
+      "answerIndex": 0,
+      "explanation": "Theophrastus, a student of Aristotle, wrote Historia Plantarum and is called the Father of Botany.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "theophrastus-history",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-103",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Palynology is the botanical study of",
+      "options": ["pollen and spores", "fossil wood only", "leaf venation only", "soil microbes only"],
+      "answerIndex": 0,
+      "explanation": "Palynology deals with pollen grains and spores, living or fossil.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pure-branches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-104",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "The applied branch concerned with garden crops, ornamentals and fruit plants is",
+      "options": ["horticulture", "palaeobotany", "palynology", "cytology"],
+      "answerIndex": 0,
+      "explanation": "Horticulture is applied botany of vegetables, fruits, flowers and landscape plants.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "applied-branches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-105",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "The study of fossil plants is known as",
+      "options": ["palaeobotany", "ethnobotany", "pharmacognosy", "horticulture"],
+      "answerIndex": 0,
+      "explanation": "Palaeobotany reconstructs extinct plants from fossils and traces plant evolution.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "palaeobotany",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-106",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "A typical plant cell wall is chemically rich in",
+      "options": ["cellulose", "chitin", "peptidoglycan", "keratin"],
+      "answerIndex": 0,
+      "explanation": "Green-plant walls are cellulose-based; chitin is fungal and peptidoglycan is bacterial.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "plant-characters",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-107",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Plants are the primary source of atmospheric oxygen mainly because they",
+      "options": [
+        "carry out photosynthesis",
+        "fix nitrogen in all roots",
+        "absorb ozone from air",
+        "respire without mitochondria"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oxygen released in photosynthesis is the chief biological source of O2 in air.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "economic-botany",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-108",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Pharmacognosy is the study of",
+      "options": [
+        "crude drugs of plant origin",
+        "only fossil pollen",
+        "only plant geography",
+        "only timber anatomy"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pharmacognosy examines medicinal plants and natural crude drugs.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "ethnobotany-pharmacognosy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-109",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Phytogeography deals with the",
+      "options": [
+        "geographic distribution of plants",
+        "naming of new species only",
+        "internal anatomy of wood only",
+        "culture of plant tissues only"
+      ],
+      "answerIndex": 0,
+      "explanation": "It maps how plant taxa are distributed across the earth’s regions.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "phytogeography-ecology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-110",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "A phylogenetic system of classification is based mainly on",
+      "options": [
+        "evolutionary relationships",
+        "a single convenient character only",
+        "economic use of the plant only",
+        "the year the plant was discovered"
+      ],
+      "answerIndex": 0,
+      "explanation": "Phylogenetic (cladistic) systems group plants by common ancestry, not one artificial trait.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "classification-approaches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-111",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "The science of plant cells, including their organelles, is called",
+      "options": ["cytology", "horticulture", "forestry", "pharmacognosy"],
+      "answerIndex": 0,
+      "explanation": "Cytology (cell biology) studies cell structure and function; it is a pure branch of botany.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pure-branches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-112",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Birbal Sahni is especially remembered in India for work in",
+      "options": ["palaeobotany", "animal taxonomy", "human genetics", "marine fishes"],
+      "answerIndex": 0,
+      "explanation": "Sahni pioneered Indian palaeobotany; the Lucknow institute of palaeobotany bears his name.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "palaeobotany",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-e-113",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "An artificial system of classification typically uses",
+      "options": [
+        "one or a few convenient characters, ignoring phylogeny",
+        "all possible evolutionary characters equally",
+        "only fossil evidence",
+        "only DNA sequences from every gene"
+      ],
+      "answerIndex": 0,
+      "explanation": "Linnaeus-style artificial keys pick a few easy traits; natural and phylogenetic systems use many characters and ancestry.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "classification-approaches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-101",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Which statement best describes the scope of botany?",
+      "options": [
+        "It includes form, function, classification and uses of plants",
+        "It studies only animals and protozoa",
+        "It is limited to naming rocks",
+        "It excludes any applied use of plants"
+      ],
+      "answerIndex": 0,
+      "explanation": "Botany covers structure, physiology, diversity, ecology and economic uses of plants.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "botany-scope",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-102",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Which of the following is incorrectly paired?",
+      "options": [
+        "Theophrastus — Father of Botany",
+        "Historia Plantarum — Theophrastus",
+        "Enquiry into Plants — Theophrastus",
+        "Origin of Species — Theophrastus"
+      ],
+      "answerIndex": 3,
+      "explanation": "On the Origin of Species is Darwin’s; Theophrastus authored Historia Plantarum / Enquiry into Plants.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "theophrastus-history",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-103",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Which of the following is not a purely descriptive (pure) branch of botany?",
+      "options": ["Morphology", "Anatomy", "Embryology", "Forestry"],
+      "answerIndex": 3,
+      "explanation": "Forestry is applied management of forests; morphology, anatomy and embryology are core pure branches.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pure-branches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-104",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Improvement of crop plants by breeding is an aspect of",
+      "options": [
+        "applied botany",
+        "only palaeobotany",
+        "only palynology",
+        "only phytogeography"
+      ],
+      "answerIndex": 0,
+      "explanation": "Plant breeding and agriculture are applied uses of botanical knowledge.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "applied-branches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-105",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Which statement about palaeobotany is incorrect?",
+      "options": [
+        "It studies fossil plants",
+        "It helps reconstruct past floras",
+        "It is useful in tracing plant evolution",
+        "It deals only with living crop varieties"
+      ],
+      "answerIndex": 3,
+      "explanation": "Palaeobotany is about extinct/fossil plants, not modern cultivar lists.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "palaeobotany",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-106",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Which feature is not a general diagnostic character of green plants?",
+      "options": [
+        "Cellulose cell wall",
+        "Chlorophyll-based autotrophy",
+        "Presence of plastids",
+        "Chitinous cell wall"
+      ],
+      "answerIndex": 3,
+      "explanation": "Chitin walls characterise fungi; green plants have cellulose walls and chloroplasts.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "plant-characters",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-107",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Which human need is not directly supplied by plants in the usual textbook list?",
+      "options": [
+        "Food and fibre",
+        "Timber and medicines",
+        "Fossil fuels of plant origin",
+        "Metallic ores from magma"
+      ],
+      "answerIndex": 3,
+      "explanation": "Food, fibre, wood, drugs and coal/petroleum precursors come from plants; magmatic ores do not.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "economic-botany",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-108",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Ethnobotany is best defined as the study of",
+      "options": [
+        "traditional human uses of plants in a culture",
+        "only the chromosome number of crops",
+        "only fossil cuticles",
+        "only greenhouse gas chemistry"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ethnobotany records how communities name, grow and use plants, especially as food and medicine.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ethnobotany-pharmacognosy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-109",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Plant ecology, as a branch of botany, mainly studies",
+      "options": [
+        "interactions of plants with their environment",
+        "only the naming of genera",
+        "only the chemistry of a single enzyme",
+        "only the grafting of fruit trees"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ecology of plants covers populations, communities and abiotic factors that shape vegetation.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "phytogeography-ecology",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-110",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "A natural system of classification differs from an artificial system because it uses",
+      "options": [
+        "many correlated characters, including affinities",
+        "a single easily seen trait only",
+        "only the colour of petals",
+        "only the economic value of the plant"
+      ],
+      "answerIndex": 0,
+      "explanation": "Natural systems (e.g. Bentham and Hooker) weigh many morphological affinities, not one arbitrary key character.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "classification-approaches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-111",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Which pair of branch and object of study is correct?",
+      "options": [
+        "Anatomy — internal tissues of the plant body",
+        "Palynology — only root nodules",
+        "Cytology — only forest management",
+        "Morphology — only fossil dating"
+      ],
+      "answerIndex": 0,
+      "explanation": "Anatomy is internal structure; palynology is pollen/spores; cytology is the cell; morphology is external form.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pure-branches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-112",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Which of the following is an applied botanical discipline?",
+      "options": ["Agriculture", "Morphology", "Cytology", "Embryology"],
+      "answerIndex": 0,
+      "explanation": "Agriculture applies plant science to food production; the other three are core pure branches.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "applied-branches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-sp-n-113",
+      "chapterId": "botany-science-of-plants-botany",
+      "stem": "Identify the incorrect statement about systems of plant classification.",
+      "options": [
+        "Artificial systems may use one or few convenient characters",
+        "Natural systems use many morphological affinities",
+        "Phylogenetic systems aim to reflect evolutionary history",
+        "A phylogenetic system ignores all characters except flower colour"
+      ],
+      "answerIndex": 3,
+      "explanation": "Phylogenetic systems integrate many characters (and now molecules) to recover ancestry, not a single colour trait.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "classification-approaches",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

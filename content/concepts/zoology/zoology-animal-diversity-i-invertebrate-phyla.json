@@ -1,0 +1,61 @@
+{
+  "chapterId": "zoology-animal-diversity-i-invertebrate-phyla",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "symmetry-germ-layers-coelom",
+      "label": "Symmetry, germ layers, coelom and segmentation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-porifera",
+      "label": "Phylum Porifera — canal system, spicules, choanocytes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-cnidaria",
+      "label": "Phylum Cnidaria — cnidoblasts, polymorphism, metagenesis",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-ctenophora",
+      "label": "Phylum Ctenophora — comb plates and bioluminescence",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "phylum-platyhelminthes",
+      "label": "Phylum Platyhelminthes — acoelomate flatworms and flame cells",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-aschelminthes",
+      "label": "Phylum Aschelminthes (Nematoda) — pseudocoelomate roundworms",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-annelida",
+      "label": "Phylum Annelida — metamerism and closed circulation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-arthropoda",
+      "label": "Phylum Arthropoda — exoskeleton, haemocoel, jointed legs",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-mollusca",
+      "label": "Phylum Mollusca — mantle, radula and examples",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-echinodermata",
+      "label": "Phylum Echinodermata — water vascular system",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "phylum-hemichordata",
+      "label": "Phylum Hemichordata — stomochord and tornaria",
+      "examHot": ["neet"]
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — The Living World",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-lw-e-101",
+      "chapterId": "botany-the-living-world",
+      "stem": "In binomial nomenclature, the first word of a biological name represents the",
+      "options": ["genus", "species", "family", "order"],
+      "answerIndex": 0,
+      "explanation": "The scientific name is Genus + specific epithet; the first word is the genus.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "binomial-nomenclature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-102",
+      "chapterId": "botany-the-living-world",
+      "stem": "In the taxonomic hierarchy, a family is an assemblage of related",
+      "options": ["genera", "species only", "orders", "classes"],
+      "answerIndex": 0,
+      "explanation": "Related genera are grouped into a family.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "taxonomic-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-103",
+      "chapterId": "botany-the-living-world",
+      "stem": "Organisms capable of interbreeding to produce fertile offspring are placed in the same",
+      "options": ["genus", "family", "species", "order"],
+      "answerIndex": 2,
+      "explanation": "A biological species is a group of organisms that interbreed and yield fertile young.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "species-concept",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-104",
+      "chapterId": "botany-the-living-world",
+      "stem": "Dried and pressed plant specimens mounted on sheets and stored for study constitute a",
+      "options": ["museum", "herbarium", "botanical garden", "key"],
+      "answerIndex": 1,
+      "explanation": "A herbarium is a storehouse of dried, pressed and labelled plant specimens.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "herbarium-and-keys",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-105",
+      "chapterId": "botany-the-living-world",
+      "stem": "Kew (Royal Botanic Gardens) is an internationally famous example of a",
+      "options": ["herbarium only", "zoological park", "botanical garden", "natural history museum"],
+      "answerIndex": 2,
+      "explanation": "Kew maintains living plants for study, conservation and reference.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "botanical-gardens-museums",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-106",
+      "chapterId": "botany-the-living-world",
+      "stem": "A taxonomic key that offers two contrasting choices at each step is called a",
+      "options": ["monograph", "flora", "dichotomous key", "manual"],
+      "answerIndex": 2,
+      "explanation": "Dichotomous keys identify an organism by successive couplets of opposite characters.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "taxonomic-aids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-107",
+      "chapterId": "botany-the-living-world",
+      "stem": "Scientific names of plants are assigned according to the rules of the",
+      "options": ["ICZN", "ICBN (ICN)", "IUCN", "CITES"],
+      "answerIndex": 1,
+      "explanation": "Plant names follow the International Code of Botanical Nomenclature (now ICN).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "icbn-iczn",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-108",
+      "chapterId": "botany-the-living-world",
+      "stem": "Systematics differs from taxonomy mainly because it also studies",
+      "options": [
+        "only naming of organisms",
+        "evolutionary relationships among organisms",
+        "only identification of plants",
+        "only collection of specimens"
+      ],
+      "answerIndex": 1,
+      "explanation": "Taxonomy is identification, naming and classification; systematics also includes phylogeny.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "systematics-vs-taxonomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-109",
+      "chapterId": "botany-the-living-world",
+      "stem": "Isolated metabolic reactions in a test tube are not called living systems because they lack",
+      "options": [
+        "enzymes",
+        "cellular organisation",
+        "substrates",
+        "energy change"
+      ],
+      "answerIndex": 1,
+      "explanation": "Metabolism of life occurs inside cells; a cell-free reaction mixture is not an organism.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "growth-reproduction-as-criteria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-110",
+      "chapterId": "botany-the-living-world",
+      "stem": "The process of giving a scientific name to a newly discovered organism is called",
+      "options": ["classification", "identification", "nomenclature", "characterisation"],
+      "answerIndex": 2,
+      "explanation": "Nomenclature is the assignment of a unique scientific name.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "diversity-and-nomenclature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-111",
+      "chapterId": "botany-the-living-world",
+      "stem": "In the name Mangifera indica, the word indica denotes the",
+      "options": ["genus", "family", "specific epithet", "order"],
+      "answerIndex": 2,
+      "explanation": "Mangifera is the genus; indica is the specific epithet of mango.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "binomial-nomenclature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-112",
+      "chapterId": "botany-the-living-world",
+      "stem": "Among species, genus, family and order, the highest taxonomic rank is",
+      "options": ["species", "genus", "family", "order"],
+      "answerIndex": 3,
+      "explanation": "Rank rises as species → genus → family → order.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "taxonomic-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-e-113",
+      "chapterId": "botany-the-living-world",
+      "stem": "The family to which mango (Mangifera indica) belongs is",
+      "options": ["Poaceae", "Anacardiaceae", "Fabaceae", "Solanaceae"],
+      "answerIndex": 1,
+      "explanation": "Mango is placed in family Anacardiaceae, order Sapindales.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "taxonomic-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-101",
+      "chapterId": "botany-the-living-world",
+      "stem": "A correctly written biological name in a printed paper should have the",
+      "options": [
+        "genus and specific epithet both italicised",
+        "genus italicised and the epithet in roman",
+        "entire name in capital letters",
+        "family name placed before the genus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Both words of the binomial are italicised (or underlined if handwritten).",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "binomial-nomenclature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-102",
+      "chapterId": "botany-the-living-world",
+      "stem": "Which taxonomic category includes all the others listed here?",
+      "options": ["Genus", "Family", "Order", "Kingdom"],
+      "answerIndex": 3,
+      "explanation": "Kingdom is the highest of these ranks and contains many orders, families and genera.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "taxonomic-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-103",
+      "chapterId": "botany-the-living-world",
+      "stem": "The most specific (lowest) taxonomic category among the following is",
+      "options": ["Family", "Genus", "Species", "Class"],
+      "answerIndex": 2,
+      "explanation": "Species is the lowest rank and the basic unit of classification.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "species-concept",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-104",
+      "chapterId": "botany-the-living-world",
+      "stem": "Herbarium sheets are mainly useful for",
+      "options": [
+        "growing living plants for display",
+        "identification and classification of plants",
+        "preserving animal skins and skeletons",
+        "breeding crop varieties"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pressed labelled sheets are a reference collection for plant identification.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "herbarium-and-keys",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-105",
+      "chapterId": "botany-the-living-world",
+      "stem": "Which taxonomic aid maintains living plant specimens with scientific labels?",
+      "options": ["Herbarium", "Museum", "Botanical garden", "Key"],
+      "answerIndex": 2,
+      "explanation": "Botanical gardens grow living plants; herbaria store dried sheets.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "botanical-gardens-museums",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-106",
+      "chapterId": "botany-the-living-world",
+      "stem": "Which of the following is not regarded as a taxonomic aid?",
+      "options": ["Herbarium", "Botanical garden", "Spectrophotometer", "Museum"],
+      "answerIndex": 2,
+      "explanation": "Herbarium, garden, museum and key are taxonomic aids; a spectrophotometer is a lab instrument.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "taxonomic-aids",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-107",
+      "chapterId": "botany-the-living-world",
+      "stem": "The International Code of Zoological Nomenclature (ICZN) lays down rules for naming",
+      "options": ["plants", "bacteria only", "animals", "viruses only"],
+      "answerIndex": 2,
+      "explanation": "ICZN governs scientific names of animals; plants follow ICBN/ICN.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "icbn-iczn",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-108",
+      "chapterId": "botany-the-living-world",
+      "stem": "Taxonomy is a part of systematics. Systematics additionally includes the study of",
+      "options": [
+        "only morphological characters",
+        "evolutionary relationships (phylogeny)",
+        "only economic uses of plants",
+        "only fossil dating methods"
+      ],
+      "answerIndex": 1,
+      "explanation": "Systematics = taxonomy plus the evolutionary history of taxa.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "systematics-vs-taxonomy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-109",
+      "chapterId": "botany-the-living-world",
+      "stem": "Growth cannot be used as a unique defining feature of living organisms because",
+      "options": [
+        "plants never increase in mass",
+        "non-living objects can also increase in mass by accumulation",
+        "animals do not grow after birth",
+        "growth always means reproduction"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mountains, boulders and sand dunes also 'grow' by adding material from outside.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "growth-reproduction-as-criteria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-110",
+      "chapterId": "botany-the-living-world",
+      "stem": "Scientific names are preferred over common names because they are",
+      "options": [
+        "longer and harder to remember",
+        "unique and universally accepted",
+        "always written in English",
+        "changed every year by each country"
+      ],
+      "answerIndex": 1,
+      "explanation": "One organism has one scientific name used worldwide, unlike many local common names.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "diversity-and-nomenclature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-111",
+      "chapterId": "botany-the-living-world",
+      "stem": "When a biological name is handwritten, each of the two words should be",
+      "options": [
+        "written in capital letters",
+        "separately underlined",
+        "placed in inverted commas",
+        "abbreviated to one letter"
+      ],
+      "answerIndex": 1,
+      "explanation": "Handwritten binomials are underlined separately; printed ones are italicised.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "binomial-nomenclature",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-112",
+      "chapterId": "botany-the-living-world",
+      "stem": "Identify the incorrect pair of taxonomic rank and example.",
+      "options": [
+        "Genus — Mangifera",
+        "Family — Anacardiaceae",
+        "Order — Sapindales",
+        "Class — Poaceae"
+      ],
+      "answerIndex": 3,
+      "explanation": "Poaceae is a family (grasses), not a class. Mango: genus Mangifera, family Anacardiaceae, order Sapindales.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "taxonomic-hierarchy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-lw-n-113",
+      "chapterId": "botany-the-living-world",
+      "stem": "Taxonomic keys used for identification are based on",
+      "options": [
+        "contrasting characters arranged as couplets",
+        "only DNA sequences",
+        "economic value of the organism",
+        "the year the organism was discovered"
+      ],
+      "answerIndex": 0,
+      "explanation": "A key is a couplet of opposite characters leading the user to the next step or the name.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "herbarium-and-keys",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

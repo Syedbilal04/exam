@@ -29,6 +29,8 @@ type QuestionRow = {
   images: Question["images"] | null;
   pyq: Question["pyq"];
   source: Question["source"];
+  difficulty?: Question["difficulty"] | null;
+  concept_id?: string | null;
 };
 
 function toAttempt(row: AttemptRow): Attempt {
@@ -61,6 +63,8 @@ function toQuestion(row: QuestionRow): Question {
     images: row.images ?? [],
     pyq: row.pyq,
     source: row.source,
+    difficulty: row.difficulty ?? undefined,
+    conceptId: row.concept_id ?? undefined,
   };
 }
 
@@ -78,12 +82,19 @@ export const supabaseStore: Store = {
     const rows = unwrap(
       await supabaseAdmin()
         .from("questions")
-        .select("id, subject_id")
+        .select("id, subject_id, pyq")
         .in("chapter_id", chapterIds),
     );
-    return (rows as { id: string; subject_id: string }[]).map((row) => ({
+    return (
+      rows as {
+        id: string;
+        subject_id: string;
+        pyq: Question["pyq"] | null;
+      }[]
+    ).map((row) => ({
       id: row.id,
       subjectId: row.subject_id as Question["subjectId"],
+      exams: row.pyq?.exams ?? [],
     }));
   },
 

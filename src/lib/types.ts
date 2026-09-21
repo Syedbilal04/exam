@@ -71,6 +71,10 @@ export type QuestionImage = {
   height: number;
 };
 
+export type QuestionDifficulty = "easy" | "medium" | "hard";
+
+export type QuestionExam = "ts-eamcet" | "neet";
+
 export type Question = {
   id: string;
   chapterId: string;
@@ -82,6 +86,8 @@ export type Question = {
   images: QuestionImage[];
   pyq: PyqMeta;
   source: QuestionSource;
+  difficulty?: QuestionDifficulty;
+  conceptId?: string;
 };
 
 /** Question as delivered to the client during a live attempt: no answer key. */

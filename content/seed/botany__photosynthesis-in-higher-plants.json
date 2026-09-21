@@ -1,0 +1,406 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Photosynthesis in Higher Plants",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-ps-e-101",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "van Niel inferred that photosynthetic oxygen comes from water by studying",
+      "options": [
+        "purple sulphur bacteria",
+        "root nodules of legumes",
+        "yeast mitochondria",
+        "xylem vessels of trees"
+      ],
+      "answerIndex": 0,
+      "explanation": "Purple sulphur bacteria use H2S, not H2O; van Niel generalised that higher plants split water.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-early-experiments",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-102",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The stroma of the chloroplast is mainly the site of",
+      "options": [
+        "photolysis of water",
+        "carbon-fixation reactions",
+        "cyclic electron flow only",
+        "splitting of water by PS II"
+      ],
+      "answerIndex": 1,
+      "explanation": "Calvin-cycle enzymes are dissolved in the stroma; light reactions sit on thylakoids.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-site-chloroplast",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-103",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The essential reaction-centre pigment of green plants is",
+      "options": ["chlorophyll a", "chlorophyll b only", "phycoerythrin", "xanthophyll"],
+      "answerIndex": 0,
+      "explanation": "Chlorophyll a is the reaction-centre pigment; chlorophyll b and carotenoids are accessory.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-pigments-spectra",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-104",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The reaction centre of photosystem II is designated",
+      "options": ["P700", "P680", "P890", "bacteriochlorophyll only"],
+      "answerIndex": 1,
+      "explanation": "PS II reaction-centre chlorophyll a absorbs maximally near 680 nm; PS I is P700.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-photosystems-zscheme",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-105",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Non-cyclic photophosphorylation yields",
+      "options": ["ATP only", "NADPH only", "both ATP and NADPH", "neither ATP nor NADPH"],
+      "answerIndex": 2,
+      "explanation": "Electrons flow from water through PS II and PS I to NADP+, making NADPH and ATP.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-photophosphorylation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-106",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The oxygen-evolving complex that splits water is associated with",
+      "options": ["photosystem I", "photosystem II", "RuBisCO", "PEP carboxylase"],
+      "answerIndex": 1,
+      "explanation": "Water is split on the lumen side of PS II, releasing O2, electrons and protons.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-water-splitting",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-107",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The enzyme that carboxylates RuBP in the Calvin cycle is",
+      "options": ["PEP carboxylase", "RuBisCO", "hexokinase", "nitrate reductase"],
+      "answerIndex": 1,
+      "explanation": "RuBisCO adds CO2 to ribulose-1,5-bisphosphate, forming two molecules of 3-PGA.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-calvin-rubisco",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-108",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Kranz anatomy with large bundle-sheath chloroplasts is typical of",
+      "options": ["C3 leaves only", "C4 leaves", "all gymnosperm needles", "fungal hyphae"],
+      "answerIndex": 1,
+      "explanation": "C4 leaves show a wreath of bundle-sheath cells around veins (Kranz anatomy).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-c4-kranz",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-109",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Photorespiration is favoured when RuBisCO binds",
+      "options": [
+        "only nitrate",
+        "oxygen instead of carbon dioxide",
+        "only PEP",
+        "atmospheric nitrogen"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oxygenase activity of RuBisCO starts the C2 cycle and wastes carbon as CO2.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ps-photorespiration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-110",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Blackman’s law of limiting factors states that the rate is set by",
+      "options": [
+        "the factor present in least supply",
+        "the factor present in greatest supply",
+        "temperature only",
+        "chlorophyll amount only"
+      ],
+      "answerIndex": 0,
+      "explanation": "When several factors act, the one nearest its minimum controls the rate.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "ps-factors-blackman",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-111",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Cyclic photophosphorylation involves",
+      "options": [
+        "both PS II and photolysis of water",
+        "only photosystem I and produces ATP",
+        "only glycolysis in the cytosol",
+        "only the C2 photorespiratory cycle"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electrons cycle around PS I; ATP is made but NADPH and O2 are not.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "ps-photophosphorylation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-112",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The primary CO2 acceptor in mesophyll cells of C4 plants is",
+      "options": ["RuBP", "PEP (phosphoenolpyruvate)", "3-PGA", "glucose"],
+      "answerIndex": 1,
+      "explanation": "PEP carboxylase fixes CO2 onto PEP in mesophyll; the C3 acceptor RuBP is used later in bundle sheath.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "ps-c4-kranz",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-e-113",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "To make one glucose in the Calvin cycle the chloroplast typically uses",
+      "options": [
+        "6 ATP and 6 NADPH",
+        "18 ATP and 12 NADPH",
+        "2 ATP and 2 NADH",
+        "38 ATP only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Six CO2 require 18 ATP and 12 NADPH (3 ATP and 2 NADPH per CO2).",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "ps-calvin-rubisco",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-101",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Engelmann’s Cladophora action-spectrum experiment showed bacteria gathering mainly in",
+      "options": [
+        "green light only",
+        "blue and red regions",
+        "far-infrared only",
+        "complete darkness"
+      ],
+      "answerIndex": 1,
+      "explanation": "Aerobic bacteria clustered where O2 was released, matching chlorophyll’s blue and red peaks.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-early-experiments",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-102",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Thylakoid membranes of the chloroplast house",
+      "options": [
+        "Calvin-cycle soluble enzymes",
+        "photosystems and electron carriers",
+        "mitochondrial cristae",
+        "Golgi cisternae"
+      ],
+      "answerIndex": 1,
+      "explanation": "PS II, the cytochrome b6f complex, PS I and ATP synthase are membrane proteins of the thylakoid.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-site-chloroplast",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-103",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Accessory pigments help photosynthesis chiefly by",
+      "options": [
+        "fixing CO2 directly",
+        "absorbing light and passing energy to chlorophyll a",
+        "splitting RuBP",
+        "making starch in roots"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chlorophyll b and carotenoids broaden the harvest of wavelengths and protect the reaction centre.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-pigments-spectra",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-104",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "In the Z-scheme, electrons lost by PS II are replaced by electrons from",
+      "options": ["NADPH", "water", "glucose", "ATP"],
+      "answerIndex": 1,
+      "explanation": "Photolysis of water donates electrons to P680 after it has reduced the chain toward PS I.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-photosystems-zscheme",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-105",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "ATP formed on the thylakoid is synthesised by",
+      "options": [
+        "RuBisCO",
+        "ATP synthase driven by a proton gradient",
+        "PEP carboxylase",
+        "hexokinase in the cytosol"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mitchell chemiosmosis: protons flow back through CF0–CF1 ATP synthase into the stroma.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-photophosphorylation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-106",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Protons released during photolysis of water accumulate mainly in the",
+      "options": ["stroma", "thylakoid lumen", "cytosol", "nucleus"],
+      "answerIndex": 1,
+      "explanation": "The oxygen-evolving complex faces the lumen, so photolysis acidifies that space.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-water-splitting",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-107",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The first stable product of CO2 fixation in C3 plants is",
+      "options": [
+        "oxaloacetic acid",
+        "3-phosphoglyceric acid (3-PGA)",
+        "malic acid",
+        "PEP"
+      ],
+      "answerIndex": 1,
+      "explanation": "RuBisCO + RuBP yields two 3-carbon 3-PGA molecules; OAA is the C4 first product.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-calvin-rubisco",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-108",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "The Hatch–Slack pathway first fixes CO2 in the",
+      "options": [
+        "bundle-sheath cytosol only",
+        "mesophyll cells",
+        "root hair",
+        "guard-cell vacuole only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mesophyll PEP carboxylase makes a C4 acid that is then shipped to the bundle sheath.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-c4-kranz",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-109",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Photorespiration is considered wasteful because it",
+      "options": [
+        "produces extra glucose",
+        "releases CO2 without making ATP or sugar",
+        "doubles NADPH yield",
+        "occurs only at night"
+      ],
+      "answerIndex": 1,
+      "explanation": "The C2 cycle consumes O2 and ATP-equivalent energy and loses carbon as CO2.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ps-photorespiration",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-110",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "If light is already saturating, a further rise in C3 photosynthesis is often limited by",
+      "options": [
+        "chlorophyll colour",
+        "CO2 concentration",
+        "gravity",
+        "soil texture alone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Once light is plentiful, CO2 (and sometimes temperature) becomes the limiting factor.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ps-factors-blackman",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-111",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "Which statement about early photosynthesis work is incorrect?",
+      "options": [
+        "Priestley showed a mint plant could restore air",
+        "Ingenhousz showed sunlight is needed",
+        "Sachs found glucose/starch in green parts",
+        "Engelmann proved CO2 is released by mitochondria"
+      ],
+      "answerIndex": 3,
+      "explanation": "Engelmann mapped the action spectrum of O2 release; he did not study mitochondrial CO2.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ps-early-experiments",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-112",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "CAM plants open stomata and do the initial CO2 fixation mainly",
+      "options": [
+        "at midday in full sun",
+        "during the night",
+        "only under water",
+        "in the root cap"
+      ],
+      "answerIndex": 1,
+      "explanation": "Night-time PEP carboxylase stores C4 acids; stomata stay shut by day to save water.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "ps-c4-kranz",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-ps-n-113",
+      "chapterId": "botany-photosynthesis-in-higher-plants",
+      "stem": "During non-cyclic electron flow, which sequence is correct?",
+      "options": [
+        "PS I → water → PS II → NADP+",
+        "Water → PS II → cyt b6f → PS I → NADP+",
+        "NADP+ → PS I → PS II → water",
+        "PS II → glucose → PS I"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Z-scheme runs from water through PS II and the cytochrome complex to PS I and then NADP+.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "ps-photosystems-zscheme",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

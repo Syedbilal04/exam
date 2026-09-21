@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-plant-ecology",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "autecology-synecology",
+      "label": "Ecology, autecology and synecology",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "habitat-and-niche",
+      "label": "Habitat versus ecological niche",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "climatic-factors",
+      "label": "Light, temperature, water and wind as climatic factors",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "edaphic-topographic",
+      "label": "Edaphic and topographic factors",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "hydrophyte-adaptations",
+      "label": "Hydrophyte morphological and anatomical adaptations",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "xerophyte-adaptations",
+      "label": "Xerophyte morphological and anatomical adaptations",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "mesophyte-halophyte",
+      "label": "Mesophytes and halophytes",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "plant-community",
+      "label": "Plant community, stratification and ecotone",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "ecological-succession",
+      "label": "Primary and secondary succession",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "biotic-interactions",
+      "label": "Biotic factors and plant interactions",
+      "examHot": ["neet"]
+    }
+  ]
+}

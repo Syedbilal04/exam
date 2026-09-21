@@ -1,0 +1,371 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Locomotion and Reproduction in Protozoa",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-prt-e-101",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "On the basis of locomotor organelles, Amoeba, Euglena, Paramecium and Plasmodium represent",
+      "options": [
+        "all flagellates",
+        "sarcodine, flagellate, ciliate and sporozoan types",
+        "all ciliates",
+        "all forms without organelles"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sarcodina use pseudopodia, Mastigophora flagella, Ciliata cilia; Sporozoa (Apicomplexa) lack locomotor organelles in the adult.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "protozoan-groups-locomotor",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-102",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Lobe-like pseudopodia of Amoeba used in creeping are called",
+      "options": ["axopodia", "filopodia", "lobopodia", "reticulopodia"],
+      "answerIndex": 2,
+      "explanation": "Amoeba has blunt lobopodia; foraminiferans have reticulopodia and heliozoans have axopodia.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "amoeboid-movement-pseudopodia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-103",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Euglena swims mainly by the beat of its",
+      "options": ["cilia covering the whole body", "flagellum arising from the reservoir", "lobopodia", "tube feet"],
+      "answerIndex": 1,
+      "explanation": "A long locomotory flagellum emerges from the anterior reservoir; a shorter flagellum is within it.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "flagellar-locomotion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-104",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Paramecium moves rapidly by coordinated beating of",
+      "options": ["a single trailing flagellum", "numerous cilia", "lobopodia only", "myonemes without surface organelles"],
+      "answerIndex": 1,
+      "explanation": "The pellicle bears thousands of cilia whose metachronal waves push the cell through water.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ciliary-locomotion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-105",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "The wriggling change of body shape in Euglena without using flagella is",
+      "options": ["amoeboid movement", "euglenoid (metabolic) movement", "ciliary creeping", "gliding on spicules"],
+      "answerIndex": 1,
+      "explanation": "Myonemes under the pellicle produce metaboly, a peristaltic change of form.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "euglenoid-metaboly",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-106",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Amoeba typically divides into two daughters by",
+      "options": ["transverse binary fission", "longitudinal binary fission of the whole cell", "conjugation", "spore formation only"],
+      "answerIndex": 1,
+      "explanation": "Amoeba shows simple (irregular) binary fission; the plane is not fixed as in flagellates or ciliates.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "binary-fission",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-107",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Schizogony in Plasmodium is a form of",
+      "options": ["binary fission in the mosquito gut", "multiple fission producing many merozoites", "conjugation of two gametes", "encystment without nuclear division"],
+      "answerIndex": 1,
+      "explanation": "The nucleus divides repeatedly and the cytoplasm splits into many merozoites (schizonts) in liver and RBC.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "multiple-fission-schizogony",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-108",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Temporary fusion of two Paramecium individuals for nuclear exchange is called",
+      "options": ["binary fission", "conjugation", "encystment", "budding"],
+      "answerIndex": 1,
+      "explanation": "Conjugation is a sexual process: micronuclei undergo meiosis and a migratory pronucleus is exchanged.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "conjugation-paramecium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-109",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Fusion of similar-sized gametes in protozoa is termed",
+      "options": ["anisogamy", "isogamy", "conjugation of micronuclei only", "schizogony"],
+      "answerIndex": 1,
+      "explanation": "Isogamy: gametes alike in size; anisogamy: unlike sizes; oogamy: large ovum and small sperm.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "syngamy-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-110",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "When conditions are unfavourable, Amoeba often survives by",
+      "options": ["forming a resistant cyst", "growing flagella permanently", "conjugation with bacteria", "producing feathers"],
+      "answerIndex": 0,
+      "explanation": "Encystment walls off the cell; excystment and binary fission resume when moisture and food return.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "encystment-and-plasmodium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-111",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Binary fission in Euglena is typically",
+      "options": [
+        "transverse, as in Paramecium",
+        "longitudinal, beginning at the anterior end",
+        "multiple, producing eight cells at once",
+        "absent; Euglena only conjugates"
+      ],
+      "answerIndex": 1,
+      "explanation": "Flagellates divide along the long axis; ciliates such as Paramecium divide transversely.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "binary-fission",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-112",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Reticulopodia that anastomose into a network occur in",
+      "options": ["Amoeba proteus", "foraminiferans", "Paramecium", "Euglena"],
+      "answerIndex": 1,
+      "explanation": "Foraminiferan rhizopods put out branching, fusing filose threads (reticulopodia) through shell pores.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "amoeboid-movement-pseudopodia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-e-113",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Which statement about protozoan reproduction is incorrect?",
+      "options": [
+        "Paramecium conjugation restores a new macronucleus after meiosis of micronuclei",
+        "Plasmodium sporogony in the mosquito is a sexual cycle ending in sporozoites",
+        "Multiple fission of a Plasmodium schizont is asexual",
+        "Adult Plasmodium in RBC swims by a pair of flagella"
+      ],
+      "answerIndex": 3,
+      "explanation": "Malaria parasites in blood lack flagella; only microgametes in the mosquito are flagellated.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "encystment-and-plasmodium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-101",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Which protozoan lacks specialised locomotor organelles in the trophic adult?",
+      "options": ["Amoeba", "Euglena", "Paramecium", "Plasmodium"],
+      "answerIndex": 3,
+      "explanation": "Sporozoans are typically non-motile as adults; an amoeba, euglena and paramecium use pseudopodia, flagella and cilia.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "protozoan-groups-locomotor",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-102",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Axopodia with a stiff axial filament are characteristic of",
+      "options": ["Amoeba", "heliozoans and radiolarians", "Paramecium", "Trypanosoma"],
+      "answerIndex": 1,
+      "explanation": "Axopodia are slender, needle-like pseudopodia supported by a microtubular axoneme.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "amoeboid-movement-pseudopodia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-103",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "The photoreceptive stigma (eyespot) that orients swimming in light occurs in",
+      "options": ["Amoeba", "Euglena", "Paramecium", "Entamoeba"],
+      "answerIndex": 1,
+      "explanation": "Euglena has a red stigma near the reservoir that shades a photo-sensitive swelling of the flagellum.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "flagellar-locomotion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-104",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Avoiding reaction in Paramecium, in which ciliary beat reverses, is triggered when the cell",
+      "options": [
+        "encounters an obstacle or harmful stimulus at the anterior end",
+        "completes conjugation",
+        "loses its macronucleus only",
+        "forms lobopodia"
+      ],
+      "answerIndex": 0,
+      "explanation": "Reversal of ciliary effective stroke backs the cell away, then it swivels and moves off in a new direction.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ciliary-locomotion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-105",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Metabolic movement depends on contractile myonemes in the pellicle of",
+      "options": ["Amoeba", "Euglena", "Plasmodium merozoites only", "Hydra"],
+      "answerIndex": 1,
+      "explanation": "Euglenoid movement is a change of body outline produced by pellicular myonemes, distinct from flagellar swimming.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "euglenoid-metaboly",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-106",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Transverse binary fission is the usual asexual method in",
+      "options": ["Euglena", "Paramecium", "Trypanosoma", "all flagellates"],
+      "answerIndex": 1,
+      "explanation": "Ciliates divide across the short axis so each daughter keeps rows of cilia; flagellates divide lengthwise.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "binary-fission",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-107",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Sporogony of Plasmodium, producing sporozoites, takes place in the",
+      "options": [
+        "human liver only",
+        "human red blood cells only",
+        "mosquito, on the outer wall of the midgut and then in salivary glands",
+        "soil cyst of Amoeba"
+      ],
+      "answerIndex": 2,
+      "explanation": "After zygote formation, the oocyst on the mosquito gut wall yields sporozoites that invade salivary glands.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "multiple-fission-schizogony",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-108",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "During conjugation, the macronucleus of Paramecium",
+      "options": [
+        "undergoes meiosis to form gametes",
+        "disintegrates and is later reformed from a micronuclear product",
+        "is exchanged intact between partners",
+        "divides by binary fission only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The vegetative macronucleus breaks down; a new one is differentiated after fusion of pronuclei.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "conjugation-paramecium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-109",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Oogamy in protozoa refers to fusion of",
+      "options": [
+        "two equal flagellated gametes",
+        "a large non-motile female gamete and a small motile male gamete",
+        "two vegetative ciliates without meiosis",
+        "many merozoites into one cyst"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oogamy is the extreme of anisogamy, as in Plasmodium (macrogamete + microgamete) in the mosquito.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "syngamy-types",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-110",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "The infective stage of Plasmodium injected into humans by the mosquito is the",
+      "options": ["merozoite in RBC", "sporozoite", "ookinete", "trophozoite of Amoeba"],
+      "answerIndex": 1,
+      "explanation": "Sporozoites from salivary glands enter blood, then liver; merozoites later invade erythrocytes.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "encystment-and-plasmodium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-111",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Sol-gel theory of amoeboid movement proposes that",
+      "options": [
+        "cilia push water backward",
+        "ectoplasm gelates at the advancing tip while plasmasol flows forward",
+        "a flagellum pulls the cell",
+        "the pellicle is rigid and never changes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Endoplasm (plasmasol) streams into a new pseudopodium as peripheral ectoplasm (plasmagel) forms and later solates at the rear.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "amoeboid-movement-pseudopodia",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-112",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Which comparison of binary fission is correct?",
+      "options": [
+        "Euglena — transverse; Paramecium — longitudinal",
+        "Euglena — longitudinal; Paramecium — transverse",
+        "Both always multiple fission",
+        "Amoeba never undergoes binary fission"
+      ],
+      "answerIndex": 1,
+      "explanation": "Flagellates split along the long axis; ciliates across it; amoebae divide without a fixed plane.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "binary-fission",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-prt-n-113",
+      "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+      "stem": "Select the incorrect statement about protozoan motility and reproduction.",
+      "options": [
+        "Hologamy is fusion of two fully grown individuals acting as gametes",
+        "Conjugation in Paramecium involves meiosis of the micronucleus",
+        "Plasmodium exhibits both schizogony and sporogony in its life cycle",
+        "Cilia of Paramecium are structurally unrelated to the flagellum of Euglena"
+      ],
+      "answerIndex": 3,
+      "explanation": "Cilia and flagella share the 9+2 microtubule axoneme; they differ mainly in number, length and beat pattern.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "ciliary-locomotion",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

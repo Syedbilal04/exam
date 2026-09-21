@@ -1,0 +1,346 @@
+{
+  "subjectId": "zoology",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Biology in Human Welfare",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "zoo-hw-e-101",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "A pathogen is best defined as an organism that",
+      "options": [
+        "always lives freely in soil",
+        "causes disease in the host",
+        "is used only in vaccination",
+        "cannot enter the human body"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pathogens are disease-causing organisms; many are parasites that live on or in a host.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "pathogens-and-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-102",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Amoebiasis in humans is caused by",
+      "options": ["Plasmodium vivax", "Entamoeba histolytica", "Wuchereria bancrofti", "Salmonella typhi"],
+      "answerIndex": 1,
+      "explanation": "E. histolytica invades the intestinal mucosa; tetranucleate cysts in faeces spread the infection.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "entamoeba-amoebiasis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-103",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Malarial fever in man is caused by a protozoan of the genus",
+      "options": ["Entamoeba", "Plasmodium", "Trypanosoma only in all cases", "Ascaris"],
+      "answerIndex": 1,
+      "explanation": "Plasmodium species (P. vivax, P. falciparum, etc.) cause malaria after transmission by female Anopheles.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "plasmodium-malaria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-104",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "The common roundworm parasite of the human intestine is",
+      "options": ["Taenia solium", "Ascaris lumbricoides", "Wuchereria bancrofti", "Fasciola hepatica"],
+      "answerIndex": 1,
+      "explanation": "Ascaris is a large nematode of the small intestine; infection is by embryonated eggs in contaminated food.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "ascaris-ascariasis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-105",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Elephantiasis (filariasis) is produced by",
+      "options": ["Entamoeba histolytica", "Wuchereria bancrofti", "Plasmodium falciparum", "Rhinovirus"],
+      "answerIndex": 1,
+      "explanation": "Adult filarial worms live in lymph vessels; blockage causes chronic swelling of limbs and scrotum.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "wuchereria-filariasis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-106",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Typhoid fever is caused by",
+      "options": ["Streptococcus pneumoniae", "Salmonella typhi", "Plasmodium vivax", "Microsporum"],
+      "answerIndex": 1,
+      "explanation": "S. typhi is a bacterium spread by contaminated food and water; Widal test detects the infection.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "bacterial-diseases",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-107",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "The common cold is most often caused by",
+      "options": ["HIV", "Rhinoviruses", "Plasmodium", "Salmonella"],
+      "answerIndex": 1,
+      "explanation": "Rhinoviruses infect the nose and respiratory passage; they do not usually invade the lungs.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "viral-diseases",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-108",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Ringworm of the skin is caused by",
+      "options": ["bacteria such as Salmonella", "fungi such as Microsporum", "Wuchereria", "Entamoeba"],
+      "answerIndex": 1,
+      "explanation": "Dermatophytes (Microsporum, Trichophyton, Epidermophyton) cause ringworm; heat and moisture favour them.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "fungal-ringworm",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-109",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "The vector that transmits Plasmodium to humans is the",
+      "options": ["male Culex", "female Anopheles", "female Aedes only for malaria", "tsetse fly"],
+      "answerIndex": 1,
+      "explanation": "Only female Anopheles takes a blood meal and injects sporozoites; Culex transmits filariasis.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "vectors-and-hosts",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-110",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "A vaccine protects by stimulating the host to produce",
+      "options": ["antibiotics in the gut only", "specific antibodies and memory cells", "malarial gametocytes", "cysts of Entamoeba"],
+      "answerIndex": 1,
+      "explanation": "Antigens in a vaccine prime adaptive immunity so later infection is met by a rapid secondary response.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "immunity-and-vaccines",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-111",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "The infective stage of Entamoeba histolytica for man is the",
+      "options": ["trophozoite in blood", "tetranucleate cyst", "sporozoite", "microfilaria"],
+      "answerIndex": 1,
+      "explanation": "Mature quadrinucleate cysts in faecally contaminated food or water hatch into trophozoites in the intestine.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "entamoeba-amoebiasis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-112",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Haemozoin released when Plasmodium ruptures RBCs is responsible for",
+      "options": ["formation of oocysts", "chills and high fever of malaria", "blockage of lymph vessels", "Widal agglutination"],
+      "answerIndex": 1,
+      "explanation": "Haemozoin and other toxins from lysed erythrocytes trigger the cyclic fever, chill and sweating.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "plasmodium-malaria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-e-113",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Which pairing of disease, pathogen and transmission is incorrect?",
+      "options": [
+        "Pneumonia — Streptococcus pneumoniae — droplets",
+        "Filariasis — Wuchereria — Culex bite",
+        "Amoebiasis — Entamoeba — contaminated food and water",
+        "Malaria — Plasmodium — male Anopheles bite"
+      ],
+      "answerIndex": 3,
+      "explanation": "Male mosquitoes do not suck blood; malaria is transmitted by the female Anopheles.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "vectors-and-hosts",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-101",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Diseases that spread from an infected person to a healthy one are called",
+      "options": ["deficiency diseases", "infectious (communicable) diseases", "genetic disorders only", "allergies only"],
+      "answerIndex": 1,
+      "explanation": "Infectious diseases are caused by pathogens and can be transmitted; non-infectious ones are not contagious.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "pathogens-and-parasites",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-102",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Houseflies can mechanically transfer Entamoeba cysts from faeces to food. Amoebiasis mainly affects the",
+      "options": ["lymph nodes of the groin", "large intestine", "red blood cells", "skin keratin"],
+      "answerIndex": 1,
+      "explanation": "Trophozoites colonise the colon; they may cause dysentery and sometimes liver abscesses.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "entamoeba-amoebiasis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-103",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Malignant tertian malaria, the most dangerous form, is caused by",
+      "options": ["Plasmodium vivax", "Plasmodium falciparum", "Plasmodium malariae", "Entamoeba histolytica"],
+      "answerIndex": 1,
+      "explanation": "P. falciparum can cause cerebral malaria; P. vivax causes benign tertian malaria.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "plasmodium-malaria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-104",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Internal bleeding, muscular pain and blockage of the intestinal passage can occur in heavy infection with",
+      "options": ["Wuchereria adults in lymph", "Ascaris lumbricoides", "Plasmodium in liver only", "rhinovirus"],
+      "answerIndex": 1,
+      "explanation": "A mass of Ascaris in the small intestine may obstruct the gut and cause anaemia and pain.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "ascaris-ascariasis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-105",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Microfilariae of Wuchereria appear in peripheral blood mainly",
+      "options": ["at noon only", "at night (nocturnal periodicity)", "never in blood", "only inside RBCs"],
+      "answerIndex": 1,
+      "explanation": "Larvae circulate in blood at night, matching the biting time of Culex, and rest in deeper vessels by day.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "wuchereria-filariasis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-106",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "The Widal test is used in the diagnosis of",
+      "options": ["malaria", "typhoid", "amoebiasis", "ringworm"],
+      "answerIndex": 1,
+      "explanation": "Widal detects antibodies against Salmonella typhi antigens in the patient's serum.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "bacterial-diseases",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-107",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "HIV, the cause of AIDS, is a",
+      "options": ["bacterium", "protozoan", "retrovirus", "fungus"],
+      "answerIndex": 2,
+      "explanation": "HIV is an RNA retrovirus that infects helper T-lymphocytes and weakens cell-mediated immunity.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "viral-diseases",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-108",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Trichophyton, Microsporum and Epidermophyton are fungi responsible for",
+      "options": ["typhoid", "ringworm", "filariasis", "pneumonia"],
+      "answerIndex": 1,
+      "explanation": "These keratin-loving fungi infect skin, nails and scalp, producing the circular lesions of ringworm.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "fungal-ringworm",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-109",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Culex mosquitoes act as vectors of",
+      "options": ["malaria", "filariasis", "amoebiasis", "typhoid"],
+      "answerIndex": 1,
+      "explanation": "Wuchereria is transmitted by Culex; Anopheles transmits Plasmodium; amoebiasis and typhoid are faecal-oral.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "vectors-and-hosts",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-110",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Antibodies that provide humoral immunity are produced by",
+      "options": ["T-helper cells only", "B-lymphocytes (plasma cells)", "erythrocytes", "hepatocytes"],
+      "answerIndex": 1,
+      "explanation": "Activated B-cells become plasma cells that secrete immunoglobulins into blood and lymph.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "immunity-and-vaccines",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-111",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Which of the following statements about pneumonia is incorrect?",
+      "options": [
+        "It may be caused by Streptococcus pneumoniae or Haemophilus influenzae",
+        "Infection is often by inhaling droplets from an infected person",
+        "Alveoli fill with fluid, impairing oxygen uptake",
+        "It is diagnosed by the Widal test"
+      ],
+      "answerIndex": 3,
+      "explanation": "Widal is for typhoid; pneumonia is a lung infection diagnosed clinically and by sputum/X-ray, not Widal.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "bacterial-diseases",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-112",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Gametocytes of Plasmodium that infect the mosquito are formed in",
+      "options": [
+        "the mosquito salivary gland",
+        "human red blood cells",
+        "the soil",
+        "the human large intestine only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sexual stages appear in erythrocytes; they complete gametogenesis and fertilisation in the mosquito gut.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "plasmodium-malaria",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "zoo-hw-n-113",
+      "chapterId": "zoology-biology-in-human-welfare",
+      "stem": "Identify the incorrect statement about human parasites.",
+      "options": [
+        "Ascaris eggs become infective after development in soil",
+        "Wuchereria adults inhabit lymphatic vessels",
+        "Entamoeba is transmitted by female Anopheles",
+        "HIV can be transmitted by sexual contact and infected blood"
+      ],
+      "answerIndex": 2,
+      "explanation": "Entamoeba spreads by cysts in food and water, not by mosquitoes. Anopheles transmits Plasmodium.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "entamoeba-amoebiasis",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

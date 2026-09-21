@@ -1,0 +1,346 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Morphology of Flowering Plants",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-mf-e-101",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Pneumatophores that grow upward for gaseous exchange are found in",
+      "options": ["Rhizophora", "pea", "wheat", "onion"],
+      "answerIndex": 0,
+      "explanation": "Mangroves such as Rhizophora and Avicennia develop negatively geotropic breathing roots.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "root-types-modifications",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-102",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "The potato tuber is a modified",
+      "options": ["stem", "root", "leaf", "inflorescence"],
+      "answerIndex": 0,
+      "explanation": "Eyes of the potato are nodes with buds, proving it is a stem tuber.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "stem-modifications",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-103",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Reticulate venation is a characteristic feature of the leaves of",
+      "options": ["dicotyledons", "most monocotyledons", "all algae", "all mosses"],
+      "answerIndex": 0,
+      "explanation": "Dicot leaves typically have a net-like vein pattern; monocots usually show parallel veins.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "leaf-venation-phyllotaxy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-104",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "In garden pea, the tendrils that help the plant to climb are modified",
+      "options": ["leaflets", "roots", "stipules only", "petals"],
+      "answerIndex": 0,
+      "explanation": "Upper leaflets of the pinnate pea leaf become tendrils.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "leaf-modifications",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-105",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "In a racemose inflorescence the flowers open in",
+      "options": [
+        "acropetal succession",
+        "basipetal succession",
+        "a strictly single terminal flower only",
+        "a closed cyme that stops the axis"
+      ],
+      "answerIndex": 0,
+      "explanation": "The main axis grows continuously and the oldest flowers are at the base (acropetal).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "inflorescence",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-106",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "A flower that can be divided into two equal halves only in one plane is",
+      "options": ["zygomorphic", "actinomorphic", "asymmetric only", "neuter"],
+      "answerIndex": 0,
+      "explanation": "Zygomorphic (bilateral) flowers, as in pea and gulmohur, have one plane of symmetry.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "flower-symmetry-position",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-107",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Vexillary (papilionaceous) aestivation is characteristic of",
+      "options": ["pea and bean", "Calotropis", "china rose", "mustard"],
+      "answerIndex": 0,
+      "explanation": "In Fabaceae the posterior standard petal overlaps two wings, which overlap the keel.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "aestivation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-108",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Diadelphous stamens (9 + 1) are a diagnostic feature of",
+      "options": ["Fabaceae (pea)", "Solanaceae", "Liliaceae", "Brassicaceae"],
+      "answerIndex": 0,
+      "explanation": "Nine stamens unite into a bundle and the tenth remains free in the pea family.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "androecium-gynoecium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-109",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Parietal placentation, with ovules on the inner ovary wall, is seen in",
+      "options": ["mustard", "pea", "tomato", "sunflower"],
+      "answerIndex": 0,
+      "explanation": "Brassicaceae (mustard, Argemone) have a unilocular ovary with parietal placentation.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "placentation-fruit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-110",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "The characteristic fruit of the pea family (Fabaceae) is a",
+      "options": ["legume", "siliqua", "pome", "caryopsis"],
+      "answerIndex": 0,
+      "explanation": "A legume (pod) dehisces along both sutures; siliqua is Brassicaceae.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "diagnostic-families",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-111",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Prop roots that hang from branches and prop the tree are typical of",
+      "options": ["banyan (Ficus)", "maize", "carrot", "onion"],
+      "answerIndex": 0,
+      "explanation": "Banyan produces pillar-like adventitious prop roots; maize has stilt roots from lower nodes.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "root-types-modifications",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-112",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Twisted aestivation of petals is seen in",
+      "options": ["china rose and cotton", "pea", "Calotropis", "mustard"],
+      "answerIndex": 0,
+      "explanation": "In china rose, cotton and lady’s finger each petal overlaps the next in one direction.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "aestivation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-e-113",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "A trimerous flower with six tepals and six stamens is typical of",
+      "options": ["Liliaceae", "Fabaceae", "Solanaceae", "Brassicaceae"],
+      "answerIndex": 0,
+      "explanation": "Liliaceae flowers are trimerous (3+3 tepals, 3+3 stamens) with a superior ovary.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "diagnostic-families",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-101",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Which root modification is incorrectly matched?",
+      "options": [
+        "Carrot — storage tap root",
+        "Maize — stilt roots",
+        "Banyan — prop roots",
+        "Rhizophora — leaf tendrils"
+      ],
+      "answerIndex": 3,
+      "explanation": "Rhizophora has pneumatophores, not leaf tendrils.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "root-types-modifications",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-102",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Which of the following is not a stem modification?",
+      "options": ["Ginger rhizome", "Onion bulb", "Potato tuber", "Carrot storage organ"],
+      "answerIndex": 3,
+      "explanation": "Carrot is a swollen tap root; ginger, onion and potato are stem modifications.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "stem-modifications",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-103",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Whorled phyllotaxy, with more than two leaves at a node, is seen in",
+      "options": ["Alstonia", "mustard", "china rose", "guava"],
+      "answerIndex": 0,
+      "explanation": "Alstonia (and Nerium) show whorled leaves; mustard/china rose are alternate; guava is opposite.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "leaf-venation-phyllotaxy",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-104",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "The pitcher of Nepenthes is a modification of the",
+      "options": ["leaf", "root", "stem internode", "stamen"],
+      "answerIndex": 0,
+      "explanation": "The lamina is modified into a pitcher; the leaf tip forms the lid.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "leaf-modifications",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-105",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "In a cymose inflorescence the main axis",
+      "options": [
+        "ends in a flower and growth is definite",
+        "grows indefinitely with acropetal flowers",
+        "never bears bracts",
+        "always produces a spadix"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cymose growth is determinate; the oldest flower is terminal and later flowers are basipetal.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "inflorescence",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-106",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "In guava the ovary is inferior because the flower is",
+      "options": ["epigynous", "hypogynous", "always unisexual", "always zygomorphic"],
+      "answerIndex": 0,
+      "explanation": "In epigynous flowers (guava, cucumber, sunflower) the thalamus encloses the ovary.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "flower-symmetry-position",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-107",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Valvate aestivation, in which sepals or petals just touch without overlapping, occurs in",
+      "options": ["Calotropis", "pea", "china rose", "cotton"],
+      "answerIndex": 0,
+      "explanation": "Calotropis shows valvate aestivation; pea is vexillary; china rose and cotton are twisted.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "aestivation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-108",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "An apocarpous gynoecium, with free carpels, is found in",
+      "options": ["lotus and rose", "mustard", "tomato", "china rose"],
+      "answerIndex": 0,
+      "explanation": "Lotus, rose and Michelia have free carpels; mustard and tomato are syncarpous.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "androecium-gynoecium",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-109",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Free-central placentation is characteristic of",
+      "options": ["Dianthus and primrose", "pea", "mustard", "sunflower"],
+      "answerIndex": 0,
+      "explanation": "Ovules arise on a central column in a unilocular ovary (Caryophyllaceae, Primulaceae).",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "placentation-fruit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-110",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Epipetalous stamens and a swollen placenta are typical of",
+      "options": ["Solanaceae", "Fabaceae", "Liliaceae", "Poaceae"],
+      "answerIndex": 0,
+      "explanation": "Solanaceae (brinjal, tomato, Datura) have five epipetalous stamens and bicarpellary ovaries with swollen placentae.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "diagnostic-families",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-111",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "A unisexual flower that bears only stamens is described as",
+      "options": ["staminate", "pistillate", "bisexual", "neuter"],
+      "answerIndex": 0,
+      "explanation": "Staminate flowers have stamens only; pistillate flowers have carpels only.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "flower-symmetry-position",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-112",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Which placentation–example pair is incorrect?",
+      "options": [
+        "Marginal — pea",
+        "Basal — sunflower",
+        "Axile — lemon",
+        "Parietal — tomato"
+      ],
+      "answerIndex": 3,
+      "explanation": "Tomato has axile placentation in a multilocular ovary; parietal is mustard/Argemone.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "placentation-fruit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-mf-n-113",
+      "chapterId": "botany-morphology-of-flowering-plants",
+      "stem": "Identify the incorrect floral character for Solanaceae.",
+      "options": [
+        "Pentamerous flowers",
+        "Epipetalous stamens",
+        "Bicarpellary syncarpous ovary",
+        "Diadelphous stamens and a legume fruit"
+      ],
+      "answerIndex": 3,
+      "explanation": "Diadelphous stamens and legumes belong to Fabaceae, not Solanaceae.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "diagnostic-families",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

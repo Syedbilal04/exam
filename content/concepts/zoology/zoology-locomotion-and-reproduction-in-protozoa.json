@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-locomotion-and-reproduction-in-protozoa",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "protozoan-groups-locomotor",
+      "label": "Protozoan groups and their locomotor organelles",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "amoeboid-movement-pseudopodia",
+      "label": "Amoeboid locomotion and types of pseudopodia",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "flagellar-locomotion",
+      "label": "Flagellar locomotion in Euglena and related forms",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ciliary-locomotion",
+      "label": "Ciliary locomotion in Paramecium",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "euglenoid-metaboly",
+      "label": "Euglenoid (metabolic) movement",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "binary-fission",
+      "label": "Binary fission in protozoa",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "multiple-fission-schizogony",
+      "label": "Multiple fission, schizogony and sporogony",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "conjugation-paramecium",
+      "label": "Conjugation in Paramecium",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "syngamy-types",
+      "label": "Syngamy: isogamy, anisogamy and oogamy",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "encystment-and-plasmodium",
+      "label": "Encystment and Plasmodium reproductive phases",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

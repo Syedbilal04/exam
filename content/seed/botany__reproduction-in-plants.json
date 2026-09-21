@@ -1,0 +1,416 @@
+{
+  "subjectId": "botany",
+  "source": {
+    "name": "ASTRA Bio wave 1 — Reproduction in Plants",
+    "license": "Original syllabus-based practice questions (exam-frequent themes; not verbatim past papers)"
+  },
+  "questions": [
+    {
+      "id": "bot-rpl-e-101",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Eyes of potato that sprout into new plants are",
+      "options": ["floral buds", "vegetative buds on the tuber", "seeds", "fruits"],
+      "answerIndex": 1,
+      "explanation": "Each eye is a bud that vegetatively produces a new potato plant.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-vegetative-asexual",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-102",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "The innermost nutritive layer of the anther wall is the",
+      "options": ["epidermis", "tapetum", "endothecium", "stomium"],
+      "answerIndex": 1,
+      "explanation": "Tapetal cells nourish developing microspores and contribute to the pollen coat.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-anther-tapetum",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-103",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "A typical shed pollen grain of angiosperms is",
+      "options": [
+        "2-celled (vegetative + generative)",
+        "8-celled",
+        "a diploid embryo",
+        "a fruit"
+      ],
+      "answerIndex": 0,
+      "explanation": "In most flowering plants pollen is released at the 2-celled stage; the generative cell later forms two male gametes.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-pollen",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-104",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "The mature Polygonum-type embryo sac is",
+      "options": [
+        "4-nucleate and 4-celled",
+        "8-nucleate and 7-celled",
+        "2-celled only",
+        "unicellular"
+      ],
+      "answerIndex": 1,
+      "explanation": "Seven cells (egg, two synergids, three antipodals, one central cell) hold eight nuclei.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-ovule-embryo-sac",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-105",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Transfer of pollen from anther to stigma of the same flower is",
+      "options": [
+        "xenogamy",
+        "autogamy",
+        "hydrophily only",
+        "geitonogamy of a different plant"
+      ],
+      "answerIndex": 1,
+      "explanation": "Autogamy is self-pollination within one flower; xenogamy is pollen from another plant.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-pollination",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-106",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Self-incompatibility prevents",
+      "options": [
+        "all vegetative growth",
+        "germination or growth of self pollen on the stigma",
+        "photosynthesis",
+        "seed dispersal"
+      ],
+      "answerIndex": 1,
+      "explanation": "A genetic recognition system blocks self pollen, promoting outbreeding.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-outbreeding",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-107",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Syngamy in flowering plants is the fusion of",
+      "options": [
+        "two polar nuclei only",
+        "a male gamete with the egg",
+        "three antipodals",
+        "two synergids"
+      ],
+      "answerIndex": 1,
+      "explanation": "One sperm + egg = zygote (syngamy); the other sperm + polar nuclei = PEN (triple fusion).",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-double-fertilisation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-108",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "The primary endosperm nucleus formed after triple fusion is",
+      "options": ["haploid", "diploid", "triploid", "hexaploid"],
+      "answerIndex": 2,
+      "explanation": "Two polar nuclei (n + n) fuse with one male gamete (n) to give a 3n PEN.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-endosperm-embryo",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-109",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "A true fruit develops from the",
+      "options": ["thalamus only", "ovary", "leaf", "root"],
+      "answerIndex": 1,
+      "explanation": "The ovary wall becomes pericarp; if the thalamus also ripens (apple), the fruit is false.",
+      "exam": "ts-eamcet",
+      "difficulty": "easy",
+      "conceptId": "rpl-seed-fruit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-110",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Apomixis is the formation of seeds",
+      "options": [
+        "only after double fertilisation",
+        "without fertilisation",
+        "only in gymnosperms",
+        "from petals"
+      ],
+      "answerIndex": 1,
+      "explanation": "An embryo arises without syngamy, so the seed is genetically maternal.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "rpl-apomixis-polyembryony",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-111",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Geitonogamy is functionally cross-pollination but genetically",
+      "options": [
+        "outbreeding between species",
+        "equivalent to self-pollination",
+        "always xenogamy",
+        "impossible in plants"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pollen comes from another flower of the same plant, so the genomes are the same as in autogamy.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "rpl-pollination",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-112",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Triple fusion in the embryo sac involves a male gamete and",
+      "options": [
+        "the egg",
+        "two polar nuclei",
+        "two synergids",
+        "the nucellus only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The second sperm fuses with the two polar nuclei of the central cell.",
+      "exam": "ts-eamcet",
+      "difficulty": "medium",
+      "conceptId": "rpl-double-fertilisation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-e-113",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "In a typical anatropous ovule the micropyle lies",
+      "options": [
+        "opposite the hilum and far from the funicle bend",
+        "close to the hilum because the body is inverted",
+        "on the fruit wall",
+        "inside the pollen-tube nucleus"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ovule is inverted 180°, so micropyle and hilum come to lie near each other.",
+      "exam": "ts-eamcet",
+      "difficulty": "hard",
+      "conceptId": "rpl-ovule-embryo-sac",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["TS EAMCET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-101",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Water hyacinth spreads rapidly in water bodies by",
+      "options": ["seeds only", "offsets", "pollen tubes", "grafting only"],
+      "answerIndex": 1,
+      "explanation": "Offsets are short runners that clone new rosettes and make the weed invasive.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-vegetative-asexual",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-102",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Microsporogenesis is the formation of",
+      "options": [
+        "megaspores in the ovule",
+        "microspores (pollen) in the anther",
+        "endosperm",
+        "fruit"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each microspore mother cell undergoes meiosis to give a tetrad of haploid microspores.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-anther-tapetum",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-103",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "The vegetative cell of a pollen grain",
+      "options": [
+        "forms the two male gametes",
+        "forms the pollen tube",
+        "is the egg",
+        "is triploid endosperm"
+      ],
+      "answerIndex": 1,
+      "explanation": "The large vegetative cell grows the tube; the generative cell divides into two sperms.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-pollen",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-104",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "The egg apparatus of the embryo sac consists of",
+      "options": [
+        "two polar nuclei",
+        "one egg and two synergids",
+        "three antipodals only",
+        "four tapetal cells"
+      ],
+      "answerIndex": 1,
+      "explanation": "At the micropylar end, two synergids flank the egg and help the pollen tube discharge.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-ovule-embryo-sac",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-105",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Xenogamy is pollination between",
+      "options": [
+        "two flowers of the same plant",
+        "flowers of two different plants",
+        "anther and ovule of one unopened bud",
+        "roots of two plants"
+      ],
+      "answerIndex": 1,
+      "explanation": "Only xenogamy brings genetically different pollen; geitonogamy uses another flower of the same plant.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-pollination",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-106",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Cleistogamous flowers (as in Viola) ensure",
+      "options": ["obligate xenogamy", "autogamy", "hydrophily", "wind pollination only"],
+      "answerIndex": 1,
+      "explanation": "Closed flowers never open, so pollen lands on the stigma of the same flower.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-outbreeding",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-107",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Double fertilisation produces a zygote and",
+      "options": [
+        "a haploid endosperm",
+        "a primary endosperm nucleus",
+        "a pollen grain",
+        "a tapetal cell"
+      ],
+      "answerIndex": 1,
+      "explanation": "Syngamy makes the zygote; triple fusion makes the 3n PEN that becomes endosperm.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-double-fertilisation",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-108",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "The dicot embryo typically shows two",
+      "options": ["radicles", "cotyledons", "endosperms", "tapeta"],
+      "answerIndex": 1,
+      "explanation": "Two cotyledons, a radicle and a plumule make the typical dicot embryo.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-endosperm-embryo",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-109",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Albuminous seeds retain",
+      "options": [
+        "no reserve food",
+        "endosperm as the food store",
+        "only a perisperm and no embryo",
+        "petals"
+      ],
+      "answerIndex": 1,
+      "explanation": "Castor and maize keep endosperm; pea and groundnut are exalbuminous because cotyledons store food.",
+      "exam": "neet",
+      "difficulty": "easy",
+      "conceptId": "rpl-seed-fruit",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-110",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Polyembryony (as in Citrus) means",
+      "options": [
+        "one ovule never forms a seed",
+        "more than one embryo in a seed",
+        "no flower is formed",
+        "only apomixis of roots"
+      ],
+      "answerIndex": 1,
+      "explanation": "Several embryos, often from nucellar cells, occur in one Citrus seed.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "rpl-apomixis-polyembryony",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-111",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Which statement about pollen is incorrect?",
+      "options": [
+        "Intine is pectocellulosic",
+        "Exine is made of sporopollenin",
+        "Tapetum nourishes developing pollen",
+        "The generative cell always forms the pollen tube"
+      ],
+      "answerIndex": 3,
+      "explanation": "The vegetative cell grows the tube; the generative cell produces the two male gametes.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "rpl-pollen",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-112",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Dichogamy promotes outbreeding because",
+      "options": [
+        "anther and stigma mature at different times",
+        "the flower is always cleistogamous",
+        "pollen never germinates",
+        "ovules are absent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Protandry or protogyny separates male and female phases so self-pollen is less likely to succeed.",
+      "exam": "neet",
+      "difficulty": "medium",
+      "conceptId": "rpl-outbreeding",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    },
+    {
+      "id": "bot-rpl-n-113",
+      "chapterId": "botany-reproduction-in-plants",
+      "stem": "Which pairing of seed or fruit type is incorrect?",
+      "options": [
+        "Castor — albuminous seed",
+        "Pea — exalbuminous seed",
+        "Apple — false fruit (thalamus)",
+        "Maize — no endosperm in the grain"
+      ],
+      "answerIndex": 3,
+      "explanation": "Maize grain is albuminous; a large endosperm remains as the food store.",
+      "exam": "neet",
+      "difficulty": "hard",
+      "conceptId": "rpl-endosperm-embryo",
+      "pyq": { "appearCount": 0, "years": [], "exams": ["NEET"], "verified": false }
+    }
+  ]
+}

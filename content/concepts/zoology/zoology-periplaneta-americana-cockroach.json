@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-periplaneta-americana-cockroach",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "external-morphology-tagmata",
+      "label": "External morphology, tagmata and exoskeleton",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "mouthparts-and-head",
+      "label": "Head appendages and mandibulate mouthparts",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "digestive-system-cockroach",
+      "label": "Alimentary canal: crop, gizzard and hepatic caeca",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "open-circulation-heart",
+      "label": "Open circulation, haemolymph and dorsal heart",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "tracheal-respiration",
+      "label": "Tracheae, spiracles and tracheal respiration",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "malpighian-excretion",
+      "label": "Malpighian tubules, fat body and uricotelism",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "nervous-system-sense-organs",
+      "label": "Nervous system, compound eyes and mosaic vision",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "male-reproductive-system",
+      "label": "Male reproductive organs, mushroom gland and anal styles",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "female-reproductive-ootheca",
+      "label": "Female reproductive organs, gynatrium and ootheca",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "wings-legs-metamorphosis",
+      "label": "Wings, walking legs and paurometabolous development",
+      "examHot": ["neet"]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-body-fluids-and-circulation",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "blood-groups-abo-rh",
+      "label": "ABO and Rh blood groups",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "ecg-waves",
+      "label": "ECG waves and what they represent",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "cardiac-cycle-pacemaker",
+      "label": "SAN, conducting system and cardiac cycle",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "blood-composition-plasma",
+      "label": "Plasma, plasma proteins and blood volume",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "formed-elements",
+      "label": "RBC, WBC and platelets",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "coagulation",
+      "label": "Clotting factors and fibrin formation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "lymph-and-portal",
+      "label": "Lymph and hepatic portal circulation",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "heart-structure-valves",
+      "label": "Heart chambers, valves and heart sounds",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "double-circulation-output",
+      "label": "Double circulation, stroke volume and cardiac output",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "circulatory-disorders",
+      "label": "Hypertension, CAD, angina and heart failure",
+      "examHot": ["neet"]
+    }
+  ]
+}

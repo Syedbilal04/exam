@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-structural-organisation-in-animals",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "levels-of-organisation",
+      "label": "Cellular, tissue, organ and organ-system levels",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "simple-epithelium",
+      "label": "Simple epithelial tissues and their locations",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "compound-and-glandular-epithelium",
+      "label": "Compound and glandular epithelium",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "loose-connective-tissue",
+      "label": "Areolar and adipose connective tissue",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "dense-connective-tissue",
+      "label": "Tendons, ligaments and dense connective tissue",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "cartilage-and-bone",
+      "label": "Cartilage and bone as skeletal tissues",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "blood-fluid-connective",
+      "label": "Blood as fluid connective tissue",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "skeletal-and-smooth-muscle",
+      "label": "Skeletal and smooth muscle",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "cardiac-muscle",
+      "label": "Cardiac muscle structure",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "nervous-tissue-neuron",
+      "label": "Neuron and neuroglia",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

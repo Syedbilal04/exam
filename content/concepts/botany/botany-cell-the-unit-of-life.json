@@ -1,0 +1,56 @@
+{
+  "chapterId": "botany-cell-the-unit-of-life",
+  "subjectId": "botany",
+  "concepts": [
+    {
+      "id": "cell-theory",
+      "label": "Discovery of the cell and cell theory",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "prokaryote-vs-eukaryote",
+      "label": "Prokaryotic versus eukaryotic organisation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "cell-wall",
+      "label": "Plant cell wall, middle lamella and plasmodesmata",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "plasma-membrane",
+      "label": "Plasma membrane and fluid mosaic model",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "nucleus",
+      "label": "Nucleus, nucleolus and nuclear envelope",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "chromosomes",
+      "label": "Chromosome structure and types",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "plastids",
+      "label": "Plastid types and chloroplast structure",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "mitochondria",
+      "label": "Mitochondrial structure and functions",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "endomembrane-system",
+      "label": "ER, Golgi, vacuole and lysosomes",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "ribosomes-cytoskeleton",
+      "label": "Ribosomes, cytoskeleton and centrioles",
+      "examHot": ["ts-eamcet", "neet"]
+    }
+  ]
+}

@@ -76,6 +76,7 @@ export const localStore: Store = {
     return questionsForChapters(chapterIds).map((q) => ({
       id: q.id,
       subjectId: q.subjectId,
+      exams: q.pyq.exams,
     }));
   },
 

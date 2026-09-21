@@ -1,0 +1,235 @@
+{
+  "subjectId": "physics",
+  "source": {
+    "name": "Original practice set (AI-drafted for exam-mnot.onrender.com)",
+    "license": "Original content, freely usable for this project — not sourced from any official exam paper",
+    "url": ""
+  },
+  "questions": [
+    {
+      "id": "phy-lom-0001",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body of mass 4 kg is acted upon by a net force of 20 N. Its acceleration is",
+      "options": ["2 m s^{-2}", "4 m s^{-2}", "5 m s^{-2}", "8 m s^{-2}"],
+      "answerIndex": 2,
+      "explanation": "$a = F/m = 20/4 = 5\\ \\text{m s}^{-2}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0002",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Newton's first law of motion is also known as the",
+      "options": ["Law of inertia", "Law of action and reaction", "Law of gravitation", "Law of conservation of energy"],
+      "answerIndex": 0,
+      "explanation": "A body continues in its state of rest or uniform motion unless acted upon by an external force — this defines inertia.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0003",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "The SI unit of force is the",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "answerIndex": 0,
+      "explanation": "$1\\ \\text{N} = 1\\ \\text{kg m s}^{-2}$, the SI unit of force.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0004",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A car of mass 1000 kg accelerates uniformly from rest to 20 m s$^{-1}$ in 10 s. The net force required is",
+      "options": ["1000 N", "1500 N", "2000 N", "2500 N"],
+      "answerIndex": 2,
+      "explanation": "$a = \\Delta v/\\Delta t = 2\\ \\text{m s}^{-2}$, so $F = ma = 1000 \\times 2 = 2000\\ \\text{N}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0005",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "The total momentum of an isolated system of bodies is conserved in the absence of",
+      "options": ["internal forces", "external forces", "gravity alone", "friction alone"],
+      "answerIndex": 1,
+      "explanation": "Momentum conservation holds when the net external force on the system is zero; internal forces (like collisions) don't change total momentum anyway.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0006",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A 2 kg body moving at 3 m s$^{-1}$ collides head-on with a 3 kg body moving at 2 m s$^{-1}$ in the opposite direction, and they stick together. Their common velocity after collision is",
+      "options": ["0 m s^{-1}", "1 m s^{-1}", "-1 m s^{-1}", "2 m s^{-1}"],
+      "answerIndex": 0,
+      "explanation": "Taking the 2 kg body's direction as positive: $p = 2(3) + 3(-2) = 0$, so $v = p/(m_1+m_2) = 0$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0007",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "The forward thrust on a rocket as it ejects exhaust gases is explained by",
+      "options": ["Archimedes' principle", "conservation of momentum", "conservation of energy alone", "magnetic induction"],
+      "answerIndex": 1,
+      "explanation": "As gas is expelled backward with momentum, the rocket gains equal and opposite momentum forward, by conservation of momentum.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0008",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "The coefficient of static friction between two surfaces is generally",
+      "options": ["greater than the coefficient of kinetic friction", "less than the coefficient of kinetic friction", "equal to the coefficient of kinetic friction", "unrelated to the coefficient of kinetic friction"],
+      "answerIndex": 0,
+      "explanation": "It takes more force to start relative motion than to sustain it, so $\\mu_s > \\mu_k$ in general.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0009",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A 5 kg block slides on a horizontal surface with coefficient of kinetic friction 0.2. Taking $g = 10\\ \\text{m s}^{-2}$, the frictional force on it is",
+      "options": ["5 N", "10 N", "15 N", "20 N"],
+      "answerIndex": 1,
+      "explanation": "$f = \\mu mg = 0.2 \\times 5 \\times 10 = 10\\ \\text{N}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0010",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "For a body just about to slide down a rough inclined plane under its own weight, the angle of repose $\\theta$ satisfies",
+      "options": ["$\\tan\\theta = \\mu$", "$\\sin\\theta = \\mu$", "$\\cos\\theta = \\mu$", "$\\theta = \\mu$"],
+      "answerIndex": 0,
+      "explanation": "At the verge of sliding, $mg\\sin\\theta = \\mu mg\\cos\\theta$, giving $\\tan\\theta = \\mu$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0011",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "For a car of mass $m$ turning on a frictionless banked road of radius $r$ at speed $v$, the banking angle $\\theta$ must satisfy",
+      "options": ["$\\tan\\theta = v^2/(rg)$", "$\\tan\\theta = rg/v^2$", "$\\sin\\theta = v^2 r g$", "$\\tan\\theta = vg/r$"],
+      "answerIndex": 0,
+      "explanation": "Resolving the normal reaction with no friction: $N\\sin\\theta = mv^2/r$ and $N\\cos\\theta = mg$, giving $\\tan\\theta = v^2/(rg)$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0012",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "In uniform circular motion, the centripetal force on the body is directed",
+      "options": ["towards the centre of the circle", "away from the centre of the circle", "tangential to the circle", "there is no net force"],
+      "answerIndex": 0,
+      "explanation": "Centripetal force always points toward the centre, causing the change in direction of velocity needed for circular motion.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0013",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A 0.5 kg stone tied to a 1 m string moves in a horizontal circle at 2 revolutions per second. The tension in the string (centripetal force) is approximately",
+      "options": ["39.5 N", "79 N", "158 N", "197 N"],
+      "answerIndex": 1,
+      "explanation": "$F = m\\omega^2 r$, with $\\omega = 2\\pi n = 4\\pi\\ \\text{rad s}^{-1}$: $F = 0.5 \\times (4\\pi)^2 \\times 1 \\approx 79\\ \\text{N}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0014",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Walking forward on the ground is possible mainly because of",
+      "options": ["Newton's third law — the ground pushes back on the foot", "gravity pulling the body forward", "air resistance", "the first law of motion alone"],
+      "answerIndex": 0,
+      "explanation": "The foot pushes backward on the ground; by Newton's third law, the ground pushes forward on the foot, propelling the body.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0015",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A 60 kg person stands in a lift accelerating upward at 2 m s$^{-2}$. Taking $g = 10\\ \\text{m s}^{-2}$, the apparent weight (normal reaction) is",
+      "options": ["600 N", "660 N", "720 N", "780 N"],
+      "answerIndex": 2,
+      "explanation": "$N = m(g+a) = 60(10+2) = 720\\ \\text{N}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0016",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "The same 60 kg person now stands in a lift accelerating downward at 2 m s$^{-2}$. Taking $g = 10\\ \\text{m s}^{-2}$, the apparent weight is",
+      "options": ["480 N", "540 N", "600 N", "660 N"],
+      "answerIndex": 0,
+      "explanation": "$N = m(g-a) = 60(10-2) = 480\\ \\text{N}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0017",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Impulse delivered to a body equals its change in",
+      "options": ["momentum", "velocity", "force", "kinetic energy"],
+      "answerIndex": 0,
+      "explanation": "Impulse–momentum theorem: $J = \\int F\\,dt = \\Delta p$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0018",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A 0.15 kg ball hits a wall at 12 m s$^{-1}$ and rebounds elastically with the same speed. The magnitude of change in momentum is",
+      "options": ["1.8 kg m s^{-1}", "3.6 kg m s^{-1}", "7.2 kg m s^{-1}", "0 kg m s^{-1}"],
+      "answerIndex": 1,
+      "explanation": "$\\Delta p = m(v - (-v)) = 0.15 \\times 24 = 3.6\\ \\text{kg m s}^{-1}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0019",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "In an Atwood machine, masses 2 kg and 3 kg hang from a string over a frictionless pulley. Taking $g = 10\\ \\text{m s}^{-2}$, the acceleration of the system is",
+      "options": ["1 m s^{-2}", "2 m s^{-2}", "3 m s^{-2}", "4 m s^{-2}"],
+      "answerIndex": 1,
+      "explanation": "$a = \\dfrac{(m_2-m_1)g}{m_1+m_2} = \\dfrac{1 \\times 10}{5} = 2\\ \\text{m s}^{-2}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0020",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "For the same Atwood machine (masses 2 kg and 3 kg, $g = 10\\ \\text{m s}^{-2}$), the tension in the string is",
+      "options": ["20 N", "22 N", "24 N", "26 N"],
+      "answerIndex": 2,
+      "explanation": "$T = m_1(g+a) = 2(10+2) = 24\\ \\text{N}$, consistent with $T = m_2(g-a) = 3(10-2) = 24\\ \\text{N}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0021",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A pseudo (fictitious) force is introduced when analysing motion from",
+      "options": ["an inertial frame of reference", "a non-inertial (accelerating) frame of reference", "both inertial and non-inertial frames equally", "neither type of frame"],
+      "answerIndex": 1,
+      "explanation": "Pseudo forces are needed only in accelerating (non-inertial) frames, to make Newton's second law appear to hold there.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0022",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Static friction is best described as a",
+      "options": ["self-adjusting force, up to a maximum limit", "constant force independent of applied force", "force that is always zero on rough surfaces", "force always equal to its maximum value"],
+      "answerIndex": 0,
+      "explanation": "Static friction adjusts to exactly balance the applied force (up to $\\mu_s N$) so that the body stays at rest.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0023",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "A body moving at 10 m s$^{-1}$ on a rough horizontal surface ($\\mu = 0.5$, $g = 10\\ \\text{m s}^{-2}$) decelerates due to friction at a rate of",
+      "options": ["2.5 m s^{-2}", "5 m s^{-2}", "7.5 m s^{-2}", "10 m s^{-2}"],
+      "answerIndex": 1,
+      "explanation": "Deceleration $a = \\mu g = 0.5 \\times 10 = 5\\ \\text{m s}^{-2}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0024",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Using the previous body (initial speed 10 m s$^{-1}$, deceleration 5 m s$^{-2}$), the time it takes to stop is",
+      "options": ["1 s", "2 s", "3 s", "4 s"],
+      "answerIndex": 1,
+      "explanation": "$v = u - at \\Rightarrow 0 = 10 - 5t \\Rightarrow t = 2\\ \\text{s}$.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    },
+    {
+      "id": "phy-lom-0025",
+      "chapterId": "physics-laws-of-motion",
+      "stem": "Newton's second law of motion, expressed in terms of momentum $p$, is written as",
+      "options": ["F = dp/dt", "F = dv/dt", "F = dx/dt", "F = d^2x/dt"],
+      "answerIndex": 0,
+      "explanation": "The general form of Newton's second law is $F = dp/dt$, which reduces to $F=ma$ when mass is constant.",
+      "pyq": { "appearCount": 0, "years": [], "exams": [] }
+    }
+  ]
+}

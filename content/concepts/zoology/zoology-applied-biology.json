@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-applied-biology",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "animal-husbandry-livestock",
+      "label": "Animal husbandry and dairy farm management",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "poultry-farming",
+      "label": "Poultry: layers and broilers",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "apiculture",
+      "label": "Apiculture species and hive products",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "sericulture",
+      "label": "Sericulture, Bombyx mori and mulberry",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "aquaculture-pisciculture",
+      "label": "Aquaculture and composite fish culture",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "animal-breeding-methods",
+      "label": "Inbreeding, outcrossing, cross-breeding and hybridisation",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "moet-and-embryo-transfer",
+      "label": "Superovulation and embryo transfer (MOET)",
+      "examHot": ["ts-eamcet"]
+    },
+    {
+      "id": "vaccines-and-immunization",
+      "label": "Live attenuated, killed and toxoid vaccines",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "cancer-biology",
+      "label": "Benign vs malignant tumours, metastasis and oncogenes",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "biomedical-diagnostics",
+      "label": "ELISA, MRI, CT and related diagnostic tools",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}

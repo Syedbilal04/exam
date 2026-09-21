@@ -1,0 +1,56 @@
+{
+  "chapterId": "zoology-genetics",
+  "subjectId": "zoology",
+  "concepts": [
+    {
+      "id": "mendelian-dominance",
+      "label": "Dominance, test cross and monohybrid genotypes",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "independent-assortment",
+      "label": "Independent assortment and dihybrid test-cross ratios",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "incomplete-and-codominance",
+      "label": "Incomplete dominance and co-dominance",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "multiple-alleles-abo",
+      "label": "Multiple alleles and ABO blood groups",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "sex-determination",
+      "label": "XX–XY, ZZ–ZW and related sex-determination systems",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "sex-linked-inheritance",
+      "label": "X-linked pedigrees, haemophilia and criss-cross inheritance",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "linkage-and-crossing-over",
+      "label": "Linkage, recombination and chromosome maps",
+      "examHot": ["ts-eamcet", "neet"]
+    },
+    {
+      "id": "chromosomal-disorders",
+      "label": "Aneuploidy: Turner, Klinefelter and related karyotypes",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "mutation-types",
+      "label": "Point mutations, frameshifts and chromosomal aberrations",
+      "examHot": ["neet"]
+    },
+    {
+      "id": "genotype-phenotype-and-alleles",
+      "label": "Alleles, genotype and phenotype",
+      "examHot": ["ts-eamcet"]
+    }
+  ]
+}
