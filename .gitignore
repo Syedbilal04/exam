@@ -45,3 +45,6 @@ next-env.d.ts
 
 # brainstorming session artifacts
 /.superpowers
+
+# allow the committed env template
+!.env.example
